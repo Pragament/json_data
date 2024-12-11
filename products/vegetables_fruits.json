@@ -6,7 +6,7 @@
             "foodCategory": "Tomatoes",
             "foodCategoryId": 3306986,
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 34.0,
             "measurement": {
                 "value": "500",
@@ -671,7 +671,7 @@
             "foodCategory": "Onions",
             "foodCategoryId": 3307138,
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "1",
@@ -1336,7 +1336,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "1",
@@ -1355,7 +1355,7 @@
             "foodCategory": "Carrots",
             "foodCategoryId": 3306868,
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -2020,7 +2020,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -2039,7 +2039,7 @@
             "foodCategory": "Onions",
             "foodCategoryId": 3307138,
             "name": "Onion Combo",
-            "imagepath": "/products/images/Onion Combo.jpg",
+            "imagepath": "products/images/Onion Combo.jpg",
             "price": 134.0,
             "measurement": {
                 "value": "2",
@@ -2704,7 +2704,7 @@
             "foodCategory": "Tomatoes",
             "foodCategoryId": 3306986,
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "500",
@@ -3369,7 +3369,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -3388,7 +3388,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -3407,7 +3407,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "2",
@@ -3426,7 +3426,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 27.0,
             "measurement": {
                 "value": "250",
@@ -3445,7 +3445,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 35.0,
             "measurement": {
                 "value": "250",
@@ -3464,7 +3464,7 @@
             "foodCategory": "Other red and orange vegetables",
             "foodCategoryId": 3306934,
             "name": "Bottle Gourd",
-            "imagepath": "/products/images/Bottle Gourd.jpg",
+            "imagepath": "products/images/Bottle Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "1",
@@ -4129,7 +4129,7 @@
             "foodCategory": "Tomatoes",
             "foodCategoryId": 3306986,
             "name": "Tomato Hybrid",
-            "imagepath": "/products/images/Tomato Hybrid.jpg",
+            "imagepath": "products/images/Tomato Hybrid.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "500",
@@ -4794,7 +4794,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya.jpg",
             "price": 45.0,
             "measurement": {
                 "value": "500",
@@ -4813,7 +4813,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 32.0,
             "measurement": {
                 "value": "500",
@@ -4832,7 +4832,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beetroot",
-            "imagepath": "/products/images/Beetroot.jpg",
+            "imagepath": "products/images/Beetroot.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -4851,7 +4851,7 @@
             "foodCategory": "Chicken, whole pieces",
             "foodCategoryId": 3299552,
             "name": "Drumsticks",
-            "imagepath": "/products/images/Drumsticks.jpg",
+            "imagepath": "products/images/Drumsticks.jpg",
             "price": 51.0,
             "measurement": {
                 "value": "3",
@@ -5516,7 +5516,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "250",
@@ -5535,7 +5535,7 @@
             "foodCategory": "Cabbage",
             "foodCategoryId": 3307098,
             "name": "Cabbage",
-            "imagepath": "/products/images/Cabbage.jpg",
+            "imagepath": "products/images/Cabbage.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -6200,7 +6200,7 @@
             "foodCategory": "Tomatoes",
             "foodCategoryId": 3306986,
             "name": "Hybrid Tomato",
-            "imagepath": "/products/images/Hybrid Tomato.jpg",
+            "imagepath": "products/images/Hybrid Tomato.jpg",
             "price": 76.0,
             "measurement": {
                 "value": "500",
@@ -6865,7 +6865,7 @@
             "foodCategory": "Onions",
             "foodCategoryId": 3307138,
             "name": "Onion 1 kg Combo",
-            "imagepath": "/products/images/Onion 1 kg Combo.jpg",
+            "imagepath": "products/images/Onion 1 kg Combo.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "1kg",
@@ -7530,7 +7530,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Raw / Kura Aratikaya",
-            "imagepath": "/products/images/Banana Raw  Kura Aratikaya.jpg",
+            "imagepath": "products/images/Banana Raw  Kura Aratikaya.jpg",
             "price": 39.0,
             "measurement": {
                 "value": "2",
@@ -7549,7 +7549,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coriander/Kothimeera",
-            "imagepath": "/products/images/CorianderKothimeera.jpg",
+            "imagepath": "products/images/CorianderKothimeera.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "200",
@@ -7568,7 +7568,7 @@
             "foodCategory": "Other dark green vegetables",
             "foodCategoryId": 3306688,
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "2",
@@ -8233,7 +8233,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 112.0,
             "measurement": {
                 "value": "200",
@@ -8252,7 +8252,7 @@
             "foodCategory": "Other dark green vegetables",
             "foodCategoryId": 3306688,
             "name": "Brinjal Round Green",
-            "imagepath": "/products/images/Brinjal Round Green.jpg",
+            "imagepath": "products/images/Brinjal Round Green.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "500",
@@ -8917,7 +8917,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "2",
@@ -8936,7 +8936,7 @@
             "foodCategory": "Tomatoes",
             "foodCategoryId": 3306986,
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "500",
@@ -9601,7 +9601,7 @@
             "foodCategory": "Other dark green vegetables",
             "foodCategoryId": 3306688,
             "name": "Chilli Green",
-            "imagepath": "/products/images/Chilli Green.jpg",
+            "imagepath": "products/images/Chilli Green.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "100",
@@ -10266,7 +10266,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
             "price": 26.0,
             "measurement": {
                 "value": "250",
@@ -10285,7 +10285,7 @@
             "foodCategory": "Onions",
             "foodCategoryId": 3307138,
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 195.0,
             "measurement": {
                 "value": "1",
@@ -10950,7 +10950,7 @@
             "foodCategory": "Other vegetables and combinations",
             "foodCategoryId": 3307116,
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 55.0,
             "measurement": {
                 "value": "500",
@@ -11615,7 +11615,7 @@
             "foodCategory": "Other red and orange vegetables",
             "foodCategoryId": 3306934,
             "name": "Bitter Gourd",
-            "imagepath": "/products/images/Bitter Gourd.jpg",
+            "imagepath": "products/images/Bitter Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "500",
@@ -12280,7 +12280,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
             "price": 64.0,
             "measurement": {
                 "value": "250",
@@ -12299,7 +12299,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -12318,7 +12318,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -12337,7 +12337,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Potato",
-            "imagepath": "/products/images/Sweet Potato.jpg",
+            "imagepath": "products/images/Sweet Potato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -12356,7 +12356,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya 500 gms Combo",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "1",
@@ -12375,7 +12375,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -12394,7 +12394,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Broad (Chikkudu)",
-            "imagepath": "/products/images/Beans Broad (Chikkudu).jpg",
+            "imagepath": "products/images/Beans Broad (Chikkudu).jpg",
             "price": 85.0,
             "measurement": {
                 "value": "500",
@@ -12413,7 +12413,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 67.0,
             "measurement": {
                 "value": "450",
@@ -12432,7 +12432,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Potato",
-            "imagepath": "/products/images/Baby Potato.jpg",
+            "imagepath": "products/images/Baby Potato.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "500",
@@ -12451,7 +12451,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu 200 gms Combo",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
             "price": 156.0,
             "measurement": {
                 "value": "200",
@@ -12470,7 +12470,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red & Yellow",
-            "imagepath": "/products/images/Capsicum Red & Yellow.jpg",
+            "imagepath": "products/images/Capsicum Red & Yellow.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -12489,7 +12489,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -12508,7 +12508,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda 250 gms Combo",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
             "price": 46.0,
             "measurement": {
                 "value": "250",
@@ -12527,7 +12527,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 90.0,
             "measurement": {
                 "value": "750",
@@ -12546,7 +12546,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato",
-            "imagepath": "/products/images/Organic Potato.jpg",
+            "imagepath": "products/images/Organic Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "475",
@@ -12565,7 +12565,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Radish White",
-            "imagepath": "/products/images/Radish White.jpg",
+            "imagepath": "products/images/Radish White.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -12584,7 +12584,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Corn",
-            "imagepath": "/products/images/Baby Corn.jpg",
+            "imagepath": "products/images/Baby Corn.jpg",
             "price": 85.0,
             "measurement": {
                 "value": "250",
@@ -12603,7 +12603,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 124.0,
             "measurement": {
                 "value": "1",
@@ -12622,7 +12622,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Onion",
-            "imagepath": "/products/images/Organic Onion.jpg",
+            "imagepath": "products/images/Organic Onion.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -12641,7 +12641,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Bharta",
-            "imagepath": "/products/images/Brinjal Bharta.jpg",
+            "imagepath": "products/images/Brinjal Bharta.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -12660,7 +12660,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya 250 gms Combo",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "250gms",
@@ -12679,7 +12679,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spinach",
-            "imagepath": "/products/images/Spinach.jpg",
+            "imagepath": "products/images/Spinach.jpg",
             "price": 106.0,
             "measurement": {
                 "value": "250",
@@ -12698,7 +12698,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 58.0,
             "measurement": {
                 "value": "500",
@@ -12717,7 +12717,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 128.0,
             "measurement": {
                 "value": "500",
@@ -12736,7 +12736,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna 2 pc X 2 Combo",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -12755,7 +12755,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cherry Tomato",
-            "imagepath": "/products/images/Cherry Tomato.jpg",
+            "imagepath": "products/images/Cherry Tomato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -12774,7 +12774,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -12793,7 +12793,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Snake Gourd",
-            "imagepath": "/products/images/Snake Gourd.jpg",
+            "imagepath": "products/images/Snake Gourd.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -12812,7 +12812,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "1",
@@ -12831,7 +12831,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "250",
@@ -12850,7 +12850,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mint/Pudina Aaku",
-            "imagepath": "/products/images/MintPudina Aaku.jpg",
+            "imagepath": "products/images/MintPudina Aaku.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "200",
@@ -12869,7 +12869,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sambar Onion /Sambar Ulligadda/Chinna Ullipaya",
-            "imagepath": "/products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
+            "imagepath": "products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
             "price": 49.0,
             "measurement": {
                 "value": "250",
@@ -12888,7 +12888,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 70.0,
             "measurement": {
                 "value": "500",
@@ -12907,7 +12907,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato Hybrid",
-            "imagepath": "/products/images/Organic Tomato Hybrid.jpg",
+            "imagepath": "products/images/Organic Tomato Hybrid.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "500",
@@ -12926,7 +12926,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free English Cucumber",
-            "imagepath": "/products/images/Deep Rooted Residue Free English Cucumber.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free English Cucumber.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -12945,7 +12945,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo",
-            "imagepath": "/products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
+            "imagepath": "products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
             "price": 220.0,
             "measurement": {
                 "value": "4",
@@ -12964,7 +12964,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Bottle Gourd",
-            "imagepath": "/products/images/Organic Bottle Gourd.jpg",
+            "imagepath": "products/images/Organic Bottle Gourd.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "600-1000g",
@@ -12983,7 +12983,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Beetroot",
-            "imagepath": "/products/images/Organic Beetroot.jpg",
+            "imagepath": "products/images/Organic Beetroot.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -13002,7 +13002,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zucchini Green",
-            "imagepath": "/products/images/Zucchini Green.jpg",
+            "imagepath": "products/images/Zucchini Green.jpg",
             "price": 70.0,
             "measurement": {
                 "value": "250",
@@ -13021,7 +13021,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gourmet Garden Organic Cherry Tomato",
-            "imagepath": "/products/images/Gourmet Garden Organic Cherry Tomato.jpg",
+            "imagepath": "products/images/Gourmet Garden Organic Cherry Tomato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "200",
@@ -13040,7 +13040,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya 250 gms Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
             "price": 87.0,
             "measurement": {
                 "value": "250",
@@ -13059,7 +13059,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 50.0,
             "measurement": {
                 "value": "500",
@@ -13078,7 +13078,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Lady Finger (Okra)",
-            "imagepath": "/products/images/Organic Lady Finger (Okra).jpg",
+            "imagepath": "products/images/Organic Lady Finger (Okra).jpg",
             "price": 60.0,
             "measurement": {
                 "value": "475",
@@ -13097,7 +13097,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Lady Finger",
-            "imagepath": "/products/images/Deep Rooted Residue Free Lady Finger.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Lady Finger.jpg",
             "price": 57.0,
             "measurement": {
                 "value": "500",
@@ -13116,7 +13116,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Yellow",
-            "imagepath": "/products/images/Capsicum Yellow.jpg",
+            "imagepath": "products/images/Capsicum Yellow.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -13135,7 +13135,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Sweet Corn",
-            "imagepath": "/products/images/Organic Sweet Corn.jpg",
+            "imagepath": "products/images/Organic Sweet Corn.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -13154,7 +13154,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red",
-            "imagepath": "/products/images/Capsicum Red.jpg",
+            "imagepath": "products/images/Capsicum Red.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -13173,7 +13173,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "450",
@@ -13192,7 +13192,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato 475 gms Combo",
-            "imagepath": "/products/images/Organic Potato 475 gms Combo.jpg",
+            "imagepath": "products/images/Organic Potato 475 gms Combo.jpg",
             "price": 98.0,
             "measurement": {
                 "value": "475gms",
@@ -13211,7 +13211,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Milky",
-            "imagepath": "/products/images/Mushroom Milky.jpg",
+            "imagepath": "products/images/Mushroom Milky.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "200",
@@ -13230,7 +13230,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sponge Gourd",
-            "imagepath": "/products/images/Sponge Gourd.jpg",
+            "imagepath": "products/images/Sponge Gourd.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "500",
@@ -13249,7 +13249,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hydroponic English Cucumber",
-            "imagepath": "/products/images/Hydroponic English Cucumber.jpg",
+            "imagepath": "products/images/Hydroponic English Cucumber.jpg",
             "price": 91.0,
             "measurement": {
                 "value": "450",
@@ -13268,7 +13268,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion White / Tella Ulligada",
-            "imagepath": "/products/images/Onion White  Tella Ulligada.jpg",
+            "imagepath": "products/images/Onion White  Tella Ulligada.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -13287,7 +13287,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Super Sweetcorn Kernels Chat Masala",
-            "imagepath": "/products/images/Super Sweetcorn Kernels Chat Masala.jpg",
+            "imagepath": "products/images/Super Sweetcorn Kernels Chat Masala.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "145",
@@ -13306,7 +13306,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo",
-            "imagepath": "/products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
+            "imagepath": "products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
             "price": 80.0,
             "measurement": {
                 "value": "2",
@@ -13325,7 +13325,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -13344,7 +13344,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 164.0,
             "measurement": {
                 "value": "500",
@@ -13363,7 +13363,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 34.0,
             "measurement": {
                 "value": "500",
@@ -13382,7 +13382,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "1",
@@ -13401,7 +13401,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "1",
@@ -13420,7 +13420,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -13439,7 +13439,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -13458,7 +13458,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion Combo",
-            "imagepath": "/products/images/Onion Combo.jpg",
+            "imagepath": "products/images/Onion Combo.jpg",
             "price": 134.0,
             "measurement": {
                 "value": "2",
@@ -13477,7 +13477,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "500",
@@ -13496,7 +13496,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -13515,7 +13515,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -13534,7 +13534,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "2",
@@ -13553,7 +13553,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 27.0,
             "measurement": {
                 "value": "250",
@@ -13572,7 +13572,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 35.0,
             "measurement": {
                 "value": "250",
@@ -13591,7 +13591,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Bottle Gourd",
-            "imagepath": "/products/images/Bottle Gourd.jpg",
+            "imagepath": "products/images/Bottle Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "1",
@@ -13610,7 +13610,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Hybrid",
-            "imagepath": "/products/images/Tomato Hybrid.jpg",
+            "imagepath": "products/images/Tomato Hybrid.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "500",
@@ -13629,7 +13629,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya.jpg",
             "price": 45.0,
             "measurement": {
                 "value": "500",
@@ -13648,7 +13648,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 32.0,
             "measurement": {
                 "value": "500",
@@ -13667,7 +13667,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beetroot",
-            "imagepath": "/products/images/Beetroot.jpg",
+            "imagepath": "products/images/Beetroot.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -13686,7 +13686,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Drumsticks",
-            "imagepath": "/products/images/Drumsticks.jpg",
+            "imagepath": "products/images/Drumsticks.jpg",
             "price": 51.0,
             "measurement": {
                 "value": "3",
@@ -13705,7 +13705,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "250",
@@ -13724,7 +13724,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cabbage",
-            "imagepath": "/products/images/Cabbage.jpg",
+            "imagepath": "products/images/Cabbage.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -13743,7 +13743,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hybrid Tomato",
-            "imagepath": "/products/images/Hybrid Tomato.jpg",
+            "imagepath": "products/images/Hybrid Tomato.jpg",
             "price": 76.0,
             "measurement": {
                 "value": "500",
@@ -13762,7 +13762,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion 1 kg Combo",
-            "imagepath": "/products/images/Onion 1 kg Combo.jpg",
+            "imagepath": "products/images/Onion 1 kg Combo.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "1kg",
@@ -13781,7 +13781,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Raw / Kura Aratikaya",
-            "imagepath": "/products/images/Banana Raw  Kura Aratikaya.jpg",
+            "imagepath": "products/images/Banana Raw  Kura Aratikaya.jpg",
             "price": 39.0,
             "measurement": {
                 "value": "2",
@@ -13800,7 +13800,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coriander/Kothimeera",
-            "imagepath": "/products/images/CorianderKothimeera.jpg",
+            "imagepath": "products/images/CorianderKothimeera.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "200",
@@ -13819,7 +13819,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "2",
@@ -13838,7 +13838,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 112.0,
             "measurement": {
                 "value": "200",
@@ -13857,7 +13857,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Round Green",
-            "imagepath": "/products/images/Brinjal Round Green.jpg",
+            "imagepath": "products/images/Brinjal Round Green.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "500",
@@ -13876,7 +13876,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "2",
@@ -13895,7 +13895,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "500",
@@ -13914,7 +13914,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Chilli Green",
-            "imagepath": "/products/images/Chilli Green.jpg",
+            "imagepath": "products/images/Chilli Green.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "100",
@@ -13933,7 +13933,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
             "price": 26.0,
             "measurement": {
                 "value": "250",
@@ -13952,7 +13952,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 195.0,
             "measurement": {
                 "value": "1",
@@ -13971,7 +13971,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 55.0,
             "measurement": {
                 "value": "500",
@@ -13990,7 +13990,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Bitter Gourd",
-            "imagepath": "/products/images/Bitter Gourd.jpg",
+            "imagepath": "products/images/Bitter Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "500",
@@ -14009,7 +14009,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
             "price": 64.0,
             "measurement": {
                 "value": "250",
@@ -14028,7 +14028,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -14047,7 +14047,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -14066,7 +14066,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Potato",
-            "imagepath": "/products/images/Sweet Potato.jpg",
+            "imagepath": "products/images/Sweet Potato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -14085,7 +14085,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya 500 gms Combo",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "1",
@@ -14104,7 +14104,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -14123,7 +14123,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Broad (Chikkudu)",
-            "imagepath": "/products/images/Beans Broad (Chikkudu).jpg",
+            "imagepath": "products/images/Beans Broad (Chikkudu).jpg",
             "price": 85.0,
             "measurement": {
                 "value": "500",
@@ -14142,7 +14142,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 67.0,
             "measurement": {
                 "value": "450",
@@ -14161,7 +14161,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Potato",
-            "imagepath": "/products/images/Baby Potato.jpg",
+            "imagepath": "products/images/Baby Potato.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "500",
@@ -14180,7 +14180,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu 200 gms Combo",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
             "price": 156.0,
             "measurement": {
                 "value": "200",
@@ -14199,7 +14199,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red & Yellow",
-            "imagepath": "/products/images/Capsicum Red & Yellow.jpg",
+            "imagepath": "products/images/Capsicum Red & Yellow.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -14218,7 +14218,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -14237,7 +14237,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda 250 gms Combo",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
             "price": 46.0,
             "measurement": {
                 "value": "250",
@@ -14256,7 +14256,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 90.0,
             "measurement": {
                 "value": "750",
@@ -14275,7 +14275,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato",
-            "imagepath": "/products/images/Organic Potato.jpg",
+            "imagepath": "products/images/Organic Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "475",
@@ -14294,7 +14294,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Radish White",
-            "imagepath": "/products/images/Radish White.jpg",
+            "imagepath": "products/images/Radish White.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -14313,7 +14313,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Corn",
-            "imagepath": "/products/images/Baby Corn.jpg",
+            "imagepath": "products/images/Baby Corn.jpg",
             "price": 85.0,
             "measurement": {
                 "value": "250",
@@ -14332,7 +14332,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 124.0,
             "measurement": {
                 "value": "1",
@@ -14351,7 +14351,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Onion",
-            "imagepath": "/products/images/Organic Onion.jpg",
+            "imagepath": "products/images/Organic Onion.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -14370,7 +14370,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Bharta",
-            "imagepath": "/products/images/Brinjal Bharta.jpg",
+            "imagepath": "products/images/Brinjal Bharta.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -14389,7 +14389,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya 250 gms Combo",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "250gms",
@@ -14408,7 +14408,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spinach",
-            "imagepath": "/products/images/Spinach.jpg",
+            "imagepath": "products/images/Spinach.jpg",
             "price": 106.0,
             "measurement": {
                 "value": "250",
@@ -14427,7 +14427,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 58.0,
             "measurement": {
                 "value": "500",
@@ -14446,7 +14446,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 128.0,
             "measurement": {
                 "value": "500",
@@ -14465,7 +14465,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna 2 pc X 2 Combo",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -14484,7 +14484,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cherry Tomato",
-            "imagepath": "/products/images/Cherry Tomato.jpg",
+            "imagepath": "products/images/Cherry Tomato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -14503,7 +14503,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -14522,7 +14522,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Snake Gourd",
-            "imagepath": "/products/images/Snake Gourd.jpg",
+            "imagepath": "products/images/Snake Gourd.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -14541,7 +14541,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "1",
@@ -14560,7 +14560,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "250",
@@ -14579,7 +14579,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mint/Pudina Aaku",
-            "imagepath": "/products/images/MintPudina Aaku.jpg",
+            "imagepath": "products/images/MintPudina Aaku.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "200",
@@ -14598,7 +14598,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sambar Onion /Sambar Ulligadda/Chinna Ullipaya",
-            "imagepath": "/products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
+            "imagepath": "products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
             "price": 49.0,
             "measurement": {
                 "value": "250",
@@ -14617,7 +14617,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 70.0,
             "measurement": {
                 "value": "500",
@@ -14636,7 +14636,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato Hybrid",
-            "imagepath": "/products/images/Organic Tomato Hybrid.jpg",
+            "imagepath": "products/images/Organic Tomato Hybrid.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "500",
@@ -14655,7 +14655,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free English Cucumber",
-            "imagepath": "/products/images/Deep Rooted Residue Free English Cucumber.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free English Cucumber.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -14674,7 +14674,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo",
-            "imagepath": "/products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
+            "imagepath": "products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
             "price": 220.0,
             "measurement": {
                 "value": "4",
@@ -14693,7 +14693,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Bottle Gourd",
-            "imagepath": "/products/images/Organic Bottle Gourd.jpg",
+            "imagepath": "products/images/Organic Bottle Gourd.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "600-1000g",
@@ -14712,7 +14712,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Beetroot",
-            "imagepath": "/products/images/Organic Beetroot.jpg",
+            "imagepath": "products/images/Organic Beetroot.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -14731,7 +14731,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zucchini Green",
-            "imagepath": "/products/images/Zucchini Green.jpg",
+            "imagepath": "products/images/Zucchini Green.jpg",
             "price": 70.0,
             "measurement": {
                 "value": "250",
@@ -14750,7 +14750,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gourmet Garden Organic Cherry Tomato",
-            "imagepath": "/products/images/Gourmet Garden Organic Cherry Tomato.jpg",
+            "imagepath": "products/images/Gourmet Garden Organic Cherry Tomato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "200",
@@ -14769,7 +14769,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya 250 gms Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
             "price": 87.0,
             "measurement": {
                 "value": "250",
@@ -14788,7 +14788,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 50.0,
             "measurement": {
                 "value": "500",
@@ -14807,7 +14807,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Lady Finger (Okra)",
-            "imagepath": "/products/images/Organic Lady Finger (Okra).jpg",
+            "imagepath": "products/images/Organic Lady Finger (Okra).jpg",
             "price": 60.0,
             "measurement": {
                 "value": "475",
@@ -14826,7 +14826,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Lady Finger",
-            "imagepath": "/products/images/Deep Rooted Residue Free Lady Finger.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Lady Finger.jpg",
             "price": 57.0,
             "measurement": {
                 "value": "500",
@@ -14845,7 +14845,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Yellow",
-            "imagepath": "/products/images/Capsicum Yellow.jpg",
+            "imagepath": "products/images/Capsicum Yellow.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -14864,7 +14864,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Sweet Corn",
-            "imagepath": "/products/images/Organic Sweet Corn.jpg",
+            "imagepath": "products/images/Organic Sweet Corn.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -14883,7 +14883,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red",
-            "imagepath": "/products/images/Capsicum Red.jpg",
+            "imagepath": "products/images/Capsicum Red.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -14902,7 +14902,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "450",
@@ -14921,7 +14921,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato 475 gms Combo",
-            "imagepath": "/products/images/Organic Potato 475 gms Combo.jpg",
+            "imagepath": "products/images/Organic Potato 475 gms Combo.jpg",
             "price": 98.0,
             "measurement": {
                 "value": "475gms",
@@ -14940,7 +14940,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Milky",
-            "imagepath": "/products/images/Mushroom Milky.jpg",
+            "imagepath": "products/images/Mushroom Milky.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "200",
@@ -14959,7 +14959,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sponge Gourd",
-            "imagepath": "/products/images/Sponge Gourd.jpg",
+            "imagepath": "products/images/Sponge Gourd.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "500",
@@ -14978,7 +14978,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hydroponic English Cucumber",
-            "imagepath": "/products/images/Hydroponic English Cucumber.jpg",
+            "imagepath": "products/images/Hydroponic English Cucumber.jpg",
             "price": 91.0,
             "measurement": {
                 "value": "450",
@@ -14997,7 +14997,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion White / Tella Ulligada",
-            "imagepath": "/products/images/Onion White  Tella Ulligada.jpg",
+            "imagepath": "products/images/Onion White  Tella Ulligada.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -15016,7 +15016,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Super Sweetcorn Kernels Chat Masala",
-            "imagepath": "/products/images/Super Sweetcorn Kernels Chat Masala.jpg",
+            "imagepath": "products/images/Super Sweetcorn Kernels Chat Masala.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "145",
@@ -15035,7 +15035,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo",
-            "imagepath": "/products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
+            "imagepath": "products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
             "price": 80.0,
             "measurement": {
                 "value": "2",
@@ -15054,7 +15054,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -15073,7 +15073,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 164.0,
             "measurement": {
                 "value": "500",
@@ -15092,7 +15092,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 34.0,
             "measurement": {
                 "value": "500",
@@ -15111,7 +15111,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "1",
@@ -15130,7 +15130,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "1",
@@ -15149,7 +15149,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -15168,7 +15168,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -15187,7 +15187,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion Combo",
-            "imagepath": "/products/images/Onion Combo.jpg",
+            "imagepath": "products/images/Onion Combo.jpg",
             "price": 134.0,
             "measurement": {
                 "value": "2",
@@ -15206,7 +15206,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Local",
-            "imagepath": "/products/images/Tomato Local.jpg",
+            "imagepath": "products/images/Tomato Local.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "500",
@@ -15225,7 +15225,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -15244,7 +15244,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -15263,7 +15263,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "2",
@@ -15282,7 +15282,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 27.0,
             "measurement": {
                 "value": "250",
@@ -15301,7 +15301,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 35.0,
             "measurement": {
                 "value": "250",
@@ -15320,7 +15320,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Bottle Gourd",
-            "imagepath": "/products/images/Bottle Gourd.jpg",
+            "imagepath": "products/images/Bottle Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "1",
@@ -15339,7 +15339,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tomato Hybrid",
-            "imagepath": "/products/images/Tomato Hybrid.jpg",
+            "imagepath": "products/images/Tomato Hybrid.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "500",
@@ -15358,7 +15358,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya.jpg",
             "price": 45.0,
             "measurement": {
                 "value": "500",
@@ -15377,7 +15377,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 32.0,
             "measurement": {
                 "value": "500",
@@ -15396,7 +15396,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beetroot",
-            "imagepath": "/products/images/Beetroot.jpg",
+            "imagepath": "products/images/Beetroot.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -15415,7 +15415,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Drumsticks",
-            "imagepath": "/products/images/Drumsticks.jpg",
+            "imagepath": "products/images/Drumsticks.jpg",
             "price": 51.0,
             "measurement": {
                 "value": "3",
@@ -15434,7 +15434,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "250",
@@ -15453,7 +15453,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cabbage",
-            "imagepath": "/products/images/Cabbage.jpg",
+            "imagepath": "products/images/Cabbage.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -15472,7 +15472,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hybrid Tomato",
-            "imagepath": "/products/images/Hybrid Tomato.jpg",
+            "imagepath": "products/images/Hybrid Tomato.jpg",
             "price": 76.0,
             "measurement": {
                 "value": "500",
@@ -15491,7 +15491,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion 1 kg Combo",
-            "imagepath": "/products/images/Onion 1 kg Combo.jpg",
+            "imagepath": "products/images/Onion 1 kg Combo.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "1kg",
@@ -15510,7 +15510,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Raw / Kura Aratikaya",
-            "imagepath": "/products/images/Banana Raw  Kura Aratikaya.jpg",
+            "imagepath": "products/images/Banana Raw  Kura Aratikaya.jpg",
             "price": 39.0,
             "measurement": {
                 "value": "2",
@@ -15529,7 +15529,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coriander/Kothimeera",
-            "imagepath": "/products/images/CorianderKothimeera.jpg",
+            "imagepath": "products/images/CorianderKothimeera.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "200",
@@ -15548,7 +15548,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "2",
@@ -15567,7 +15567,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu.jpg",
             "price": 112.0,
             "measurement": {
                 "value": "200",
@@ -15586,7 +15586,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Round Green",
-            "imagepath": "/products/images/Brinjal Round Green.jpg",
+            "imagepath": "products/images/Brinjal Round Green.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "500",
@@ -15605,7 +15605,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Potato",
-            "imagepath": "/products/images/Potato.jpg",
+            "imagepath": "products/images/Potato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "2",
@@ -15624,7 +15624,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "500",
@@ -15643,7 +15643,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Chilli Green",
-            "imagepath": "/products/images/Chilli Green.jpg",
+            "imagepath": "products/images/Chilli Green.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "100",
@@ -15662,7 +15662,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
             "price": 26.0,
             "measurement": {
                 "value": "250",
@@ -15681,7 +15681,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion",
-            "imagepath": "/products/images/Onion.jpg",
+            "imagepath": "products/images/Onion.jpg",
             "price": 195.0,
             "measurement": {
                 "value": "1",
@@ -15700,7 +15700,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 55.0,
             "measurement": {
                 "value": "500",
@@ -15719,7 +15719,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Bitter Gourd",
-            "imagepath": "/products/images/Bitter Gourd.jpg",
+            "imagepath": "products/images/Bitter Gourd.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "500",
@@ -15738,7 +15738,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya Combo.jpg",
             "price": 64.0,
             "measurement": {
                 "value": "250",
@@ -15757,7 +15757,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
             "price": 25.0,
             "measurement": {
                 "value": "250",
@@ -15776,7 +15776,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Green",
-            "imagepath": "/products/images/Capsicum Green.jpg",
+            "imagepath": "products/images/Capsicum Green.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -15795,7 +15795,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Potato",
-            "imagepath": "/products/images/Sweet Potato.jpg",
+            "imagepath": "products/images/Sweet Potato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -15814,7 +15814,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Ridge Gourd (Torai)/Beerakaya 500 gms Combo",
-            "imagepath": "/products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
+            "imagepath": "products/images/Ridge Gourd (Torai)Beerakaya 500 gms Combo.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "1",
@@ -15833,7 +15833,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -15852,7 +15852,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Broad (Chikkudu)",
-            "imagepath": "/products/images/Beans Broad (Chikkudu).jpg",
+            "imagepath": "products/images/Beans Broad (Chikkudu).jpg",
             "price": 85.0,
             "measurement": {
                 "value": "500",
@@ -15871,7 +15871,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 67.0,
             "measurement": {
                 "value": "450",
@@ -15890,7 +15890,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Potato",
-            "imagepath": "/products/images/Baby Potato.jpg",
+            "imagepath": "products/images/Baby Potato.jpg",
             "price": 42.0,
             "measurement": {
                 "value": "500",
@@ -15909,7 +15909,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Button / Puttagodugulu 200 gms Combo",
-            "imagepath": "/products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
+            "imagepath": "products/images/Mushroom Button  Puttagodugulu 200 gms Combo.jpg",
             "price": 156.0,
             "measurement": {
                 "value": "200",
@@ -15928,7 +15928,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red & Yellow",
-            "imagepath": "/products/images/Capsicum Red & Yellow.jpg",
+            "imagepath": "products/images/Capsicum Red & Yellow.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -15947,7 +15947,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 28.0,
             "measurement": {
                 "value": "250",
@@ -15966,7 +15966,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda 250 gms Combo",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda 250 gms Combo.jpg",
             "price": 46.0,
             "measurement": {
                 "value": "250",
@@ -15985,7 +15985,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya.jpg",
             "price": 90.0,
             "measurement": {
                 "value": "750",
@@ -16004,7 +16004,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato",
-            "imagepath": "/products/images/Organic Potato.jpg",
+            "imagepath": "products/images/Organic Potato.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "475",
@@ -16023,7 +16023,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Radish White",
-            "imagepath": "/products/images/Radish White.jpg",
+            "imagepath": "products/images/Radish White.jpg",
             "price": 38.0,
             "measurement": {
                 "value": "250",
@@ -16042,7 +16042,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Corn",
-            "imagepath": "/products/images/Baby Corn.jpg",
+            "imagepath": "products/images/Baby Corn.jpg",
             "price": 85.0,
             "measurement": {
                 "value": "250",
@@ -16061,7 +16061,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Carrot",
-            "imagepath": "/products/images/Carrot.jpg",
+            "imagepath": "products/images/Carrot.jpg",
             "price": 124.0,
             "measurement": {
                 "value": "1",
@@ -16080,7 +16080,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Onion",
-            "imagepath": "/products/images/Organic Onion.jpg",
+            "imagepath": "products/images/Organic Onion.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -16099,7 +16099,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Bharta",
-            "imagepath": "/products/images/Brinjal Bharta.jpg",
+            "imagepath": "products/images/Brinjal Bharta.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -16118,7 +16118,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya 250 gms Combo",
-            "imagepath": "/products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya 250 gms Combo.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "250gms",
@@ -16137,7 +16137,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spinach",
-            "imagepath": "/products/images/Spinach.jpg",
+            "imagepath": "products/images/Spinach.jpg",
             "price": 106.0,
             "measurement": {
                 "value": "250",
@@ -16156,7 +16156,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber Green/Kheera Dosakaya",
-            "imagepath": "/products/images/Cucumber GreenKheera Dosakaya.jpg",
+            "imagepath": "products/images/Cucumber GreenKheera Dosakaya.jpg",
             "price": 58.0,
             "measurement": {
                 "value": "500",
@@ -16175,7 +16175,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Haricot / Beeniskaya",
-            "imagepath": "/products/images/Beans Haricot  Beeniskaya.jpg",
+            "imagepath": "products/images/Beans Haricot  Beeniskaya.jpg",
             "price": 128.0,
             "measurement": {
                 "value": "500",
@@ -16194,7 +16194,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Corn (cob)/Mokkajonna 2 pc X 2 Combo",
-            "imagepath": "/products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Sweet Corn (cob)Mokkajonna 2 pc X 2 Combo.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -16213,7 +16213,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cherry Tomato",
-            "imagepath": "/products/images/Cherry Tomato.jpg",
+            "imagepath": "products/images/Cherry Tomato.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "200",
@@ -16232,7 +16232,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "500",
@@ -16251,7 +16251,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Snake Gourd",
-            "imagepath": "/products/images/Snake Gourd.jpg",
+            "imagepath": "products/images/Snake Gourd.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -16270,7 +16270,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cucumber English",
-            "imagepath": "/products/images/Cucumber English.jpg",
+            "imagepath": "products/images/Cucumber English.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "1",
@@ -16289,7 +16289,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
-            "imagepath": "/products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+            "imagepath": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
             "price": 43.0,
             "measurement": {
                 "value": "250",
@@ -16308,7 +16308,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mint/Pudina Aaku",
-            "imagepath": "/products/images/MintPudina Aaku.jpg",
+            "imagepath": "products/images/MintPudina Aaku.jpg",
             "price": 28.0,
             "measurement": {
                 "value": "200",
@@ -16327,7 +16327,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sambar Onion /Sambar Ulligadda/Chinna Ullipaya",
-            "imagepath": "/products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
+            "imagepath": "products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
             "price": 49.0,
             "measurement": {
                 "value": "250",
@@ -16346,7 +16346,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cluster (Gawar Phali)",
-            "imagepath": "/products/images/Beans Cluster (Gawar Phali).jpg",
+            "imagepath": "products/images/Beans Cluster (Gawar Phali).jpg",
             "price": 70.0,
             "measurement": {
                 "value": "500",
@@ -16365,7 +16365,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato Hybrid",
-            "imagepath": "/products/images/Organic Tomato Hybrid.jpg",
+            "imagepath": "products/images/Organic Tomato Hybrid.jpg",
             "price": 71.0,
             "measurement": {
                 "value": "500",
@@ -16384,7 +16384,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free English Cucumber",
-            "imagepath": "/products/images/Deep Rooted Residue Free English Cucumber.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free English Cucumber.jpg",
             "price": 66.0,
             "measurement": {
                 "value": "500",
@@ -16403,7 +16403,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo",
-            "imagepath": "/products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
+            "imagepath": "products/images/Spring Onion(250gms), Cabbage(1pc) & Capsicum Green(500gms) Carrot(500gms) Combo.jpg",
             "price": 220.0,
             "measurement": {
                 "value": "4",
@@ -16422,7 +16422,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Bottle Gourd",
-            "imagepath": "/products/images/Organic Bottle Gourd.jpg",
+            "imagepath": "products/images/Organic Bottle Gourd.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "600-1000g",
@@ -16441,7 +16441,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Beetroot",
-            "imagepath": "/products/images/Organic Beetroot.jpg",
+            "imagepath": "products/images/Organic Beetroot.jpg",
             "price": 63.0,
             "measurement": {
                 "value": "475",
@@ -16460,7 +16460,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zucchini Green",
-            "imagepath": "/products/images/Zucchini Green.jpg",
+            "imagepath": "products/images/Zucchini Green.jpg",
             "price": 70.0,
             "measurement": {
                 "value": "250",
@@ -16479,7 +16479,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gourmet Garden Organic Cherry Tomato",
-            "imagepath": "/products/images/Gourmet Garden Organic Cherry Tomato.jpg",
+            "imagepath": "products/images/Gourmet Garden Organic Cherry Tomato.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "200",
@@ -16498,7 +16498,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coccinia (Kundru)/Dondakaya 250 gms Combo",
-            "imagepath": "/products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
+            "imagepath": "products/images/Coccinia (Kundru)Dondakaya 250 gms Combo.jpg",
             "price": 87.0,
             "measurement": {
                 "value": "250",
@@ -16517,7 +16517,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Beans Cowpea (Lobia Phaliyaan)",
-            "imagepath": "/products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+            "imagepath": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
             "price": 50.0,
             "measurement": {
                 "value": "500",
@@ -16536,7 +16536,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Lady Finger (Okra)",
-            "imagepath": "/products/images/Organic Lady Finger (Okra).jpg",
+            "imagepath": "products/images/Organic Lady Finger (Okra).jpg",
             "price": 60.0,
             "measurement": {
                 "value": "475",
@@ -16555,7 +16555,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Lady Finger",
-            "imagepath": "/products/images/Deep Rooted Residue Free Lady Finger.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Lady Finger.jpg",
             "price": 57.0,
             "measurement": {
                 "value": "500",
@@ -16574,7 +16574,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Yellow",
-            "imagepath": "/products/images/Capsicum Yellow.jpg",
+            "imagepath": "products/images/Capsicum Yellow.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -16593,7 +16593,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Sweet Corn",
-            "imagepath": "/products/images/Organic Sweet Corn.jpg",
+            "imagepath": "products/images/Organic Sweet Corn.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "1",
@@ -16612,7 +16612,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Capsicum Red",
-            "imagepath": "/products/images/Capsicum Red.jpg",
+            "imagepath": "products/images/Capsicum Red.jpg",
             "price": 96.0,
             "measurement": {
                 "value": "300",
@@ -16631,7 +16631,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato",
-            "imagepath": "/products/images/Organic Tomato.jpg",
+            "imagepath": "products/images/Organic Tomato.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "450",
@@ -16650,7 +16650,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Potato 475 gms Combo",
-            "imagepath": "/products/images/Organic Potato 475 gms Combo.jpg",
+            "imagepath": "products/images/Organic Potato 475 gms Combo.jpg",
             "price": 98.0,
             "measurement": {
                 "value": "475gms",
@@ -16669,7 +16669,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mushroom Milky",
-            "imagepath": "/products/images/Mushroom Milky.jpg",
+            "imagepath": "products/images/Mushroom Milky.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "200",
@@ -16688,7 +16688,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sponge Gourd",
-            "imagepath": "/products/images/Sponge Gourd.jpg",
+            "imagepath": "products/images/Sponge Gourd.jpg",
             "price": 53.0,
             "measurement": {
                 "value": "500",
@@ -16707,7 +16707,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hydroponic English Cucumber",
-            "imagepath": "/products/images/Hydroponic English Cucumber.jpg",
+            "imagepath": "products/images/Hydroponic English Cucumber.jpg",
             "price": 91.0,
             "measurement": {
                 "value": "450",
@@ -16726,7 +16726,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion White / Tella Ulligada",
-            "imagepath": "/products/images/Onion White  Tella Ulligada.jpg",
+            "imagepath": "products/images/Onion White  Tella Ulligada.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -16745,7 +16745,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Super Sweetcorn Kernels Chat Masala",
-            "imagepath": "/products/images/Super Sweetcorn Kernels Chat Masala.jpg",
+            "imagepath": "products/images/Super Sweetcorn Kernels Chat Masala.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "145",
@@ -16764,7 +16764,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo",
-            "imagepath": "/products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
+            "imagepath": "products/images/Godrej Jersey Rich Toned Fresh Milk (Pouch)(1pc) & Drumsticks(1pc) Combo.jpg",
             "price": 80.0,
             "measurement": {
                 "value": "2",
@@ -16783,7 +16783,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Brinjal Long Purple/ Gulabi Vankaya",
-            "imagepath": "/products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+            "imagepath": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
             "price": 44.0,
             "measurement": {
                 "value": "500",
@@ -16802,7 +16802,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Tomato Local",
-            "imagepath": "/products/images/Deep Rooted Residue Free Tomato Local.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
             "price": 164.0,
             "measurement": {
                 "value": "500",
@@ -16821,7 +16821,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Snacky Cucumbers 250 Gms",
-            "imagepath": "/products/images/Snacky Cucumbers 250 Gms.jpg",
+            "imagepath": "products/images/Snacky Cucumbers 250 Gms.jpg",
             "price": 160.0,
             "measurement": {
                 "value": "1",
@@ -16840,7 +16840,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Drumsticks",
-            "imagepath": "/products/images/Drumsticks.jpg",
+            "imagepath": "products/images/Drumsticks.jpg",
             "price": 90.0,
             "measurement": {
                 "value": "3",
@@ -16859,7 +16859,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
             "price": 69.0,
             "measurement": {
                 "value": "250",
@@ -16878,7 +16878,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Onion",
-            "imagepath": "/products/images/Organic Onion.jpg",
+            "imagepath": "products/images/Organic Onion.jpg",
             "price": 112.0,
             "measurement": {
                 "value": "475",
@@ -16897,7 +16897,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Lady Finger",
-            "imagepath": "/products/images/Lady Finger.jpg",
+            "imagepath": "products/images/Lady Finger.jpg",
             "price": 50.0,
             "measurement": {
                 "value": "500",
@@ -16916,7 +16916,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Onion",
-            "imagepath": "/products/images/Organic Onion.jpg",
+            "imagepath": "products/images/Organic Onion.jpg",
             "price": 116.0,
             "measurement": {
                 "value": "475",
@@ -16935,7 +16935,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Raw / Kura Aratikaya 2 pc X 2 Combo",
-            "imagepath": "/products/images/Banana Raw  Kura Aratikaya 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Banana Raw  Kura Aratikaya 2 pc X 2 Combo.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "2",
@@ -16954,7 +16954,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Colocasia (Kachalu)/Chamagadda",
-            "imagepath": "/products/images/Colocasia (Kachalu)Chamagadda.jpg",
+            "imagepath": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
             "price": 48.0,
             "measurement": {
                 "value": "500",
@@ -16973,7 +16973,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cauliflower",
-            "imagepath": "/products/images/Cauliflower.jpg",
+            "imagepath": "products/images/Cauliflower.jpg",
             "price": 49.0,
             "measurement": {
                 "value": "1",
@@ -16992,7 +16992,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Broccoli",
-            "imagepath": "/products/images/Broccoli.jpg",
+            "imagepath": "products/images/Broccoli.jpg",
             "price": 163.0,
             "measurement": {
                 "value": "300",
@@ -17011,7 +17011,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "GreenAmaranthus/Thotakura",
-            "imagepath": "/products/images/GreenAmaranthusThotakura.jpg",
+            "imagepath": "products/images/GreenAmaranthusThotakura.jpg",
             "price": 70.0,
             "measurement": {
                 "value": "200",
@@ -17030,7 +17030,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Cucumber Green",
-            "imagepath": "/products/images/Organic Cucumber Green.jpg",
+            "imagepath": "products/images/Organic Cucumber Green.jpg",
             "price": 35.0,
             "measurement": {
                 "value": "500",
@@ -17049,7 +17049,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Cauliflower",
-            "imagepath": "/products/images/Cauliflower.jpg",
+            "imagepath": "products/images/Cauliflower.jpg",
             "price": 90.0,
             "measurement": {
                 "value": "2",
@@ -17068,7 +17068,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gourmet Garden Organic Carrot",
-            "imagepath": "/products/images/Gourmet Garden Organic Carrot.jpg",
+            "imagepath": "products/images/Gourmet Garden Organic Carrot.jpg",
             "price": 80.0,
             "measurement": {
                 "value": "Approx.",
@@ -17087,7 +17087,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Broccoli 300 gms Combo",
-            "imagepath": "/products/images/Broccoli 300 gms Combo.jpg",
+            "imagepath": "products/images/Broccoli 300 gms Combo.jpg",
             "price": 316.0,
             "measurement": {
                 "value": "300",
@@ -17106,7 +17106,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Cabbage",
-            "imagepath": "/products/images/Organic Cabbage.jpg",
+            "imagepath": "products/images/Organic Cabbage.jpg",
             "price": 72.0,
             "measurement": {
                 "value": "1",
@@ -17125,7 +17125,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tadaa Sweet Corn Kernels Lemon & Pepper",
-            "imagepath": "/products/images/Tadaa Sweet Corn Kernels Lemon & Pepper.jpg",
+            "imagepath": "products/images/Tadaa Sweet Corn Kernels Lemon & Pepper.jpg",
             "price": 124.0,
             "measurement": {
                 "value": "225",
@@ -17144,7 +17144,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion White / Tella Ulligada",
-            "imagepath": "/products/images/Onion White  Tella Ulligada.jpg",
+            "imagepath": "products/images/Onion White  Tella Ulligada.jpg",
             "price": 168.0,
             "measurement": {
                 "value": "500",
@@ -17163,7 +17163,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Onion White / Tella Ulligada 500 gms Combo",
-            "imagepath": "/products/images/Onion White  Tella Ulligada 500 gms Combo.jpg",
+            "imagepath": "products/images/Onion White  Tella Ulligada 500 gms Combo.jpg",
             "price": 178.0,
             "measurement": {
                 "value": "1",
@@ -17182,7 +17182,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gourmet Garden Organic Capsicum Red",
-            "imagepath": "/products/images/Gourmet Garden Organic Capsicum Red.jpg",
+            "imagepath": "products/images/Gourmet Garden Organic Capsicum Red.jpg",
             "price": 148.0,
             "measurement": {
                 "value": "2",
@@ -17201,7 +17201,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Hydroponic Green Capsicum",
-            "imagepath": "/products/images/Hydroponic Green Capsicum.jpg",
+            "imagepath": "products/images/Hydroponic Green Capsicum.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "450",
@@ -17220,7 +17220,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Deep Rooted Residue Free Beans Haricot",
-            "imagepath": "/products/images/Deep Rooted Residue Free Beans Haricot.jpg",
+            "imagepath": "products/images/Deep Rooted Residue Free Beans Haricot.jpg",
             "price": 97.0,
             "measurement": {
                 "value": "250",
@@ -17239,7 +17239,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato Farm",
-            "imagepath": "/products/images/Organic Tomato Farm.jpg",
+            "imagepath": "products/images/Organic Tomato Farm.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "500",
@@ -17258,7 +17258,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Tomato Farm",
-            "imagepath": "/products/images/Organic Tomato Farm.jpg",
+            "imagepath": "products/images/Organic Tomato Farm.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "500",
@@ -17279,7 +17279,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Robusta",
-            "imagepath": "/products/images/Banana Robusta.jpg",
+            "imagepath": "products/images/Banana Robusta.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "6",
@@ -17298,7 +17298,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 2 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
             "price": 138.0,
             "measurement": {
                 "value": "2",
@@ -17317,7 +17317,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur",
-            "imagepath": "/products/images/Orange Nagpur.jpg",
+            "imagepath": "products/images/Orange Nagpur.jpg",
             "price": 52.0,
             "measurement": {
                 "value": "500",
@@ -17336,7 +17336,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 190.0,
             "measurement": {
                 "value": "4",
@@ -17355,7 +17355,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
             "price": 207.0,
             "measurement": {
                 "value": "3",
@@ -17374,7 +17374,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coconut",
-            "imagepath": "/products/images/Coconut.jpg",
+            "imagepath": "products/images/Coconut.jpg",
             "price": 50.0,
             "measurement": {
                 "value": "1",
@@ -17393,7 +17393,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Apple Shimla",
-            "imagepath": "/products/images/Baby Apple Shimla.jpg",
+            "imagepath": "products/images/Baby Apple Shimla.jpg",
             "price": 120.0,
             "measurement": {
                 "value": "500",
@@ -17412,7 +17412,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut",
-            "imagepath": "/products/images/Tender Coconut.jpg",
+            "imagepath": "products/images/Tender Coconut.jpg",
             "price": 74.0,
             "measurement": {
                 "value": "1",
@@ -17431,7 +17431,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava Thai",
-            "imagepath": "/products/images/Guava Thai.jpg",
+            "imagepath": "products/images/Guava Thai.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "1",
@@ -17450,7 +17450,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu",
-            "imagepath": "/products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
+            "imagepath": "products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
             "price": 93.0,
             "measurement": {
                 "value": "1",
@@ -17469,7 +17469,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Custard Apple (Sitaphal)",
-            "imagepath": "/products/images/Custard Apple (Sitaphal).jpg",
+            "imagepath": "products/images/Custard Apple (Sitaphal).jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -17488,7 +17488,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported",
-            "imagepath": "/products/images/Blueberry Imported.jpg",
+            "imagepath": "products/images/Blueberry Imported.jpg",
             "price": 269.0,
             "measurement": {
                 "value": "120",
@@ -17507,7 +17507,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Karpoora",
-            "imagepath": "/products/images/Banana Karpoora.jpg",
+            "imagepath": "products/images/Banana Karpoora.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -17526,7 +17526,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Orange",
-            "imagepath": "/products/images/Baby Orange.jpg",
+            "imagepath": "products/images/Baby Orange.jpg",
             "price": 121.0,
             "measurement": {
                 "value": "250",
@@ -17545,7 +17545,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate Regular",
-            "imagepath": "/products/images/Pomegranate Regular.jpg",
+            "imagepath": "products/images/Pomegranate Regular.jpg",
             "price": 255.0,
             "measurement": {
                 "value": "4",
@@ -17564,7 +17564,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Kiwi Chile",
-            "imagepath": "/products/images/Kiwi Chile.jpg",
+            "imagepath": "products/images/Kiwi Chile.jpg",
             "price": 149.0,
             "measurement": {
                 "value": "3",
@@ -17583,7 +17583,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Grapes Red Globe",
-            "imagepath": "/products/images/Grapes Red Globe.jpg",
+            "imagepath": "products/images/Grapes Red Globe.jpg",
             "price": 117.0,
             "measurement": {
                 "value": "250",
@@ -17602,7 +17602,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mosambi",
-            "imagepath": "/products/images/Mosambi.jpg",
+            "imagepath": "products/images/Mosambi.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -17621,7 +17621,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Muskmelon",
-            "imagepath": "/products/images/Muskmelon.jpg",
+            "imagepath": "products/images/Muskmelon.jpg",
             "price": 78.0,
             "measurement": {
                 "value": "1",
@@ -17640,7 +17640,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gooseberry (Amla)",
-            "imagepath": "/products/images/Gooseberry (Amla).jpg",
+            "imagepath": "products/images/Gooseberry (Amla).jpg",
             "price": 58.0,
             "measurement": {
                 "value": "250",
@@ -17659,7 +17659,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 3 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
             "price": 210.0,
             "measurement": {
                 "value": "3",
@@ -17678,7 +17678,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -17697,7 +17697,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Watermelon Kiran",
-            "imagepath": "/products/images/Watermelon Kiran.jpg",
+            "imagepath": "products/images/Watermelon Kiran.jpg",
             "price": 123.0,
             "measurement": {
                 "value": "1",
@@ -17716,7 +17716,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Raw",
-            "imagepath": "/products/images/Mango Raw.jpg",
+            "imagepath": "products/images/Mango Raw.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -17735,7 +17735,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pineapple (Ananas) Semi Ripe",
-            "imagepath": "/products/images/Pineapple (Ananas) Semi Ripe.jpg",
+            "imagepath": "products/images/Pineapple (Ananas) Semi Ripe.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "1",
@@ -17754,7 +17754,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava (Amrood) / Jama Kaya Semi Ripe",
-            "imagepath": "/products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
+            "imagepath": "products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -17773,7 +17773,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Beauty",
-            "imagepath": "/products/images/Pear Beauty.jpg",
+            "imagepath": "products/images/Pear Beauty.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "2",
@@ -17792,7 +17792,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Green",
-            "imagepath": "/products/images/Apple Green.jpg",
+            "imagepath": "products/images/Apple Green.jpg",
             "price": 137.0,
             "measurement": {
                 "value": "2",
@@ -17811,7 +17811,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Plum Imported",
-            "imagepath": "/products/images/Plum Imported.jpg",
+            "imagepath": "products/images/Plum Imported.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "250",
@@ -17830,7 +17830,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 370.0,
             "measurement": {
                 "value": "4",
@@ -17849,7 +17849,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Lime (Mosambi) 500 gms Combo",
-            "imagepath": "/products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
+            "imagepath": "products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500gms",
@@ -17868,7 +17868,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Robusta",
-            "imagepath": "/products/images/Banana Robusta.jpg",
+            "imagepath": "products/images/Banana Robusta.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "6",
@@ -17887,7 +17887,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 2 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
             "price": 138.0,
             "measurement": {
                 "value": "2",
@@ -17906,7 +17906,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur",
-            "imagepath": "/products/images/Orange Nagpur.jpg",
+            "imagepath": "products/images/Orange Nagpur.jpg",
             "price": 52.0,
             "measurement": {
                 "value": "500",
@@ -17925,7 +17925,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 190.0,
             "measurement": {
                 "value": "4",
@@ -17944,7 +17944,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
             "price": 207.0,
             "measurement": {
                 "value": "3",
@@ -17963,7 +17963,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coconut",
-            "imagepath": "/products/images/Coconut.jpg",
+            "imagepath": "products/images/Coconut.jpg",
             "price": 50.0,
             "measurement": {
                 "value": "1",
@@ -17982,7 +17982,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Apple Shimla",
-            "imagepath": "/products/images/Baby Apple Shimla.jpg",
+            "imagepath": "products/images/Baby Apple Shimla.jpg",
             "price": 120.0,
             "measurement": {
                 "value": "500",
@@ -18001,7 +18001,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut",
-            "imagepath": "/products/images/Tender Coconut.jpg",
+            "imagepath": "products/images/Tender Coconut.jpg",
             "price": 74.0,
             "measurement": {
                 "value": "1",
@@ -18020,7 +18020,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava Thai",
-            "imagepath": "/products/images/Guava Thai.jpg",
+            "imagepath": "products/images/Guava Thai.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "1",
@@ -18039,7 +18039,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu",
-            "imagepath": "/products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
+            "imagepath": "products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
             "price": 93.0,
             "measurement": {
                 "value": "1",
@@ -18058,7 +18058,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Custard Apple (Sitaphal)",
-            "imagepath": "/products/images/Custard Apple (Sitaphal).jpg",
+            "imagepath": "products/images/Custard Apple (Sitaphal).jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -18077,7 +18077,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported",
-            "imagepath": "/products/images/Blueberry Imported.jpg",
+            "imagepath": "products/images/Blueberry Imported.jpg",
             "price": 269.0,
             "measurement": {
                 "value": "120",
@@ -18096,7 +18096,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Karpoora",
-            "imagepath": "/products/images/Banana Karpoora.jpg",
+            "imagepath": "products/images/Banana Karpoora.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -18115,7 +18115,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Orange",
-            "imagepath": "/products/images/Baby Orange.jpg",
+            "imagepath": "products/images/Baby Orange.jpg",
             "price": 121.0,
             "measurement": {
                 "value": "250",
@@ -18134,7 +18134,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate Regular",
-            "imagepath": "/products/images/Pomegranate Regular.jpg",
+            "imagepath": "products/images/Pomegranate Regular.jpg",
             "price": 255.0,
             "measurement": {
                 "value": "4",
@@ -18153,7 +18153,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Kiwi Chile",
-            "imagepath": "/products/images/Kiwi Chile.jpg",
+            "imagepath": "products/images/Kiwi Chile.jpg",
             "price": 149.0,
             "measurement": {
                 "value": "3",
@@ -18172,7 +18172,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Grapes Red Globe",
-            "imagepath": "/products/images/Grapes Red Globe.jpg",
+            "imagepath": "products/images/Grapes Red Globe.jpg",
             "price": 117.0,
             "measurement": {
                 "value": "250",
@@ -18191,7 +18191,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mosambi",
-            "imagepath": "/products/images/Mosambi.jpg",
+            "imagepath": "products/images/Mosambi.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -18210,7 +18210,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Muskmelon",
-            "imagepath": "/products/images/Muskmelon.jpg",
+            "imagepath": "products/images/Muskmelon.jpg",
             "price": 78.0,
             "measurement": {
                 "value": "1",
@@ -18229,7 +18229,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gooseberry (Amla)",
-            "imagepath": "/products/images/Gooseberry (Amla).jpg",
+            "imagepath": "products/images/Gooseberry (Amla).jpg",
             "price": 58.0,
             "measurement": {
                 "value": "250",
@@ -18248,7 +18248,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 3 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
             "price": 210.0,
             "measurement": {
                 "value": "3",
@@ -18267,7 +18267,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -18286,7 +18286,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Watermelon Kiran",
-            "imagepath": "/products/images/Watermelon Kiran.jpg",
+            "imagepath": "products/images/Watermelon Kiran.jpg",
             "price": 123.0,
             "measurement": {
                 "value": "1",
@@ -18305,7 +18305,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Raw",
-            "imagepath": "/products/images/Mango Raw.jpg",
+            "imagepath": "products/images/Mango Raw.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -18324,7 +18324,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pineapple (Ananas) Semi Ripe",
-            "imagepath": "/products/images/Pineapple (Ananas) Semi Ripe.jpg",
+            "imagepath": "products/images/Pineapple (Ananas) Semi Ripe.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "1",
@@ -18343,7 +18343,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava (Amrood) / Jama Kaya Semi Ripe",
-            "imagepath": "/products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
+            "imagepath": "products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -18362,7 +18362,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Beauty",
-            "imagepath": "/products/images/Pear Beauty.jpg",
+            "imagepath": "products/images/Pear Beauty.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "2",
@@ -18381,7 +18381,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Green",
-            "imagepath": "/products/images/Apple Green.jpg",
+            "imagepath": "products/images/Apple Green.jpg",
             "price": 137.0,
             "measurement": {
                 "value": "2",
@@ -18400,7 +18400,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Plum Imported",
-            "imagepath": "/products/images/Plum Imported.jpg",
+            "imagepath": "products/images/Plum Imported.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "250",
@@ -18419,7 +18419,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 370.0,
             "measurement": {
                 "value": "4",
@@ -18438,7 +18438,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Lime (Mosambi) 500 gms Combo",
-            "imagepath": "/products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
+            "imagepath": "products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500gms",
@@ -18457,7 +18457,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mosambi 500 gms Combo",
-            "imagepath": "/products/images/Mosambi 500 gms Combo.jpg",
+            "imagepath": "products/images/Mosambi 500 gms Combo.jpg",
             "price": 141.0,
             "measurement": {
                 "value": "500",
@@ -18476,7 +18476,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Fig",
-            "imagepath": "/products/images/Fig.jpg",
+            "imagepath": "products/images/Fig.jpg",
             "price": 100.0,
             "measurement": {
                 "value": "250",
@@ -18495,7 +18495,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Imported",
-            "imagepath": "/products/images/Orange Imported.jpg",
+            "imagepath": "products/images/Orange Imported.jpg",
             "price": 181.0,
             "measurement": {
                 "value": "4",
@@ -18514,7 +18514,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported 120 gms Combo",
-            "imagepath": "/products/images/Blueberry Imported 120 gms Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported 120 gms Combo.jpg",
             "price": 526.0,
             "measurement": {
                 "value": "120gms",
@@ -18533,7 +18533,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 95.0,
             "measurement": {
                 "value": "2",
@@ -18552,7 +18552,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Lime",
-            "imagepath": "/products/images/Sweet Lime.jpg",
+            "imagepath": "products/images/Sweet Lime.jpg",
             "price": 100.0,
             "measurement": {
                 "value": "1",
@@ -18571,7 +18571,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Ber",
-            "imagepath": "/products/images/Apple Ber.jpg",
+            "imagepath": "products/images/Apple Ber.jpg",
             "price": 73.0,
             "measurement": {
                 "value": "500",
@@ -18590,7 +18590,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Papaya Raw/Poppadi Kaya/Boppas Kaya",
-            "imagepath": "/products/images/Papaya RawPoppadi KayaBoppas Kaya.jpg",
+            "imagepath": "products/images/Papaya RawPoppadi KayaBoppas Kaya.jpg",
             "price": 34.0,
             "measurement": {
                 "value": "1",
@@ -18609,7 +18609,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zespri Kiwi Sungold Semi Ripe",
-            "imagepath": "/products/images/Zespri Kiwi Sungold Semi Ripe.jpg",
+            "imagepath": "products/images/Zespri Kiwi Sungold Semi Ripe.jpg",
             "price": 214.0,
             "measurement": {
                 "value": "3",
@@ -18628,7 +18628,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur 500 gms Combo",
-            "imagepath": "/products/images/Orange Nagpur 500 gms Combo.jpg",
+            "imagepath": "products/images/Orange Nagpur 500 gms Combo.jpg",
             "price": 98.0,
             "measurement": {
                 "value": "500",
@@ -18647,7 +18647,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Malta 4 pc X 2 Combo",
-            "imagepath": "/products/images/Orange Malta 4 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Orange Malta 4 pc X 2 Combo.jpg",
             "price": 344.0,
             "measurement": {
                 "value": "4",
@@ -18666,7 +18666,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur 500 gms Combo",
-            "imagepath": "/products/images/Orange Nagpur 500 gms Combo.jpg",
+            "imagepath": "products/images/Orange Nagpur 500 gms Combo.jpg",
             "price": 138.0,
             "measurement": {
                 "value": "500",
@@ -18685,7 +18685,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Custard Apple Golden Semi Ripe",
-            "imagepath": "/products/images/Custard Apple Golden Semi Ripe.jpg",
+            "imagepath": "products/images/Custard Apple Golden Semi Ripe.jpg",
             "price": 103.0,
             "measurement": {
                 "value": "2",
@@ -18704,7 +18704,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Kiwi Chile",
-            "imagepath": "/products/images/Kiwi Chile.jpg",
+            "imagepath": "products/images/Kiwi Chile.jpg",
             "price": 284.0,
             "measurement": {
                 "value": "3",
@@ -18723,7 +18723,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "White Guava (Amrood)/Jamakaya",
-            "imagepath": "/products/images/White Guava (Amrood)Jamakaya.jpg",
+            "imagepath": "products/images/White Guava (Amrood)Jamakaya.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "500",
@@ -18742,7 +18742,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Totapuri",
-            "imagepath": "/products/images/Mango Totapuri.jpg",
+            "imagepath": "products/images/Mango Totapuri.jpg",
             "price": 200.0,
             "measurement": {
                 "value": "3",
@@ -18761,7 +18761,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Totapuri",
-            "imagepath": "/products/images/Mango Totapuri.jpg",
+            "imagepath": "products/images/Mango Totapuri.jpg",
             "price": 374.0,
             "measurement": {
                 "value": "3",
@@ -18780,7 +18780,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo.jpg",
             "price": 419.0,
             "measurement": {
                 "value": "2",
@@ -18799,7 +18799,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zespri Kiwi Green",
-            "imagepath": "/products/images/Zespri Kiwi Green.jpg",
+            "imagepath": "products/images/Zespri Kiwi Green.jpg",
             "price": 278.0,
             "measurement": {
                 "value": "3",
@@ -18818,7 +18818,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Orange",
-            "imagepath": "/products/images/Baby Orange.jpg",
+            "imagepath": "products/images/Baby Orange.jpg",
             "price": 226.0,
             "measurement": {
                 "value": "250",
@@ -18837,7 +18837,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Muskmelon Semi Ripe",
-            "imagepath": "/products/images/Muskmelon Semi Ripe.jpg",
+            "imagepath": "products/images/Muskmelon Semi Ripe.jpg",
             "price": 142.0,
             "measurement": {
                 "value": "2",
@@ -18856,7 +18856,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Grapefruit",
-            "imagepath": "/products/images/Grapefruit.jpg",
+            "imagepath": "products/images/Grapefruit.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "1",
@@ -18875,7 +18875,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Watermelon Kiran",
-            "imagepath": "/products/images/Watermelon Kiran.jpg",
+            "imagepath": "products/images/Watermelon Kiran.jpg",
             "price": 224.0,
             "measurement": {
                 "value": "2",
@@ -18894,7 +18894,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo",
-            "imagepath": "/products/images/Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo.jpg",
+            "imagepath": "products/images/Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "2",
@@ -18913,7 +18913,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Saffola Oats(500gms) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Saffola Oats(500gms) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Saffola Oats(500gms) Combo.jpg",
             "price": 351.0,
             "measurement": {
                 "value": "2",
@@ -18932,7 +18932,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo.jpg",
             "price": 297.0,
             "measurement": {
                 "value": "2",
@@ -18951,7 +18951,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sugarcane",
-            "imagepath": "/products/images/Sugarcane.jpg",
+            "imagepath": "products/images/Sugarcane.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "2",
@@ -18970,7 +18970,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 92.0,
             "measurement": {
                 "value": "1",
@@ -18989,7 +18989,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate",
-            "imagepath": "/products/images/Pomegranate.jpg",
+            "imagepath": "products/images/Pomegranate.jpg",
             "price": 151.0,
             "measurement": {
                 "value": "2",
@@ -19008,7 +19008,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 154.0,
             "measurement": {
                 "value": "4",
@@ -19027,7 +19027,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit",
-            "imagepath": "/products/images/Dragon Fruit.jpg",
+            "imagepath": "products/images/Dragon Fruit.jpg",
             "price": 101.0,
             "measurement": {
                 "value": "1",
@@ -19046,7 +19046,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 174.0,
             "measurement": {
                 "value": "1pc",
@@ -19065,7 +19065,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Green Imported",
-            "imagepath": "/products/images/Pear Green Imported.jpg",
+            "imagepath": "products/images/Pear Green Imported.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "2",
@@ -19084,7 +19084,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Avocado Hass Imported",
-            "imagepath": "/products/images/Avocado Hass Imported.jpg",
+            "imagepath": "products/images/Avocado Hass Imported.jpg",
             "price": 196.0,
             "measurement": {
                 "value": "Pack",
@@ -19103,7 +19103,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 164.0,
             "measurement": {
                 "value": "1",
@@ -19122,7 +19122,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Avocado Hass Imported",
-            "imagepath": "/products/images/Avocado Hass Imported.jpg",
+            "imagepath": "products/images/Avocado Hass Imported.jpg",
             "price": 103.0,
             "measurement": {
                 "value": "1",
@@ -19141,7 +19141,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Persimmon",
-            "imagepath": "/products/images/Persimmon.jpg",
+            "imagepath": "products/images/Persimmon.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "2",
@@ -19160,7 +19160,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit 1 pc X 2 Combo",
-            "imagepath": "/products/images/Dragon Fruit 1 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Dragon Fruit 1 pc X 2 Combo.jpg",
             "price": 166.0,
             "measurement": {
                 "value": "2",
@@ -19179,7 +19179,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Indian Fruit Basket",
-            "imagepath": "/products/images/Indian Fruit Basket.jpg",
+            "imagepath": "products/images/Indian Fruit Basket.jpg",
             "price": 248.0,
             "measurement": {
                 "value": "1",
@@ -19198,7 +19198,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Pineapple",
-            "imagepath": "/products/images/Organic Pineapple.jpg",
+            "imagepath": "products/images/Organic Pineapple.jpg",
             "price": 160.0,
             "measurement": {
                 "value": "1",
@@ -19217,7 +19217,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit",
-            "imagepath": "/products/images/Dragon Fruit.jpg",
+            "imagepath": "products/images/Dragon Fruit.jpg",
             "price": 184.0,
             "measurement": {
                 "value": "1",
@@ -19236,7 +19236,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Imported Fruit Basket",
-            "imagepath": "/products/images/Imported Fruit Basket.jpg",
+            "imagepath": "products/images/Imported Fruit Basket.jpg",
             "price": 271.0,
             "measurement": {
                 "value": "1",
@@ -19255,7 +19255,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate Regular",
-            "imagepath": "/products/images/Pomegranate Regular.jpg",
+            "imagepath": "products/images/Pomegranate Regular.jpg",
             "price": 496.0,
             "measurement": {
                 "value": "4",
@@ -19274,7 +19274,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate 2 pc X 2 Combo",
-            "imagepath": "/products/images/Pomegranate 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Pomegranate 2 pc X 2 Combo.jpg",
             "price": 288.0,
             "measurement": {
                 "value": "2",
@@ -19293,7 +19293,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit 1 pc X 3 Combo",
-            "imagepath": "/products/images/Dragon Fruit 1 pc X 3 Combo.jpg",
+            "imagepath": "products/images/Dragon Fruit 1 pc X 3 Combo.jpg",
             "price": 222.0,
             "measurement": {
                 "value": "3",
@@ -19312,7 +19312,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 294.0,
             "measurement": {
                 "value": "4",
@@ -19331,7 +19331,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Green Imported 2 pc X 2 Combo",
-            "imagepath": "/products/images/Pear Green Imported 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Pear Green Imported 2 pc X 2 Combo.jpg",
             "price": 146.0,
             "measurement": {
                 "value": "2",
@@ -19350,7 +19350,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Water Chestnut",
-            "imagepath": "/products/images/Water Chestnut.jpg",
+            "imagepath": "products/images/Water Chestnut.jpg",
             "price": 142.0,
             "measurement": {
                 "value": "500",
@@ -19369,7 +19369,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Robusta",
-            "imagepath": "/products/images/Banana Robusta.jpg",
+            "imagepath": "products/images/Banana Robusta.jpg",
             "price": 61.0,
             "measurement": {
                 "value": "6",
@@ -19388,7 +19388,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 2 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 2 Combo.jpg",
             "price": 138.0,
             "measurement": {
                 "value": "2",
@@ -19407,7 +19407,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur",
-            "imagepath": "/products/images/Orange Nagpur.jpg",
+            "imagepath": "products/images/Orange Nagpur.jpg",
             "price": 52.0,
             "measurement": {
                 "value": "500",
@@ -19426,7 +19426,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 190.0,
             "measurement": {
                 "value": "4",
@@ -19445,7 +19445,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam.jpg",
             "price": 207.0,
             "measurement": {
                 "value": "3",
@@ -19464,7 +19464,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Coconut",
-            "imagepath": "/products/images/Coconut.jpg",
+            "imagepath": "products/images/Coconut.jpg",
             "price": 50.0,
             "measurement": {
                 "value": "1",
@@ -19483,7 +19483,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Apple Shimla",
-            "imagepath": "/products/images/Baby Apple Shimla.jpg",
+            "imagepath": "products/images/Baby Apple Shimla.jpg",
             "price": 120.0,
             "measurement": {
                 "value": "500",
@@ -19502,7 +19502,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut",
-            "imagepath": "/products/images/Tender Coconut.jpg",
+            "imagepath": "products/images/Tender Coconut.jpg",
             "price": 74.0,
             "measurement": {
                 "value": "1",
@@ -19521,7 +19521,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava Thai",
-            "imagepath": "/products/images/Guava Thai.jpg",
+            "imagepath": "products/images/Guava Thai.jpg",
             "price": 54.0,
             "measurement": {
                 "value": "1",
@@ -19540,7 +19540,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu",
-            "imagepath": "/products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
+            "imagepath": "products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
             "price": 93.0,
             "measurement": {
                 "value": "1",
@@ -19559,7 +19559,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Custard Apple (Sitaphal)",
-            "imagepath": "/products/images/Custard Apple (Sitaphal).jpg",
+            "imagepath": "products/images/Custard Apple (Sitaphal).jpg",
             "price": 86.0,
             "measurement": {
                 "value": "2",
@@ -19578,7 +19578,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported",
-            "imagepath": "/products/images/Blueberry Imported.jpg",
+            "imagepath": "products/images/Blueberry Imported.jpg",
             "price": 269.0,
             "measurement": {
                 "value": "120",
@@ -19597,7 +19597,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Banana Karpoora",
-            "imagepath": "/products/images/Banana Karpoora.jpg",
+            "imagepath": "products/images/Banana Karpoora.jpg",
             "price": 60.0,
             "measurement": {
                 "value": "500",
@@ -19616,7 +19616,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Orange",
-            "imagepath": "/products/images/Baby Orange.jpg",
+            "imagepath": "products/images/Baby Orange.jpg",
             "price": 121.0,
             "measurement": {
                 "value": "250",
@@ -19635,7 +19635,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate Regular",
-            "imagepath": "/products/images/Pomegranate Regular.jpg",
+            "imagepath": "products/images/Pomegranate Regular.jpg",
             "price": 255.0,
             "measurement": {
                 "value": "4",
@@ -19654,7 +19654,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Kiwi Chile",
-            "imagepath": "/products/images/Kiwi Chile.jpg",
+            "imagepath": "products/images/Kiwi Chile.jpg",
             "price": 149.0,
             "measurement": {
                 "value": "3",
@@ -19673,7 +19673,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Grapes Red Globe",
-            "imagepath": "/products/images/Grapes Red Globe.jpg",
+            "imagepath": "products/images/Grapes Red Globe.jpg",
             "price": 117.0,
             "measurement": {
                 "value": "250",
@@ -19692,7 +19692,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mosambi",
-            "imagepath": "/products/images/Mosambi.jpg",
+            "imagepath": "products/images/Mosambi.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -19711,7 +19711,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Muskmelon",
-            "imagepath": "/products/images/Muskmelon.jpg",
+            "imagepath": "products/images/Muskmelon.jpg",
             "price": 78.0,
             "measurement": {
                 "value": "1",
@@ -19730,7 +19730,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Gooseberry (Amla)",
-            "imagepath": "/products/images/Gooseberry (Amla).jpg",
+            "imagepath": "products/images/Gooseberry (Amla).jpg",
             "price": 58.0,
             "measurement": {
                 "value": "250",
@@ -19749,7 +19749,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Tender Coconut (Nariyal)/Kobbari Bondam 1 pc X 3 Combo",
-            "imagepath": "/products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
+            "imagepath": "products/images/Tender Coconut (Nariyal)Kobbari Bondam 1 pc X 3 Combo.jpg",
             "price": 210.0,
             "measurement": {
                 "value": "3",
@@ -19768,7 +19768,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 107.0,
             "measurement": {
                 "value": "2",
@@ -19787,7 +19787,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Watermelon Kiran",
-            "imagepath": "/products/images/Watermelon Kiran.jpg",
+            "imagepath": "products/images/Watermelon Kiran.jpg",
             "price": 123.0,
             "measurement": {
                 "value": "1",
@@ -19806,7 +19806,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Raw",
-            "imagepath": "/products/images/Mango Raw.jpg",
+            "imagepath": "products/images/Mango Raw.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500",
@@ -19825,7 +19825,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pineapple (Ananas) Semi Ripe",
-            "imagepath": "/products/images/Pineapple (Ananas) Semi Ripe.jpg",
+            "imagepath": "products/images/Pineapple (Ananas) Semi Ripe.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "1",
@@ -19844,7 +19844,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Guava (Amrood) / Jama Kaya Semi Ripe",
-            "imagepath": "/products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
+            "imagepath": "products/images/Guava (Amrood)  Jama Kaya Semi Ripe.jpg",
             "price": 56.0,
             "measurement": {
                 "value": "500",
@@ -19863,7 +19863,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Beauty",
-            "imagepath": "/products/images/Pear Beauty.jpg",
+            "imagepath": "products/images/Pear Beauty.jpg",
             "price": 122.0,
             "measurement": {
                 "value": "2",
@@ -19882,7 +19882,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Green",
-            "imagepath": "/products/images/Apple Green.jpg",
+            "imagepath": "products/images/Apple Green.jpg",
             "price": 137.0,
             "measurement": {
                 "value": "2",
@@ -19901,7 +19901,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Plum Imported",
-            "imagepath": "/products/images/Plum Imported.jpg",
+            "imagepath": "products/images/Plum Imported.jpg",
             "price": 86.0,
             "measurement": {
                 "value": "250",
@@ -19920,7 +19920,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Royal Gala",
-            "imagepath": "/products/images/Apple Royal Gala.jpg",
+            "imagepath": "products/images/Apple Royal Gala.jpg",
             "price": 370.0,
             "measurement": {
                 "value": "4",
@@ -19939,7 +19939,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Lime (Mosambi) 500 gms Combo",
-            "imagepath": "/products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
+            "imagepath": "products/images/Sweet Lime (Mosambi) 500 gms Combo.jpg",
             "price": 94.0,
             "measurement": {
                 "value": "500gms",
@@ -19958,7 +19958,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mosambi 500 gms Combo",
-            "imagepath": "/products/images/Mosambi 500 gms Combo.jpg",
+            "imagepath": "products/images/Mosambi 500 gms Combo.jpg",
             "price": 141.0,
             "measurement": {
                 "value": "500",
@@ -19977,7 +19977,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Fig",
-            "imagepath": "/products/images/Fig.jpg",
+            "imagepath": "products/images/Fig.jpg",
             "price": 100.0,
             "measurement": {
                 "value": "250",
@@ -19996,7 +19996,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Imported",
-            "imagepath": "/products/images/Orange Imported.jpg",
+            "imagepath": "products/images/Orange Imported.jpg",
             "price": 181.0,
             "measurement": {
                 "value": "4",
@@ -20015,7 +20015,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported 120 gms Combo",
-            "imagepath": "/products/images/Blueberry Imported 120 gms Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported 120 gms Combo.jpg",
             "price": 526.0,
             "measurement": {
                 "value": "120gms",
@@ -20034,7 +20034,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 95.0,
             "measurement": {
                 "value": "2",
@@ -20053,7 +20053,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sweet Lime",
-            "imagepath": "/products/images/Sweet Lime.jpg",
+            "imagepath": "products/images/Sweet Lime.jpg",
             "price": 100.0,
             "measurement": {
                 "value": "1",
@@ -20072,7 +20072,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Ber",
-            "imagepath": "/products/images/Apple Ber.jpg",
+            "imagepath": "products/images/Apple Ber.jpg",
             "price": 73.0,
             "measurement": {
                 "value": "500",
@@ -20091,7 +20091,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Papaya Raw/Poppadi Kaya/Boppas Kaya",
-            "imagepath": "/products/images/Papaya RawPoppadi KayaBoppas Kaya.jpg",
+            "imagepath": "products/images/Papaya RawPoppadi KayaBoppas Kaya.jpg",
             "price": 34.0,
             "measurement": {
                 "value": "1",
@@ -20110,7 +20110,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zespri Kiwi Sungold Semi Ripe",
-            "imagepath": "/products/images/Zespri Kiwi Sungold Semi Ripe.jpg",
+            "imagepath": "products/images/Zespri Kiwi Sungold Semi Ripe.jpg",
             "price": 214.0,
             "measurement": {
                 "value": "3",
@@ -20129,7 +20129,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur 500 gms Combo",
-            "imagepath": "/products/images/Orange Nagpur 500 gms Combo.jpg",
+            "imagepath": "products/images/Orange Nagpur 500 gms Combo.jpg",
             "price": 98.0,
             "measurement": {
                 "value": "500",
@@ -20148,7 +20148,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Malta 4 pc X 2 Combo",
-            "imagepath": "/products/images/Orange Malta 4 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Orange Malta 4 pc X 2 Combo.jpg",
             "price": 344.0,
             "measurement": {
                 "value": "4",
@@ -20167,7 +20167,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Orange Nagpur 500 gms Combo",
-            "imagepath": "/products/images/Orange Nagpur 500 gms Combo.jpg",
+            "imagepath": "products/images/Orange Nagpur 500 gms Combo.jpg",
             "price": 138.0,
             "measurement": {
                 "value": "500",
@@ -20186,7 +20186,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Custard Apple Golden Semi Ripe",
-            "imagepath": "/products/images/Custard Apple Golden Semi Ripe.jpg",
+            "imagepath": "products/images/Custard Apple Golden Semi Ripe.jpg",
             "price": 103.0,
             "measurement": {
                 "value": "2",
@@ -20205,7 +20205,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Kiwi Chile",
-            "imagepath": "/products/images/Kiwi Chile.jpg",
+            "imagepath": "products/images/Kiwi Chile.jpg",
             "price": 284.0,
             "measurement": {
                 "value": "3",
@@ -20224,7 +20224,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "White Guava (Amrood)/Jamakaya",
-            "imagepath": "/products/images/White Guava (Amrood)Jamakaya.jpg",
+            "imagepath": "products/images/White Guava (Amrood)Jamakaya.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "500",
@@ -20243,7 +20243,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Totapuri",
-            "imagepath": "/products/images/Mango Totapuri.jpg",
+            "imagepath": "products/images/Mango Totapuri.jpg",
             "price": 200.0,
             "measurement": {
                 "value": "3",
@@ -20262,7 +20262,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Mango Totapuri",
-            "imagepath": "/products/images/Mango Totapuri.jpg",
+            "imagepath": "products/images/Mango Totapuri.jpg",
             "price": 374.0,
             "measurement": {
                 "value": "3",
@@ -20281,7 +20281,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Tropicana Cranberry Delight Juice Tetrapack(1l) Combo.jpg",
             "price": 419.0,
             "measurement": {
                 "value": "2",
@@ -20300,7 +20300,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Zespri Kiwi Green",
-            "imagepath": "/products/images/Zespri Kiwi Green.jpg",
+            "imagepath": "products/images/Zespri Kiwi Green.jpg",
             "price": 278.0,
             "measurement": {
                 "value": "3",
@@ -20319,7 +20319,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Baby Orange",
-            "imagepath": "/products/images/Baby Orange.jpg",
+            "imagepath": "products/images/Baby Orange.jpg",
             "price": 226.0,
             "measurement": {
                 "value": "250",
@@ -20338,7 +20338,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Muskmelon Semi Ripe",
-            "imagepath": "/products/images/Muskmelon Semi Ripe.jpg",
+            "imagepath": "products/images/Muskmelon Semi Ripe.jpg",
             "price": 142.0,
             "measurement": {
                 "value": "2",
@@ -20357,7 +20357,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Grapefruit",
-            "imagepath": "/products/images/Grapefruit.jpg",
+            "imagepath": "products/images/Grapefruit.jpg",
             "price": 104.0,
             "measurement": {
                 "value": "1",
@@ -20376,7 +20376,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Watermelon Kiran",
-            "imagepath": "/products/images/Watermelon Kiran.jpg",
+            "imagepath": "products/images/Watermelon Kiran.jpg",
             "price": 224.0,
             "measurement": {
                 "value": "2",
@@ -20395,7 +20395,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo",
-            "imagepath": "/products/images/Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo.jpg",
+            "imagepath": "products/images/Sid'S Farm Curd Pouch(1pc) & Banana Robusta 6.0 Piece(1pc) Combo.jpg",
             "price": 102.0,
             "measurement": {
                 "value": "2",
@@ -20414,7 +20414,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Saffola Oats(500gms) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Saffola Oats(500gms) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Saffola Oats(500gms) Combo.jpg",
             "price": 351.0,
             "measurement": {
                 "value": "2",
@@ -20433,7 +20433,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo",
-            "imagepath": "/products/images/Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo.jpg",
+            "imagepath": "products/images/Blueberry Imported(120gms) & Milky Mist Fruit Yogurt Strawberry(100ml) Combo.jpg",
             "price": 297.0,
             "measurement": {
                 "value": "2",
@@ -20452,7 +20452,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Sugarcane",
-            "imagepath": "/products/images/Sugarcane.jpg",
+            "imagepath": "products/images/Sugarcane.jpg",
             "price": 68.0,
             "measurement": {
                 "value": "2",
@@ -20471,7 +20471,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 92.0,
             "measurement": {
                 "value": "1",
@@ -20490,7 +20490,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate",
-            "imagepath": "/products/images/Pomegranate.jpg",
+            "imagepath": "products/images/Pomegranate.jpg",
             "price": 151.0,
             "measurement": {
                 "value": "2",
@@ -20509,7 +20509,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 154.0,
             "measurement": {
                 "value": "4",
@@ -20528,7 +20528,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit",
-            "imagepath": "/products/images/Dragon Fruit.jpg",
+            "imagepath": "products/images/Dragon Fruit.jpg",
             "price": 101.0,
             "measurement": {
                 "value": "1",
@@ -20547,7 +20547,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 174.0,
             "measurement": {
                 "value": "1pc",
@@ -20566,7 +20566,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Green Imported",
-            "imagepath": "/products/images/Pear Green Imported.jpg",
+            "imagepath": "products/images/Pear Green Imported.jpg",
             "price": 82.0,
             "measurement": {
                 "value": "2",
@@ -20585,7 +20585,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Avocado Hass Imported",
-            "imagepath": "/products/images/Avocado Hass Imported.jpg",
+            "imagepath": "products/images/Avocado Hass Imported.jpg",
             "price": 196.0,
             "measurement": {
                 "value": "Pack",
@@ -20604,7 +20604,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit Red Indian",
-            "imagepath": "/products/images/Dragon Fruit Red Indian.jpg",
+            "imagepath": "products/images/Dragon Fruit Red Indian.jpg",
             "price": 164.0,
             "measurement": {
                 "value": "1",
@@ -20623,7 +20623,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Avocado Hass Imported",
-            "imagepath": "/products/images/Avocado Hass Imported.jpg",
+            "imagepath": "products/images/Avocado Hass Imported.jpg",
             "price": 103.0,
             "measurement": {
                 "value": "1",
@@ -20642,7 +20642,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Persimmon",
-            "imagepath": "/products/images/Persimmon.jpg",
+            "imagepath": "products/images/Persimmon.jpg",
             "price": 130.0,
             "measurement": {
                 "value": "2",
@@ -20661,7 +20661,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit 1 pc X 2 Combo",
-            "imagepath": "/products/images/Dragon Fruit 1 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Dragon Fruit 1 pc X 2 Combo.jpg",
             "price": 166.0,
             "measurement": {
                 "value": "2",
@@ -20680,7 +20680,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Indian Fruit Basket",
-            "imagepath": "/products/images/Indian Fruit Basket.jpg",
+            "imagepath": "products/images/Indian Fruit Basket.jpg",
             "price": 248.0,
             "measurement": {
                 "value": "1",
@@ -20699,7 +20699,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Organic Pineapple",
-            "imagepath": "/products/images/Organic Pineapple.jpg",
+            "imagepath": "products/images/Organic Pineapple.jpg",
             "price": 160.0,
             "measurement": {
                 "value": "1",
@@ -20718,7 +20718,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit",
-            "imagepath": "/products/images/Dragon Fruit.jpg",
+            "imagepath": "products/images/Dragon Fruit.jpg",
             "price": 184.0,
             "measurement": {
                 "value": "1",
@@ -20737,7 +20737,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Imported Fruit Basket",
-            "imagepath": "/products/images/Imported Fruit Basket.jpg",
+            "imagepath": "products/images/Imported Fruit Basket.jpg",
             "price": 271.0,
             "measurement": {
                 "value": "1",
@@ -20756,7 +20756,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate Regular",
-            "imagepath": "/products/images/Pomegranate Regular.jpg",
+            "imagepath": "products/images/Pomegranate Regular.jpg",
             "price": 496.0,
             "measurement": {
                 "value": "4",
@@ -20775,7 +20775,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pomegranate 2 pc X 2 Combo",
-            "imagepath": "/products/images/Pomegranate 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Pomegranate 2 pc X 2 Combo.jpg",
             "price": 288.0,
             "measurement": {
                 "value": "2",
@@ -20794,7 +20794,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Dragon Fruit 1 pc X 3 Combo",
-            "imagepath": "/products/images/Dragon Fruit 1 pc X 3 Combo.jpg",
+            "imagepath": "products/images/Dragon Fruit 1 pc X 3 Combo.jpg",
             "price": 222.0,
             "measurement": {
                 "value": "3",
@@ -20813,7 +20813,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Apple Shimla",
-            "imagepath": "/products/images/Apple Shimla.jpg",
+            "imagepath": "products/images/Apple Shimla.jpg",
             "price": 294.0,
             "measurement": {
                 "value": "4",
@@ -20832,7 +20832,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Pear Green Imported 2 pc X 2 Combo",
-            "imagepath": "/products/images/Pear Green Imported 2 pc X 2 Combo.jpg",
+            "imagepath": "products/images/Pear Green Imported 2 pc X 2 Combo.jpg",
             "price": 146.0,
             "measurement": {
                 "value": "2",
@@ -20851,7 +20851,7 @@
             "foodCategory": "NA",
             "foodCategoryId": "NA",
             "name": "Water Chestnut",
-            "imagepath": "/products/images/Water Chestnut.jpg",
+            "imagepath": "products/images/Water Chestnut.jpg",
             "price": 142.0,
             "measurement": {
                 "value": "500",
