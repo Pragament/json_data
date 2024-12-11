@@ -1,0 +1,701 @@
+{
+    "vegetables": [
+        {
+            "productId": "e9de86da-02a6-46e3-ba4e-98b59dd88be5",
+            "name": "Potato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "10dd0177-570b-45be-9615-4eea545f0ed6",
+            "name": "Onion",
+            "fdcId": 2709795
+        },
+        {
+            "productId": "89cf715c-eca2-4f6c-97f8-b3b140b4c779",
+            "name": "Lady Finger",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "c7449c04-c4b4-4f54-9328-a286e3724b34",
+            "name": "Lady Finger",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ea6b6e14-4aef-40e3-b5e3-b24f048bbfbe",
+            "name": "Tomato Hybrid",
+            "fdcId": 2709719
+        },
+        {
+            "productId": "3ef4342d-dc6c-43b6-9e6b-f4f578323b16",
+            "name": "Cucumber Green/Kheera Dosakaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "9baf2c0d-9a85-4eec-9ab1-e3b2f6d0fa6d",
+            "name": "Deep Rooted Residue Free Tomato Local",
+            "fdcId": 2709719
+        },
+        {
+            "productId": "48147444-e7e4-4db7-931a-0f1cc6a22ed7",
+            "name": "Beetroot",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "080c78e3-997a-47eb-9ea7-311bfb051092",
+            "name": "Carrot",
+            "fdcId": 2709660
+        },
+        {
+            "productId": "e38a78a3-2a4c-4076-83ae-f2f778988fd1",
+            "name": "Organic Tomato",
+            "fdcId": 2709719
+        },
+        {
+            "productId": "ae2aed4e-7577-47f1-86db-0ac4cd73fcab",
+            "name": "Beans Broad (Chikkudu)",
+            "fdcId": 2709769
+        },
+        {
+            "productId": "0089e7ad-4afc-4ee5-bd5f-ad914ebeb939",
+            "name": "Organic Onion",
+            "fdcId": 2709795
+        },
+        {
+            "productId": "dcd07e0d-4612-49db-b85c-67746a6f7873",
+            "name": "Cucumber English",
+            "fdcId": 2709784
+        },
+        {
+            "productId": "ebd18811-41e5-455a-9be2-e4f6186328ae",
+            "name": "Ridge Gourd (Torai)/Beerakaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "26ead4a9-2449-44d1-b212-3aee5048ef74",
+            "name": "Organic Cucumber Green",
+            "fdcId": 2709784
+        },
+        {
+            "productId": "5ead9338-d284-4f53-a463-cbc1a6cb4de2",
+            "name": "Mushroom Button / Puttagodugulu",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "86332e16-a444-4778-a7aa-5789519a7014",
+            "name": "Beans Haricot / Beeniskaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "5299ac4b-f556-43da-9139-ccec5b65b4d7",
+            "name": "Sweet Corn (cob)/Mokkajonna",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "03d008d9-fad5-48dc-9df0-d8d9bedfe559",
+            "name": "Coccinia (Kundru)/Dondakaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "3ef3e99c-a2c0-4673-bd2e-f1298986c461",
+            "name": "Cauliflower",
+            "fdcId": 2709777
+        },
+        {
+            "productId": "ced27737-fbb8-4c7c-8782-9d1ad8af90fd",
+            "name": "Organic Tomato Hybrid",
+            "fdcId": 2709719
+        },
+        {
+            "productId": "3b0bc38b-8938-4d8a-a241-5406aca5453f",
+            "name": "Beans Broad (Chikkudu)",
+            "fdcId": 2709769
+        },
+        {
+            "productId": "6e9125eb-f6bc-4971-87bc-f24073d7c4e9",
+            "name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f7c1d23e-87f1-48e9-9d60-7e218ae154a4",
+            "name": "Capsicum Green",
+            "fdcId": 2709570
+        },
+        {
+            "productId": "e0eb0e7f-5b63-4b6c-b5ad-39a85c620e92",
+            "name": "Capsicum Green",
+            "fdcId": 2709570
+        },
+        {
+            "productId": "df5ee788-00ce-4cce-afb7-102cb7b3b40d",
+            "name": "Green Peas (Matar)",
+            "fdcId": 2709797
+        },
+        {
+            "productId": "3a87e9e1-4f5e-4673-bed1-3414223d4e1a",
+            "name": "Beans Cluster (Gawar Phali)",
+            "fdcId": 2709769
+        },
+        {
+            "productId": "f340f7e5-2b06-48c6-9349-c72bb4d09036",
+            "name": "Sweet Potato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b80f57fa-692e-492e-aa5d-9a115b97ab93",
+            "name": "Drumsticks",
+            "fdcId": 2706002
+        },
+        {
+            "productId": "a9d8e2e6-cce1-410c-a56e-a3a5fd5caca2",
+            "name": "Brinjal Round Green",
+            "fdcId": 2709570
+        },
+        {
+            "productId": "b5e04256-2aab-4dba-9b3e-320125670383",
+            "name": "Gourmet Garden Organic Carrot",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b46cb2f7-0985-4467-96b4-cf473f6e8de6",
+            "name": "Brinjal Long Purple/ Gulabi Vankaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b863d21b-e580-4199-92db-584ada216d8c",
+            "name": "Cabbage",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "7a1a53cf-ae3a-4c57-878b-598b117a3da0",
+            "name": "Deep Rooted Residue Free Lady Finger",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f7abea48-df9a-478a-a852-dbc2820f345a",
+            "name": "Organic Beetroot",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "5289b734-7e41-45d1-a11b-966f5cdfa104",
+            "name": "Organic Sweet Corn",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "c9a4a855-34de-4623-b6f8-d86baf1e3659",
+            "name": "Sambar Onion /Sambar Ulligadda/Chinna Ullipaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "427c5e3a-91af-43a6-a520-4257546fdc44",
+            "name": "Bitter Gourd",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "5032e643-3b94-4c62-bf2e-331c4f2cc4c1",
+            "name": "Radish White",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "cc76f8e2-a333-4d19-9d53-afdd75018993",
+            "name": "Deep Rooted Residue Free English Cucumber",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "071a914b-03cd-48bc-a6fe-aa4fd66c0121",
+            "name": "Colocasia (Kachalu)/Chamagadda",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "110c8c67-1f0c-4dc4-8da8-1359a2d2a6b4",
+            "name": "Banana Raw / Kura Aratikaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ff9f9692-c378-401c-bffa-31720cf7b1c0",
+            "name": "Hydroponic Green Capsicum",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "85cfe313-b568-49d7-8c8a-e3dbcf499d7a",
+            "name": "Organic Cabbage",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ef0cd622-1a24-4d5d-87f7-a1747e03872b",
+            "name": "Hydroponic English Cucumber",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "efb761dc-c03f-4169-9004-04492bcf2465",
+            "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "78a72ad4-985e-490c-96b7-431f0c4b5b75",
+            "name": "Organic Potato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "a10bd1fa-55a4-4cf3-a980-2e138734c806",
+            "name": "Brinjal Bharta",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f34cab46-ddd9-4efa-a293-6ff4da4466dc",
+            "name": "Sponge Gourd",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "e107cbfd-e6a6-49b2-9a0b-3c764ebddce2",
+            "name": "Cucumber Sambar/Sambar Dosakaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "2c54ba00-871f-4e82-9687-56e7e92731d9",
+            "name": "Onion White / Tella Ulligada",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "074bb0be-6a35-40fb-b927-c80d2db086e5",
+            "name": "Zucchini Green",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "d6f040fd-e598-49e1-b7df-c8ccbc7daa50",
+            "name": "Brinjal Kateri (Baingan) / Mulla vankaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f862c9e4-54bd-421e-a3b3-723ae4aee095",
+            "name": "Organic Bottle Gourd",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "48b6cb4f-a188-49eb-8eed-bfb8f0cc25b3",
+            "name": "Organic Lady Finger (Okra)",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "fa45143f-00a3-43a2-8f01-b08c0ab30754",
+            "name": "Beans Cowpea (Lobia Phaliyaan)",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "4cc83107-06fe-4ac6-8e0a-803e29942eff",
+            "name": "Gourmet Garden Organic Capsicum Red",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ddfed41d-efe8-45f3-802e-bdd6248881c6",
+            "name": "Baby Potato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "53c53d65-c951-4b58-8808-1391ed166228",
+            "name": "Capsicum Red",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "01117c6d-2221-4a0f-a9f8-80be94e20cfc",
+            "name": "Gourmet Garden Organic Cherry Tomato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f260bed3-4f0d-4d1f-af6a-64a21ced2191",
+            "name": "Baby Corn",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "19e1a2c2-5419-472a-b4ca-cfeedefe43e7",
+            "name": "Lady Finger 500 gms Combo",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b0695a8e-5b2c-4102-bdf1-b298c5173cfd",
+            "name": "Snake Gourd",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "4a60e773-8172-4a4b-ada7-baa9579d003e",
+            "name": "Deep Rooted Residue Free Beans Haricot",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "343f19fd-7060-4e84-ad0a-007d359d4760",
+            "name": "Banana Raw / Kura Aratikaya 2 pc X 2 Combo.",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "196b32b2-55be-4623-ac6c-bcfe7fb8e01f",
+            "name": "Deep Rooted Residue Free Cherry Tomato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ea7e9d74-3cc3-4cd8-ad4e-e9232a93b26d",
+            "name": "Mushroom Milky",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f47faa37-c96d-4c48-b782-d0896c08a3c3",
+            "name": "Gourmet Garden Organic Capsicum Yellow",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "14f48c8b-3844-49d0-8b44-1404576d5f7a",
+            "name": "Tomato Local",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b3aaaa08-3bab-4c59-95c3-7d2dd5ec876a",
+            "name": "Capsicum Red & Yellow",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "74cc7693-e391-43d2-b0d0-aa7d634bc83c",
+            "name": "Broccoli",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "07b68a36-64bd-46bf-8110-6d2dc982775b",
+            "name": "Bottle Gourd",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "bdb301d5-0d45-4a12-9075-abf450bbdd45",
+            "name": "Deep Rooted Residue Free Broccoli",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ae3f887b-8baf-4b0b-b5d3-a5b2097e8082",
+            "name": "Cherry Tomato",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "47a7b8ad-6f8a-465a-a0ef-fd397be7fbe8",
+            "name": "Capsicum Yellow",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "42d5743f-483e-42f8-9675-59aa1f5f775a",
+            "name": "Snacky Cucumbers 250 Gms",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "42d5743f-483e-42f8-9675-59aa1f5f775a",
+            "name": "Snacky Cucumbers 250 Gms",
+            "fdcId": "NA"
+        }
+    ],
+    "fruits": [
+        {
+            "productId": "3d5ffed8-9894-4f2c-9214-d96b9b73445a",
+            "name": "Banana Robusta",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "9ab7047e-71e9-4d62-a28c-4f463ea80b38",
+            "name": "Orange Nagpur",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "844d3994-59e2-4968-97e2-c21b822badbb",
+            "name": "Baby Apple Shimla",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "1db4d2b0-ed63-4dbf-a0c7-960dc162af80",
+            "name": "Avocado Hass Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "267f186c-2a45-4fa1-80d2-3d4a96bee355",
+            "name": "Fig",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "69a19c58-15ae-40b5-967d-08b8fc15dbb9",
+            "name": "Gooseberry (Amla)",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "fb016066-cc82-4a06-b1e7-14d1209eeece",
+            "name": "Apple Royal Gala",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "4e24ba0d-1ef2-4231-bc2a-f05828769e0c",
+            "name": "Mosambi",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "0a5c3823-ab0c-46ec-be8c-4a6e9b554bf3",
+            "name": "Zespri Kiwi Sungold Semi Ripe",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "800c5e10-40e5-4a6f-aa46-aa8075296a05",
+            "name": "Baby Orange",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "e9d220d9-a775-4e37-bd68-0a6312931c67",
+            "name": "Apple Royal Gala",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "989f23a9-8671-434c-974e-b8735840cafc",
+            "name": "Pomegranate Regular",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "68b04360-18b4-4776-bb9e-23b2e74a6724",
+            "name": "Coconut",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ec7b5100-0c9c-468c-92f5-a4e0ab90b4ac",
+            "name": "Mango Totapuri",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "8e42d248-bbb5-449a-ac70-139edabf9e7c",
+            "name": "Pear Green Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "36746185-3268-4d8b-9e5f-bc20e743f206",
+            "name": "Grapes Bengalore Blue",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f066cf6e-dce0-4eb9-8a21-0d90aa657523",
+            "name": "Pomegranate",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "9bd6d03b-ecf4-4b24-bc89-92ec830a7245",
+            "name": "Guava (Amrood) / Jama Kaya Semi Ripe",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "59387dbe-2815-4f29-ada2-a42e1b691f31",
+            "name": "Plum Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "909a0043-dc5c-4a73-b251-b87b5dbd6ee0",
+            "name": "Pear Beauty",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "c5756855-7889-42b9-8e26-73770f0fbbd7",
+            "name": "Dragon Fruit",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "34fc4f11-8f1b-4f98-bb1a-1a7f81c6cf4c",
+            "name": "Kiwi Chile",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "13a5207d-20a2-45b8-9ab9-4073ba2abe12",
+            "name": "Organic Avocado",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "e0c2980d-b27e-4bd6-98a7-56d8c3ea4060",
+            "name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "ef32c50d-e60e-4fa6-9974-146ed2f31a0f",
+            "name": "Northwest Cherries",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "2d9856be-eb3a-4f72-994c-686bd0e73af8",
+            "name": "Mango Raw",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "29cc541e-3164-4cae-af40-7f449385cd2a",
+            "name": "Grapefruit",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "0b1536b7-f561-4926-8e7a-492502020943",
+            "name": "Apple Ber",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "50501476-3201-4eaa-bda9-d98120308b06",
+            "name": "Apple Pink Lady",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "68ec8953-e224-4269-a781-98518157e488",
+            "name": "Guava Thai",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "6f4ae953-e8de-48e0-b275-91c851b73a62",
+            "name": "Pomegranate",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "f47cdbda-63ef-4e31-97fc-cff553244e13",
+            "name": "Organic Pineapple",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "04328c9f-0e60-43e2-bbd6-e28d3f8d1f01",
+            "name": "Longan",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "5b14e9dd-b0c3-492e-9691-fac1b41356d2",
+            "name": "Apple Queen",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "d60dc1fb-6a6e-4379-81e7-a38eff50e164",
+            "name": "Pineapple (Ananas) Semi Ripe",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "00dab9b3-c202-4bc6-b55a-46875996351e",
+            "name": "Apple Ber Kashmiri",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "7f810e89-5b08-437e-a39b-ce1712f1f624",
+            "name": "Banana Karpoora",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "e68c02a3-d9a2-44a4-8555-89c765e36e41",
+            "name": "Apple Green",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "154c6abd-ef2f-4ade-83b2-3988a7a238f4",
+            "name": "Papaya Raw/Poppadi Kaya/Boppas Kaya",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "58cfb7c0-488b-41be-9b27-e3af3bfbb94b",
+            "name": "Baby Apple Shimla 500 gms Combo",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "272b376f-c6b6-4d8b-9743-5134df22fa5a",
+            "name": "Baby Apple Shimla 500 gms Combo",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "5bf307be-4be2-4a7e-bc60-7966a7507ff6",
+            "name": "Pear Green Imported 2 pc X 2 Combo.",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "9649106c-71da-4dde-9cd8-99002bf6fcf6",
+            "name": "Sugarcane",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b9a3b045-cede-4c82-a764-f7c62cccb232",
+            "name": "Apple Fuji",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "3ce0e1fc-1718-4695-9563-1f8c926d8526",
+            "name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu 1 pcs Combo",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "36f37518-4a97-4cc0-a9e3-f61c64ea555c",
+            "name": "Blueberry Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "91e8ac2e-690c-49a9-bd5c-0ccbe95ebeb6",
+            "name": "Tender Coconut",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b3c91d9a-8acd-430f-af2f-a34997fba1d6",
+            "name": "Apple Shimla",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "e41cf076-eb7c-4f94-90be-3478d6ce5673",
+            "name": "Strawberry",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "71c9e933-28a2-4c5b-813e-213eb396c5b1",
+            "name": "Grapes Bengalore Blue",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "70e7462c-c429-4e0f-9292-1834b1fb17d6",
+            "name": "Apple Shimla",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "b42e30ae-48d0-4fcf-a06e-cc54adce2a75",
+            "name": "Watermelon Kiran",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "aefe583f-101a-4827-bbc4-36d09b0bd6b8",
+            "name": "Sapota",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "90e52554-8989-4cc0-bcb6-d8761bffae7f",
+            "name": "Muskmelon",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "45bb4b60-8995-4ede-a4ec-5a2b1e7a98fb",
+            "name": "Guava Thai 1 pc X 2 Combo.",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "3682a4ef-cdf4-4281-892b-c56779d92b3b",
+            "name": "Orange Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "06722b86-9b1d-40f3-a1ab-6e5d6e4f3dae",
+            "name": "Grape Black Seedless",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "90e52554-8989-4cc0-bcb6-d8761bffae7f",
+            "name": "Muskmelon",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "45bb4b60-8995-4ede-a4ec-5a2b1e7a98fb",
+            "name": "Guava Thai 1 pc X 2 Combo.",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "3682a4ef-cdf4-4281-892b-c56779d92b3b",
+            "name": "Orange Imported",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "06722b86-9b1d-40f3-a1ab-6e5d6e4f3dae",
+            "name": "Grape Black Seedless",
+            "fdcId": "NA"
+        },
+        {
+            "productId": "90e52554-8989-4cc0-bcb6-d8761bffae7f",
+            "name": "Muskmelon",
+            "fdcId": "NA"
+        }
+    ]
+}

@@ -1,14 +1,3194 @@
 {
   "logs": [
-    {
-      "productId": "123",
-      "store": "zepto",
-      "price": 83,
-      "measurement": {
-        "value": "500",
-        "unit": "g"
+      {
+          "id": 1,
+          "productId": "14f48c8b-3844-49d0-8b44-1404576d5f7a",
+          "store": "zepto",
+          "price": 35,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:28"
       },
-      "date": "2024-08-01T08:45:27.657Z"
-    }
+      {
+          "id": 2,
+          "productId": "10dd0177-570b-45be-9615-4eea545f0ed6",
+          "store": "zepto",
+          "price": 88,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:52:30"
+      },
+      {
+          "id": 3,
+          "productId": "e9de86da-02a6-46e3-ba4e-98b59dd88be5",
+          "store": "zepto",
+          "price": 52,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:52:33"
+      },
+      {
+          "id": 4,
+          "productId": "5ead9338-d284-4f53-a463-cbc1a6cb4de2",
+          "store": "zepto",
+          "price": 51,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:34"
+      },
+      {
+          "id": 5,
+          "productId": "080c78e3-997a-47eb-9ea7-311bfb051092",
+          "store": "zepto",
+          "price": 61,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:35"
+      },
+      {
+          "id": 6,
+          "productId": "3ef3e99c-a2c0-4673-bd2e-f1298986c461",
+          "store": "zepto",
+          "price": 47,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:52:36"
+      },
+      {
+          "id": 7,
+          "productId": "89cf715c-eca2-4f6c-97f8-b3b140b4c779",
+          "store": "zepto",
+          "price": 19,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:37"
+      },
+      {
+          "id": 8,
+          "productId": "3ef4342d-dc6c-43b6-9e6b-f4f578323b16",
+          "store": "zepto",
+          "price": 37,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:39"
+      },
+      {
+          "id": 9,
+          "productId": "5299ac4b-f556-43da-9139-ccec5b65b4d7",
+          "store": "zepto",
+          "price": 50,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:52:41"
+      },
+      {
+          "id": 10,
+          "productId": "c7449c04-c4b4-4f54-9328-a286e3724b34",
+          "store": "zepto",
+          "price": 42,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:43"
+      },
+      {
+          "id": 11,
+          "productId": "ebd18811-41e5-455a-9be2-e4f6186328ae",
+          "store": "zepto",
+          "price": 69,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:46"
+      },
+      {
+          "id": 12,
+          "productId": "07b68a36-64bd-46bf-8110-6d2dc982775b",
+          "store": "zepto",
+          "price": 46,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:52:48"
+      },
+      {
+          "id": 13,
+          "productId": "03d008d9-fad5-48dc-9df0-d8d9bedfe559",
+          "store": "zepto",
+          "price": 26,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:50"
+      },
+      {
+          "id": 14,
+          "productId": "48147444-e7e4-4db7-931a-0f1cc6a22ed7",
+          "store": "zepto",
+          "price": 31,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:52"
+      },
+      {
+          "id": 15,
+          "productId": "ea6b6e14-4aef-40e3-b5e3-b24f048bbfbe",
+          "store": "zepto",
+          "price": 34,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:53"
+      },
+      {
+          "id": 16,
+          "productId": "b46cb2f7-0985-4467-96b4-cf473f6e8de6",
+          "store": "zepto",
+          "price": 28,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:52:54"
+      },
+      {
+          "id": 17,
+          "productId": "ee0ca9b9-687b-476d-98ff-911bd4fe4852",
+          "store": "zepto",
+          "price": 168,
+          "measurement": {
+              "value": "2",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:52:56"
+      },
+      {
+          "id": 18,
+          "productId": "b863d21b-e580-4199-92db-584ada216d8c",
+          "store": "zepto",
+          "price": 51,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:52:58"
+      },
+      {
+          "id": 19,
+          "productId": "86332e16-a444-4778-a7aa-5789519a7014",
+          "store": "zepto",
+          "price": 52,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:00"
+      },
+      {
+          "id": 20,
+          "productId": "042f191d-4779-4800-8bbc-b5526fb436fe",
+          "store": "zepto",
+          "price": 166,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:53:02"
+      },
+      {
+          "id": 21,
+          "productId": "f7c1d23e-87f1-48e9-9d60-7e218ae154a4",
+          "store": "zepto",
+          "price": 44,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:53:03"
+      },
+      {
+          "id": 22,
+          "productId": "427c5e3a-91af-43a6-a520-4257546fdc44",
+          "store": "zepto",
+          "price": 47,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:06"
+      },
+      {
+          "id": 23,
+          "productId": "dcd07e0d-4612-49db-b85c-67746a6f7873",
+          "store": "zepto",
+          "price": 58,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:07"
+      },
+      {
+          "id": 24,
+          "productId": "f340f7e5-2b06-48c6-9349-c72bb4d09036",
+          "store": "zepto",
+          "price": 66,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:09"
+      },
+      {
+          "id": 25,
+          "productId": "e0eb0e7f-5b63-4b6c-b5ad-39a85c620e92",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:10"
+      },
+      {
+          "id": 26,
+          "productId": "b80f57fa-692e-492e-aa5d-9a115b97ab93",
+          "store": "zepto",
+          "price": 130,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:53:11"
+      },
+      {
+          "id": 27,
+          "productId": "74cc7693-e391-43d2-b0d0-aa7d634bc83c",
+          "store": "zepto",
+          "price": 118,
+          "measurement": {
+              "value": "300",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:13"
+      },
+      {
+          "id": 28,
+          "productId": "6e9125eb-f6bc-4971-87bc-f24073d7c4e9",
+          "store": "zepto",
+          "price": 22,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:14"
+      },
+      {
+          "id": 29,
+          "productId": "26ead4a9-2449-44d1-b212-3aee5048ef74",
+          "store": "zepto",
+          "price": 35,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:15"
+      },
+      {
+          "id": 30,
+          "productId": "ae2aed4e-7577-47f1-86db-0ac4cd73fcab",
+          "store": "zepto",
+          "price": 45,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:17"
+      },
+      {
+          "id": 31,
+          "productId": "c99c5a73-8f9b-4f28-bcc5-66e135cebfbc",
+          "store": "zepto",
+          "price": 34,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:19"
+      },
+      {
+          "id": 32,
+          "productId": "a9d8e2e6-cce1-410c-a56e-a3a5fd5caca2",
+          "store": "zepto",
+          "price": 49,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:21"
+      },
+      {
+          "id": 33,
+          "productId": "110c8c67-1f0c-4dc4-8da8-1359a2d2a6b4",
+          "store": "zepto",
+          "price": 47,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:53:22"
+      },
+      {
+          "id": 34,
+          "productId": "3a87e9e1-4f5e-4673-bed1-3414223d4e1a",
+          "store": "zepto",
+          "price": 35,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:23"
+      },
+      {
+          "id": 35,
+          "productId": "e38a78a3-2a4c-4076-83ae-f2f778988fd1",
+          "store": "zepto",
+          "price": 65,
+          "measurement": {
+              "value": "45",
+              "unit": "0"
+          },
+          "date": "2024-12-09T15:53:26"
+      },
+      {
+          "id": 36,
+          "productId": "5032e643-3b94-4c62-bf2e-331c4f2cc4c1",
+          "store": "zepto",
+          "price": 39,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:28"
+      },
+      {
+          "id": 37,
+          "productId": "43abb722-fadf-41cf-a456-c34ed17a56a1",
+          "store": "zepto",
+          "price": 249,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:53:29"
+      },
+      {
+          "id": 38,
+          "productId": "0089e7ad-4afc-4ee5-bd5f-ad914ebeb939",
+          "store": "zepto",
+          "price": 66,
+          "measurement": {
+              "value": "47",
+              "unit": "5"
+          },
+          "date": "2024-12-09T15:53:31"
+      },
+      {
+          "id": 39,
+          "productId": "b5e04256-2aab-4dba-9b3e-320125670383",
+          "store": "zepto",
+          "price": 113,
+          "measurement": {
+              "value": "N/A",
+              "unit": "N/A"
+          },
+          "date": "2024-12-09T15:53:33"
+      },
+      {
+          "id": 40,
+          "productId": "071a914b-03cd-48bc-a6fe-aa4fd66c0121",
+          "store": "zepto",
+          "price": 28,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:34"
+      },
+      {
+          "id": 41,
+          "productId": "fa45143f-00a3-43a2-8f01-b08c0ab30754",
+          "store": "zepto",
+          "price": 28,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:35"
+      },
+      {
+          "id": 42,
+          "productId": "f34cab46-ddd9-4efa-a293-6ff4da4466dc",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:37"
+      },
+      {
+          "id": 43,
+          "productId": "a10bd1fa-55a4-4cf3-a980-2e138734c806",
+          "store": "zepto",
+          "price": 51,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:38"
+      },
+      {
+          "id": 44,
+          "productId": "3b0bc38b-8938-4d8a-a241-5406aca5453f",
+          "store": "zepto",
+          "price": 75,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:39"
+      },
+      {
+          "id": 45,
+          "productId": "9baf2c0d-9a85-4eec-9ab1-e3b2f6d0fa6d",
+          "store": "zepto",
+          "price": 76,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:41"
+      },
+      {
+          "id": 46,
+          "productId": "d6f040fd-e598-49e1-b7df-c8ccbc7daa50",
+          "store": "zepto",
+          "price": 39,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:42"
+      },
+      {
+          "id": 47,
+          "productId": "b3aaaa08-3bab-4c59-95c3-7d2dd5ec876a",
+          "store": "zepto",
+          "price": 153,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:53:44"
+      },
+      {
+          "id": 48,
+          "productId": "78a72ad4-985e-490c-96b7-431f0c4b5b75",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "47",
+              "unit": "5"
+          },
+          "date": "2024-12-09T15:53:45"
+      },
+      {
+          "id": 49,
+          "productId": "ddfed41d-efe8-45f3-802e-bdd6248881c6",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:47"
+      },
+      {
+          "id": 50,
+          "productId": "14959977-0a28-4f90-ae2c-63d8a9824904",
+          "store": "zepto",
+          "price": 50,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:48"
+      },
+      {
+          "id": 51,
+          "productId": "61cea188-13bf-4ed0-abc0-4424049a7abf",
+          "store": "zepto",
+          "price": 48,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:49"
+      },
+      {
+          "id": 52,
+          "productId": "eaa9a84e-73c3-4180-85f4-704f04712b7c",
+          "store": "zepto",
+          "price": 114,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-09T15:53:51"
+      },
+      {
+          "id": 53,
+          "productId": "ced27737-fbb8-4c7c-8782-9d1ad8af90fd",
+          "store": "zepto",
+          "price": 71,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:53"
+      },
+      {
+          "id": 54,
+          "productId": "52854a28-2908-4b3a-91bd-577167726939",
+          "store": "zepto",
+          "price": 98,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:55"
+      },
+      {
+          "id": 55,
+          "productId": "3984a9ae-ec33-401f-a767-42e059fec2b0",
+          "store": "zepto",
+          "price": 52,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:56"
+      },
+      {
+          "id": 56,
+          "productId": "92807624-6254-475b-a299-69b0c03fef90",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "750",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:53:57"
+      },
+      {
+          "id": 57,
+          "productId": "c1000b93-75ab-4f74-96d2-27886541a69d",
+          "store": "zepto",
+          "price": 92,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:00"
+      },
+      {
+          "id": 58,
+          "productId": "b0695a8e-5b2c-4102-bdf1-b298c5173cfd",
+          "store": "zepto",
+          "price": 42,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:01"
+      },
+      {
+          "id": 59,
+          "productId": "bdb301d5-0d45-4a12-9075-abf450bbdd45",
+          "store": "zepto",
+          "price": 103,
+          "measurement": {
+              "value": "400",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:02"
+      },
+      {
+          "id": 60,
+          "productId": "ea7e9d74-3cc3-4cd8-ad4e-e9232a93b26d",
+          "store": "zepto",
+          "price": 130,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:05"
+      },
+      {
+          "id": 61,
+          "productId": "f7abea48-df9a-478a-a852-dbc2820f345a",
+          "store": "zepto",
+          "price": 86,
+          "measurement": {
+              "value": "47",
+              "unit": "5"
+          },
+          "date": "2024-12-09T15:54:06"
+      },
+      {
+          "id": 62,
+          "productId": "074bb0be-6a35-40fb-b927-c80d2db086e5",
+          "store": "zepto",
+          "price": 73,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:07"
+      },
+      {
+          "id": 63,
+          "productId": "c9a4a855-34de-4623-b6f8-d86baf1e3659",
+          "store": "zepto",
+          "price": 87,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:09"
+      },
+      {
+          "id": 64,
+          "productId": "efb761dc-c03f-4169-9004-04492bcf2465",
+          "store": "zepto",
+          "price": 77,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:11"
+      },
+      {
+          "id": 65,
+          "productId": "d0a4f7ff-2151-4b2e-89bf-975b092f3b6a",
+          "store": "zepto",
+          "price": 84,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:54:12"
+      },
+      {
+          "id": 66,
+          "productId": "4c251e7e-4076-4205-8a1a-8308f4c64c9f",
+          "store": "zepto",
+          "price": 130,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:13"
+      },
+      {
+          "id": 67,
+          "productId": "688723d2-53e5-4613-ae2d-725819b4ac60",
+          "store": "zepto",
+          "price": 62,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:15"
+      },
+      {
+          "id": 68,
+          "productId": "49a4575b-b8b2-4963-a159-3338a13a0a6c",
+          "store": "zepto",
+          "price": 236,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:54:17"
+      },
+      {
+          "id": 69,
+          "productId": "ee87b610-d7d4-4f54-a1d7-977c074a9854",
+          "store": "zepto",
+          "price": 52,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:18"
+      },
+      {
+          "id": 70,
+          "productId": "ce2483ec-628d-485c-8a77-25c6b72f4943",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:20"
+      },
+      {
+          "id": 71,
+          "productId": "1eb16d31-2613-42c7-ad44-bfc62654b7a7",
+          "store": "zepto",
+          "price": 152,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:21"
+      },
+      {
+          "id": 72,
+          "productId": "cc76f8e2-a333-4d19-9d53-afdd75018993",
+          "store": "zepto",
+          "price": 66,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:23"
+      },
+      {
+          "id": 73,
+          "productId": "ae3f887b-8baf-4b0b-b5d3-a5b2097e8082",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:25"
+      },
+      {
+          "id": 74,
+          "productId": "85cfe313-b568-49d7-8c8a-e3dbcf499d7a",
+          "store": "zepto",
+          "price": 92,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:54:26"
+      },
+      {
+          "id": 75,
+          "productId": "7a1a53cf-ae3a-4c57-878b-598b117a3da0",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:28"
+      },
+      {
+          "id": 76,
+          "productId": "a07fd7a9-e4d7-4a9b-afe5-bd01dd5587db",
+          "store": "zepto",
+          "price": 50,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:29"
+      },
+      {
+          "id": 77,
+          "productId": "ef0cd622-1a24-4d5d-87f7-a1747e03872b",
+          "store": "zepto",
+          "price": 92,
+          "measurement": {
+              "value": "45",
+              "unit": "0"
+          },
+          "date": "2024-12-09T15:54:31"
+      },
+      {
+          "id": 78,
+          "productId": "48b6cb4f-a188-49eb-8eed-bfb8f0cc25b3",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "47",
+              "unit": "5"
+          },
+          "date": "2024-12-09T15:54:32"
+      },
+      {
+          "id": 79,
+          "productId": "42d5743f-483e-42f8-9675-59aa1f5f775a",
+          "store": "zepto",
+          "price": 27,
+          "measurement": {
+              "value": "1",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:54:34"
+      },
+      {
+          "id": 80,
+          "productId": "f862c9e4-54bd-421e-a3b3-723ae4aee095",
+          "store": "zepto",
+          "price": 80,
+          "measurement": {
+              "value": "60",
+              "unit": "0"
+          },
+          "date": "2024-12-09T15:54:35"
+      },
+      {
+          "id": 81,
+          "productId": "219ffc4c-cc41-4807-8186-15ebfb58508d",
+          "store": "zepto",
+          "price": 159,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-09T15:54:37"
+      },
+      {
+          "id": 82,
+          "productId": "c89e9907-9ca7-424b-ace5-cd81a26eb50d",
+          "store": "zepto",
+          "price": 118,
+          "measurement": {
+              "value": "475",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:38"
+      },
+      {
+          "id": 83,
+          "productId": "ca12bd51-0565-4064-b0b8-37c7911f6dcb",
+          "store": "zepto",
+          "price": 122,
+          "measurement": {
+              "value": "475",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:40"
+      },
+      {
+          "id": 84,
+          "productId": "343f19fd-7060-4e84-ad0a-007d359d4760",
+          "store": "zepto",
+          "price": 94,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:54:41"
+      },
+      {
+          "id": 85,
+          "productId": "19e1a2c2-5419-472a-b4ca-cfeedefe43e7",
+          "store": "zepto",
+          "price": 84,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-09T15:54:43"
+      },
+      {
+          "id": 86,
+          "productId": "4c578cca-28e6-4c5e-be41-d840b50b2dbe",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "475",
+              "unit": "gms"
+          },
+          "date": "2024-12-09T15:54:45"
+      },
+      {
+          "id": 87,
+          "productId": "5eb84e9e-f8a6-446c-8b02-256473b52e8a",
+          "store": "zepto",
+          "price": 75,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:46"
+      },
+      {
+          "id": 88,
+          "productId": "df5ee788-00ce-4cce-afb7-102cb7b3b40d",
+          "store": "zepto",
+          "price": 51,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:48"
+      },
+      {
+          "id": 89,
+          "productId": "e107cbfd-e6a6-49b2-9a0b-3c764ebddce2",
+          "store": "zepto",
+          "price": 36,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:52"
+      },
+      {
+          "id": 90,
+          "productId": "5289b734-7e41-45d1-a11b-966f5cdfa104",
+          "store": "zepto",
+          "price": 50,
+          "measurement": {
+              "value": "1",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:54:53"
+      },
+      {
+          "id": 91,
+          "productId": "4a60e773-8172-4a4b-ada7-baa9579d003e",
+          "store": "zepto",
+          "price": 117,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:54"
+      },
+      {
+          "id": 92,
+          "productId": "196b32b2-55be-4623-ac6c-bcfe7fb8e01f",
+          "store": "zepto",
+          "price": 146,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:57"
+      },
+      {
+          "id": 93,
+          "productId": "01117c6d-2221-4a0f-a9f8-80be94e20cfc",
+          "store": "zepto",
+          "price": 101,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:54:58"
+      },
+      {
+          "id": 94,
+          "productId": "9815e015-2c77-4bad-9ad3-0fe73062ff68",
+          "store": "zepto",
+          "price": 150,
+          "measurement": {
+              "value": "1",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:55:00"
+      },
+      {
+          "id": 95,
+          "productId": "3d5ffed8-9894-4f2c-9214-d96b9b73445a",
+          "store": "zepto",
+          "price": 56,
+          "measurement": {
+              "value": "6",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:55:38"
+      },
+      {
+          "id": 96,
+          "productId": "68b04360-18b4-4776-bb9e-23b2e74a6724",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:39"
+      },
+      {
+          "id": 97,
+          "productId": "f066cf6e-dce0-4eb9-8a21-0d90aa657523",
+          "store": "zepto",
+          "price": 143,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:55:41"
+      },
+      {
+          "id": 98,
+          "productId": "9ab7047e-71e9-4d62-a28c-4f463ea80b38",
+          "store": "zepto",
+          "price": 44,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:55:44"
+      },
+      {
+          "id": 99,
+          "productId": "fb016066-cc82-4a06-b1e7-14d1209eeece",
+          "store": "zepto",
+          "price": 213,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:55:45"
+      },
+      {
+          "id": 100,
+          "productId": "844d3994-59e2-4968-97e2-c21b822badbb",
+          "store": "zepto",
+          "price": 146,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:55:46"
+      },
+      {
+          "id": 101,
+          "productId": "1db4d2b0-ed63-4dbf-a0c7-960dc162af80",
+          "store": "zepto",
+          "price": 114,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:48"
+      },
+      {
+          "id": 102,
+          "productId": "36f37518-4a97-4cc0-a9e3-f61c64ea555c",
+          "store": "zepto",
+          "price": 199,
+          "measurement": {
+              "value": "120",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:55:49"
+      },
+      {
+          "id": 103,
+          "productId": "9bd6d03b-ecf4-4b24-bc89-92ec830a7245",
+          "store": "zepto",
+          "price": 56,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:55:52"
+      },
+      {
+          "id": 104,
+          "productId": "91e8ac2e-690c-49a9-bd5c-0ccbe95ebeb6",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:53"
+      },
+      {
+          "id": 105,
+          "productId": "e0c2980d-b27e-4bd6-98a7-56d8c3ea4060",
+          "store": "zepto",
+          "price": 99,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:54"
+      },
+      {
+          "id": 106,
+          "productId": "a3b1df82-b078-4fbc-825b-afc7df3d71f6",
+          "store": "zepto",
+          "price": 118,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:55:56"
+      },
+      {
+          "id": 107,
+          "productId": "b42e30ae-48d0-4fcf-a06e-cc54adce2a75",
+          "store": "zepto",
+          "price": 122,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:57"
+      },
+      {
+          "id": 108,
+          "productId": "c5756855-7889-42b9-8e26-73770f0fbbd7",
+          "store": "zepto",
+          "price": 91,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:55:58"
+      },
+      {
+          "id": 109,
+          "productId": "69a19c58-15ae-40b5-967d-08b8fc15dbb9",
+          "store": "zepto",
+          "price": 49,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:00"
+      },
+      {
+          "id": 110,
+          "productId": "989f23a9-8671-434c-974e-b8735840cafc",
+          "store": "zepto",
+          "price": 232,
+          "measurement": {
+              "value": "4",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:56:02"
+      },
+      {
+          "id": 111,
+          "productId": "eeaf97b4-a95f-44b0-b1b5-fd7cd7aaf41f",
+          "store": "zepto",
+          "price": 180,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:03"
+      },
+      {
+          "id": 112,
+          "productId": "0a97deb6-f073-45f8-a12f-8d9d42275c56",
+          "store": "zepto",
+          "price": 106,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:05"
+      },
+      {
+          "id": 113,
+          "productId": "90eb4320-0288-46a1-89f1-5ca20815a861",
+          "store": "zepto",
+          "price": 177,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:06"
+      },
+      {
+          "id": 114,
+          "productId": "7f810e89-5b08-437e-a39b-ce1712f1f624",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:09"
+      },
+      {
+          "id": 115,
+          "productId": "34fc4f11-8f1b-4f98-bb1a-1a7f81c6cf4c",
+          "store": "zepto",
+          "price": 147,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:10"
+      },
+      {
+          "id": 116,
+          "productId": "800c5e10-40e5-4a6f-aa46-aa8075296a05",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:11"
+      },
+      {
+          "id": 117,
+          "productId": "fb076f1b-45c8-430e-a2be-41b5b2512971",
+          "store": "zepto",
+          "price": 80,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:12"
+      },
+      {
+          "id": 118,
+          "productId": "2d9856be-eb3a-4f72-994c-686bd0e73af8",
+          "store": "zepto",
+          "price": 99,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:14"
+      },
+      {
+          "id": 119,
+          "productId": "8e42d248-bbb5-449a-ac70-139edabf9e7c",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:16"
+      },
+      {
+          "id": 120,
+          "productId": "4e24ba0d-1ef2-4231-bc2a-f05828769e0c",
+          "store": "zepto",
+          "price": 61,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:17"
+      },
+      {
+          "id": 121,
+          "productId": "c9b080ce-ab7c-424f-afad-6633dedf82b4",
+          "store": "zepto",
+          "price": 108,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:18"
+      },
+      {
+          "id": 122,
+          "productId": "e41cf076-eb7c-4f94-90be-3478d6ce5673",
+          "store": "zepto",
+          "price": 129,
+          "measurement": {
+              "value": "1",
+              "unit": "pack"
+          },
+          "date": "2024-12-09T15:56:19"
+      },
+      {
+          "id": 123,
+          "productId": "90e52554-8989-4cc0-bcb6-d8761bffae7f",
+          "store": "zepto",
+          "price": 77,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:22"
+      },
+      {
+          "id": 124,
+          "productId": "06722b86-9b1d-40f3-a1ab-6e5d6e4f3dae",
+          "store": "zepto",
+          "price": 175,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:24"
+      },
+      {
+          "id": 125,
+          "productId": "e9d220d9-a775-4e37-bd68-0a6312931c67",
+          "store": "zepto",
+          "price": 116,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:27"
+      },
+      {
+          "id": 126,
+          "productId": "0b1536b7-f561-4926-8e7a-492502020943",
+          "store": "zepto",
+          "price": 72,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:28"
+      },
+      {
+          "id": 127,
+          "productId": "5a7528e9-6514-4971-a8ec-426e6ce533d0",
+          "store": "zepto",
+          "price": 219,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:30"
+      },
+      {
+          "id": 128,
+          "productId": "36746185-3268-4d8b-9e5f-bc20e743f206",
+          "store": "zepto",
+          "price": 116,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:31"
+      },
+      {
+          "id": 129,
+          "productId": "804e3d5a-743e-4d29-8dc2-c0b71aa9b8af",
+          "store": "zepto",
+          "price": 158,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:32"
+      },
+      {
+          "id": 130,
+          "productId": "d5ae03b4-73d3-49cb-a28c-7001c92ee92f",
+          "store": "zepto",
+          "price": 131,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:33"
+      },
+      {
+          "id": 131,
+          "productId": "ef32c50d-e60e-4fa6-9974-146ed2f31a0f",
+          "store": "zepto",
+          "price": 267,
+          "measurement": {
+              "value": "100",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:34"
+      },
+      {
+          "id": 132,
+          "productId": "d60dc1fb-6a6e-4379-81e7-a38eff50e164",
+          "store": "zepto",
+          "price": 126,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:34"
+      },
+      {
+          "id": 133,
+          "productId": "59387dbe-2815-4f29-ada2-a42e1b691f31",
+          "store": "zepto",
+          "price": 85,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:35"
+      },
+      {
+          "id": 134,
+          "productId": "154c6abd-ef2f-4ade-83b2-3988a7a238f4",
+          "store": "zepto",
+          "price": 52,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:36"
+      },
+      {
+          "id": 135,
+          "productId": "04328c9f-0e60-43e2-bbd6-e28d3f8d1f01",
+          "store": "zepto",
+          "price": 142,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:37"
+      },
+      {
+          "id": 136,
+          "productId": "dc728f2d-3fbe-4055-8868-aad4f8962aed",
+          "store": "zepto",
+          "price": 388,
+          "measurement": {
+              "value": "120",
+              "unit": "gms"
+          },
+          "date": "2024-12-09T15:56:38"
+      },
+      {
+          "id": 137,
+          "productId": "00dab9b3-c202-4bc6-b55a-46875996351e",
+          "store": "zepto",
+          "price": 84,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:39"
+      },
+      {
+          "id": 138,
+          "productId": "d663481d-6107-4b27-8231-1c31dbb7fb0a",
+          "store": "zepto",
+          "price": 208,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:40"
+      },
+      {
+          "id": 139,
+          "productId": "ec7b5100-0c9c-468c-92f5-a4e0ab90b4ac",
+          "store": "zepto",
+          "price": 208,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:40"
+      },
+      {
+          "id": 140,
+          "productId": "70e7462c-c429-4e0f-9292-1834b1fb17d6",
+          "store": "zepto",
+          "price": 143,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:41"
+      },
+      {
+          "id": 141,
+          "productId": "35f65e1e-8937-4542-80f9-e8b0bf4eb3fd",
+          "store": "zepto",
+          "price": 140,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:42"
+      },
+      {
+          "id": 142,
+          "productId": "29cc541e-3164-4cae-af40-7f449385cd2a",
+          "store": "zepto",
+          "price": 122,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:43"
+      },
+      {
+          "id": 143,
+          "productId": "0a5c3823-ab0c-46ec-be8c-4a6e9b554bf3",
+          "store": "zepto",
+          "price": 217,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:43"
+      },
+      {
+          "id": 144,
+          "productId": "44520844-f104-4b1b-9c94-7a48c4f6ac00",
+          "store": "zepto",
+          "price": 98,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-09T15:56:44"
+      },
+      {
+          "id": 145,
+          "productId": "f47cdbda-63ef-4e31-97fc-cff553244e13",
+          "store": "zepto",
+          "price": 172,
+          "measurement": {
+              "value": "1",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:56:45"
+      },
+      {
+          "id": 146,
+          "productId": "6832c844-8370-42a2-849e-398b29d4ca8b",
+          "store": "zepto",
+          "price": 222,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:46"
+      },
+      {
+          "id": 147,
+          "productId": "c26e3e8a-fb9a-40b0-86e1-d007bb8a5c32",
+          "store": "zepto",
+          "price": 450,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:47"
+      },
+      {
+          "id": 148,
+          "productId": "3ce0e1fc-1718-4695-9563-1f8c926d8526",
+          "store": "zepto",
+          "price": 198,
+          "measurement": {
+              "value": "1",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:48"
+      },
+      {
+          "id": 149,
+          "productId": "6f568c77-a741-4e3b-9bfa-50ae35b96d70",
+          "store": "zepto",
+          "price": 170,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:49"
+      },
+      {
+          "id": 150,
+          "productId": "58cfb7c0-488b-41be-9b27-e3af3bfbb94b",
+          "store": "zepto",
+          "price": 292,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-09T15:56:50"
+      },
+      {
+          "id": 151,
+          "productId": "272b376f-c6b6-4d8b-9743-5134df22fa5a",
+          "store": "zepto",
+          "price": 292,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-09T15:56:51"
+      },
+      {
+          "id": 152,
+          "productId": "9649106c-71da-4dde-9cd8-99002bf6fcf6",
+          "store": "zepto",
+          "price": 71,
+          "measurement": {
+              "value": "2",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:56:52"
+      },
+      {
+          "id": 153,
+          "productId": "44531667-9f40-4008-97ab-dae7f599491b",
+          "store": "zepto",
+          "price": 206,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:53"
+      },
+      {
+          "id": 154,
+          "productId": "5bf307be-4be2-4a7e-bc60-7966a7507ff6",
+          "store": "zepto",
+          "price": 224,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:54"
+      },
+      {
+          "id": 155,
+          "productId": "b3c91d9a-8acd-430f-af2f-a34997fba1d6",
+          "store": "zepto",
+          "price": 165,
+          "measurement": {
+              "value": "4",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:55"
+      },
+      {
+          "id": 156,
+          "productId": "909a0043-dc5c-4a73-b251-b87b5dbd6ee0",
+          "store": "zepto",
+          "price": 137,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:56:57"
+      },
+      {
+          "id": 157,
+          "productId": "68ec8953-e224-4269-a781-98518157e488",
+          "store": "zepto",
+          "price": 72,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-09T15:56:58"
+      },
+      {
+          "id": 158,
+          "productId": "71c9e933-28a2-4c5b-813e-213eb396c5b1",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-09T15:56:59"
+      },
+      {
+          "id": 159,
+          "productId": "50501476-3201-4eaa-bda9-d98120308b06",
+          "store": "zepto",
+          "price": 122,
+          "measurement": {
+              "value": "2",
+              "unit": "piece"
+          },
+          "date": "2024-12-09T15:57:00"
+      },
+      {
+          "id": 160,
+          "productId": "e68c02a3-d9a2-44a4-8555-89c765e36e41",
+          "store": "zepto",
+          "price": 137,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:57:01"
+      },
+      {
+          "id": 161,
+          "productId": "5bdc5a4b-eb1e-414e-9cdc-993819312fe6",
+          "store": "zepto",
+          "price": 316,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:57:03"
+      },
+      {
+          "id": 162,
+          "productId": "45bb4b60-8995-4ede-a4ec-5a2b1e7a98fb",
+          "store": "zepto",
+          "price": 144,
+          "measurement": {
+              "value": "1",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:57:03"
+      },
+      {
+          "id": 163,
+          "productId": "3682a4ef-cdf4-4281-892b-c56779d92b3b",
+          "store": "zepto",
+          "price": 196,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-09T15:57:04"
+      },
+      {
+          "id": 164,
+          "productId": "14f48c8b-3844-49d0-8b44-1404576d5f7a",
+          "store": "zepto",
+          "price": 36,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:13"
+      },
+      {
+          "id": 165,
+          "productId": "e9de86da-02a6-46e3-ba4e-98b59dd88be5",
+          "store": "zepto",
+          "price": 54,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:08:20"
+      },
+      {
+          "id": 166,
+          "productId": "3ef4342d-dc6c-43b6-9e6b-f4f578323b16",
+          "store": "zepto",
+          "price": 38,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:23"
+      },
+      {
+          "id": 167,
+          "productId": "080c78e3-997a-47eb-9ea7-311bfb051092",
+          "store": "zepto",
+          "price": 59,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:27"
+      },
+      {
+          "id": 168,
+          "productId": "89cf715c-eca2-4f6c-97f8-b3b140b4c779",
+          "store": "zepto",
+          "price": 20,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:31"
+      },
+      {
+          "id": 169,
+          "productId": "5ead9338-d284-4f53-a463-cbc1a6cb4de2",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:34"
+      },
+      {
+          "id": 170,
+          "productId": "c7449c04-c4b4-4f54-9328-a286e3724b34",
+          "store": "zepto",
+          "price": 43,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:45"
+      },
+      {
+          "id": 171,
+          "productId": "ea6b6e14-4aef-40e3-b5e3-b24f048bbfbe",
+          "store": "zepto",
+          "price": 38,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:08:48"
+      },
+      {
+          "id": 172,
+          "productId": "74cc7693-e391-43d2-b0d0-aa7d634bc83c",
+          "store": "zepto",
+          "price": 134,
+          "measurement": {
+              "value": "300",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:06"
+      },
+      {
+          "id": 173,
+          "productId": "6e9125eb-f6bc-4971-87bc-f24073d7c4e9",
+          "store": "zepto",
+          "price": 24,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:10"
+      },
+      {
+          "id": 174,
+          "productId": "dcd07e0d-4612-49db-b85c-67746a6f7873",
+          "store": "zepto",
+          "price": 63,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:14"
+      },
+      {
+          "id": 175,
+          "productId": "86332e16-a444-4778-a7aa-5789519a7014",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:17"
+      },
+      {
+          "id": 176,
+          "productId": "e0eb0e7f-5b63-4b6c-b5ad-39a85c620e92",
+          "store": "zepto",
+          "price": 56,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:21"
+      },
+      {
+          "id": 177,
+          "productId": "17922fa5-5aee-498e-aa5d-000881b4c9a1",
+          "store": "zepto",
+          "price": 32,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:24"
+      },
+      {
+          "id": 178,
+          "productId": "c99c5a73-8f9b-4f28-bcc5-66e135cebfbc",
+          "store": "zepto",
+          "price": 36,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:28"
+      },
+      {
+          "id": 179,
+          "productId": "042f191d-4779-4800-8bbc-b5526fb436fe",
+          "store": "zepto",
+          "price": 164,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:09:39"
+      },
+      {
+          "id": 180,
+          "productId": "f7c1d23e-87f1-48e9-9d60-7e218ae154a4",
+          "store": "zepto",
+          "price": 38,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:09:43"
+      },
+      {
+          "id": 181,
+          "productId": "3a87e9e1-4f5e-4673-bed1-3414223d4e1a",
+          "store": "zepto",
+          "price": 37,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:46"
+      },
+      {
+          "id": 182,
+          "productId": "427c5e3a-91af-43a6-a520-4257546fdc44",
+          "store": "zepto",
+          "price": 48,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:50"
+      },
+      {
+          "id": 183,
+          "productId": "728122d1-6528-4af0-92fc-74522ffbcdf7",
+          "store": "zepto",
+          "price": 104,
+          "measurement": {
+              "value": "2",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:09:54"
+      },
+      {
+          "id": 184,
+          "productId": "24beb2c4-5bf0-410a-b8de-cc036fd5e23e",
+          "store": "zepto",
+          "price": 76,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:09:58"
+      },
+      {
+          "id": 185,
+          "productId": "1334262d-885c-44ed-8a9a-8a4d386153ea",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:01"
+      },
+      {
+          "id": 186,
+          "productId": "3b0bc38b-8938-4d8a-a241-5406aca5453f",
+          "store": "zepto",
+          "price": 85,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:05"
+      },
+      {
+          "id": 187,
+          "productId": "a9d8e2e6-cce1-410c-a56e-a3a5fd5caca2",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:13"
+      },
+      {
+          "id": 188,
+          "productId": "b80f57fa-692e-492e-aa5d-9a115b97ab93",
+          "store": "zepto",
+          "price": 135,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:10:16"
+      },
+      {
+          "id": 189,
+          "productId": "b3aaaa08-3bab-4c59-95c3-7d2dd5ec876a",
+          "store": "zepto",
+          "price": 146,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:10:27"
+      },
+      {
+          "id": 190,
+          "productId": "7e7b48c2-6be5-4abe-9df0-f5edc33fbd5c",
+          "store": "zepto",
+          "price": 30,
+          "measurement": {
+              "value": "100",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:35"
+      },
+      {
+          "id": 191,
+          "productId": "bb6e96fa-e476-4142-bcb4-d38a12ff350f",
+          "store": "zepto",
+          "price": 68,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:39"
+      },
+      {
+          "id": 192,
+          "productId": "8c6a29eb-f701-4a1e-83be-5d3e36fdb09f",
+          "store": "zepto",
+          "price": 156,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:50"
+      },
+      {
+          "id": 193,
+          "productId": "5032e643-3b94-4c62-bf2e-331c4f2cc4c1",
+          "store": "zepto",
+          "price": 36,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:54"
+      },
+      {
+          "id": 194,
+          "productId": "a10bd1fa-55a4-4cf3-a980-2e138734c806",
+          "store": "zepto",
+          "price": 60,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:10:57"
+      },
+      {
+          "id": 195,
+          "productId": "2dddff43-81f9-4e7e-8c51-56db9157315a",
+          "store": "zepto",
+          "price": 34,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:01"
+      },
+      {
+          "id": 196,
+          "productId": "f34cab46-ddd9-4efa-a293-6ff4da4466dc",
+          "store": "zepto",
+          "price": 56,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:10"
+      },
+      {
+          "id": 197,
+          "productId": "d6f040fd-e598-49e1-b7df-c8ccbc7daa50",
+          "store": "zepto",
+          "price": 44,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:13"
+      },
+      {
+          "id": 198,
+          "productId": "ddfed41d-efe8-45f3-802e-bdd6248881c6",
+          "store": "zepto",
+          "price": 59,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:17"
+      },
+      {
+          "id": 199,
+          "productId": "43abb722-fadf-41cf-a456-c34ed17a56a1",
+          "store": "zepto",
+          "price": 246,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:11:25"
+      },
+      {
+          "id": 200,
+          "productId": "eaa9a84e-73c3-4180-85f4-704f04712b7c",
+          "store": "zepto",
+          "price": 108,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:11:33"
+      },
+      {
+          "id": 201,
+          "productId": "50982dc8-1963-4c25-b6b0-1e69ce4c2923",
+          "store": "zepto",
+          "price": 44,
+          "measurement": {
+              "value": "250",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:11:37"
+      },
+      {
+          "id": 202,
+          "productId": "17d45022-d46e-407f-b9ce-369f7472d6af",
+          "store": "zepto",
+          "price": 118,
+          "measurement": {
+              "value": "450",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:41"
+      },
+      {
+          "id": 203,
+          "productId": "688723d2-53e5-4613-ae2d-725819b4ac60",
+          "store": "zepto",
+          "price": 66,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:49"
+      },
+      {
+          "id": 204,
+          "productId": "ae3f887b-8baf-4b0b-b5d3-a5b2097e8082",
+          "store": "zepto",
+          "price": 54,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:11:53"
+      },
+      {
+          "id": 205,
+          "productId": "fdfe284b-4401-4de3-a484-bac5779dd647",
+          "store": "zepto",
+          "price": 118,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:11:57"
+      },
+      {
+          "id": 206,
+          "productId": "c9a4a855-34de-4623-b6f8-d86baf1e3659",
+          "store": "zepto",
+          "price": 94,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:01"
+      },
+      {
+          "id": 207,
+          "productId": "78a72ad4-985e-490c-96b7-431f0c4b5b75",
+          "store": "zepto",
+          "price": 53,
+          "measurement": {
+              "value": "47",
+              "unit": "5"
+          },
+          "date": "2024-12-11T13:12:06"
+      },
+      {
+          "id": 208,
+          "productId": "074bb0be-6a35-40fb-b927-c80d2db086e5",
+          "store": "zepto",
+          "price": 72,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:09"
+      },
+      {
+          "id": 209,
+          "productId": "b0695a8e-5b2c-4102-bdf1-b298c5173cfd",
+          "store": "zepto",
+          "price": 40,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:13"
+      },
+      {
+          "id": 210,
+          "productId": "b6aadd66-9c2b-475f-8c8b-370660a9300d",
+          "store": "zepto",
+          "price": 258,
+          "measurement": {
+              "value": "300",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:20"
+      },
+      {
+          "id": 211,
+          "productId": "59fe12dc-0310-49c1-9a29-13f12d91e379",
+          "store": "zepto",
+          "price": 88,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:12:31"
+      },
+      {
+          "id": 212,
+          "productId": "a6973994-9b88-4205-a2bf-2e61734ab5ab",
+          "store": "zepto",
+          "price": 120,
+          "measurement": {
+              "value": "3",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:12:38"
+      },
+      {
+          "id": 213,
+          "productId": "52854a28-2908-4b3a-91bd-577167726939",
+          "store": "zepto",
+          "price": 100,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:42"
+      },
+      {
+          "id": 214,
+          "productId": "5e6fb5c8-fe08-4f23-9841-5284c87f026b",
+          "store": "zepto",
+          "price": 130,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:12:53"
+      },
+      {
+          "id": 215,
+          "productId": "fd1b5f3e-1b0b-4bf2-8352-5abffa86573a",
+          "store": "zepto",
+          "price": 104,
+          "measurement": {
+              "value": "400",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:12:57"
+      },
+      {
+          "id": 216,
+          "productId": "b85cbbc4-9899-4077-93e2-9c5749cc5f81",
+          "store": "zepto",
+          "price": 68,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:13:04"
+      },
+      {
+          "id": 217,
+          "productId": "49a4575b-b8b2-4963-a159-3338a13a0a6c",
+          "store": "zepto",
+          "price": 246,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:13:08"
+      },
+      {
+          "id": 218,
+          "productId": "f862c9e4-54bd-421e-a3b3-723ae4aee095",
+          "store": "zepto",
+          "price": 69,
+          "measurement": {
+              "value": "60",
+              "unit": "0"
+          },
+          "date": "2024-12-11T13:13:11"
+      },
+      {
+          "id": 219,
+          "productId": "4c578cca-28e6-4c5e-be41-d840b50b2dbe",
+          "store": "zepto",
+          "price": 98,
+          "measurement": {
+              "value": "475",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:13:16"
+      },
+      {
+          "id": 220,
+          "productId": "19e1a2c2-5419-472a-b4ca-cfeedefe43e7",
+          "store": "zepto",
+          "price": 86,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:13:23"
+      },
+      {
+          "id": 221,
+          "productId": "42d5743f-483e-42f8-9675-59aa1f5f775a",
+          "store": "zepto",
+          "price": 30,
+          "measurement": {
+              "value": "1",
+              "unit": "piece"
+          },
+          "date": "2024-12-11T13:13:27"
+      },
+      {
+          "id": 222,
+          "productId": "219ffc4c-cc41-4807-8186-15ebfb58508d",
+          "store": "zepto",
+          "price": 164,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:13:32"
+      },
+      {
+          "id": 223,
+          "productId": "dfbd5dce-7d2d-438c-979f-7327bbbe4a69",
+          "store": "zepto",
+          "price": 58,
+          "measurement": {
+              "value": "3",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:13:35"
+      },
+      {
+          "id": 224,
+          "productId": "82fb17f8-f4a5-450f-a72f-093a42425f63",
+          "store": "zepto",
+          "price": 214,
+          "measurement": {
+              "value": "4",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:13:43"
+      },
+      {
+          "id": 225,
+          "productId": "26ead4a9-2449-44d1-b212-3aee5048ef74",
+          "store": "zepto",
+          "price": 37,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:14:00"
+      },
+      {
+          "id": 226,
+          "productId": "f260bed3-4f0d-4d1f-af6a-64a21ced2191",
+          "store": "zepto",
+          "price": 80,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:14:03"
+      },
+      {
+          "id": 227,
+          "productId": "c9ab404f-6e4e-4f94-b231-3090663fe2a9",
+          "store": "zepto",
+          "price": 410,
+          "measurement": {
+              "value": "4",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:14:18"
+      },
+      {
+          "id": 228,
+          "productId": "2c54ba00-871f-4e82-9687-56e7e92731d9",
+          "store": "zepto",
+          "price": 78,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:14:32"
+      },
+      {
+          "id": 229,
+          "productId": "528c716c-eaf0-4cbc-8924-bef2eebe75eb",
+          "store": "zepto",
+          "price": 86,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:14:36"
+      },
+      {
+          "id": 230,
+          "productId": "47a7b8ad-6f8a-465a-a0ef-fd397be7fbe8",
+          "store": "zepto",
+          "price": 142,
+          "measurement": {
+              "value": "300",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:14:39"
+      },
+      {
+          "id": 231,
+          "productId": "c1000b93-75ab-4f74-96d2-27886541a69d",
+          "store": "zepto",
+          "price": 102,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:14:59"
+      },
+      {
+          "id": 232,
+          "productId": "2f6697f9-6c02-40ef-8908-d4cf515d74e9",
+          "store": "zepto",
+          "price": 146,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:15:03"
+      },
+      {
+          "id": 233,
+          "productId": "7a9c5605-123a-4b67-9563-8d51fa534ea8",
+          "store": "zepto",
+          "price": 136,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:15:06"
+      },
+      {
+          "id": 234,
+          "productId": "612290e0-a976-4ab8-8353-012b13f40a7f",
+          "store": "zepto",
+          "price": 264,
+          "measurement": {
+              "value": "725",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:15:16"
+      },
+      {
+          "id": 235,
+          "productId": "382e7834-c70e-4399-831a-f035440625c6",
+          "store": "zepto",
+          "price": 324,
+          "measurement": {
+              "value": "4",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:15:21"
+      },
+      {
+          "id": 236,
+          "productId": "efb761dc-c03f-4169-9004-04492bcf2465",
+          "store": "zepto",
+          "price": 74,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:15:24"
+      },
+      {
+          "id": 237,
+          "productId": "9bd6d03b-ecf4-4b24-bc89-92ec830a7245",
+          "store": "zepto",
+          "price": 59,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:16:31"
+      },
+      {
+          "id": 238,
+          "productId": "f066cf6e-dce0-4eb9-8a21-0d90aa657523",
+          "store": "zepto",
+          "price": 136,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:16:39"
+      },
+      {
+          "id": 239,
+          "productId": "844d3994-59e2-4968-97e2-c21b822badbb",
+          "store": "zepto",
+          "price": 159,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:16:45"
+      },
+      {
+          "id": 240,
+          "productId": "1db4d2b0-ed63-4dbf-a0c7-960dc162af80",
+          "store": "zepto",
+          "price": 106,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:16:52"
+      },
+      {
+          "id": 241,
+          "productId": "a3b1df82-b078-4fbc-825b-afc7df3d71f6",
+          "store": "zepto",
+          "price": 128,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:17:04"
+      },
+      {
+          "id": 242,
+          "productId": "91e8ac2e-690c-49a9-bd5c-0ccbe95ebeb6",
+          "store": "zepto",
+          "price": 69,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:17:08"
+      },
+      {
+          "id": 243,
+          "productId": "989f23a9-8671-434c-974e-b8735840cafc",
+          "store": "zepto",
+          "price": 207,
+          "measurement": {
+              "value": "4",
+              "unit": "piece"
+          },
+          "date": "2024-12-11T13:17:19"
+      },
+      {
+          "id": 244,
+          "productId": "e0c2980d-b27e-4bd6-98a7-56d8c3ea4060",
+          "store": "zepto",
+          "price": 103,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:17:22"
+      },
+      {
+          "id": 245,
+          "productId": "69a19c58-15ae-40b5-967d-08b8fc15dbb9",
+          "store": "zepto",
+          "price": 58,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:17:26"
+      },
+      {
+          "id": 246,
+          "productId": "90eb4320-0288-46a1-89f1-5ca20815a861",
+          "store": "zepto",
+          "price": 192,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:17:29"
+      },
+      {
+          "id": 247,
+          "productId": "cd6e2bea-caec-4e4d-bf3c-195da5cd66f3",
+          "store": "zepto",
+          "price": 104,
+          "measurement": {
+              "value": "12",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:17:40"
+      },
+      {
+          "id": 248,
+          "productId": "71c9e933-28a2-4c5b-813e-213eb396c5b1",
+          "store": "zepto",
+          "price": 51,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:17:47"
+      },
+      {
+          "id": 249,
+          "productId": "eeaf97b4-a95f-44b0-b1b5-fd7cd7aaf41f",
+          "store": "zepto",
+          "price": 195,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:17:54"
+      },
+      {
+          "id": 250,
+          "productId": "d60dc1fb-6a6e-4379-81e7-a38eff50e164",
+          "store": "zepto",
+          "price": 122,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:18:01"
+      },
+      {
+          "id": 251,
+          "productId": "800c5e10-40e5-4a6f-aa46-aa8075296a05",
+          "store": "zepto",
+          "price": 127,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:18:05"
+      },
+      {
+          "id": 252,
+          "productId": "68ec8953-e224-4269-a781-98518157e488",
+          "store": "zepto",
+          "price": 69,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:18:12"
+      },
+      {
+          "id": 253,
+          "productId": "4646007d-59b7-4a46-95dd-7e2e378c4d83",
+          "store": "zepto",
+          "price": 202,
+          "measurement": {
+              "value": "N/A",
+              "unit": "N/A"
+          },
+          "date": "2024-12-11T13:18:16"
+      },
+      {
+          "id": 254,
+          "productId": "06722b86-9b1d-40f3-a1ab-6e5d6e4f3dae",
+          "store": "zepto",
+          "price": 163,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:18:26"
+      },
+      {
+          "id": 255,
+          "productId": "ef32c50d-e60e-4fa6-9974-146ed2f31a0f",
+          "store": "zepto",
+          "price": 289,
+          "measurement": {
+              "value": "100",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:18:30"
+      },
+      {
+          "id": 256,
+          "productId": "909a0043-dc5c-4a73-b251-b87b5dbd6ee0",
+          "store": "zepto",
+          "price": 140,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:18:33"
+      },
+      {
+          "id": 257,
+          "productId": "0a97deb6-f073-45f8-a12f-8d9d42275c56",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:18:37"
+      },
+      {
+          "id": 258,
+          "productId": "d5ae03b4-73d3-49cb-a28c-7001c92ee92f",
+          "store": "zepto",
+          "price": 141,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:18:44"
+      },
+      {
+          "id": 259,
+          "productId": "3682a4ef-cdf4-4281-892b-c56779d92b3b",
+          "store": "zepto",
+          "price": 193,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:18:59"
+      },
+      {
+          "id": 260,
+          "productId": "154c6abd-ef2f-4ade-83b2-3988a7a238f4",
+          "store": "zepto",
+          "price": 49,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:19:02"
+      },
+      {
+          "id": 261,
+          "productId": "ec7b5100-0c9c-468c-92f5-a4e0ab90b4ac",
+          "store": "zepto",
+          "price": 204,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:19:09"
+      },
+      {
+          "id": 262,
+          "productId": "e68c02a3-d9a2-44a4-8555-89c765e36e41",
+          "store": "zepto",
+          "price": 133,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:19:13"
+      },
+      {
+          "id": 263,
+          "productId": "04328c9f-0e60-43e2-bbd6-e28d3f8d1f01",
+          "store": "zepto",
+          "price": 138,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:19:17"
+      },
+      {
+          "id": 264,
+          "productId": "f82c28f0-ca32-49a5-85a1-d986b0e35679",
+          "store": "zepto",
+          "price": 260,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:19:20"
+      },
+      {
+          "id": 265,
+          "productId": "29cc541e-3164-4cae-af40-7f449385cd2a",
+          "store": "zepto",
+          "price": 115,
+          "measurement": {
+              "value": "1",
+              "unit": "pc"
+          },
+          "date": "2024-12-11T13:19:27"
+      },
+      {
+          "id": 266,
+          "productId": "35327fae-7acf-4212-b4de-11ad91377100",
+          "store": "zepto",
+          "price": 106,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:19:31"
+      },
+      {
+          "id": 267,
+          "productId": "5b3360d2-baf7-4595-b6a4-a78a0f79c3f5",
+          "store": "zepto",
+          "price": 185,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:19:42"
+      },
+      {
+          "id": 268,
+          "productId": "c26e3e8a-fb9a-40b0-86e1-d007bb8a5c32",
+          "store": "zepto",
+          "price": 400,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:19:46"
+      },
+      {
+          "id": 269,
+          "productId": "3ce0e1fc-1718-4695-9563-1f8c926d8526",
+          "store": "zepto",
+          "price": 206,
+          "measurement": {
+              "value": "1",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:19:53"
+      },
+      {
+          "id": 270,
+          "productId": "985254a7-e40a-4523-9f23-6a414a819112",
+          "store": "zepto",
+          "price": 304,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:20:04"
+      },
+      {
+          "id": 271,
+          "productId": "50501476-3201-4eaa-bda9-d98120308b06",
+          "store": "zepto",
+          "price": 121,
+          "measurement": {
+              "value": "2",
+              "unit": "piece"
+          },
+          "date": "2024-12-11T13:20:07"
+      },
+      {
+          "id": 272,
+          "productId": "54838f23-cbc2-4560-b1f7-2fd8da06c307",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "1",
+              "unit": "kg"
+          },
+          "date": "2024-12-11T13:20:11"
+      },
+      {
+          "id": 273,
+          "productId": "0ee2d291-b552-4ef2-9e6f-966237fa0162",
+          "store": "zepto",
+          "price": 159,
+          "measurement": {
+              "value": "500",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:20:15"
+      },
+      {
+          "id": 274,
+          "productId": "a794cd11-0257-4604-85b6-bef5959727f6",
+          "store": "zepto",
+          "price": 280,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:20:18"
+      },
+      {
+          "id": 275,
+          "productId": "d663481d-6107-4b27-8231-1c31dbb7fb0a",
+          "store": "zepto",
+          "price": 238,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:20:26"
+      },
+      {
+          "id": 276,
+          "productId": "58cfb7c0-488b-41be-9b27-e3af3bfbb94b",
+          "store": "zepto",
+          "price": 318,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:20:29"
+      },
+      {
+          "id": 277,
+          "productId": "272b376f-c6b6-4d8b-9743-5134df22fa5a",
+          "store": "zepto",
+          "price": 318,
+          "measurement": {
+              "value": "500",
+              "unit": "gms"
+          },
+          "date": "2024-12-11T13:20:33"
+      },
+      {
+          "id": 278,
+          "productId": "cb283673-c8dd-4e58-93e3-4ed5a7f21727",
+          "store": "zepto",
+          "price": 263,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:20:48"
+      },
+      {
+          "id": 279,
+          "productId": "e9d220d9-a775-4e37-bd68-0a6312931c67",
+          "store": "zepto",
+          "price": 112,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:20:52"
+      },
+      {
+          "id": 280,
+          "productId": "267f186c-2a45-4fa1-80d2-3d4a96bee355",
+          "store": "zepto",
+          "price": 98,
+          "measurement": {
+              "value": "250",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:20:55"
+      },
+      {
+          "id": 281,
+          "productId": "4fcd9c3e-4ac6-4257-890d-da7838af381b",
+          "store": "zepto",
+          "price": 263,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:20:59"
+      },
+      {
+          "id": 282,
+          "productId": "befe8dd0-b83d-431d-995f-0bc530f64222",
+          "store": "zepto",
+          "price": 240,
+          "measurement": {
+              "value": "200",
+              "unit": "g"
+          },
+          "date": "2024-12-11T13:21:03"
+      },
+      {
+          "id": 283,
+          "productId": "5b14e9dd-b0c3-492e-9691-fac1b41356d2",
+          "store": "zepto",
+          "price": 133,
+          "measurement": {
+              "value": "2",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:06"
+      },
+      {
+          "id": 284,
+          "productId": "9ede5386-0029-49d0-9ddd-2f288c776d9b",
+          "store": "zepto",
+          "price": 230,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:14"
+      },
+      {
+          "id": 285,
+          "productId": "45bb4b60-8995-4ede-a4ec-5a2b1e7a98fb",
+          "store": "zepto",
+          "price": 138,
+          "measurement": {
+              "value": "1",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:17"
+      },
+      {
+          "id": 286,
+          "productId": "03cc2e49-d123-4b23-a919-26e4b5e64330",
+          "store": "zepto",
+          "price": 243,
+          "measurement": {
+              "value": "2",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:21:21"
+      },
+      {
+          "id": 287,
+          "productId": "70f56269-1f9b-46fa-95a9-e6c2d87274cc",
+          "store": "zepto",
+          "price": 368,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:25"
+      },
+      {
+          "id": 288,
+          "productId": "445c9471-782a-4b30-beaa-1b2fb3d23442",
+          "store": "zepto",
+          "price": 382,
+          "measurement": {
+              "value": "3",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:28"
+      },
+      {
+          "id": 289,
+          "productId": "c7db622a-6ddc-4a4b-98fe-acb3d38c461d",
+          "store": "zepto",
+          "price": 414,
+          "measurement": {
+              "value": "4",
+              "unit": "pcs"
+          },
+          "date": "2024-12-11T13:21:32"
+      },
+      {
+          "id": 290,
+          "productId": "c337aa81-284a-4054-b959-d06c59dc4df0",
+          "store": "zepto",
+          "price": 295,
+          "measurement": {
+              "value": "3",
+              "unit": "combo"
+          },
+          "date": "2024-12-11T13:21:35"
+      }
   ]
 }
