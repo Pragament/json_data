@@ -1,2 +1,12 @@
 {
+    "news": [
+        {
+            "title": "First News Title",
+            "link": "https://example.com/1"
+        },
+        {
+            "title": "Second News Title",
+            "link": "https://example.com/2"
+        }
+    ]
 }
