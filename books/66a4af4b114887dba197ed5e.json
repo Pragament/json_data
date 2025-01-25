@@ -1,0 +1,1970 @@
+[
+    {
+        "id": "66a4cfd1857d4c5df0e4efc3",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efca",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efb9",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc7",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efbd",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc1",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc4",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc2",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc9",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc8",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efbb",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efbe",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efba",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc0",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efbf",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc5",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efc6",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efbc",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd3",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe7",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd2",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd6",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd0",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd8",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efce",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe2",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe5",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe9",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff6",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efff",
+        "pageNumber": 71,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_71.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_71.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_71_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f001",
+        "pageNumber": 73,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_73.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_73.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_73_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00a",
+        "pageNumber": 82,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_82.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_82.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_82_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01e",
+        "pageNumber": 102,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_102.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_102.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_102_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f034",
+        "pageNumber": 124,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_124.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_124.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_124_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03d",
+        "pageNumber": 133,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_133.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_133.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_133_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff9",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f000",
+        "pageNumber": 72,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_72.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_72.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_72_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f012",
+        "pageNumber": 90,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_90.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_90.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_90_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f020",
+        "pageNumber": 104,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_104.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_104.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_104_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f026",
+        "pageNumber": 110,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_110.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_110.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_110_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02f",
+        "pageNumber": 119,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_119.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_119.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_119_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f041",
+        "pageNumber": 137,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_137.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_137.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_137_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f046",
+        "pageNumber": 142,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_142.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_142.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_142_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efdf",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe4",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff8",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f005",
+        "pageNumber": 77,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_77.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_77.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_77_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f009",
+        "pageNumber": 81,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_81.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_81.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_81_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f017",
+        "pageNumber": 95,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_95.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_95.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_95_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01c",
+        "pageNumber": 100,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_100.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_100.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_100_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f047",
+        "pageNumber": 143,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_143.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_143.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_143_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04a",
+        "pageNumber": 146,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_146.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_146.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_146_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efcf",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efec",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff0",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff2",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f025",
+        "pageNumber": 109,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_109.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_109.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_109_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f029",
+        "pageNumber": 113,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_113.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_113.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_113_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03c",
+        "pageNumber": 132,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_132.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_132.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_132_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd1",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff1",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4effa",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f018",
+        "pageNumber": 96,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_96.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_96.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_96_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f043",
+        "pageNumber": 139,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_139.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_139.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_139_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe6",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efea",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4effc",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00d",
+        "pageNumber": 85,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_85.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_85.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_85_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02a",
+        "pageNumber": 114,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_114.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_114.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_114_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02c",
+        "pageNumber": 116,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_116.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_116.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_116_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03e",
+        "pageNumber": 134,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_134.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_134.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_134_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f044",
+        "pageNumber": 140,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_140.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_140.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_140_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f048",
+        "pageNumber": 144,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_144.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_144.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_144_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efee",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f011",
+        "pageNumber": 89,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_89.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_89.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_89_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f045",
+        "pageNumber": 141,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_141.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_141.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_141_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd4",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe3",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efef",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff7",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4effe",
+        "pageNumber": 70,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_70.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_70.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_70_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00e",
+        "pageNumber": 86,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_86.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_86.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_86_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f010",
+        "pageNumber": 88,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_88.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_88.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_88_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f022",
+        "pageNumber": 106,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_106.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_106.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_106_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f031",
+        "pageNumber": 121,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_121.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_121.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_121_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f032",
+        "pageNumber": 122,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_122.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_122.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_122_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f039",
+        "pageNumber": 129,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_129.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_129.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_129_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4effb",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01d",
+        "pageNumber": 101,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_101.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_101.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_101_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f035",
+        "pageNumber": 125,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_125.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_125.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_125_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03b",
+        "pageNumber": 131,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_131.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_131.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_131_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f042",
+        "pageNumber": 138,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_138.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_138.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_138_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff3",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f007",
+        "pageNumber": 79,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_79.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_79.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_79_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01f",
+        "pageNumber": 103,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_103.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_103.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_103_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f036",
+        "pageNumber": 126,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_126.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_126.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_126_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efcd",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd5",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe1",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efcc",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efcb",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd9",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f004",
+        "pageNumber": 76,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_76.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_76.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_76_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01b",
+        "pageNumber": 99,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_99.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_99.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_99_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f027",
+        "pageNumber": 111,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_111.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_111.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_111_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f038",
+        "pageNumber": 128,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_128.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_128.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_128_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efd7",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efeb",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4effd",
+        "pageNumber": 69,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_69.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_69.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_69_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f006",
+        "pageNumber": 78,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_78.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_78.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_78_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f008",
+        "pageNumber": 80,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_80.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_80.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_80_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00b",
+        "pageNumber": 83,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_83.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_83.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_83_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f01a",
+        "pageNumber": 98,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_98.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_98.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_98_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f023",
+        "pageNumber": 107,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_107.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_107.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_107_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02d",
+        "pageNumber": 117,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_117.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_117.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_117_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03a",
+        "pageNumber": 130,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_130.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_130.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_130_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe8",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f002",
+        "pageNumber": 74,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_74.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_74.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_74_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f013",
+        "pageNumber": 91,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_91.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_91.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_91_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f015",
+        "pageNumber": 93,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_93.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_93.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_93_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f037",
+        "pageNumber": 127,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_127.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_127.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_127_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f049",
+        "pageNumber": 145,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_145.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_145.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_145_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efdd",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efde",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff5",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00f",
+        "pageNumber": 87,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_87.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_87.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_87_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f028",
+        "pageNumber": 112,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_112.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_112.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_112_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02b",
+        "pageNumber": 115,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_115.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_115.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_115_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f02e",
+        "pageNumber": 118,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_118.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_118.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_118_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f030",
+        "pageNumber": 120,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_120.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_120.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_120_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efe0",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efed",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4eff4",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f019",
+        "pageNumber": 97,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_97.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_97.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_97_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f021",
+        "pageNumber": 105,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_105.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_105.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_105_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f033",
+        "pageNumber": 123,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_123.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_123.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_123_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efda",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efdb",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4efdc",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f003",
+        "pageNumber": 75,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_75.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_75.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_75_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f00c",
+        "pageNumber": 84,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_84.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_84.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_84_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f014",
+        "pageNumber": 92,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_92.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_92.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_92_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f016",
+        "pageNumber": 94,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_94.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_94.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_94_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f024",
+        "pageNumber": 108,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_108.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_108.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_108_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f03f",
+        "pageNumber": 135,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_135.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_135.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_135_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f040",
+        "pageNumber": 136,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_136.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_136.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_136_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f056",
+        "pageNumber": 158,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_158.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_158.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_158_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04c",
+        "pageNumber": 148,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_148.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_148.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_148_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f05b",
+        "pageNumber": 163,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_163.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_163.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_163_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04e",
+        "pageNumber": 150,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_150.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_150.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_150_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f053",
+        "pageNumber": 155,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_155.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_155.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_155_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04b",
+        "pageNumber": 147,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_147.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_147.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_147_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f051",
+        "pageNumber": 153,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_153.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_153.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_153_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04f",
+        "pageNumber": 151,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_151.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_151.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_151_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f05a",
+        "pageNumber": 162,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_162.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_162.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_162_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f052",
+        "pageNumber": 154,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_154.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_154.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_154_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f050",
+        "pageNumber": 152,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_152.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_152.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_152_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f057",
+        "pageNumber": 159,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_159.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_159.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_159_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f059",
+        "pageNumber": 161,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_161.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_161.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_161_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f054",
+        "pageNumber": 156,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_156.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_156.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_156_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f05c",
+        "pageNumber": 164,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_164.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_164.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_164_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f04d",
+        "pageNumber": 149,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_149.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_149.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_149_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f055",
+        "pageNumber": 157,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_157.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_157.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_157_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cfd1857d4c5df0e4f058",
+        "pageNumber": 160,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/absoluteImages/7_urdu_apni_zaban_page_160.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/thumbnails/7_urdu_apni_zaban_page_160.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7urdu_apni_zaban/textAnnotations/page_160_text_annotation.json",
+        "bookID": {
+            "id": "66a4af4b114887dba197ed5e",
+            "name": "class 7 Urdu Apni Zaban"
+        },
+        "imageText": ""
+    }
+]

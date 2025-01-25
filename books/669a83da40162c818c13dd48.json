@@ -1,0 +1,974 @@
+[
+    {
+        "id": "669a8d3ccc9b104dbe53cc50",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6f",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc54",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5b",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc63",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc61",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc4b",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5f",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc77",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc4e",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc59",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc68",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6b",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc70",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5e",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc4c",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc55",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc58",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5d",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc64",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6a",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc71",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc4d",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc51",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc66",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc74",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc75",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc76",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc57",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc69",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6c",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc4f",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6e",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc72",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc53",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc56",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5c",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc65",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc67",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc6d",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc73",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc52",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc5a",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc60",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc62",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc78",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc91",
+        "pageNumber": 71,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_71.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_71.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_71_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc80",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc79",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8f",
+        "pageNumber": 69,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_69.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_69.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_69_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc83",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc93",
+        "pageNumber": 73,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_73.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_73.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_73_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc92",
+        "pageNumber": 72,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_72.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_72.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_72_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc9a",
+        "pageNumber": 80,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_80.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_80.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_80_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7e",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7d",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc82",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc84",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7b",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7c",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8b",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8e",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc97",
+        "pageNumber": 77,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_77.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_77.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_77_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc99",
+        "pageNumber": 79,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_79.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_79.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_79_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7f",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc90",
+        "pageNumber": 70,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_70.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_70.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_70_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc85",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc87",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc95",
+        "pageNumber": 75,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_75.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_75.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_75_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8a",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc86",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc9b",
+        "pageNumber": 81,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_81.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_81.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_81_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc94",
+        "pageNumber": 74,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_74.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_74.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_74_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc81",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc96",
+        "pageNumber": 76,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_76.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_76.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_76_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc7a",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8c",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc89",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc88",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc8d",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669a8d3ccc9b104dbe53cc98",
+        "pageNumber": 78,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/absoluteImages/8_hindi_page_78.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/thumbnails/8_hindi_page_78.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/8hindi/textAnnotations/page_78_text_annotation.json",
+        "bookID": {
+            "id": "669a83da40162c818c13dd48",
+            "name": "class 8 Hindi"
+        },
+        "imageText": ""
+    }
+]
