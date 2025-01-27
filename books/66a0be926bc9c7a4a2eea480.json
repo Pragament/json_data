@@ -1,0 +1,818 @@
+[
+    {
+        "id": "66a1e47c3b816d6bd4f8661c",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86629",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86630",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86633",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86648",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664b",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662d",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663b",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86649",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86651",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86654",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665f",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8661e",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86620",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86632",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663a",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663c",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663f",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86644",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664d",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86656",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86624",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86626",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86635",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86646",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664e",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664f",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86655",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86657",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86625",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86627",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86638",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663d",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86640",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665a",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86641",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86647",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662a",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86631",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86643",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86645",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86650",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86628",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86653",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665e",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86621",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662b",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664c",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86659",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8661f",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86634",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86636",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86652",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665b",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86622",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86623",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662f",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665c",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8661d",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86637",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662c",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8662e",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86639",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8664a",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8663e",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86642",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f86658",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e47c3b816d6bd4f8665d",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/absoluteImages/9_contemporary_india_1_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/thumbnails/9_contemporary_india_1_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9contemporary_india_1/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "66a0be926bc9c7a4a2eea480",
+            "name": "class 9 Social Contemporary India - 1"
+        },
+        "imageText": ""
+    }
+]
