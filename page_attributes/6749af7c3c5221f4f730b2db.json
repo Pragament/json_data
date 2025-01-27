@@ -1,0 +1,962 @@
+[
+    {
+        "id": "674d697560f1beedf7030c18",
+        "pageNumber": 8,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.1  Introduction",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "674d697560f1beedf7030c1e",
+        "pageNumber": 35,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Sets",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d697560f1beedf7030c1f",
+        "pageNumber": 35,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.1  Introduction",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674d697560f1beedf7030c20",
+        "pageNumber": 36,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.2 SET",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "674d697560f1beedf7030c23",
+        "pageNumber": 42,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.4  Universal Set",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "674d697560f1beedf7030c2b",
+        "pageNumber": 53,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.8 Finite and Infinite sets",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "674d697560f1beedf7030c2e",
+        "pageNumber": 58,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.1 Introduction",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "674d697560f1beedf7030c34",
+        "pageNumber": 67,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.4.3 Geometrical Meaning of Zeroes of a Cubic Polynomial",
+        "type": "subtopic",
+        "order": 30
+    },
+    {
+        "id": "674d697560f1beedf7030c35",
+        "pageNumber": 72,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.5 Relationship between Zeroes and Coefficients of a Polynomial",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "674d697560f1beedf7030c3c",
+        "pageNumber": 90,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.2.3 Relation Between Coefficients and Nature of System of Equations",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "674d697560f1beedf7030c3f",
+        "pageNumber": 99,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.3.2 Elimination Method",
+        "type": "subtopic",
+        "order": 41
+    },
+    {
+        "id": "674d697560f1beedf7030c43",
+        "pageNumber": 113,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "5.2 Quadratic Equations",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "674d697560f1beedf7030c4a",
+        "pageNumber": 145,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.3 nth Term of an Arithmetic Progression",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "674d697560f1beedf7030c4c",
+        "pageNumber": 159,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.5 Geometric Progressions",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "674d697560f1beedf7030c4d",
+        "pageNumber": 170,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Coordinate Geometry",
+        "type": "chapter",
+        "order": 55
+    },
+    {
+        "id": "674d697560f1beedf7030c53",
+        "pageNumber": 183,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.6 Trisectional Points of a Line segment",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "674d697560f1beedf7030c56",
+        "pageNumber": 196,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.9.1  Slope of the straight line",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "674d697560f1beedf7030c5a",
+        "pageNumber": 202,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.2  Similar Figures",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "674d697560f1beedf7030c5d",
+        "pageNumber": 214,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.4  Criteria for Similarity of Triangles",
+        "type": "topic",
+        "order": 71
+    },
+    {
+        "id": "674d697560f1beedf7030c62",
+        "pageNumber": 232,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.7 Different forms of theoretical statements",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "674d697560f1beedf7030c64",
+        "pageNumber": 236,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.1  Introduction",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "674d697560f1beedf7030c73",
+        "pageNumber": 284,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.2.1 Defining Trigonometric Ratios",
+        "type": "subtopic",
+        "order": 93
+    },
+    {
+        "id": "674d697560f1beedf7030c78",
+        "pageNumber": 296,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.4  Trigmonometric Ratios of Complementary angles",
+        "type": "topic",
+        "order": 98
+    },
+    {
+        "id": "674d697560f1beedf7030c7d",
+        "pageNumber": 316,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Probability",
+        "type": "chapter",
+        "order": 103
+    },
+    {
+        "id": "674d697560f1beedf7030c7f",
+        "pageNumber": 316,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.1.1 What is Probability",
+        "type": "subtopic",
+        "order": 105
+    },
+    {
+        "id": "674d697560f1beedf7030c84",
+        "pageNumber": 323,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.5 Deck of Cards and Probability",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "674d697560f1beedf7030c85",
+        "pageNumber": 325,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.6   Use of Probability",
+        "type": "topic",
+        "order": 111
+    },
+    {
+        "id": "674d697560f1beedf7030c8a",
+        "pageNumber": 345,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "14.3   Mode",
+        "type": "topic",
+        "order": 116
+    },
+    {
+        "id": "674d697560f1beedf7030c17",
+        "pageNumber": 8,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Real Numbers",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d697560f1beedf7030c1a",
+        "pageNumber": 16,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.2.1   Rational numbers and their decimal expansions",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "674d697560f1beedf7030c1c",
+        "pageNumber": 24,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.4 Exponentials Revision",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674d697560f1beedf7030c1d",
+        "pageNumber": 25,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.4.1 Exponentials and Logarithms",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "674d697560f1beedf7030c22",
+        "pageNumber": 41,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.3 Empty Set",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "674d697560f1beedf7030c27",
+        "pageNumber": 45,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.6.1 Union of Sets",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "674d697560f1beedf7030c2a",
+        "pageNumber": 50,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.7 Equal Sets",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "674d697560f1beedf7030c30",
+        "pageNumber": 60,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.2.2 Value of a Polynomial",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "674d697560f1beedf7030c32",
+        "pageNumber": 61,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.3 Working with Polynomials",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "674d697560f1beedf7030c36",
+        "pageNumber": 76,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.6 Cubic Polynomials",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "674d697560f1beedf7030c3a",
+        "pageNumber": 87,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.2 Solutions of Pairs of Linear Equations in Two Variables",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "674d697560f1beedf7030c44",
+        "pageNumber": 120,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "5.4 Solution of a Quadratic Equation by Completing the Square",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "674d697560f1beedf7030c49",
+        "pageNumber": 141,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.2.2 Parameters of Arithmetic Progressions",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "674d697560f1beedf7030c4b",
+        "pageNumber": 152,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.4 Sum of First n Terms in Arithmetic Progression",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "674d697560f1beedf7030c54",
+        "pageNumber": 189,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.8  Area of the Triangle",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "674d697560f1beedf7030c5b",
+        "pageNumber": 205,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.3 Similarity of Triangles",
+        "type": "topic",
+        "order": 69
+    },
+    {
+        "id": "674d697560f1beedf7030c5f",
+        "pageNumber": 217,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.4.3  SAS Criterion for Similarity of Triangles",
+        "type": "subtopic",
+        "order": 73
+    },
+    {
+        "id": "674d697560f1beedf7030c69",
+        "pageNumber": 248,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.4 Segment of a circle formed by a secant",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "674d697560f1beedf7030c6b",
+        "pageNumber": 256,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "10.1  Introduction",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "674d697560f1beedf7030c70",
+        "pageNumber": 280,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.1  Introduction",
+        "type": "topic",
+        "order": 90
+    },
+    {
+        "id": "674d697560f1beedf7030c7a",
+        "pageNumber": 305,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Applications of Trigonometry",
+        "type": "chapter",
+        "order": 100
+    },
+    {
+        "id": "674d697560f1beedf7030c7c",
+        "pageNumber": 306,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "12.2   Drawing Figures to Solve Problems",
+        "type": "topic",
+        "order": 102
+    },
+    {
+        "id": "674d697560f1beedf7030c81",
+        "pageNumber": 320,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.4.1  Finding Probability",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "674d697560f1beedf7030c82",
+        "pageNumber": 322,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.4.2  Complementary Events and Probability",
+        "type": "subtopic",
+        "order": 108
+    },
+    {
+        "id": "674d697560f1beedf7030c83",
+        "pageNumber": 322,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.4.3  Impossible and Certain Events",
+        "type": "subtopic",
+        "order": 109
+    },
+    {
+        "id": "674d697560f1beedf7030c8b",
+        "pageNumber": 349,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "14.4  Median of Grouped Data",
+        "type": "topic",
+        "order": 117
+    },
+    {
+        "id": "674d697560f1beedf7030c1b",
+        "pageNumber": 21,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.3 Irrational numbers",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674d697560f1beedf7030c26",
+        "pageNumber": 45,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.6  Basic Operations on Sets",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "674d697560f1beedf7030c29",
+        "pageNumber": 48,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.6.3 Difference of Sets",
+        "type": "subtopic",
+        "order": 19
+    },
+    {
+        "id": "674d697560f1beedf7030c2c",
+        "pageNumber": 54,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.9 Cardinality of a finite set",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "674d697560f1beedf7030c2d",
+        "pageNumber": 58,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Polynomials",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "674d697560f1beedf7030c31",
+        "pageNumber": 60,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.2.3  Zeroes of a Polynomial",
+        "type": "subtopic",
+        "order": 27
+    },
+    {
+        "id": "674d697560f1beedf7030c41",
+        "pageNumber": 112,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Quadratic Equations",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "674d697560f1beedf7030c42",
+        "pageNumber": 112,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "5.1 Introduction",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "674d697560f1beedf7030c45",
+        "pageNumber": 131,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "5.5 Nature of Roots",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "674d697560f1beedf7030c46",
+        "pageNumber": 136,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Progressions",
+        "type": "chapter",
+        "order": 48
+    },
+    {
+        "id": "674d697560f1beedf7030c4f",
+        "pageNumber": 170,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.2 Distance Between Two Points",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "674d697560f1beedf7030c52",
+        "pageNumber": 180,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.5 Section Formula",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "674d697560f1beedf7030c5e",
+        "pageNumber": 215,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.4.1  AAA Criterion for Similarity of Triangles",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "674d697560f1beedf7030c61",
+        "pageNumber": 225,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.6  Pythagoras Theorem",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "674d697560f1beedf7030c65",
+        "pageNumber": 236,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.1.1  A Line and A Circle",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "674d697560f1beedf7030c66",
+        "pageNumber": 237,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.2  Tangents of a Circle",
+        "type": "topic",
+        "order": 80
+    },
+    {
+        "id": "674d697560f1beedf7030c67",
+        "pageNumber": 239,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.2.1 Construction of Tangent to a Circle",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "674d697560f1beedf7030c6a",
+        "pageNumber": 256,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Mensuration",
+        "type": "chapter",
+        "order": 84
+    },
+    {
+        "id": "674d697560f1beedf7030c6e",
+        "pageNumber": 272,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "10.4  Conversion of Solid from One Shape to Another",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "674d697560f1beedf7030c6f",
+        "pageNumber": 280,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Trigonometry",
+        "type": "chapter",
+        "order": 89
+    },
+    {
+        "id": "674d697560f1beedf7030c72",
+        "pageNumber": 283,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.2  Trigonometric Ratios",
+        "type": "topic",
+        "order": 92
+    },
+    {
+        "id": "674d697560f1beedf7030c74",
+        "pageNumber": 289,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.3 Trigonometric Ratios of some specific angles",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "674d697560f1beedf7030c79",
+        "pageNumber": 300,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.5 Trigonometric identities",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "674d697560f1beedf7030c7b",
+        "pageNumber": 305,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "12.1  Introduction",
+        "type": "topic",
+        "order": 101
+    },
+    {
+        "id": "674d697560f1beedf7030c89",
+        "pageNumber": 335,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "14.2  Mean of Ungrouped Data",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "674d697560f1beedf7030c19",
+        "pageNumber": 13,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "1.2 The Fundamental theorem of Arithmetic",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d697560f1beedf7030c21",
+        "pageNumber": 37,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.2.1 Roster form and Set builder form",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "674d697560f1beedf7030c24",
+        "pageNumber": 43,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.4.1 Subset",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "674d697560f1beedf7030c25",
+        "pageNumber": 45,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.5  Venn diagrams",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674d697560f1beedf7030c28",
+        "pageNumber": 46,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "2.6.2  Intersection of Sets",
+        "type": "subtopic",
+        "order": 18
+    },
+    {
+        "id": "674d697560f1beedf7030c2f",
+        "pageNumber": 59,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.2.1  Degree of a Polynomial",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "674d697560f1beedf7030c33",
+        "pageNumber": 62,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "3.4 Geometrical Meaning of the Zeroes of a Polynomial",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "674d697560f1beedf7030c37",
+        "pageNumber": 84,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Pair of Linear Equations in Two Variables",
+        "type": "chapter",
+        "order": 33
+    },
+    {
+        "id": "674d697560f1beedf7030c38",
+        "pageNumber": 84,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.1 Introduction",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "674d697560f1beedf7030c39",
+        "pageNumber": 85,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.1.2 Using Both Equations Together",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "674d697560f1beedf7030c3b",
+        "pageNumber": 87,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.2.1 Graphical Method of Finding Solution of a Pair of Linear Equations",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "674d697560f1beedf7030c3d",
+        "pageNumber": 98,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.3 Algebraic Methods of Finding the Solutions for a Pair of Linear",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674d697560f1beedf7030c3e",
+        "pageNumber": 98,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.3.1 Substitution Method",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "674d697560f1beedf7030c40",
+        "pageNumber": 104,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "4.4 Equations Reducible to a Pair of Linear Equations in Two",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "674d697560f1beedf7030c47",
+        "pageNumber": 136,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.1  Introduction",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "674d697560f1beedf7030c48",
+        "pageNumber": 139,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "6.2 Arithmetic Progressions",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "674d697560f1beedf7030c4e",
+        "pageNumber": 170,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.1 Introduction",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "674d697560f1beedf7030c50",
+        "pageNumber": 172,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.3 Distance Between Two Points on a Line Parallel to the",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "674d697560f1beedf7030c51",
+        "pageNumber": 174,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.4 Distance Between Any Two Points in the plane",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "674d697560f1beedf7030c55",
+        "pageNumber": 195,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.9 Straight Lines",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "674d697560f1beedf7030c57",
+        "pageNumber": 198,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "7.9.2  Slope of a line joining Two Points",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "674d697560f1beedf7030c58",
+        "pageNumber": 202,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Similar Triangles",
+        "type": "chapter",
+        "order": 66
+    },
+    {
+        "id": "674d697560f1beedf7030c59",
+        "pageNumber": 202,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.1  Introduction",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "674d697560f1beedf7030c5c",
+        "pageNumber": 210,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "5.6 AE",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "674d697560f1beedf7030c60",
+        "pageNumber": 222,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "8.5 Areas of Similar Triangles",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "674d697560f1beedf7030c63",
+        "pageNumber": 236,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Tangents and Secants to a Circle",
+        "type": "chapter",
+        "order": 77
+    },
+    {
+        "id": "674d697560f1beedf7030c68",
+        "pageNumber": 240,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "9.2.2 Finding Length of the Tangent",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "674d697560f1beedf7030c6c",
+        "pageNumber": 262,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "10.2    Surface Area of the Combination of Solids",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "674d697560f1beedf7030c6d",
+        "pageNumber": 267,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "10.3    Volume of Combination of Solids",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "674d697560f1beedf7030c71",
+        "pageNumber": 282,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.1.1 Naming The Sides in a Right Triangle",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "674d697560f1beedf7030c75",
+        "pageNumber": 289,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.3.1 Trigonometric Ratios of 45o",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "674d697560f1beedf7030c76",
+        "pageNumber": 289,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.3.2 Trigonometric Ratios of 30o and 60o",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "674d697560f1beedf7030c77",
+        "pageNumber": 290,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "11.3.3 Trigonometric Ratios of 0o and 90o",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "674d697560f1beedf7030c7e",
+        "pageNumber": 316,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.1  Introduction",
+        "type": "topic",
+        "order": 104
+    },
+    {
+        "id": "674d697560f1beedf7030c80",
+        "pageNumber": 319,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.3  Mutually Exclusive Events",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "674d697560f1beedf7030c86",
+        "pageNumber": 327,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "13.7   More Applications of Probability",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "674d697560f1beedf7030c87",
+        "pageNumber": 334,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "Statistics",
+        "type": "chapter",
+        "order": 113
+    },
+    {
+        "id": "674d697560f1beedf7030c88",
+        "pageNumber": 334,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "14.1   Introduction",
+        "type": "topic",
+        "order": 114
+    },
+    {
+        "id": "674d697560f1beedf7030c8c",
+        "pageNumber": 358,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "14.6   Graphical Representation of Cumulative Frequency Distribution",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "674d697560f1beedf7030c8d",
+        "pageNumber": 390,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "219.8 mm2",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "674d697560f1beedf7030c8e",
+        "pageNumber": 394,
+        "bookID": "6749af7c3c5221f4f730b2db",
+        "text": "65.625 hours",
+        "type": "topic",
+        "order": 120
+    }
+]

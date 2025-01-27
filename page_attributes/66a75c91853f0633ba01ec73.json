@@ -1,0 +1,506 @@
+[
+    {
+        "id": "676a562f45665a19fa62b700",
+        "pageNumber": 19,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "The Wonderful World of Science",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a562f45665a19fa62b701",
+        "pageNumber": 27,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Diversity in the Living World",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "676a562f45665a19fa62b702",
+        "pageNumber": 28,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "2.1 Diversity in Plants and Animals Around Us",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a562f45665a19fa62b703",
+        "pageNumber": 41,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "2.3 Plants and Animals in Different",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a562f45665a19fa62b704",
+        "pageNumber": 42,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "2.6 that the plants and animals",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676a562f45665a19fa62b705",
+        "pageNumber": 43,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Mindful Eating: A Path to a Healthy Body",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "676a562f45665a19fa62b706",
+        "pageNumber": 54,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.1.1 Food in different regions",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "676a562f45665a19fa62b707",
+        "pageNumber": 56,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.1.2 How have cooking practices changed",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "676a562f45665a19fa62b708",
+        "pageNumber": 61,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Exploring Magnets",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "676a562f45665a19fa62b709",
+        "pageNumber": 66,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.3 How to Test Different Components",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a562f45665a19fa62b70a",
+        "pageNumber": 66,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.3.1 Test for starch",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "676a562f45665a19fa62b70b",
+        "pageNumber": 67,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.3.2 Test for fats",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "676a562f45665a19fa62b70c",
+        "pageNumber": 67,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.3.3 Test for proteins",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "676a562f45665a19fa62b70d",
+        "pageNumber": 69,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "3.4 Balanced Diet",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a562f45665a19fa62b70e",
+        "pageNumber": 70,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "536.0 kcal",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a562f45665a19fa62b70f",
+        "pageNumber": 79,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Measurement of Length and Motion",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "676a562f45665a19fa62b710",
+        "pageNumber": 82,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "4.2 Poles of Magnet",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a562f45665a19fa62b711",
+        "pageNumber": 83,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "4.3 Finding Directions",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676a562f45665a19fa62b712",
+        "pageNumber": 86,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "4.4 Attraction and Repulsion between Magnets",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676a562f45665a19fa62b713",
+        "pageNumber": 89,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "4.5 Fun with Magnets",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a562f45665a19fa62b714",
+        "pageNumber": 100,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.2 Standard Units",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676a562f45665a19fa62b715",
+        "pageNumber": 101,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Materials Around Us",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "676a562f45665a19fa62b716",
+        "pageNumber": 102,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.3 Correct Way of Measuring Length",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676a562f45665a19fa62b717",
+        "pageNumber": 105,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.4 Measuring the Length of a Curved Line",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676a562f45665a19fa62b718",
+        "pageNumber": 105,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.5 Describing Position",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a562f45665a19fa62b719",
+        "pageNumber": 108,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.6 Moving Things",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a562f45665a19fa62b71a",
+        "pageNumber": 109,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "5.7 Types of Motion",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676a562f45665a19fa62b71b",
+        "pageNumber": 119,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "6.1 Observing Objects Around Us",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a562f45665a19fa62b71c",
+        "pageNumber": 123,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Temperature and its Measurement",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "676a562f45665a19fa62b71d",
+        "pageNumber": 124,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "6.3 What are the Different Properties of",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a562f45665a19fa62b71e",
+        "pageNumber": 124,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "6.3.1 Observe and identify appearance of materials",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "676a562f45665a19fa62b71f",
+        "pageNumber": 126,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "6.3.3 Explore materials through which one can",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "676a562f45665a19fa62b720",
+        "pageNumber": 131,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "6.3.6 Space and volume",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "676a562f45665a19fa62b721",
+        "pageNumber": 143,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "A Journey through States of Water",
+        "type": "chapter",
+        "order": 34
+    },
+    {
+        "id": "676a562f45665a19fa62b722",
+        "pageNumber": 143,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "7.2 Temperature",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a562f45665a19fa62b723",
+        "pageNumber": 143,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "7.3 Measuring Temperature",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a562f45665a19fa62b724",
+        "pageNumber": 148,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "7.3.2 Laboratory thermometer",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "676a562f45665a19fa62b725",
+        "pageNumber": 152,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "7.3.3 Air temperature",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "676a562f45665a19fa62b726",
+        "pageNumber": 163,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Methods of Separation in Everyday Life",
+        "type": "chapter",
+        "order": 39
+    },
+    {
+        "id": "676a562f45665a19fa62b727",
+        "pageNumber": 164,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "8.2 Another Mystery",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "676a562f45665a19fa62b728",
+        "pageNumber": 171,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "8.5 How can Water be Evaporated Faster or",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a562f45665a19fa62b729",
+        "pageNumber": 174,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "8.6 Cooling Effect",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a562f45665a19fa62b72a",
+        "pageNumber": 183,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Living Creatures: Exploring their Characteristics",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "676a562f45665a19fa62b72b",
+        "pageNumber": 202,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.1 What Sets the Living Apart from the",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a562f45665a19fa62b72c",
+        "pageNumber": 205,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Nature’s Treasures",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "676a562f45665a19fa62b72d",
+        "pageNumber": 206,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.2 Essential Conditions for Germination",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "676a562f45665a19fa62b72e",
+        "pageNumber": 209,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.3 Growth and Movement in Plants",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "676a562f45665a19fa62b72f",
+        "pageNumber": 212,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.4 Life Cycle of a Plant",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a562f45665a19fa62b730",
+        "pageNumber": 214,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.5 Life Cycle of Animals",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a562f45665a19fa62b731",
+        "pageNumber": 214,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.5.1 Life cycle of a mosquito",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "676a562f45665a19fa62b732",
+        "pageNumber": 217,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "10.5.2 Life cycle of a frog",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "676a562f45665a19fa62b733",
+        "pageNumber": 226,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.1 Air",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a562f45665a19fa62b734",
+        "pageNumber": 227,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "Beyond Earth",
+        "type": "chapter",
+        "order": 53
+    },
+    {
+        "id": "676a562f45665a19fa62b735",
+        "pageNumber": 229,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.2 Water",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a562f45665a19fa62b736",
+        "pageNumber": 232,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.3 Energy from the Sun",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a562f45665a19fa62b737",
+        "pageNumber": 234,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.4 Forests",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a562f45665a19fa62b738",
+        "pageNumber": 239,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.6 Fossil Fuels",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a562f45665a19fa62b739",
+        "pageNumber": 242,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "11.8 Resources We Use",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "676a562f45665a19fa62b73a",
+        "pageNumber": 251,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "12.1 Stars and Constellations",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676a562f45665a19fa62b73b",
+        "pageNumber": 254,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "12.2 Night Sky Watching",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "676a562f45665a19fa62b73c",
+        "pageNumber": 256,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "12.3 Our Solar System",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "676a562f45665a19fa62b73d",
+        "pageNumber": 265,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "12.4 The Milky Way Galaxy",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "676a562f45665a19fa62b73e",
+        "pageNumber": 265,
+        "bookID": "66a75c91853f0633ba01ec73",
+        "text": "12.5 The Universe",
+        "type": "topic",
+        "order": 63
+    }
+]

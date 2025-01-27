@@ -1,0 +1,98 @@
+[
+    {
+        "id": "674ea2cc60f1beedf70310c0",
+        "pageNumber": 6,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "ధర్మార్జునులు",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c2",
+        "pageNumber": 29,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "వలసకూలీ",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c6",
+        "pageNumber": 72,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "చెలిమి",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c4",
+        "pageNumber": 49,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "శతక మధురిమ",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c5",
+        "pageNumber": 64,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "దీక్షకు సిద్ధంకండి",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c8",
+        "pageNumber": 95,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "కోరస్",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c9",
+        "pageNumber": 102,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "వాగ్భూషణం",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674ea2cc60f1beedf70310ca",
+        "pageNumber": 117,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "వాయసం",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674ea2cc60f1beedf70310cb",
+        "pageNumber": 127,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "తీయని పలకరింపు",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c3",
+        "pageNumber": 38,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "రంగాచార్యతో ముఖాముఖి",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c7",
+        "pageNumber": 85,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "ఉద్యమ స్ఫూర్తి",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674ea2cc60f1beedf70310c1",
+        "pageNumber": 18,
+        "bookID": "674d5c97c07e4e5872e32638",
+        "text": "నేనెరిగిన బూర్గుల",
+        "type": "chapter",
+        "order": 2
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "673c4e545494579cadbc63d8",
+        "pageNumber": 11,
+        "bookID": "66a34e5c89ffd74756e1e9a4",
+        "text": "Resources",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4e545494579cadbc63d9",
+        "pageNumber": 17,
+        "bookID": "66a34e5c89ffd74756e1e9a4",
+        "text": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4e545494579cadbc63da",
+        "pageNumber": 32,
+        "bookID": "66a34e5c89ffd74756e1e9a4",
+        "text": "Agriculture",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4e545494579cadbc63db",
+        "pageNumber": 42,
+        "bookID": "66a34e5c89ffd74756e1e9a4",
+        "text": "Industries",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c4e545494579cadbc63dc",
+        "pageNumber": 54,
+        "bookID": "66a34e5c89ffd74756e1e9a4",
+        "text": "Human Resources",
+        "type": "chapter",
+        "order": 5
+    }
+]

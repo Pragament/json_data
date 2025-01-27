@@ -1,0 +1,106 @@
+[
+    {
+        "id": "673c4e5a5494579cadbc63dd",
+        "pageNumber": 17,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "The Indian Constitution and Secularism",
+        "type": "unit",
+        "order": 1
+    },
+    {
+        "id": "673c4e5a5494579cadbc63de",
+        "pageNumber": 19,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "The Indian Constitution",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4e5a5494579cadbc63df",
+        "pageNumber": 33,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Understanding Secularism",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e0",
+        "pageNumber": 43,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Parliament and the Making of Laws",
+        "type": "unit",
+        "order": 4
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e1",
+        "pageNumber": 45,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Parliament and the Making of Laws",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e2",
+        "pageNumber": 61,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "The Judiciary",
+        "type": "unit",
+        "order": 6
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e3",
+        "pageNumber": 63,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Judiciary",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e4",
+        "pageNumber": 75,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Social Justice and the Marginalised",
+        "type": "unit",
+        "order": 8
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e5",
+        "pageNumber": 77,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Understanding Marginalisation",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e6",
+        "pageNumber": 89,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Confronting Marginalisation",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e7",
+        "pageNumber": 99,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Economic Presence of the Government",
+        "type": "unit",
+        "order": 11
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e8",
+        "pageNumber": 101,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Public Facilities",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "673c4e5a5494579cadbc63e9",
+        "pageNumber": 115,
+        "bookID": "66a3560d89ffd74756e1e9a7",
+        "text": "Law and Social Justice",
+        "type": "chapter",
+        "order": 13
+    }
+]

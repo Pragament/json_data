@@ -1,0 +1,98 @@
+[
+    {
+        "id": "674d87ea496e96eebfb5f613",
+        "pageNumber": 30,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "వీర తెలంగాణ",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674d87ea496e96eebfb5f615",
+        "pageNumber": 51,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "నగరగీతం",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674d87ea496e96eebfb5f612",
+        "pageNumber": 17,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "ఎవరి భాష వాళ్ళకు వినసొంపు",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d87ea496e96eebfb5f617",
+        "pageNumber": 70,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "శతక మధురిమ",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674d87ea496e96eebfb5f61a",
+        "pageNumber": 99,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "గోలకొండ పట్టణము",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674d87ea496e96eebfb5f619",
+        "pageNumber": 91,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "జీవనభాష్యం",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674d87ea496e96eebfb5f611",
+        "pageNumber": 6,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "దానశీలము",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d87ea496e96eebfb5f614",
+        "pageNumber": 40,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "కొత్తబాట",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674d87ea496e96eebfb5f616",
+        "pageNumber": 60,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "భాగ్యోదయం",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674d87ea496e96eebfb5f618",
+        "pageNumber": 81,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "లక్ష్యసిద్ధి",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d87ea496e96eebfb5f61b",
+        "pageNumber": 119,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "భిక్ష",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674d87ea496e96eebfb5f61c",
+        "pageNumber": 124,
+        "bookID": "6749aadac39563553ec424a6",
+        "text": "భూమిక",
+        "type": "chapter",
+        "order": 12
+    }
+]

@@ -1,0 +1,1194 @@
+[
+    {
+        "id": "674d703660f1beedf7030cac",
+        "pageNumber": 8,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Reflection of light at curved surfaces",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d703660f1beedf7030cb1",
+        "pageNumber": 22,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.5    Sign convention for the parameters related to the mirror equation",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674d703660f1beedf7030cb3",
+        "pageNumber": 29,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Chemical Equations",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d703660f1beedf7030cb5",
+        "pageNumber": 31,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.1.1 Writing a Chemical Equation",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "674d703660f1beedf7030cb7",
+        "pageNumber": 36,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.2.1 Expressing the physical state",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "674d703660f1beedf7030cba",
+        "pageNumber": 37,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.2.4 Expressing precipitate formed",
+        "type": "subtopic",
+        "order": 15
+    },
+    {
+        "id": "674d703660f1beedf7030cbb",
+        "pageNumber": 37,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.3 Interpreting a balanced chemical equation",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "674d703660f1beedf7030cbe",
+        "pageNumber": 45,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.1.1 Reaction of Acids and Bases with Metals",
+        "type": "subtopic",
+        "order": 19
+    },
+    {
+        "id": "674d703660f1beedf7030cbf",
+        "pageNumber": 46,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.1.2  Reaction of acids with carbonates and metal hydrogen",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "674d703660f1beedf7030cc7",
+        "pageNumber": 59,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.1 Family of salts",
+        "type": "subtopic",
+        "order": 28
+    },
+    {
+        "id": "674d703660f1beedf7030cca",
+        "pageNumber": 61,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.5 Sodium hydroxide from common salt",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "674d703660f1beedf7030ccb",
+        "pageNumber": 62,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.6   Bleaching Powder",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "674d703660f1beedf7030cd1",
+        "pageNumber": 72,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.1.2  Derivation of curved surface formula",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "674d703660f1beedf7030cd9",
+        "pageNumber": 93,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.1 Least distance of distinct vision",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "674d703660f1beedf7030cdb",
+        "pageNumber": 98,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.3  Defects of Vision",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "674d703660f1beedf7030cdd",
+        "pageNumber": 100,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.3.2  Hypermetropia",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "674d703660f1beedf7030ce1",
+        "pageNumber": 103,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.4.1 Prism",
+        "type": "subtopic",
+        "order": 54
+    },
+    {
+        "id": "674d703660f1beedf7030ce4",
+        "pageNumber": 112,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.4.4  Scattering of Light",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "674d703660f1beedf7030ce5",
+        "pageNumber": 119,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Structure of Atom",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "674d703660f1beedf7030ce7",
+        "pageNumber": 120,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.1.1  Characterstics of electromagnetic wave",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "674d703660f1beedf7030cf1",
+        "pageNumber": 141,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.4.1 The Periodic Law",
+        "type": "subtopic",
+        "order": 70
+    },
+    {
+        "id": "674d703660f1beedf7030cf6",
+        "pageNumber": 151,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5.4  Metals and Non metals",
+        "type": "subtopic",
+        "order": 75
+    },
+    {
+        "id": "674d703660f1beedf7030cf9",
+        "pageNumber": 152,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.6.2  Atomic radius",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "674d703660f1beedf7030d02",
+        "pageNumber": 179,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.5 Draw backs of electronic theory of valence",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "674d703660f1beedf7030d04",
+        "pageNumber": 182,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.7  Valence bond theory",
+        "type": "topic",
+        "order": 89
+    },
+    {
+        "id": "674d703660f1beedf7030d05",
+        "pageNumber": 183,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.7.2  Formation of N2 molecule",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "674d703660f1beedf7030d07",
+        "pageNumber": 185,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.8.2  Formation of BF3 molecule",
+        "type": "subtopic",
+        "order": 92
+    },
+    {
+        "id": "674d703660f1beedf7030d0a",
+        "pageNumber": 187,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.9  Properties of ionic and covalent compounds",
+        "type": "topic",
+        "order": 95
+    },
+    {
+        "id": "674d703660f1beedf7030d0c",
+        "pageNumber": 194,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.1  Electric current",
+        "type": "topic",
+        "order": 97
+    },
+    {
+        "id": "674d703660f1beedf7030d18",
+        "pageNumber": 212,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.8.2 Loop Law",
+        "type": "subtopic",
+        "order": 109
+    },
+    {
+        "id": "674d703660f1beedf7030d1d",
+        "pageNumber": 229,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.2.1  Lines of magnetic field",
+        "type": "subtopic",
+        "order": 114
+    },
+    {
+        "id": "674d703660f1beedf7030d21",
+        "pageNumber": 234,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.3.3  Magnetic field due to solenoid",
+        "type": "subtopic",
+        "order": 118
+    },
+    {
+        "id": "674d703660f1beedf7030d25",
+        "pageNumber": 243,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.5.2  Lenz Law",
+        "type": "subtopic",
+        "order": 122
+    },
+    {
+        "id": "674d703660f1beedf7030d28",
+        "pageNumber": 256,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Principles of Metallurgy",
+        "type": "chapter",
+        "order": 125
+    },
+    {
+        "id": "674d703660f1beedf7030d2a",
+        "pageNumber": 259,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.2.1   Concentration or Dressing of the ore",
+        "type": "subtopic",
+        "order": 127
+    },
+    {
+        "id": "674d703660f1beedf7030d2d",
+        "pageNumber": 266,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.3  Corrosion",
+        "type": "topic",
+        "order": 130
+    },
+    {
+        "id": "674d703660f1beedf7030d30",
+        "pageNumber": 273,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Carbon and its Compounds",
+        "type": "chapter",
+        "order": 133
+    },
+    {
+        "id": "674d703660f1beedf7030d32",
+        "pageNumber": 276,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.2  Hybridisation",
+        "type": "topic",
+        "order": 135
+    },
+    {
+        "id": "674d703660f1beedf7030d34",
+        "pageNumber": 278,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.2.2  sp hybridisation",
+        "type": "subtopic",
+        "order": 137
+    },
+    {
+        "id": "674d703660f1beedf7030d38",
+        "pageNumber": 283,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.4  Versatile nature of carbon",
+        "type": "topic",
+        "order": 141
+    },
+    {
+        "id": "674d703660f1beedf7030d3c",
+        "pageNumber": 286,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.5.2   Saturated and unsaturated hydrocarbons",
+        "type": "subtopic",
+        "order": 145
+    },
+    {
+        "id": "674d703660f1beedf7030cad",
+        "pageNumber": 9,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.1   Reflection of light by spherical mirrors",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "674d703660f1beedf7030cb6",
+        "pageNumber": 32,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.1.2 Balancing Chemical Equations",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "674d703660f1beedf7030cb8",
+        "pageNumber": 37,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.2.2 Expressing the heat changes",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "674d703660f1beedf7030cb9",
+        "pageNumber": 37,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.2.3 Expressing the gas evolved",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "674d703660f1beedf7030cc5",
+        "pageNumber": 57,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.6.2 Importance of pH in everyday life",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "674d703660f1beedf7030cc8",
+        "pageNumber": 59,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.2 pH of Salts",
+        "type": "subtopic",
+        "order": 29
+    },
+    {
+        "id": "674d703660f1beedf7030cd2",
+        "pageNumber": 76,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.2  Lenses",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674d703660f1beedf7030cde",
+        "pageNumber": 102,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.3.3 Presbyopia",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "674d703660f1beedf7030ce0",
+        "pageNumber": 103,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.4 Dispersion and Scattering of Light",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "674d703660f1beedf7030ce6",
+        "pageNumber": 120,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.1 Spectrum",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "674d703660f1beedf7030ce8",
+        "pageNumber": 121,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.1.2 Electromagnetic spectrum",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "674d703660f1beedf7030ce9",
+        "pageNumber": 125,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.4 Quantum mechanical model of an atom",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "674d703660f1beedf7030cec",
+        "pageNumber": 130,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.6.1 The Pauli Exclusion Principle",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "674d703660f1beedf7030cf5",
+        "pageNumber": 149,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5.3 Periods",
+        "type": "subtopic",
+        "order": 74
+    },
+    {
+        "id": "674d703660f1beedf7030cf7",
+        "pageNumber": 151,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5.5  Periodic properties of the elements in the modern table",
+        "type": "subtopic",
+        "order": 76
+    },
+    {
+        "id": "674d703660f1beedf7030cf8",
+        "pageNumber": 152,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.6  Properties of elements and their trends in Groups and in Periods",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "674d703660f1beedf7030cff",
+        "pageNumber": 170,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.4.1  Ionic bond",
+        "type": "subtopic",
+        "order": 84
+    },
+    {
+        "id": "674d703660f1beedf7030d00",
+        "pageNumber": 175,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.4.2 Covalent bond",
+        "type": "subtopic",
+        "order": 85
+    },
+    {
+        "id": "674d703660f1beedf7030d03",
+        "pageNumber": 179,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.6  Valence shell electron pair repulsion theory",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "674d703660f1beedf7030d0d",
+        "pageNumber": 196,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.2  Potential Difference",
+        "type": "topic",
+        "order": 98
+    },
+    {
+        "id": "674d703660f1beedf7030d0e",
+        "pageNumber": 202,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.5  Electric shock",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "674d703660f1beedf7030d14",
+        "pageNumber": 207,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.7  Electric Circuits",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "674d703660f1beedf7030d1b",
+        "pageNumber": 227,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.1  Oersted experiment",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "674d703660f1beedf7030d1e",
+        "pageNumber": 231,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.3  Magnetic field due to currents",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "674d703660f1beedf7030d20",
+        "pageNumber": 233,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.3.2  Magnetic field due to circular coil",
+        "type": "subtopic",
+        "order": 117
+    },
+    {
+        "id": "674d703660f1beedf7030d23",
+        "pageNumber": 240,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.4.1  Electric Motor",
+        "type": "subtopic",
+        "order": 120
+    },
+    {
+        "id": "674d703660f1beedf7030d26",
+        "pageNumber": 248,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.5.5  Magnetic Levitation",
+        "type": "subtopic",
+        "order": 123
+    },
+    {
+        "id": "674d703660f1beedf7030d27",
+        "pageNumber": 250,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.5.6  Electric Generator and",
+        "type": "subtopic",
+        "order": 124
+    },
+    {
+        "id": "674d703660f1beedf7030d29",
+        "pageNumber": 256,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.1 Occurrence of the metals in nature",
+        "type": "topic",
+        "order": 126
+    },
+    {
+        "id": "674d703660f1beedf7030d2c",
+        "pageNumber": 264,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.2.3  Purification of the crude metal",
+        "type": "subtopic",
+        "order": 129
+    },
+    {
+        "id": "674d703660f1beedf7030d33",
+        "pageNumber": 277,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.2.1  sp2 hybridisation",
+        "type": "subtopic",
+        "order": 136
+    },
+    {
+        "id": "674d703660f1beedf7030d3f",
+        "pageNumber": 289,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.8  Isomerism",
+        "type": "topic",
+        "order": 148
+    },
+    {
+        "id": "674d703660f1beedf7030cae",
+        "pageNumber": 11,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.1.1   Verifying your drawing",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "674d703660f1beedf7030caf",
+        "pageNumber": 14,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.2 Ray diagrams for concave mirror",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674d703660f1beedf7030cb2",
+        "pageNumber": 24,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.7   Making of solar cooker",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "674d703660f1beedf7030cbc",
+        "pageNumber": 42,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Acids, Bases and Salts",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "674d703660f1beedf7030cbd",
+        "pageNumber": 43,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.1 Chemical properties of Acids and Bases",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "674d703660f1beedf7030cc1",
+        "pageNumber": 48,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.2.1 Reaction of Acids with metal oxides",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "674d703660f1beedf7030cc3",
+        "pageNumber": 53,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.6 Strength of acids or bases",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "674d703660f1beedf7030cc4",
+        "pageNumber": 54,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.6.1 pH scale",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "674d703660f1beedf7030cc6",
+        "pageNumber": 59,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7 Salts",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674d703660f1beedf7030ccc",
+        "pageNumber": 63,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.8  Baking soda",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "674d703660f1beedf7030cce",
+        "pageNumber": 69,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Refraction of Light at Curved Surfaces",
+        "type": "chapter",
+        "order": 35
+    },
+    {
+        "id": "674d703660f1beedf7030ccf",
+        "pageNumber": 69,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.1 Refraction of light at a curved surface",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "674d703660f1beedf7030cd0",
+        "pageNumber": 72,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.1.1  Image formation",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "674d703660f1beedf7030cd4",
+        "pageNumber": 78,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.2.2 Behaviour of certain light rays when they are incident on a lens",
+        "type": "subtopic",
+        "order": 41
+    },
+    {
+        "id": "674d703660f1beedf7030cd6",
+        "pageNumber": 84,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.3  Lens formula",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "674d703660f1beedf7030cd7",
+        "pageNumber": 85,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.4  Magnification",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "674d703660f1beedf7030cdc",
+        "pageNumber": 99,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.3.1 Myopia",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "674d703660f1beedf7030ce3",
+        "pageNumber": 108,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.4.3 Dispersion of Light",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "674d703660f1beedf7030cea",
+        "pageNumber": 126,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.5 Quantum numbers",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "674d703660f1beedf7030ceb",
+        "pageNumber": 129,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.6   Electronic Configuration",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "674d703660f1beedf7030cee",
+        "pageNumber": 136,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Classification of Elements- The Periodic Table",
+        "type": "chapter",
+        "order": 67
+    },
+    {
+        "id": "674d703660f1beedf7030cef",
+        "pageNumber": 136,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.1 What is the Need for the arrangement of elements in an",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "674d703660f1beedf7030cf3",
+        "pageNumber": 146,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5.1  Positions of elements in the Modern Periodic Table",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "674d703660f1beedf7030cfc",
+        "pageNumber": 164,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Chemical Bonding",
+        "type": "chapter",
+        "order": 81
+    },
+    {
+        "id": "674d703660f1beedf7030d06",
+        "pageNumber": 184,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.7.3 Formation of O2 molecule",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "674d703660f1beedf7030d09",
+        "pageNumber": 186,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.8.4  Shape of water molecule",
+        "type": "subtopic",
+        "order": 94
+    },
+    {
+        "id": "674d703660f1beedf7030d0b",
+        "pageNumber": 192,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Electric Current",
+        "type": "chapter",
+        "order": 96
+    },
+    {
+        "id": "674d703660f1beedf7030d0f",
+        "pageNumber": 204,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.6  Factors affecting the resistance of a material",
+        "type": "topic",
+        "order": 100
+    },
+    {
+        "id": "674d703660f1beedf7030d12",
+        "pageNumber": 205,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.6.3  Length of the conductor and resistance",
+        "type": "subtopic",
+        "order": 103
+    },
+    {
+        "id": "674d703660f1beedf7030d13",
+        "pageNumber": 206,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.6.4  Crosssection area and resistance",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "674d703660f1beedf7030d15",
+        "pageNumber": 208,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.7.1 Series connection of resistors",
+        "type": "subtopic",
+        "order": 106
+    },
+    {
+        "id": "674d703660f1beedf7030d1f",
+        "pageNumber": 232,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.3.1  Magnetic field due to straight wire carrying current",
+        "type": "subtopic",
+        "order": 116
+    },
+    {
+        "id": "674d703660f1beedf7030d2b",
+        "pageNumber": 262,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.2.2  Extraction of crude metal from the ore",
+        "type": "subtopic",
+        "order": 128
+    },
+    {
+        "id": "674d703660f1beedf7030d2e",
+        "pageNumber": 267,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.3.1  Prevention of corrosion",
+        "type": "subtopic",
+        "order": 131
+    },
+    {
+        "id": "674d703660f1beedf7030d35",
+        "pageNumber": 279,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.3  Allotropes of Carbon",
+        "type": "topic",
+        "order": 138
+    },
+    {
+        "id": "674d703660f1beedf7030d37",
+        "pageNumber": 280,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.3.2  Crystalline forms",
+        "type": "subtopic",
+        "order": 140
+    },
+    {
+        "id": "674d703660f1beedf7030d3a",
+        "pageNumber": 285,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.5  Hydrocarbons",
+        "type": "topic",
+        "order": 143
+    },
+    {
+        "id": "674d703660f1beedf7030d3e",
+        "pageNumber": 287,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.7  Functional groups in carbon compounds",
+        "type": "topic",
+        "order": 147
+    },
+    {
+        "id": "674d703660f1beedf7030cb0",
+        "pageNumber": 21,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "1.4   Derivation of mirror formula for  spherical  mirrors",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674d703660f1beedf7030cb4",
+        "pageNumber": 31,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "2.1  Chemical Equations",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674d703660f1beedf7030cc0",
+        "pageNumber": 47,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.2  Neutralization reaction",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "674d703660f1beedf7030cc2",
+        "pageNumber": 50,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.3  Properties of Bases",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "674d703660f1beedf7030cc9",
+        "pageNumber": 60,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.7.3  Chemicals from common salt",
+        "type": "subtopic",
+        "order": 30
+    },
+    {
+        "id": "674d703660f1beedf7030ccd",
+        "pageNumber": 64,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "3.8  Removing water of crystallisation",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "674d703660f1beedf7030cd3",
+        "pageNumber": 77,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.2.1  Focal length of the lens",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "674d703660f1beedf7030cd5",
+        "pageNumber": 79,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "4.2.3 Rules to draw ray diagrams for image formation by lenses",
+        "type": "subtopic",
+        "order": 42
+    },
+    {
+        "id": "674d703660f1beedf7030cd8",
+        "pageNumber": 93,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Human Eye and Colourful world",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "674d703660f1beedf7030cda",
+        "pageNumber": 96,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.2 Structure of human eye",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "674d703660f1beedf7030cdf",
+        "pageNumber": 102,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.3.4 Power of lens",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "674d703660f1beedf7030ce2",
+        "pageNumber": 106,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "5.4.2  Derivation of formula for refractive index of a prism",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "674d703660f1beedf7030ced",
+        "pageNumber": 131,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "6.6.2  Aufbau Principle",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "674d703660f1beedf7030cf0",
+        "pageNumber": 138,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.2.1  Limitations",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "674d703660f1beedf7030cf2",
+        "pageNumber": 145,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5 Modern Periodic Table",
+        "type": "topic",
+        "order": 71
+    },
+    {
+        "id": "674d703660f1beedf7030cf4",
+        "pageNumber": 148,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.5.2 Groups",
+        "type": "subtopic",
+        "order": 73
+    },
+    {
+        "id": "674d703660f1beedf7030cfa",
+        "pageNumber": 155,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.6.3 Ionization Energy or Ionization Potential",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "674d703660f1beedf7030cfb",
+        "pageNumber": 158,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "7.6.5  Electronegativity",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "674d703660f1beedf7030cfd",
+        "pageNumber": 168,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.2 Electronic theory of valence by Lewis and Kossel",
+        "type": "topic",
+        "order": 82
+    },
+    {
+        "id": "674d703660f1beedf7030cfe",
+        "pageNumber": 170,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.4  Ionic and Covalent bonds",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "674d703660f1beedf7030d01",
+        "pageNumber": 178,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.4.3 The Bond lengths and Bond energies of covalent bonds",
+        "type": "subtopic",
+        "order": 86
+    },
+    {
+        "id": "674d703660f1beedf7030d08",
+        "pageNumber": 186,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "8.8.3 Formation of NH3 molecule",
+        "type": "subtopic",
+        "order": 93
+    },
+    {
+        "id": "674d703660f1beedf7030d10",
+        "pageNumber": 204,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.6.1 Temperature and resistance",
+        "type": "subtopic",
+        "order": 101
+    },
+    {
+        "id": "674d703660f1beedf7030d11",
+        "pageNumber": 205,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.6.2  Nature of material and resistance",
+        "type": "subtopic",
+        "order": 102
+    },
+    {
+        "id": "674d703660f1beedf7030d16",
+        "pageNumber": 209,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.7.2  Parallel Connection of resistors",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "674d703660f1beedf7030d17",
+        "pageNumber": 212,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.8.1  Junction Law",
+        "type": "subtopic",
+        "order": 108
+    },
+    {
+        "id": "674d703660f1beedf7030d19",
+        "pageNumber": 216,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "9.9  Electric power",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "674d703660f1beedf7030d1a",
+        "pageNumber": 226,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "Electromagnetism",
+        "type": "chapter",
+        "order": 111
+    },
+    {
+        "id": "674d703660f1beedf7030d1c",
+        "pageNumber": 228,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.2  Magnetic Field",
+        "type": "topic",
+        "order": 113
+    },
+    {
+        "id": "674d703660f1beedf7030d22",
+        "pageNumber": 234,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.4  Magnetic Force On Moving Charge And Current Carrying Wire",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "674d703660f1beedf7030d24",
+        "pageNumber": 242,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "10.5   Electromagnetic induction",
+        "type": "topic",
+        "order": 121
+    },
+    {
+        "id": "674d703660f1beedf7030d2f",
+        "pageNumber": 268,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "11.4  A few important processes used in metallurgy",
+        "type": "topic",
+        "order": 132
+    },
+    {
+        "id": "674d703660f1beedf7030d31",
+        "pageNumber": 275,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.1  Promotion of an electron",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "674d703660f1beedf7030d36",
+        "pageNumber": 280,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "123.1  Amorphous forms",
+        "type": "topic",
+        "order": 139
+    },
+    {
+        "id": "674d703660f1beedf7030d39",
+        "pageNumber": 284,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.4.1  Catenation",
+        "type": "subtopic",
+        "order": 142
+    },
+    {
+        "id": "674d703660f1beedf7030d3b",
+        "pageNumber": 285,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.5.1 Open and closed chain hydrocarbons",
+        "type": "subtopic",
+        "order": 144
+    },
+    {
+        "id": "674d703660f1beedf7030d3d",
+        "pageNumber": 287,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.6  Binding of carbon with other elements",
+        "type": "topic",
+        "order": 146
+    },
+    {
+        "id": "674d703660f1beedf7030d40",
+        "pageNumber": 290,
+        "bookID": "674d5460bbc7012c14e8ce65",
+        "text": "12.9  Homologous series",
+        "type": "topic",
+        "order": 149
+    }
+]

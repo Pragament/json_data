@@ -1,0 +1,882 @@
+[
+    {
+        "id": "676a530045665a19fa62b650",
+        "pageNumber": 15,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Integers",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a530045665a19fa62b651",
+        "pageNumber": 15,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.1 PROPERTIES OF ADDITION AND SUBTRACTION OF",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676a530045665a19fa62b652",
+        "pageNumber": 15,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.1.1 Closure under Addition",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "676a530045665a19fa62b653",
+        "pageNumber": 16,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.1.2 Closure under Subtraction",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "676a530045665a19fa62b654",
+        "pageNumber": 16,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.1.3 Commutative Property",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "676a530045665a19fa62b655",
+        "pageNumber": 18,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.1.5 Additive Identity",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "676a530045665a19fa62b656",
+        "pageNumber": 19,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.2 MULTIPLICATION OF INTEGERS",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "676a530045665a19fa62b657",
+        "pageNumber": 19,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.2.1 Multiplication of a Positive and a Negative",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "676a530045665a19fa62b658",
+        "pageNumber": 21,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.2.2 Multiplication of two Negative Integer",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "676a530045665a19fa62b659",
+        "pageNumber": 24,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3 PROPERTIES OF MULTIPLICATION OF INTEGERS",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a530045665a19fa62b65a",
+        "pageNumber": 24,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.1 Closure under Multiplication",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "676a530045665a19fa62b65b",
+        "pageNumber": 24,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.2 Commutativity of Multiplication",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "676a530045665a19fa62b65c",
+        "pageNumber": 25,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.3 Multiplication by Zero",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "676a530045665a19fa62b65d",
+        "pageNumber": 25,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.4 Multiplicative Identity",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "676a530045665a19fa62b65e",
+        "pageNumber": 26,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.5 Associativity for Multiplication",
+        "type": "subtopic",
+        "order": 15
+    },
+    {
+        "id": "676a530045665a19fa62b65f",
+        "pageNumber": 26,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.3.6 Distributive Property",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "676a530045665a19fa62b660",
+        "pageNumber": 29,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.5 PROPERTIES OF DIVISION OF INTEGERS",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a530045665a19fa62b661",
+        "pageNumber": 34,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Fractions and Decimals",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "676a530045665a19fa62b662",
+        "pageNumber": 34,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.1 MULTIPLICATION OF FRACTIONS",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676a530045665a19fa62b663",
+        "pageNumber": 34,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.1.1 Multiplication of a Fraction by a Whole Number",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "676a530045665a19fa62b664",
+        "pageNumber": 39,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.1.2 Multiplication of a Fraction by a Fraction",
+        "type": "subtopic",
+        "order": 21
+    },
+    {
+        "id": "676a530045665a19fa62b665",
+        "pageNumber": 45,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.2.1 Division of Whole Number by a Fraction",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "676a530045665a19fa62b666",
+        "pageNumber": 47,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.2.2 Division of a Fraction by a Whole Number",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "676a530045665a19fa62b667",
+        "pageNumber": 47,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.2.3 Division of a Fraction by Another Fraction",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "676a530045665a19fa62b668",
+        "pageNumber": 48,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.3 MULTIPLICATION OF DECIMAL NUMBERS",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a530045665a19fa62b669",
+        "pageNumber": 52,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "153.7 x 10",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a530045665a19fa62b66a",
+        "pageNumber": 52,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "168.07 x 10",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676a530045665a19fa62b66b",
+        "pageNumber": 53,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.4.2 Division of a Decimal Number by a Whole Number",
+        "type": "subtopic",
+        "order": 28
+    },
+    {
+        "id": "676a530045665a19fa62b66c",
+        "pageNumber": 54,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "2.4.3 Division of a Decimal Number by another Decimal",
+        "type": "subtopic",
+        "order": 29
+    },
+    {
+        "id": "676a530045665a19fa62b66d",
+        "pageNumber": 58,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Data Handling",
+        "type": "chapter",
+        "order": 30
+    },
+    {
+        "id": "676a530045665a19fa62b66e",
+        "pageNumber": 59,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.2 ARITHMETIC MEAN",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676a530045665a19fa62b66f",
+        "pageNumber": 60,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.2.1 Range",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "676a530045665a19fa62b670",
+        "pageNumber": 62,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.3 MODE",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676a530045665a19fa62b671",
+        "pageNumber": 63,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.3.1 Mode of Large Data",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "676a530045665a19fa62b672",
+        "pageNumber": 65,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.4 MEDIAN",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a530045665a19fa62b673",
+        "pageNumber": 67,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.5 USE OF BAR GRAPHS WITH A DIFFERENT PURPOSE",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a530045665a19fa62b674",
+        "pageNumber": 67,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "3.5.1 Choosing a Scale",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "676a530045665a19fa62b675",
+        "pageNumber": 73,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Simple Equations",
+        "type": "chapter",
+        "order": 38
+    },
+    {
+        "id": "676a530045665a19fa62b676",
+        "pageNumber": 74,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "4.3 REVIEW OF WHAT WE KNOW",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "676a530045665a19fa62b677",
+        "pageNumber": 78,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "4.4.1 Solving an Equation",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "676a530045665a19fa62b678",
+        "pageNumber": 82,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "4.5 MORE EQUATIONS",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a530045665a19fa62b679",
+        "pageNumber": 84,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "4.6 APPLICATIONS OF SIMPLE EQUATIONS TO",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a530045665a19fa62b67a",
+        "pageNumber": 88,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Lines and Angles",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "676a530045665a19fa62b67b",
+        "pageNumber": 88,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.1 INTRODUCTION",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a530045665a19fa62b67c",
+        "pageNumber": 89,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.2 RELATED ANGLES",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676a530045665a19fa62b67d",
+        "pageNumber": 89,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.2.1 Complementary Angles",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "676a530045665a19fa62b67e",
+        "pageNumber": 90,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.2.2 Supplementary Angles",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "676a530045665a19fa62b67f",
+        "pageNumber": 93,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.3 PAIRS OF LINES",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a530045665a19fa62b680",
+        "pageNumber": 93,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.3.1 Intersecting Lines",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "676a530045665a19fa62b681",
+        "pageNumber": 96,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "5.3.4 Transversal of Parallel Lines",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "676a530045665a19fa62b682",
+        "pageNumber": 102,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "The Triangle and its Properties",
+        "type": "chapter",
+        "order": 51
+    },
+    {
+        "id": "676a530045665a19fa62b683",
+        "pageNumber": 102,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.1 INTRODUCTION",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a530045665a19fa62b684",
+        "pageNumber": 103,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.2 MEDIANS OF A TRIANGLE",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "676a530045665a19fa62b685",
+        "pageNumber": 104,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.3 ALTITUDES OF A TRIANGLE",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a530045665a19fa62b686",
+        "pageNumber": 105,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.4 EXTERIOR ANGLE OF A TRIANGLE AND ITS PROPERTY",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a530045665a19fa62b687",
+        "pageNumber": 108,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.5 ANGLE SUM PROPERTY OF A TRIANGLE",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a530045665a19fa62b688",
+        "pageNumber": 113,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "6.7 SUM OF THE LENGTHS OF TWO SIDES OF A TRIANGLE",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a530045665a19fa62b689",
+        "pageNumber": 122,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Comparing Quantities",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "676a530045665a19fa62b68a",
+        "pageNumber": 122,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1 PERCENTAGE ANOTHER WAY OF COMPARING",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676a530045665a19fa62b68b",
+        "pageNumber": 122,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1.1 Meaning of Percentage",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "676a530045665a19fa62b68c",
+        "pageNumber": 125,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1.2 Converting Fractional Numbers to Percentage",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "676a530045665a19fa62b68d",
+        "pageNumber": 126,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1.3 Converting Decimals to Percentage",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "676a530045665a19fa62b68e",
+        "pageNumber": 126,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1.4 Converting Percentages to Fractions or Decimals",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "676a530045665a19fa62b68f",
+        "pageNumber": 128,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.1.5 Fun with Estimation",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "676a530045665a19fa62b690",
+        "pageNumber": 128,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.2 USE OF PERCENTAGES",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676a530045665a19fa62b691",
+        "pageNumber": 128,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.2.1 Interpreting Percentages",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "676a530045665a19fa62b692",
+        "pageNumber": 130,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.2.3 Ratios to Percents",
+        "type": "subtopic",
+        "order": 67
+    },
+    {
+        "id": "676a530045665a19fa62b693",
+        "pageNumber": 132,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.3 PRICES RELATED TO AN ITEM OR BUYING AND SELLING",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "676a530045665a19fa62b694",
+        "pageNumber": 134,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.4 CHARGE GIVEN ON BORROWED MONEY OR SIMPLE",
+        "type": "topic",
+        "order": 69
+    },
+    {
+        "id": "676a530045665a19fa62b695",
+        "pageNumber": 135,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "7.4.1 Interest for Multiple Years",
+        "type": "subtopic",
+        "order": 70
+    },
+    {
+        "id": "676a530045665a19fa62b696",
+        "pageNumber": 138,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Rational Numbers",
+        "type": "chapter",
+        "order": 71
+    },
+    {
+        "id": "676a530045665a19fa62b697",
+        "pageNumber": 138,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.2 NEED FOR RATIONAL NUMBERS",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "676a530045665a19fa62b698",
+        "pageNumber": 140,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.4 POSITIVE AND NEGATIVE RATIONAL NUMBERS",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "676a530045665a19fa62b699",
+        "pageNumber": 141,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.5 RATIONAL NUMBERS ON A NUMBER LINE",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "676a530045665a19fa62b69a",
+        "pageNumber": 142,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.6 RATIONAL NUMBERS IN STANDARD FORM",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "676a530045665a19fa62b69b",
+        "pageNumber": 145,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.8 RATIONAL NUMBERS BETWEEN TWO RATIONAL NUMBERS",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "676a530045665a19fa62b69c",
+        "pageNumber": 149,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.9 OPERATIONS ON RATIONAL NUMBERS",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "676a530045665a19fa62b69d",
+        "pageNumber": 149,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.9.1 Addition",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "676a530045665a19fa62b69e",
+        "pageNumber": 151,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.9.2 Subtraction",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "676a530045665a19fa62b69f",
+        "pageNumber": 152,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.9.3 Multiplication",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "676a530045665a19fa62b6a0",
+        "pageNumber": 153,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "8.9.4 Division",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "676a530045665a19fa62b6a1",
+        "pageNumber": 158,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Perimeter and Area",
+        "type": "chapter",
+        "order": 82
+    },
+    {
+        "id": "676a530045665a19fa62b6a2",
+        "pageNumber": 158,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "9.1 AREA OF A PARALLELOGRAM",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "676a530045665a19fa62b6a3",
+        "pageNumber": 170,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "9.3.2 Area of Circle",
+        "type": "subtopic",
+        "order": 84
+    },
+    {
+        "id": "676a530045665a19fa62b6a4",
+        "pageNumber": 174,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Algebraic Expressions",
+        "type": "chapter",
+        "order": 85
+    },
+    {
+        "id": "676a530045665a19fa62b6a5",
+        "pageNumber": 174,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "10.1 INTRODUCTION",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "676a530045665a19fa62b6a6",
+        "pageNumber": 175,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "10.3 TERMS OF AN EXPRESSION",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "676a530045665a19fa62b6a7",
+        "pageNumber": 184,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Exponents and Powers",
+        "type": "chapter",
+        "order": 88
+    },
+    {
+        "id": "676a530045665a19fa62b6a8",
+        "pageNumber": 184,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.1 INTRODUCTION",
+        "type": "topic",
+        "order": 89
+    },
+    {
+        "id": "676a530045665a19fa62b6a9",
+        "pageNumber": 188,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.3 LAWS OF EXPONENTS",
+        "type": "topic",
+        "order": 90
+    },
+    {
+        "id": "676a530045665a19fa62b6aa",
+        "pageNumber": 188,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.3.1 Multiplying Powers with the Same Base",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "676a530045665a19fa62b6ab",
+        "pageNumber": 189,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.3.2 Dividing Powers with the Same Base",
+        "type": "subtopic",
+        "order": 92
+    },
+    {
+        "id": "676a530045665a19fa62b6ac",
+        "pageNumber": 190,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.3.3 Taking Power of a Power",
+        "type": "subtopic",
+        "order": 93
+    },
+    {
+        "id": "676a530045665a19fa62b6ad",
+        "pageNumber": 191,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.3.4 Multiplying Powers with the Same Exponents",
+        "type": "subtopic",
+        "order": 94
+    },
+    {
+        "id": "676a530045665a19fa62b6ae",
+        "pageNumber": 193,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.4 MISCELLANEOUS EXAMPLES USING THE LAWS OF",
+        "type": "topic",
+        "order": 95
+    },
+    {
+        "id": "676a530045665a19fa62b6af",
+        "pageNumber": 196,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.5 DECIMAL NUMBER SYSTEM",
+        "type": "topic",
+        "order": 96
+    },
+    {
+        "id": "676a530045665a19fa62b6b0",
+        "pageNumber": 196,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "11.6 EXPRESSING LARGE NUMBERS IN THE STANDARD FORM",
+        "type": "topic",
+        "order": 97
+    },
+    {
+        "id": "676a530045665a19fa62b6b1",
+        "pageNumber": 200,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Symmetry",
+        "type": "chapter",
+        "order": 98
+    },
+    {
+        "id": "676a530045665a19fa62b6b2",
+        "pageNumber": 200,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "12.1 INTRODUCTION",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "676a530045665a19fa62b6b3",
+        "pageNumber": 201,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "12.2 LINES OF SYMMETRY FOR REGULAR POLYGONS",
+        "type": "topic",
+        "order": 100
+    },
+    {
+        "id": "676a530045665a19fa62b6b4",
+        "pageNumber": 209,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "12.4 LINE SYMMETRY",
+        "type": "topic",
+        "order": 101
+    },
+    {
+        "id": "676a530045665a19fa62b6b5",
+        "pageNumber": 212,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "Visualising Solid Shapes",
+        "type": "chapter",
+        "order": 102
+    },
+    {
+        "id": "676a530045665a19fa62b6b6",
+        "pageNumber": 217,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.4 DRAWING SOLIDS ON A FLAT SURFACE",
+        "type": "topic",
+        "order": 103
+    },
+    {
+        "id": "676a530045665a19fa62b6b7",
+        "pageNumber": 221,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.4.3 Visualising Solid Objects",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "676a530045665a19fa62b6b8",
+        "pageNumber": 222,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.5 VIEWING DIFFERENT SECTIONS OF A SOLID",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "676a530045665a19fa62b6b9",
+        "pageNumber": 222,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.5.1 One Way to View an Object is by Cutting or Slicing",
+        "type": "subtopic",
+        "order": 106
+    },
+    {
+        "id": "676a530045665a19fa62b6ba",
+        "pageNumber": 223,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.5.2 Another Way is by Shadow Play",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "676a530045665a19fa62b6bb",
+        "pageNumber": 225,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "13.5.3 A Third Way is by Looking at it from Certain Angles",
+        "type": "subtopic",
+        "order": 108
+    },
+    {
+        "id": "676a530045665a19fa62b6bc",
+        "pageNumber": 238,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "1.2 a",
+        "type": "topic",
+        "order": 109
+    },
+    {
+        "id": "676a530045665a19fa62b6bd",
+        "pageNumber": 238,
+        "bookID": "66a4a1e1114887dba197ed58",
+        "text": "0.8 b",
+        "type": "topic",
+        "order": 110
+    }
+]

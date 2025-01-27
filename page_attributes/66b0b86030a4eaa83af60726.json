@@ -1,0 +1,466 @@
+[
+    {
+        "id": "676a774a45665a19fa62b871",
+        "pageNumber": 13,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Some Basic Concepts of Chemistry",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a774a45665a19fa62b872",
+        "pageNumber": 16,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.1 Importance of Chemistry",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676a774a45665a19fa62b873",
+        "pageNumber": 16,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.2 Nature of Matter",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a774a45665a19fa62b874",
+        "pageNumber": 18,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.3 Properties of Matter and their Measurement",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a774a45665a19fa62b875",
+        "pageNumber": 22,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.4 Uncertainty in Measurement",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676a774a45665a19fa62b876",
+        "pageNumber": 26,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.5 Laws of Chemical Combinations",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "676a774a45665a19fa62b877",
+        "pageNumber": 28,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.6 Dalton’s Atomic Theory",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "676a774a45665a19fa62b878",
+        "pageNumber": 28,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.7 Atomic and Molecular Masses",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676a774a45665a19fa62b879",
+        "pageNumber": 30,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.8 Mole Concept and Molar Masses",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676a774a45665a19fa62b87a",
+        "pageNumber": 30,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.9 Percentage Composition",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a774a45665a19fa62b87b",
+        "pageNumber": 32,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "1.10 Stoichiometry and Stoichiometric Calculations",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "676a774a45665a19fa62b87c",
+        "pageNumber": 41,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Structure of Atom",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "676a774a45665a19fa62b87d",
+        "pageNumber": 42,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.1 Discovery of Sub-atomic Particles",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676a774a45665a19fa62b87e",
+        "pageNumber": 44,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.2 Atomic Models",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a774a45665a19fa62b87f",
+        "pageNumber": 49,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.3 Developments Leading to the Bohr’s Model of Atom",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a774a45665a19fa62b880",
+        "pageNumber": 58,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.4 Bohr’s Model for Hydrogen Atom",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676a774a45665a19fa62b881",
+        "pageNumber": 61,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.5 Towards Quantum Mechanical Model of the Atom",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a774a45665a19fa62b882",
+        "pageNumber": 65,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "2.6 Quantum Mechanical Model of Atom",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676a774a45665a19fa62b883",
+        "pageNumber": 86,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Classification of Elements and Periodicity in Properties",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "676a774a45665a19fa62b884",
+        "pageNumber": 86,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.1 Why do we Need to Classify Elements ?",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a774a45665a19fa62b885",
+        "pageNumber": 87,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.2 Genesis of Periodic Classification",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676a774a45665a19fa62b886",
+        "pageNumber": 90,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.3 Modern Periodic Law and the Present Form of the Periodic Table",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676a774a45665a19fa62b887",
+        "pageNumber": 90,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.4 Nomenclature of Elements with Atomic Numbers > 100",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676a774a45665a19fa62b888",
+        "pageNumber": 93,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.5 Electronic Configurations of Elements and the Periodic Table",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676a774a45665a19fa62b889",
+        "pageNumber": 94,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.6 Electronic Configurations and Types of Elements: s-, p-, d-, f- Blocks",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a774a45665a19fa62b88a",
+        "pageNumber": 97,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "3.7 Periodic Trends in Properties of Elements",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a774a45665a19fa62b88b",
+        "pageNumber": 112,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Chemical Bonding and Molecular Structure",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "676a774a45665a19fa62b88c",
+        "pageNumber": 113,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.1 Kössel-Lewis Approach to Chemical Bonding",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a774a45665a19fa62b88d",
+        "pageNumber": 118,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.2 Ionic or Electrovalent Bond",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "676a774a45665a19fa62b88e",
+        "pageNumber": 119,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.3 Bond Parameters",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a774a45665a19fa62b88f",
+        "pageNumber": 124,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.4 The Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676a774a45665a19fa62b890",
+        "pageNumber": 129,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.5 Valence Bond Theory",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676a774a45665a19fa62b891",
+        "pageNumber": 132,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.6 Hybridisation",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676a774a45665a19fa62b892",
+        "pageNumber": 137,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.7 Molecular Orbital Theory",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676a774a45665a19fa62b893",
+        "pageNumber": 141,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.8 Bonding in Some Homonuclear Diatomic Molecules",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a774a45665a19fa62b894",
+        "pageNumber": 143,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "4.9 Hydrogen Bonding",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a774a45665a19fa62b895",
+        "pageNumber": 148,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Thermodynamics",
+        "type": "chapter",
+        "order": 37
+    },
+    {
+        "id": "676a774a45665a19fa62b896",
+        "pageNumber": 149,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.1 Thermodynamic Terms",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676a774a45665a19fa62b897",
+        "pageNumber": 152,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.2 Applications",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "676a774a45665a19fa62b898",
+        "pageNumber": 157,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.3 Measurement of ∆U and ∆H: Calorimetry",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "676a774a45665a19fa62b899",
+        "pageNumber": 158,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.4 Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a774a45665a19fa62b89a",
+        "pageNumber": 164,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.5 Enthalpies for Different Types of Reactions",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a774a45665a19fa62b89b",
+        "pageNumber": 169,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.6 Spontaneity",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "676a774a45665a19fa62b89c",
+        "pageNumber": 174,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "5.7 Gibbs Energy Change and Equilibrium",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a774a45665a19fa62b89d",
+        "pageNumber": 180,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "Equilibrium",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "676a774a45665a19fa62b89e",
+        "pageNumber": 181,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.1 Equilibrium in Physical Processes",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "676a774a45665a19fa62b89f",
+        "pageNumber": 184,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.2 Equilibrium in Chemical Processes – Dynamic Equilibrium",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "676a774a45665a19fa62b8a0",
+        "pageNumber": 186,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.3 Law of Chemical Equilibrium and Equilibrium Constant",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a774a45665a19fa62b8a1",
+        "pageNumber": 189,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.4 Homogeneous Equilibria",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a774a45665a19fa62b8a2",
+        "pageNumber": 191,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.5 Heterogeneous Equilibria",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676a774a45665a19fa62b8a3",
+        "pageNumber": 193,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.6 Applications of Equilibrium Constants",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676a774a45665a19fa62b8a4",
+        "pageNumber": 196,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.7 Relationship between Equilibrium Constant K, Reaction Quotient Q and Gibbs Energy G",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a774a45665a19fa62b8a5",
+        "pageNumber": 196,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.8 Factors Affecting Equilibria",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "676a774a45665a19fa62b8a6",
+        "pageNumber": 200,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.9 Ionic Equilibrium in Solution",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a774a45665a19fa62b8a7",
+        "pageNumber": 201,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.10 Acids, Bases and Salts",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a774a45665a19fa62b8a8",
+        "pageNumber": 204,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.11 Ionization of Acids and Bases",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a774a45665a19fa62b8a9",
+        "pageNumber": 214,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.12 Buffer Solutions",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a774a45665a19fa62b8aa",
+        "pageNumber": 216,
+        "bookID": "66b0b86030a4eaa83af60726",
+        "text": "6.13 Solubility Equilibria of Sparingly Soluble Salts",
+        "type": "topic",
+        "order": 58
+    }
+]

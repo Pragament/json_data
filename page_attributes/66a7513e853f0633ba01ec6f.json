@@ -1,0 +1,106 @@
+[
+    {
+        "id": "673c36745494579cadbc634d",
+        "pageNumber": 23,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Visual Arts",
+        "type": "unit",
+        "order": 1
+    },
+    {
+        "id": "673c36745494579cadbc634e",
+        "pageNumber": 23,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Objects and Still Life",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c36745494579cadbc634f",
+        "pageNumber": 30,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Changing the Typical Picture",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c36745494579cadbc6350",
+        "pageNumber": 40,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Portraying People",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c36745494579cadbc6351",
+        "pageNumber": 45,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Paper Crafts",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c36745494579cadbc6352",
+        "pageNumber": 134,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Theatre",
+        "type": "unit",
+        "order": 6
+    },
+    {
+        "id": "673c36745494579cadbc6353",
+        "pageNumber": 134,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Emotions Unveiled!",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c36745494579cadbc6354",
+        "pageNumber": 147,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Let’s Design",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "673c36745494579cadbc6355",
+        "pageNumber": 161,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "In the Company of Theatre",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "673c36745494579cadbc6356",
+        "pageNumber": 165,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Stories of Shadows and Strings — Puppetry",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "673c36745494579cadbc6357",
+        "pageNumber": 174,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "The Grand Finale",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "673c36745494579cadbc6358",
+        "pageNumber": 177,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Integration of All Art Forms",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "673c36745494579cadbc6359",
+        "pageNumber": 181,
+        "bookID": "66a7513e853f0633ba01ec6f",
+        "text": "Assessment",
+        "type": "chapter",
+        "order": 13
+    }
+]
