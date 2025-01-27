@@ -1,0 +1,1106 @@
+{
+  "data": {
+    "getBooks": [
+      {
+        "id": "668e5c2d3b5af2561c87eab5",
+        "name": "class 10 Maths",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6690c2d1ee63da82a8e9cdaf",
+        "name": "class 10 English",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6690c5beee63da82a8e9cdb0",
+        "name": "class 10 Science",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6690d48c2dce372c499477fb",
+        "name": "class 10 Hindi",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6690d5422dce372c499477fc",
+        "name": "class 10 Sanskrit",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Sanskrit",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6690f3e0c80fdc05a881d484",
+        "name": "class 10 social science India and the Contemporary World–2 Textbook History",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Social Science -India and the Contemporary World–2 Textbook History",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6694b017d744eec5ff05ab5e",
+        "name": "class 10 Social Science -India and the Contemporary World–2 Textbook in Geopgraphy",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Social Science -India and the Contemporary World–2 Textbook in Geopgraphy",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "669a8349a4869f2442d74ffa",
+        "name": "class 8 English",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a83da40162c818c13dd48",
+        "name": "class 8 Hindi",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a8439a4869f2442d74ffb",
+        "name": "class 8 Mathematics",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a8519a4869f2442d74ffc",
+        "name": "class 8 Physical",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Physical",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a857d40162c818c13dd49",
+        "name": "class 8 Telugu",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a85f0a4869f2442d74ffd",
+        "name": "class 8 Biology",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Biology",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a8707a4869f2442d74ffe",
+        "name": "class 8 Social",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Social",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a9e65569c13f134109ca0",
+        "name": "class 7 Telugu",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a9ec5569c13f134109ca1",
+        "name": "class 7 Hindi",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669a9f4d569c13f134109ca2",
+        "name": "class 7 English",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669aa041569c13f134109ca3",
+        "name": "class 7 Mathematics",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669aa116569c13f134109ca4",
+        "name": "class 7 Science",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669ab52142624eabbf84472e",
+        "name": "class 6 Telugu",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669ab5e542624eabbf844730",
+        "name": "class 6 English",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669ab67c42624eabbf844731",
+        "name": "class 6 Mathematics",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669ab71f42624eabbf844732",
+        "name": "class 6 Science",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b64b521f37722012d663e",
+        "name": "class 7 Social",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Social",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6b551622730884f6fd40",
+        "name": "class 5 English",
+        "description": null,
+        "class": "5",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6c151622730884f6fd41",
+        "name": "class 5 EVS",
+        "description": null,
+        "class": "5",
+        "languageCode": "en",
+        "subject": "EVS",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6cc51622730884f6fd42",
+        "name": "class 4 Maths",
+        "description": null,
+        "class": "4",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6d581622730884f6fd43",
+        "name": "class 3 Telugu",
+        "description": null,
+        "class": "3",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6e241622730884f6fd44",
+        "name": "class 3 English",
+        "description": null,
+        "class": "3",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6eb61622730884f6fd45",
+        "name": "class 2 English",
+        "description": null,
+        "class": "2",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b6fca1622730884f6fd47",
+        "name": "class 1 Maths",
+        "description": null,
+        "class": "1",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b7b4c3237690e0d60c884",
+        "name": "class 1 Telugu",
+        "description": null,
+        "class": "1",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b7d1e3237690e0d60c885",
+        "name": "class 2 Telugu",
+        "description": null,
+        "class": "2",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b7efd3237690e0d60c886",
+        "name": "class 2 Maths",
+        "description": null,
+        "class": "2",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b81703237690e0d60c887",
+        "name": "class 3 Maths",
+        "description": null,
+        "class": "3",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b82e43237690e0d60c888",
+        "name": "class 4 English",
+        "description": null,
+        "class": "4",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b848a3237690e0d60c889",
+        "name": "class 4 Telugu",
+        "description": null,
+        "class": "4",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b86cd3237690e0d60c88a",
+        "name": "class 5 Mathematics",
+        "description": null,
+        "class": "5",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b88453237690e0d60c88b",
+        "name": "class 5 Telugu",
+        "description": null,
+        "class": "5",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "669b8a953237690e0d60c88c",
+        "name": "class 6 Social",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Social",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "66a0be926bc9c7a4a2eea480",
+        "name": "class 9 Social Contemporary India - 1",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Social",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0bfb16bc9c7a4a2eea481",
+        "name": "class 9 Economics",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Economics",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c0e36bc9c7a4a2eea482",
+        "name": "class 9 English",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c1ce6bc9c7a4a2eea483",
+        "name": "class 9 Hindi",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c4ca6bc9c7a4a2eea484",
+        "name": "class 9 Social -India and the Contemporary World-1",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Social -India and the Contemporary World-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c68c6bc9c7a4a2eea485",
+        "name": "class 9 Mathematics",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c7906bc9c7a4a2eea486",
+        "name": "class 9 Sanskrit",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Sanskrit",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0c99e6bc9c7a4a2eea487",
+        "name": "class 9 Science",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a0cb606bc9c7a4a2eea488",
+        "name": "class 9 Social Science Democratic Politics-1",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Social Science Democratic Politics-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a3495389ffd74756e1e9a1",
+        "name": "class 8 English",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a34aa789ffd74756e1e9a2",
+        "name": "class 8 Hindi",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a34c9989ffd74756e1e9a3",
+        "name": "class 8 Maths",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a34e5c89ffd74756e1e9a4",
+        "name": "class 8 Resources and Development Geography",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Resources and Development Geography",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a3504c89ffd74756e1e9a5",
+        "name": "class 8 Sanskrit",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Sanskrit",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a3530089ffd74756e1e9a6",
+        "name": "class 8 Science",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a3560d89ffd74756e1e9a7",
+        "name": "class 8 Social and Political Life-3",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Social and Political Life-3",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a358da89ffd74756e1e9a8",
+        "name": "class 8 Social science Our Past-3",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Social science Our Past-3",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a35ae089ffd74756e1e9a9",
+        "name": "class 8 Urdu",
+        "description": null,
+        "class": "8",
+        "languageCode": "en",
+        "subject": "Urdu",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a49ec3114887dba197ed56",
+        "name": "class 7 Hindi Durva Bhag-2",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Hindi Durva Bhag-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a49fed114887dba197ed57",
+        "name": "class 7 Hindi Vasant",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Hindi Vasant",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4a1e1114887dba197ed58",
+        "name": "class 7 Maths",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4a38a114887dba197ed59",
+        "name": "class 7 Sanskrit",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Sanskrit",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4a642114887dba197ed5a",
+        "name": "class 7 Science",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4a907114887dba197ed5b",
+        "name": "class 7 Social and Political Life-2",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Social and Political Life-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4aa8d114887dba197ed5c",
+        "name": "class 7 Social Geography Environment",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Social Geography Environment",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4ad05114887dba197ed5d",
+        "name": "class 7 Social Our Pasts-2",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Social Our Pasts-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a4af4b114887dba197ed5e",
+        "name": "class 7 Urdu Apni Zaban",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "Urdu Apni Zaban",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a7513e853f0633ba01ec6f",
+        "name": "class 6 Arts Kiriti-1",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Arts Kiriti-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a75365853f0633ba01ec70",
+        "name": "class 6 English",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a755aa853f0633ba01ec71",
+        "name": "class 6 Hindi",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a7588c853f0633ba01ec72",
+        "name": "class 6 Sanskrit",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Sanskrit",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a75c91853f0633ba01ec73",
+        "name": "class 6 Science",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a7621e853f0633ba01ec74",
+        "name": "class 6 Social Science",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Social Science",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66a7642c853f0633ba01ec75",
+        "name": "class 6 Vocal Education",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Vocal Education",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b085372eddb71cf2f80ac2",
+        "name": "class 11 Mathematics",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b088252eddb71cf2f80ac3",
+        "name": "class 11 Physics Part-1",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "Physics Part-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0b4c930a4eaa83af60725",
+        "name": "class 11 Biology",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "Biology",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0b86030a4eaa83af60726",
+        "name": "class 11 Chemistry Part-1",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "Chemistry Part-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0bbc930a4eaa83af60727",
+        "name": "class 11 Chemistry Part-2",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "Chemistry Part-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0bd1530a4eaa83af60728",
+        "name": "class 11 Physics Part-2",
+        "description": null,
+        "class": "11",
+        "languageCode": "en",
+        "subject": "physics_part_2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0bf1230a4eaa83af60729",
+        "name": "class 12 Biology",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Biology",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0c2a630a4eaa83af6072a",
+        "name": "class 12 Chemistry Part-1",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Chemistry Part-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0c49430a4eaa83af6072b",
+        "name": "class 12 Chemistry Part-2",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Chemistry Part-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0c64930a4eaa83af6072c",
+        "name": "class 12 Mathematics Part-1",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Mathematics Part-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0c7f530a4eaa83af6072d",
+        "name": "class 12 Mathematics Part-2",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Mathematics Part-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0c9cd30a4eaa83af6072e",
+        "name": "class 12 Physics Part-1",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Physics Part-1",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66b0cc6930a4eaa83af6072f",
+        "name": "class 12 Physics Part-2",
+        "description": null,
+        "class": "12",
+        "languageCode": "en",
+        "subject": "Physics Part-2",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "66c9a8082d154823ee9ff39a",
+        "name": "class 6 Mathematics",
+        "description": null,
+        "class": "6",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "674051d5a93086691863f1de",
+        "name": "class 7 English",
+        "description": null,
+        "class": "7",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "NCERT",
+        "year": null
+      },
+      {
+        "id": "6749aadac39563553ec424a6",
+        "name": "class 10 Telugu",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "6749ab4cc39563553ec424a7",
+        "name": "class 10 Hindi",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "6749ac23c39563553ec424a8",
+        "name": "class 10 English",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "6749af7c3c5221f4f730b2db",
+        "name": "class 10 Mathematics",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "6749b00a3c5221f4f730b2dc",
+        "name": "class 10 Environmental Education",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Environmental Education",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5460bbc7012c14e8ce65",
+        "name": "class 10 Physical Science",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Physical Science",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d51b3bbc7012c14e8ce64",
+        "name": "class 10 Biology",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Biology",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5710bbc7012c14e8ce66",
+        "name": "class 10 Social Studies",
+        "description": null,
+        "class": "10",
+        "languageCode": "en",
+        "subject": "Social Studies",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5c97c07e4e5872e32638",
+        "name": "class 9 Telugu",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Telugu",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5d44c07e4e5872e32639",
+        "name": "class 9 English",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "English",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5e6dc07e4e5872e3263a",
+        "name": "class 9 Maths",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d5f5ec07e4e5872e3263b",
+        "name": "class 9 Physical Science",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Physical Science",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d6052c07e4e5872e3263c",
+        "name": "class 9 Biology",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Biology",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d618cc07e4e5872e3263d",
+        "name": "class 9 Social",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Social",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d62fd6172e09fd5bf9539",
+        "name": "class 9 Hindi",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Hindi",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "674d635789906ca049bcbe4e",
+        "name": "class 9 Environmental Education",
+        "description": null,
+        "class": "9",
+        "languageCode": "en",
+        "subject": "Environmental Education",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "675820375026f30f33baad1d",
+        "name": "class 10 mathematics",
+        "description": null,
+        "class": "10",
+        "languageCode": "te",
+        "subject": "mathematics",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "67591f180267e8562809d8c8",
+        "name": "class 10 physicalscience",
+        "description": null,
+        "class": "10",
+        "languageCode": "te",
+        "subject": "physicalscience",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "675931bb9cfe3c62c6b3645e",
+        "name": "class 10 biology",
+        "description": null,
+        "class": "10",
+        "languageCode": "te",
+        "subject": "biology",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "67738797616eb7eb5c54e084",
+        "name": "class 10th maths",
+        "description": null,
+        "class": "10th",
+        "languageCode": "te",
+        "subject": "maths",
+        "board": "TG",
+        "year": null
+      },
+      {
+        "id": "6773caf592580695cba69115",
+        "name": "class 9 maths",
+        "description": null,
+        "class": "9",
+        "languageCode": "te",
+        "subject": "maths",
+        "board": "TG",
+        "year": null
+      }
+    ]
+  }
+}

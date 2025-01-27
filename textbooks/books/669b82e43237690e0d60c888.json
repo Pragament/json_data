@@ -1,0 +1,1562 @@
+[
+    {
+        "id": "669bb597d9cf9a031a4aaa5e",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa3c",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa47",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa57",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa5c",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa40",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa43",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa52",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa54",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa59",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa49",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa58",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa3d",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa41",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4c",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa3e",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa3f",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa3b",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa42",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa45",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4a",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4f",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4b",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4d",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa53",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa56",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa50",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa5f",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa46",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa51",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa55",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa5a",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa5b",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa5d",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa60",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa44",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa48",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa4e",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa76",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa71",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6e",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7c",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa78",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7d",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa84",
+        "pageNumber": 74,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_74.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_74.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_74_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8d",
+        "pageNumber": 83,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_83.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_83.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_83_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8e",
+        "pageNumber": 84,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_84.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_84.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_84_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7f",
+        "pageNumber": 69,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_69.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_69.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_69_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa90",
+        "pageNumber": 86,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_86.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_86.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_86_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa75",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa68",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa0",
+        "pageNumber": 102,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_102.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_102.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_102_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa98",
+        "pageNumber": 94,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_94.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_94.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_94_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa61",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa74",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6a",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9f",
+        "pageNumber": 101,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_101.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_101.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_101_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa79",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7b",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa87",
+        "pageNumber": 77,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_77.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_77.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_77_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9d",
+        "pageNumber": 99,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_99.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_99.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_99_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6b",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa62",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa66",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6c",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa70",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa69",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6f",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7e",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8a",
+        "pageNumber": 80,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_80.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_80.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_80_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa94",
+        "pageNumber": 90,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_90.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_90.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_90_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa99",
+        "pageNumber": 95,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_95.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_95.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_95_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa64",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa81",
+        "pageNumber": 71,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_71.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_71.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_71_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8f",
+        "pageNumber": 85,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_85.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_85.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_85_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa93",
+        "pageNumber": 89,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_89.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_89.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_89_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa72",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa77",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa83",
+        "pageNumber": 73,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_73.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_73.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_73_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa85",
+        "pageNumber": 75,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_75.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_75.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_75_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa89",
+        "pageNumber": 79,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_79.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_79.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_79_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa73",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa86",
+        "pageNumber": 76,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_76.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_76.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_76_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa88",
+        "pageNumber": 78,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_78.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_78.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_78_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa95",
+        "pageNumber": 91,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_91.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_91.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_91_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa97",
+        "pageNumber": 93,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_93.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_93.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_93_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9b",
+        "pageNumber": 97,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_97.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_97.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_97_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9e",
+        "pageNumber": 100,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_100.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_100.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_100_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa6d",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa7a",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa80",
+        "pageNumber": 70,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_70.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_70.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_70_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8b",
+        "pageNumber": 81,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_81.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_81.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_81_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa8c",
+        "pageNumber": 82,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_82.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_82.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_82_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa96",
+        "pageNumber": 92,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_92.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_92.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_92_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa63",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa65",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa67",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa82",
+        "pageNumber": 72,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_72.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_72.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_72_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9a",
+        "pageNumber": 96,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_96.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_96.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_96_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa9c",
+        "pageNumber": 98,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_98.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_98.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_98_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa91",
+        "pageNumber": 87,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_87.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_87.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_87_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaa92",
+        "pageNumber": 88,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_88.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_88.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_88_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa4",
+        "pageNumber": 106,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_106.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_106.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_106_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab4",
+        "pageNumber": 122,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_122.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_122.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_122_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa1",
+        "pageNumber": 103,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_103.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_103.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_103_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaabb",
+        "pageNumber": 129,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_129.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_129.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_129_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaabc",
+        "pageNumber": 130,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_130.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_130.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_130_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaae",
+        "pageNumber": 116,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_116.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_116.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_116_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab8",
+        "pageNumber": 126,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_126.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_126.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_126_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa5",
+        "pageNumber": 107,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_107.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_107.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_107_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa3",
+        "pageNumber": 105,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_105.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_105.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_105_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa6",
+        "pageNumber": 108,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_108.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_108.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_108_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa9",
+        "pageNumber": 111,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_111.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_111.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_111_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab9",
+        "pageNumber": 127,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_127.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_127.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_127_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab7",
+        "pageNumber": 125,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_125.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_125.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_125_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaac",
+        "pageNumber": 114,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_114.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_114.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_114_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab1",
+        "pageNumber": 119,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_119.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_119.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_119_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaad",
+        "pageNumber": 115,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_115.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_115.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_115_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa2",
+        "pageNumber": 104,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_104.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_104.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_104_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa8",
+        "pageNumber": 110,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_110.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_110.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_110_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab0",
+        "pageNumber": 118,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_118.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_118.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_118_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaba",
+        "pageNumber": 128,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_128.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_128.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_128_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab3",
+        "pageNumber": 121,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_121.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_121.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_121_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaa7",
+        "pageNumber": 109,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_109.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_109.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_109_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaab",
+        "pageNumber": 113,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_113.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_113.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_113_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab2",
+        "pageNumber": 120,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_120.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_120.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_120_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaaa",
+        "pageNumber": 112,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_112.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_112.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_112_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaaaf",
+        "pageNumber": 117,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_117.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_117.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_117_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab6",
+        "pageNumber": 124,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_124.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_124.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_124_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "669bb597d9cf9a031a4aaab5",
+        "pageNumber": 123,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/absoluteImages/4_english_page_123.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/thumbnails/4_english_page_123.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/4english/textAnnotations/page_123_text_annotation.json",
+        "bookID": {
+            "id": "669b82e43237690e0d60c888",
+            "name": "class 4 English"
+        },
+        "imageText": ""
+    }
+]
