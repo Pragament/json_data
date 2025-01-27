@@ -1,0 +1,1170 @@
+[
+    {
+        "id": "67496209d4298760bdd4c5ab",
+        "pageNumber": 10,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.1  Operations on Rational numbers",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "67496209d4298760bdd4c5ae",
+        "pageNumber": 12,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.1 Closure property",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "67496209d4298760bdd4c5b0",
+        "pageNumber": 19,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.3 Associative Property",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "67496209d4298760bdd4c5b7",
+        "pageNumber": 39,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.7.1 Converting terminating decimal  into rational form",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "67496209d4298760bdd4c5b8",
+        "pageNumber": 44,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Linear Equations in One Variable",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "67496209d4298760bdd4c5c8",
+        "pageNumber": 122,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "5.7 Compound Interest",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "67496209d4298760bdd4c5ca",
+        "pageNumber": 132,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.0  Introduction",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "67496209d4298760bdd4c5cb",
+        "pageNumber": 134,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.1   Properties of square numbers",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "67496209d4298760bdd4c5ce",
+        "pageNumber": 139,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.4   Square Roots",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "67496209d4298760bdd4c5d5",
+        "pageNumber": 163,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.1.3 Median",
+        "type": "subtopic",
+        "order": 44
+    },
+    {
+        "id": "67496209d4298760bdd4c5d6",
+        "pageNumber": 167,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.2   Organisation of Grouped Data",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "67496209d4298760bdd4c5d7",
+        "pageNumber": 167,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.2.1 Interpretation of Grouped frequency distribution",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "67496209d4298760bdd4c5d9",
+        "pageNumber": 171,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.2.4   Characteristics of Grouped Frequency Distribution",
+        "type": "subtopic",
+        "order": 48
+    },
+    {
+        "id": "67496209d4298760bdd4c5df",
+        "pageNumber": 178,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.1.1 Interpretation of Histogram",
+        "type": "subtopic",
+        "order": 54
+    },
+    {
+        "id": "67496209d4298760bdd4c5e2",
+        "pageNumber": 182,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.1.4  Histogram for grouped frequency distribution with class marks",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "67496209d4298760bdd4c5e5",
+        "pageNumber": 183,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.2.1 Interpretation of Frequency Polygon",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "67496209d4298760bdd4c5e8",
+        "pageNumber": 186,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.3  Frequency Curve for a grouped frequency distribution",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "67496209d4298760bdd4c5ed",
+        "pageNumber": 192,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.1.1 Congruency of shapes",
+        "type": "subtopic",
+        "order": 68
+    },
+    {
+        "id": "67496209d4298760bdd4c5f3",
+        "pageNumber": 205,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.3.2  Point symmetry",
+        "type": "subtopic",
+        "order": 74
+    },
+    {
+        "id": "67496209d4298760bdd4c5f5",
+        "pageNumber": 209,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.0  Introduction",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "67496209d4298760bdd4c5f7",
+        "pageNumber": 218,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.2  Area of a Quadrilateral",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "67496209d4298760bdd4c5f8",
+        "pageNumber": 220,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.3  Area of Rhombus",
+        "type": "topic",
+        "order": 79
+    },
+    {
+        "id": "67496209d4298760bdd4c5fa",
+        "pageNumber": 223,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.5    Area of a Polygon",
+        "type": "topic",
+        "order": 81
+    },
+    {
+        "id": "67496209d4298760bdd4c5fc",
+        "pageNumber": 233,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.7  Area of a Circular Path or Area of a ring",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "67496209d4298760bdd4c5ff",
+        "pageNumber": 241,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "10.0   Introduction",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "67496209d4298760bdd4c604",
+        "pageNumber": 258,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Algebraic Expressions",
+        "type": "chapter",
+        "order": 91
+    },
+    {
+        "id": "67496209d4298760bdd4c605",
+        "pageNumber": 258,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.0  Introduction",
+        "type": "topic",
+        "order": 92
+    },
+    {
+        "id": "67496209d4298760bdd4c609",
+        "pageNumber": 262,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.4   Multiplying a monomial by a monomial",
+        "type": "topic",
+        "order": 96
+    },
+    {
+        "id": "67496209d4298760bdd4c60a",
+        "pageNumber": 262,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.4.1 Multiplying two monomials",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "67496209d4298760bdd4c616",
+        "pageNumber": 278,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.2   Need of factorisation",
+        "type": "topic",
+        "order": 109
+    },
+    {
+        "id": "67496209d4298760bdd4c617",
+        "pageNumber": 279,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.3  Method of common factors",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "67496209d4298760bdd4c61e",
+        "pageNumber": 292,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "13.0   Introduction",
+        "type": "topic",
+        "order": 117
+    },
+    {
+        "id": "67496209d4298760bdd4c624",
+        "pageNumber": 307,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.0   Introduction",
+        "type": "topic",
+        "order": 123
+    },
+    {
+        "id": "67496209d4298760bdd4c629",
+        "pageNumber": 314,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.3.1 Volume of a Cuboid",
+        "type": "subtopic",
+        "order": 128
+    },
+    {
+        "id": "67496209d4298760bdd4c62b",
+        "pageNumber": 321,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Playing with Numbers",
+        "type": "chapter",
+        "order": 130
+    },
+    {
+        "id": "67496209d4298760bdd4c62c",
+        "pageNumber": 321,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.0   Introduction",
+        "type": "topic",
+        "order": 131
+    },
+    {
+        "id": "67496209d4298760bdd4c634",
+        "pageNumber": 327,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.7 Divisibility  by 3 and 9",
+        "type": "subtopic",
+        "order": 139
+    },
+    {
+        "id": "67496209d4298760bdd4c63a",
+        "pageNumber": 343,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.7   Some more puzzles on divisibility rules",
+        "type": "topic",
+        "order": 145
+    },
+    {
+        "id": "67496209d4298760bdd4c5ad",
+        "pageNumber": 11,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.1.2 Division of Rational Numbers",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "67496209d4298760bdd4c5af",
+        "pageNumber": 16,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.2  Commutative Property",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "67496209d4298760bdd4c5b1",
+        "pageNumber": 23,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.4 The Role of Zero",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "67496209d4298760bdd4c5b3",
+        "pageNumber": 24,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.6 Existence of Inverse",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "67496209d4298760bdd4c5b4",
+        "pageNumber": 30,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.4 Representation of Rational numbers on Number line",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "67496209d4298760bdd4c5b6",
+        "pageNumber": 35,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.6    Decimal representation of Rational numbers",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "67496209d4298760bdd4c5ba",
+        "pageNumber": 45,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "2.1   Linear Equations",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "67496209d4298760bdd4c5be",
+        "pageNumber": 69,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Construction of Quadrilaterals",
+        "type": "chapter",
+        "order": 21
+    },
+    {
+        "id": "67496209d4298760bdd4c5c2",
+        "pageNumber": 94,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "4.2 Laws of Exponents",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "67496209d4298760bdd4c5c4",
+        "pageNumber": 106,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Comparing Quantities using Proportion",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "67496209d4298760bdd4c5c5",
+        "pageNumber": 112,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "5.2 Finding discounts",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "67496209d4298760bdd4c5d1",
+        "pageNumber": 144,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.7  Finding square root by division method",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "67496209d4298760bdd4c5dc",
+        "pageNumber": 177,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.4.1 Bar Graph",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "67496209d4298760bdd4c5dd",
+        "pageNumber": 178,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5  Graphical Representation of Grouped Frequency Distribution",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "67496209d4298760bdd4c5e7",
+        "pageNumber": 185,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.2.4   Construction of a Frequency Polygon for a grouped frequency distribution",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "67496209d4298760bdd4c5f2",
+        "pageNumber": 204,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.3.1 Rotational symmetry",
+        "type": "subtopic",
+        "order": 73
+    },
+    {
+        "id": "67496209d4298760bdd4c600",
+        "pageNumber": 242,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "10.1   Direct Proportion",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "67496209d4298760bdd4c601",
+        "pageNumber": 247,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "10.2  Inverse Proportion",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "67496209d4298760bdd4c602",
+        "pageNumber": 249,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Direct and Inverse Proportions",
+        "type": "chapter",
+        "order": 89
+    },
+    {
+        "id": "67496209d4298760bdd4c603",
+        "pageNumber": 253,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "10.3  Compound Proportion",
+        "type": "topic",
+        "order": 90
+    },
+    {
+        "id": "67496209d4298760bdd4c607",
+        "pageNumber": 259,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.2    Addition and subtraction of algebraic expressions",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "67496209d4298760bdd4c613",
+        "pageNumber": 271,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.9   Application of Identities",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "67496209d4298760bdd4c61a",
+        "pageNumber": 285,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.7   Division of algebraic expressions",
+        "type": "topic",
+        "order": 113
+    },
+    {
+        "id": "67496209d4298760bdd4c61d",
+        "pageNumber": 292,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Visualising 3-D in 2-D",
+        "type": "chapter",
+        "order": 116
+    },
+    {
+        "id": "67496209d4298760bdd4c625",
+        "pageNumber": 307,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.1   Cuboid",
+        "type": "topic",
+        "order": 124
+    },
+    {
+        "id": "67496209d4298760bdd4c62a",
+        "pageNumber": 315,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.3.2 Vollume of a Cube",
+        "type": "subtopic",
+        "order": 129
+    },
+    {
+        "id": "67496209d4298760bdd4c62e",
+        "pageNumber": 321,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.1 Place value of a digit",
+        "type": "subtopic",
+        "order": 133
+    },
+    {
+        "id": "67496209d4298760bdd4c632",
+        "pageNumber": 325,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.5 Divisibility  by 5",
+        "type": "subtopic",
+        "order": 137
+    },
+    {
+        "id": "67496209d4298760bdd4c633",
+        "pageNumber": 326,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.6 Divisibility  by 2",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "67496209d4298760bdd4c637",
+        "pageNumber": 334,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.2  Some More Divisibility Rules",
+        "type": "topic",
+        "order": 142
+    },
+    {
+        "id": "67496209d4298760bdd4c638",
+        "pageNumber": 337,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.3  Puzzles based on divisibility rules",
+        "type": "topic",
+        "order": 143
+    },
+    {
+        "id": "67496209d4298760bdd4c5aa",
+        "pageNumber": 8,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Rational Numbers",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "67496209d4298760bdd4c5ac",
+        "pageNumber": 10,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.1.1 Multiplication of Rational Numbers",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "67496209d4298760bdd4c5b2",
+        "pageNumber": 23,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.2.5 The Role of  1",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "67496209d4298760bdd4c5b9",
+        "pageNumber": 44,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "2.0 Introduction",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "67496209d4298760bdd4c5c0",
+        "pageNumber": 91,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Exponents and Powers",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "67496209d4298760bdd4c5c1",
+        "pageNumber": 92,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "4.1 Powers with Negative Exponents",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "67496209d4298760bdd4c5c3",
+        "pageNumber": 102,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "4.3 Application of Exponents to Express numbers in Standard Form",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "67496209d4298760bdd4c5c6",
+        "pageNumber": 115,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "5.3 Estimation in percentages",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "67496209d4298760bdd4c5c7",
+        "pageNumber": 115,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "5.4 Profit and Loss",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "67496209d4298760bdd4c5c9",
+        "pageNumber": 132,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Square Roots and Cube Roots",
+        "type": "chapter",
+        "order": 32
+    },
+    {
+        "id": "67496209d4298760bdd4c5cc",
+        "pageNumber": 136,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.2  Interesting patterns in square",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "67496209d4298760bdd4c5cf",
+        "pageNumber": 141,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.5   Finding the Square root through subtraction of successive odd numbers",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "67496209d4298760bdd4c5d2",
+        "pageNumber": 146,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.8  Square root of decimal numbers using division method",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "67496209d4298760bdd4c5d3",
+        "pageNumber": 158,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Frequency Distribution Tables and Graphs",
+        "type": "chapter",
+        "order": 42
+    },
+    {
+        "id": "67496209d4298760bdd4c5d4",
+        "pageNumber": 159,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.1 Basic measures of central tendency",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "67496209d4298760bdd4c5da",
+        "pageNumber": 173,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.3  Cumulative Frequency",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "67496209d4298760bdd4c5db",
+        "pageNumber": 177,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.4   Graphical Representation of Data",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "67496209d4298760bdd4c5de",
+        "pageNumber": 178,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.1 Histogram",
+        "type": "subtopic",
+        "order": 53
+    },
+    {
+        "id": "67496209d4298760bdd4c5e0",
+        "pageNumber": 180,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.1.2  Construction  of a Histogram",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "67496209d4298760bdd4c5e1",
+        "pageNumber": 180,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.1.3 Histogram with Varying Base",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "67496209d4298760bdd4c5e3",
+        "pageNumber": 183,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Exploring Geometrical Figures",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "67496209d4298760bdd4c5e6",
+        "pageNumber": 183,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.2.2 Construction of a Frequency Polygon",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "67496209d4298760bdd4c5ea",
+        "pageNumber": 187,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.4.1  Less than Cummulative frequency curve",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "67496209d4298760bdd4c5eb",
+        "pageNumber": 191,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.0  Introduction",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "67496209d4298760bdd4c5ee",
+        "pageNumber": 196,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.1.2 Similar shapes",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "67496209d4298760bdd4c5f9",
+        "pageNumber": 221,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.4    Surveying the field",
+        "type": "topic",
+        "order": 80
+    },
+    {
+        "id": "67496209d4298760bdd4c5fd",
+        "pageNumber": 235,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.8   Length of the arc",
+        "type": "topic",
+        "order": 84
+    },
+    {
+        "id": "67496209d4298760bdd4c606",
+        "pageNumber": 259,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.1   Like and unlike terms",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "67496209d4298760bdd4c608",
+        "pageNumber": 260,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.3   Multiplication of Algebraic Expressions",
+        "type": "topic",
+        "order": 95
+    },
+    {
+        "id": "67496209d4298760bdd4c60b",
+        "pageNumber": 263,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.4.2 Multiplying three or more monomials",
+        "type": "subtopic",
+        "order": 98
+    },
+    {
+        "id": "67496209d4298760bdd4c60f",
+        "pageNumber": 266,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.6   Multiplying a binomial by a binomial or trinomial",
+        "type": "topic",
+        "order": 102
+    },
+    {
+        "id": "67496209d4298760bdd4c612",
+        "pageNumber": 269,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.8   Some important Identities",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "67496209d4298760bdd4c614",
+        "pageNumber": 277,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Factorisation",
+        "type": "chapter",
+        "order": 107
+    },
+    {
+        "id": "67496209d4298760bdd4c619",
+        "pageNumber": 282,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.5   Factorisation using identities",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "67496209d4298760bdd4c61b",
+        "pageNumber": 285,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.8   Division of a monomial by another monomial",
+        "type": "topic",
+        "order": 114
+    },
+    {
+        "id": "67496209d4298760bdd4c61f",
+        "pageNumber": 296,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "13.3   Various Geometrical Solids",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "67496209d4298760bdd4c620",
+        "pageNumber": 298,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "13.5  Regular Polyhedron",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "67496209d4298760bdd4c626",
+        "pageNumber": 308,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.1.2 Lateral Surface Area",
+        "type": "subtopic",
+        "order": 125
+    },
+    {
+        "id": "67496209d4298760bdd4c627",
+        "pageNumber": 309,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.2   Cube",
+        "type": "topic",
+        "order": 126
+    },
+    {
+        "id": "67496209d4298760bdd4c628",
+        "pageNumber": 313,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "14.3   Volume of Cube and Cuboid",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "67496209d4298760bdd4c631",
+        "pageNumber": 324,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.4 Divisibility  by 10",
+        "type": "subtopic",
+        "order": 136
+    },
+    {
+        "id": "67496209d4298760bdd4c636",
+        "pageNumber": 330,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.9 Divisibility by 4 and  8",
+        "type": "subtopic",
+        "order": 141
+    },
+    {
+        "id": "67496209d4298760bdd4c639",
+        "pageNumber": 339,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.5   Puzzles with missing digits",
+        "type": "topic",
+        "order": 144
+    },
+    {
+        "id": "67496209d4298760bdd4c5b5",
+        "pageNumber": 33,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "1.5     Rational Number between Two Rational Numbers",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "67496209d4298760bdd4c5bb",
+        "pageNumber": 48,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "2.3.1  Some Applications",
+        "type": "subtopic",
+        "order": 18
+    },
+    {
+        "id": "67496209d4298760bdd4c5bc",
+        "pageNumber": 54,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "2.4  Solving equation that has variables on both the sides",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "67496209d4298760bdd4c5bd",
+        "pageNumber": 56,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "2.4.1  Some more applications",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "67496209d4298760bdd4c5bf",
+        "pageNumber": 87,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "3.2.6  Construction of Special types Quadrilaterals",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "67496209d4298760bdd4c5cd",
+        "pageNumber": 139,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.3 Pythagorean triplets",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "67496209d4298760bdd4c5d0",
+        "pageNumber": 142,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "6.6 Finding the Square Root Through Prime Factorisation Method",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "67496209d4298760bdd4c5d8",
+        "pageNumber": 170,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.2.3 Construction of grouped frequency Distribution",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "67496209d4298760bdd4c5e4",
+        "pageNumber": 183,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.2 Frequency Polygon",
+        "type": "subtopic",
+        "order": 59
+    },
+    {
+        "id": "67496209d4298760bdd4c5e9",
+        "pageNumber": 187,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "7.5.4  Graph of a Cumulative Frequency Distribution",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "67496209d4298760bdd4c5ec",
+        "pageNumber": 192,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.1  Congruency",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "67496209d4298760bdd4c5ef",
+        "pageNumber": 201,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.2  Dilations",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "67496209d4298760bdd4c5f0",
+        "pageNumber": 201,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.2.1 Constructing a Dilation",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "67496209d4298760bdd4c5f1",
+        "pageNumber": 203,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "8.3  Symmetry",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "67496209d4298760bdd4c5f4",
+        "pageNumber": 209,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Area of Plane Figures",
+        "type": "chapter",
+        "order": 75
+    },
+    {
+        "id": "67496209d4298760bdd4c5f6",
+        "pageNumber": 211,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.1  Area of a Trapezium",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "67496209d4298760bdd4c5fb",
+        "pageNumber": 230,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.6 Area of circle",
+        "type": "topic",
+        "order": 82
+    },
+    {
+        "id": "67496209d4298760bdd4c5fe",
+        "pageNumber": 236,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "9.9  Area of Sector",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "67496209d4298760bdd4c60c",
+        "pageNumber": 265,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.5   Multiplying a binomial or trinomial by a monomial",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "67496209d4298760bdd4c60d",
+        "pageNumber": 265,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.5.1 Multiplying a binomial by a monomial",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "67496209d4298760bdd4c60e",
+        "pageNumber": 266,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.5.2 Multiplying a trinomial by a monomial",
+        "type": "subtopic",
+        "order": 101
+    },
+    {
+        "id": "67496209d4298760bdd4c610",
+        "pageNumber": 266,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.6.1 Multiplying a binomial by a binomial",
+        "type": "subtopic",
+        "order": 103
+    },
+    {
+        "id": "67496209d4298760bdd4c611",
+        "pageNumber": 267,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "11.6.2 Multiplying a binomial by a trinomial",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "67496209d4298760bdd4c615",
+        "pageNumber": 277,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.0   Introduction",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "67496209d4298760bdd4c618",
+        "pageNumber": 280,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.4   Factorisation by grouping the terms",
+        "type": "topic",
+        "order": 111
+    },
+    {
+        "id": "67496209d4298760bdd4c61c",
+        "pageNumber": 286,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "12.9  Division of an expression by a monomial",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "67496209d4298760bdd4c621",
+        "pageNumber": 299,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "13.5.1 Prism and Pyramid",
+        "type": "subtopic",
+        "order": 120
+    },
+    {
+        "id": "67496209d4298760bdd4c622",
+        "pageNumber": 302,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "13.7   Net Diagrams",
+        "type": "topic",
+        "order": 121
+    },
+    {
+        "id": "67496209d4298760bdd4c623",
+        "pageNumber": 307,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "Surface Areas And Volume (Cube and Cuboid)",
+        "type": "chapter",
+        "order": 122
+    },
+    {
+        "id": "67496209d4298760bdd4c62d",
+        "pageNumber": 321,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1  Divisibility Rules",
+        "type": "topic",
+        "order": 132
+    },
+    {
+        "id": "67496209d4298760bdd4c62f",
+        "pageNumber": 322,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.2 Expanded form of numbers",
+        "type": "subtopic",
+        "order": 134
+    },
+    {
+        "id": "67496209d4298760bdd4c630",
+        "pageNumber": 323,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.3 Factors and Multiples of numbers",
+        "type": "subtopic",
+        "order": 135
+    },
+    {
+        "id": "67496209d4298760bdd4c635",
+        "pageNumber": 329,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.1.8 Divisibility by 6",
+        "type": "subtopic",
+        "order": 140
+    },
+    {
+        "id": "67496209d4298760bdd4c63b",
+        "pageNumber": 345,
+        "bookID": "669a8439a4869f2442d74ffb",
+        "text": "15.8   Finding Sum of Consecutive numbers",
+        "type": "topic",
+        "order": 146
+    }
+]

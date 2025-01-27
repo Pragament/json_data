@@ -1,0 +1,1114 @@
+[
+    {
+        "id": "6752c2018c93947968381566",
+        "pageNumber": 14,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.1 CHEMICAL EQUATIONS",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "6752c2018c93947968381573",
+        "pageNumber": 30,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.1 UNDERSTANDING THE CHEMICAL PROPERTIES OF",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "6752c2018c93947968381574",
+        "pageNumber": 30,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.1.1 Acids and Bases in the Laboratory",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "6752c2018c9394796838157a",
+        "pageNumber": 40,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.4.1 Family of Salts",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "6752c2018c9394796838157b",
+        "pageNumber": 41,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.4.2 pH of Salts",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "6752c2018c9394796838157d",
+        "pageNumber": 49,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Metals and Non-metals",
+        "type": "chapter",
+        "order": 25
+    },
+    {
+        "id": "6752c2018c9394796838157e",
+        "pageNumber": 49,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.1 PHYSICAL PROPERTIES",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "6752c2018c9394796838157f",
+        "pageNumber": 49,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.1.1 Metals",
+        "type": "subtopic",
+        "order": 27
+    },
+    {
+        "id": "6752c2018c93947968381581",
+        "pageNumber": 56,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.2.4 How do Metals react with Solutions of other Metal",
+        "type": "subtopic",
+        "order": 29
+    },
+    {
+        "id": "6752c2018c93947968381586",
+        "pageNumber": 62,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.2 Enrichment of Ores",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "6752c2018c9394796838158f",
+        "pageNumber": 75,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.2.1 Saturated and Unsaturated Carbon Compounds",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "6752c2018c93947968381591",
+        "pageNumber": 79,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.2.5 Nomenclature of Carbon Compounds",
+        "type": "subtopic",
+        "order": 45
+    },
+    {
+        "id": "6752c2018c93947968381593",
+        "pageNumber": 81,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.3.1 Combustion",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "6752c2018c93947968381594",
+        "pageNumber": 82,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.3.2 Oxidation",
+        "type": "subtopic",
+        "order": 48
+    },
+    {
+        "id": "6752c2018c93947968381595",
+        "pageNumber": 83,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.3.3 Addition Reaction",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "6752c2018c9394796838159a",
+        "pageNumber": 86,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.5 SOAPS AND DETERGENTS",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "6752c2018c939479683815a7",
+        "pageNumber": 112,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Control and Coordination",
+        "type": "chapter",
+        "order": 67
+    },
+    {
+        "id": "6752c2018c939479683815a9",
+        "pageNumber": 115,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.1.2 Human Brain",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "6752c2018c939479683815ad",
+        "pageNumber": 121,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.3 HORMONES IN ANIMALS",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "6752c2018c939479683815b1",
+        "pageNumber": 127,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2 MODES OF REPRODUCTION USED BY SINGLE",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "6752c2018c939479683815b6",
+        "pageNumber": 129,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2.5 Vegetative Propagation",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "6752c2018c939479683815ba",
+        "pageNumber": 133,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.3.3 Reproduction in Human Beings",
+        "type": "subtopic",
+        "order": 86
+    },
+    {
+        "id": "6752c2018c939479683815c3",
+        "pageNumber": 149,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.2.1 Image Formation by Spherical Mirrors",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "6752c2018c939479683815c4",
+        "pageNumber": 150,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.2.2 Representation of Images Formed by Spherical",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "6752c2018c939479683815d1",
+        "pageNumber": 173,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.1 THE HUMAN EYE",
+        "type": "topic",
+        "order": 109
+    },
+    {
+        "id": "6752c2018c939479683815d2",
+        "pageNumber": 174,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.1.1 Power of Accommodation",
+        "type": "subtopic",
+        "order": 110
+    },
+    {
+        "id": "6752c2018c939479683815de",
+        "pageNumber": 193,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS",
+        "type": "topic",
+        "order": 122
+    },
+    {
+        "id": "6752c2018c939479683815df",
+        "pageNumber": 194,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.6.1 Resistors in Series",
+        "type": "subtopic",
+        "order": 123
+    },
+    {
+        "id": "6752c2018c939479683815e2",
+        "pageNumber": 202,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.7.1 Practical Applications of Heating Effect of",
+        "type": "subtopic",
+        "order": 126
+    },
+    {
+        "id": "6752c2018c939479683815ec",
+        "pageNumber": 224,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "13.2 HOW DO OUR ACTIVITIES AFFECT THE",
+        "type": "topic",
+        "order": 136
+    },
+    {
+        "id": "6752c2018c93947968381565",
+        "pageNumber": 13,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Chemical Reactions and Equations",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "6752c2018c93947968381568",
+        "pageNumber": 15,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.1.2 Balanced Chemical Equations",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "6752c2018c93947968381569",
+        "pageNumber": 18,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2 TYPES OF CHEMICAL REACTIONS",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "6752c2018c9394796838156c",
+        "pageNumber": 22,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2.3 Displacement Reaction",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "6752c2018c93947968381571",
+        "pageNumber": 25,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.3.2 Rancidity",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "6752c2018c93947968381572",
+        "pageNumber": 29,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Acids, Bases and Salts",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "6752c2018c93947968381579",
+        "pageNumber": 40,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.4 MORE ABOUT SALTS",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "6752c2018c93947968381580",
+        "pageNumber": 52,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.2 CHEMICAL PROPERTIES OF METALS",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "6752c2018c93947968381589",
+        "pageNumber": 64,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.5 Extracting Metals towards the Top of the",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "6752c2018c9394796838158c",
+        "pageNumber": 66,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.5.1 Prevention of Corrosion",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "6752c2018c93947968381590",
+        "pageNumber": 78,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.2.4 Homologous Series",
+        "type": "subtopic",
+        "order": 44
+    },
+    {
+        "id": "6752c2018c93947968381596",
+        "pageNumber": 83,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.3.4 Substitution Reaction",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "6752c2018c93947968381598",
+        "pageNumber": 84,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.4.1 Properties of Ethanol",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "6752c2018c9394796838159b",
+        "pageNumber": 91,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Life Processes",
+        "type": "chapter",
+        "order": 55
+    },
+    {
+        "id": "6752c2018c9394796838159d",
+        "pageNumber": 93,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.2.1 Autotrophic Nutrition",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "6752c2018c9394796838159f",
+        "pageNumber": 96,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.2.4 Nutrition in Human Beings",
+        "type": "subtopic",
+        "order": 59
+    },
+    {
+        "id": "6752c2018c939479683815a0",
+        "pageNumber": 99,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.3 RESPIRATION",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "6752c2018c939479683815a1",
+        "pageNumber": 103,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.4 TRANSPORTATION",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "6752c2018c939479683815a5",
+        "pageNumber": 108,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.5.1 Excretion in Human Beings",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "6752c2018c939479683815ab",
+        "pageNumber": 118,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.2.1 Immediate Response to Stimulus",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "6752c2018c939479683815b2",
+        "pageNumber": 127,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2.1 Fission",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "6752c2018c939479683815b8",
+        "pageNumber": 132,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.2 Se",
+        "type": "topic",
+        "order": 84
+    },
+    {
+        "id": "6752c2018c939479683815b9",
+        "pageNumber": 132,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.3.2 Sexual Reproduction in Flowering Plants",
+        "type": "subtopic",
+        "order": 85
+    },
+    {
+        "id": "6752c2018c939479683815bf",
+        "pageNumber": 144,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "8.2.4 Sex Determination",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "6752c2018c939479683815c5",
+        "pageNumber": 154,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.2.3 Sign Convention for Reflection by Spherical Mirrors",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "6752c2018c939479683815c7",
+        "pageNumber": 157,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3 REFRACTION OF LIGHT",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "6752c2018c939479683815c8",
+        "pageNumber": 158,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.1 Refraction through a Rectangular Glass Slab",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "6752c2018c939479683815cd",
+        "pageNumber": 167,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.6 Sign Convention for Spherical Lenses",
+        "type": "subtopic",
+        "order": 105
+    },
+    {
+        "id": "6752c2018c939479683815ce",
+        "pageNumber": 167,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.7 Lens Formula and Magnification",
+        "type": "subtopic",
+        "order": 106
+    },
+    {
+        "id": "6752c2018c939479683815d0",
+        "pageNumber": 173,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "The Human Eye and the Colourful World",
+        "type": "chapter",
+        "order": 108
+    },
+    {
+        "id": "6752c2018c939479683815d4",
+        "pageNumber": 177,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.3 REFRACTION OF LIGHT THROUGH A PRISM",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "6752c2018c939479683815d6",
+        "pageNumber": 180,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.5 ATMOSPHERIC REFRACTION",
+        "type": "topic",
+        "order": 114
+    },
+    {
+        "id": "6752c2018c939479683815d7",
+        "pageNumber": 181,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.6 SCATTERING OF LIGHT",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "6752c2018c939479683815d8",
+        "pageNumber": 181,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.6.1 Tyndall Effect",
+        "type": "subtopic",
+        "order": 116
+    },
+    {
+        "id": "6752c2018c939479683815dd",
+        "pageNumber": 189,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.5 FACTORS ON WHICH THE RESISTANCE OF A",
+        "type": "topic",
+        "order": 121
+    },
+    {
+        "id": "6752c2018c939479683815e8",
+        "pageNumber": 213,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "12.2.4 Magnetic Field due to a Current in a Solenoid",
+        "type": "subtopic",
+        "order": 132
+    },
+    {
+        "id": "6752c2018c939479683815e9",
+        "pageNumber": 216,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "12.4 DOMESTIC ELECTRIC CIRCUITS",
+        "type": "topic",
+        "order": 133
+    },
+    {
+        "id": "6752c2018c939479683815ea",
+        "pageNumber": 220,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Our Environment",
+        "type": "chapter",
+        "order": 134
+    },
+    {
+        "id": "6752c2018c9394796838156a",
+        "pageNumber": 18,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2.1 Combination Reaction",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "6752c2018c9394796838156e",
+        "pageNumber": 24,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2.5 Oxidation and Reduction",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "6752c2018c9394796838156f",
+        "pageNumber": 25,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.3 HAVE YOU OBSERVED THE EFFECTS OF OXIDATION",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "6752c2018c93947968381570",
+        "pageNumber": 25,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.3.1 Corrosion",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "6752c2018c93947968381575",
+        "pageNumber": 32,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.1.3 How do Metal Carbonates and Metal",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "6752c2018c93947968381577",
+        "pageNumber": 34,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.2 WHAT DO ALL ACIDS AND ALL BASES HAVE IN",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "6752c2018c9394796838157c",
+        "pageNumber": 41,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.4.3 Chemicals from Common Salt",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "6752c2018c93947968381583",
+        "pageNumber": 60,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.3.1 Properties of lonic Compounds",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "6752c2018c93947968381585",
+        "pageNumber": 61,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.1 Extraction of Metals",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "6752c2018c9394796838158b",
+        "pageNumber": 65,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.5 CORROSION",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "6752c2018c93947968381592",
+        "pageNumber": 81,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.3 CHEMICAL PROPERTIES OF CARBON COMPOUNDS",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "6752c2018c93947968381597",
+        "pageNumber": 83,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.4 SOME IMPORTANT CARBON COMPOUNDS ETHANOL",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "6752c2018c93947968381599",
+        "pageNumber": 85,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.4.2 Properties of Ethanoic Acid",
+        "type": "subtopic",
+        "order": 53
+    },
+    {
+        "id": "6752c2018c9394796838159c",
+        "pageNumber": 93,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.2 NUTRITION",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "6752c2018c9394796838159e",
+        "pageNumber": 96,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.2.2 Heterotrophic Nutrition",
+        "type": "subtopic",
+        "order": 58
+    },
+    {
+        "id": "6752c2018c939479683815a2",
+        "pageNumber": 103,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.4.1 Transportation in Human Beings",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "6752c2018c939479683815a3",
+        "pageNumber": 106,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.4.2 Transportation in Plants",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "6752c2018c939479683815a4",
+        "pageNumber": 108,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.5 EXCRETION",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "6752c2018c939479683815a6",
+        "pageNumber": 110,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "5.5.2 Excretion in Plants",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "6752c2018c939479683815aa",
+        "pageNumber": 117,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.2 COORDINATION IN PLANTS",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "6752c2018c939479683815af",
+        "pageNumber": 125,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.1 DO ORGANISMS CREATE EXACT COPIES OF",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "6752c2018c939479683815b4",
+        "pageNumber": 128,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2.3 Regeneration",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "6752c2018c939479683815bd",
+        "pageNumber": 141,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "8.2 HEREDITY",
+        "type": "topic",
+        "order": 89
+    },
+    {
+        "id": "6752c2018c939479683815be",
+        "pageNumber": 141,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "8.2.1 Inherited Traits",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "6752c2018c939479683815c9",
+        "pageNumber": 160,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.2 The Refractive Index",
+        "type": "subtopic",
+        "order": 101
+    },
+    {
+        "id": "6752c2018c939479683815cc",
+        "pageNumber": 165,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.5 Image Formation in Lenses Using Ray Diagrams",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "6752c2018c939479683815cf",
+        "pageNumber": 169,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.8 Power of a Lens",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "6752c2018c939479683815d5",
+        "pageNumber": 178,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.4 DISPERSION OF WHITE LIGHT BY A GLASS PRISM",
+        "type": "topic",
+        "order": 113
+    },
+    {
+        "id": "6752c2018c939479683815d9",
+        "pageNumber": 183,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Electricity",
+        "type": "chapter",
+        "order": 117
+    },
+    {
+        "id": "6752c2018c939479683815dc",
+        "pageNumber": 186,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.3 CIRCUIT DIAGRAM",
+        "type": "topic",
+        "order": 120
+    },
+    {
+        "id": "6752c2018c939479683815e1",
+        "pageNumber": 200,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.7 HEATING EFFECT OF ELECTRIC CURRENT",
+        "type": "topic",
+        "order": 125
+    },
+    {
+        "id": "6752c2018c939479683815e4",
+        "pageNumber": 207,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Magnetic Effects of Electric Current",
+        "type": "chapter",
+        "order": 128
+    },
+    {
+        "id": "6752c2018c939479683815e5",
+        "pageNumber": 208,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "12.1 MAGNETIC FIELD AND FIELD LINES",
+        "type": "topic",
+        "order": 129
+    },
+    {
+        "id": "6752c2018c939479683815e6",
+        "pageNumber": 210,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "12.2.1 Magnetic Field due to a Current through a Straight",
+        "type": "subtopic",
+        "order": 130
+    },
+    {
+        "id": "6752c2018c939479683815e7",
+        "pageNumber": 212,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "12.2.3 Magnetic Field due",
+        "type": "subtopic",
+        "order": 131
+    },
+    {
+        "id": "6752c2018c939479683815ee",
+        "pageNumber": 225,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "13.2.2 Managing the Garbage we Produce",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "6752c2018c939479683815ef",
+        "pageNumber": 231,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "18.3 A",
+        "type": "topic",
+        "order": 139
+    },
+    {
+        "id": "6752c2018c93947968381567",
+        "pageNumber": 15,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.1.1 Writing a Chemical Equation",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "6752c2018c9394796838156b",
+        "pageNumber": 20,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2.2 Decomposition Reaction",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "6752c2018c9394796838156d",
+        "pageNumber": 23,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "1.2.4 Double Displacement Reaction",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "6752c2018c93947968381576",
+        "pageNumber": 33,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.1.5 Reaction of Metallic Oxides with Acids",
+        "type": "subtopic",
+        "order": 18
+    },
+    {
+        "id": "6752c2018c93947968381578",
+        "pageNumber": 38,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "2.3.1 Importance of pH in Everyday Life",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "6752c2018c93947968381582",
+        "pageNumber": 57,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.2.5 The Reactivity Series",
+        "type": "subtopic",
+        "order": 30
+    },
+    {
+        "id": "6752c2018c93947968381584",
+        "pageNumber": 61,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4 OCCURRENCE OF METALS",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "6752c2018c93947968381587",
+        "pageNumber": 63,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.3 Extracting Metals Low in the Activity Series",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "6752c2018c93947968381588",
+        "pageNumber": 63,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.4 Extracting Metals in the Middle of the Activity Series",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "6752c2018c9394796838158a",
+        "pageNumber": 64,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "3.4.6 Refining of Metals",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "6752c2018c9394796838158d",
+        "pageNumber": 70,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Carbon and its Compounds",
+        "type": "chapter",
+        "order": 41
+    },
+    {
+        "id": "6752c2018c9394796838158e",
+        "pageNumber": 74,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "4.2 VERSATILE NATURE OF CARBON",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "6752c2018c939479683815a8",
+        "pageNumber": 112,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.1 ANIMALS",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "6752c2018c939479683815ac",
+        "pageNumber": 118,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "6.2.2 Movement Due to Growth",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "6752c2018c939479683815ae",
+        "pageNumber": 125,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "How do Organisms Reproduce?",
+        "type": "chapter",
+        "order": 74
+    },
+    {
+        "id": "6752c2018c939479683815b0",
+        "pageNumber": 126,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.1.1 The Importance of Variation",
+        "type": "subtopic",
+        "order": 76
+    },
+    {
+        "id": "6752c2018c939479683815b3",
+        "pageNumber": 128,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2.2 Fragmentation",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "6752c2018c939479683815b5",
+        "pageNumber": 129,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.2.4 Budding",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "6752c2018c939479683815b7",
+        "pageNumber": 131,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "7.3 SEXUAL REPRODUCTION",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "6752c2018c939479683815bb",
+        "pageNumber": 140,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Heredity",
+        "type": "chapter",
+        "order": 87
+    },
+    {
+        "id": "6752c2018c939479683815bc",
+        "pageNumber": 140,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "8.1 ACCUMULATION OF VARIATION",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "6752c2018c939479683815c0",
+        "pageNumber": 146,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "Light – Reflection and Refraction",
+        "type": "chapter",
+        "order": 92
+    },
+    {
+        "id": "6752c2018c939479683815c1",
+        "pageNumber": 146,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.1 REFLECTION OF LIGHT",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "6752c2018c939479683815c2",
+        "pageNumber": 147,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.2 SPHERICAL MIRRORS",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "6752c2018c939479683815c6",
+        "pageNumber": 155,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.2.4 Mirror Formula and Magnification",
+        "type": "subtopic",
+        "order": 98
+    },
+    {
+        "id": "6752c2018c939479683815ca",
+        "pageNumber": 162,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.3 Refraction by Spherical Lenses",
+        "type": "subtopic",
+        "order": 102
+    },
+    {
+        "id": "6752c2018c939479683815cb",
+        "pageNumber": 164,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "9.3.4 Image Formation by Lenses",
+        "type": "subtopic",
+        "order": 103
+    },
+    {
+        "id": "6752c2018c939479683815d3",
+        "pageNumber": 174,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "10.2 DEFECTS OF VISION AND THEIR CORRECTION",
+        "type": "topic",
+        "order": 111
+    },
+    {
+        "id": "6752c2018c939479683815da",
+        "pageNumber": 183,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.1 ELECTRIC CURRENT AND CIRCUIT",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "6752c2018c939479683815db",
+        "pageNumber": 185,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "6752c2018c939479683815e0",
+        "pageNumber": 197,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.6.2 Resistors in Parallel",
+        "type": "subtopic",
+        "order": 124
+    },
+    {
+        "id": "6752c2018c939479683815e3",
+        "pageNumber": 203,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "11.8 ELECTRIC POWER",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "6752c2018c939479683815eb",
+        "pageNumber": 222,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "13.1.1 Food Chains and Webs",
+        "type": "subtopic",
+        "order": 135
+    },
+    {
+        "id": "6752c2018c939479683815ed",
+        "pageNumber": 224,
+        "bookID": "6690c5beee63da82a8e9cdb0",
+        "text": "13.2.1 Ozone Layer and How it is Getting Depleted",
+        "type": "subtopic",
+        "order": 137
+    }
+]

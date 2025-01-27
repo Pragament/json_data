@@ -1,0 +1,682 @@
+[
+    {
+        "id": "676bf39e515cc0a7fa016689",
+        "pageNumber": 17,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "ELECTRIC CHARGES AND FIELDS",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668a",
+        "pageNumber": 17,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.1 INTRODUCTION",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668b",
+        "pageNumber": 17,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.2 ELECTRIC CHARGE",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668c",
+        "pageNumber": 19,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.3 CONDUCTORS AND INSULATORS",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668d",
+        "pageNumber": 20,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.4.1 Additivity of charges",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668e",
+        "pageNumber": 20,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.4.2 Charge is conserved",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "676bf39e515cc0a7fa01668f",
+        "pageNumber": 21,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.4.3 Quantisation of charge",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "676bf39e515cc0a7fa016690",
+        "pageNumber": 27,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.6 FORCES BETWEEN MULTIPLE CHARGES",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676bf39e515cc0a7fa016691",
+        "pageNumber": 30,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.7 ELECTRIC FIELD",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676bf39e515cc0a7fa016692",
+        "pageNumber": 31,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.7.1 Electric field due to a system of charges",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "676bf39e515cc0a7fa016693",
+        "pageNumber": 32,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.7.2 Physical significance of electric field",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "676bf39e515cc0a7fa016694",
+        "pageNumber": 35,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.8 ELECTRIC FIELD LINES",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "676bf39e515cc0a7fa016695",
+        "pageNumber": 37,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "1.9 ELECTRIC FLUX",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676bf39e515cc0a7fa016696",
+        "pageNumber": 61,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "ELECTROSTATIC POTENTIAL AND CAPACITANCE",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "676bf39e515cc0a7fa016697",
+        "pageNumber": 61,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.1 INTRODUCTION",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676bf39e515cc0a7fa016698",
+        "pageNumber": 63,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.2 ELECTROSTATIC POTENTIAL",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676bf39e515cc0a7fa016699",
+        "pageNumber": 64,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.3 POTENTIAL DUE TO A POINT CHARGE",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669a",
+        "pageNumber": 65,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669b",
+        "pageNumber": 67,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669c",
+        "pageNumber": 70,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.6 EQUIPOTENTIAL SURFACES",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669d",
+        "pageNumber": 71,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.6.1 Relation between field and potential",
+        "type": "subtopic",
+        "order": 21
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669e",
+        "pageNumber": 71,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676bf39e515cc0a7fa01669f",
+        "pageNumber": 74,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a0",
+        "pageNumber": 74,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.8.1 Potential energy of a single charge",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a1",
+        "pageNumber": 75,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.8.2 Potential energy of a system of two charges in an",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a2",
+        "pageNumber": 76,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.8.3 Potential energy of a dipole in an external field",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a3",
+        "pageNumber": 77,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.9 ELECTROSTATICS OF CONDUCTORS",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a4",
+        "pageNumber": 81,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.9 what happens when a conductor is placed in an",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a5",
+        "pageNumber": 97,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "CURRENT ELECTRICITY",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a6",
+        "pageNumber": 97,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.1 INTRODUCTION",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a7",
+        "pageNumber": 97,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.2 ELECTRIC CURRENT",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a8",
+        "pageNumber": 98,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.3 ELECTRIC CURRENTS IN CONDUCTORS",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166a9",
+        "pageNumber": 101,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166aa",
+        "pageNumber": 104,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.5.1 Mobility",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ab",
+        "pageNumber": 105,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.7 RESISTIVITY OF VARIOUS MATERIALS",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ac",
+        "pageNumber": 106,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ad",
+        "pageNumber": 123,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "MOVING CHARGES AND MAGNETISM",
+        "type": "chapter",
+        "order": 37
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ae",
+        "pageNumber": 123,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.1 INTRODUCTION",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166af",
+        "pageNumber": 124,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.2 MAGNETIC FORCE",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b0",
+        "pageNumber": 124,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.2.1 Sources and fields",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b1",
+        "pageNumber": 128,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.3 MOTION IN A MAGNETIC FIELD",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b2",
+        "pageNumber": 129,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.4 MAGNETIC FIELD DUE TO A CURR",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b3",
+        "pageNumber": 131,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCU",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b4",
+        "pageNumber": 137,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.7 THE SOLENOID",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b5",
+        "pageNumber": 138,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.8 FORCE BETWEEN TWO PARALLEL",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b6",
+        "pageNumber": 140,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.9.1 Torque on a rectangular current loop in a uniform",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b7",
+        "pageNumber": 144,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "4.9.2 Circular current loop as a magnetic dipole",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b8",
+        "pageNumber": 152,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "MAGNETISM AND MATTER",
+        "type": "chapter",
+        "order": 48
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166b9",
+        "pageNumber": 152,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.1 INTRODUCTION",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ba",
+        "pageNumber": 153,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.2 THE BAR MAGNET",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166bb",
+        "pageNumber": 155,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.2.3 The dipole in a uniform magnetic field",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166bc",
+        "pageNumber": 156,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.2.4 The electrostatic analog",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166bd",
+        "pageNumber": 163,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166be",
+        "pageNumber": 163,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.5.1 Diamagnetism",
+        "type": "subtopic",
+        "order": 54
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166bf",
+        "pageNumber": 164,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.5.2 Paramagnetism",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c0",
+        "pageNumber": 165,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "5.5.3 Ferromagnetism",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c1",
+        "pageNumber": 170,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "ELECTROMAGNETIC INDUCTION",
+        "type": "chapter",
+        "order": 57
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c2",
+        "pageNumber": 170,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.1 INTRODUCTION",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c3",
+        "pageNumber": 171,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.2 THE EXPERIMENTS OF FARADAY AND",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c4",
+        "pageNumber": 172,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.3 MAGNETIC FLUX",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c5",
+        "pageNumber": 178,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.6 MOTIONAL ELECTROMOTIVE FORCE",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c6",
+        "pageNumber": 181,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.7.1 Mutual inductance",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c7",
+        "pageNumber": 186,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "6.8 AC GENERATOR",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c8",
+        "pageNumber": 193,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "ALTERNATING CURRENT",
+        "type": "chapter",
+        "order": 64
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166c9",
+        "pageNumber": 193,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.1 INTRODUCTION",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ca",
+        "pageNumber": 194,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.2 AC VOLTAGE APPLIED TO A RESISTOR",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166cb",
+        "pageNumber": 197,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166cc",
+        "pageNumber": 197,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166cd",
+        "pageNumber": 200,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR",
+        "type": "topic",
+        "order": 69
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166ce",
+        "pageNumber": 202,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166cf",
+        "pageNumber": 204,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.6.2 Resonance",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d0",
+        "pageNumber": 210,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "7.8 TRANSFORMERS",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d1",
+        "pageNumber": 217,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "ELECTROMAGNETIC WAVES",
+        "type": "chapter",
+        "order": 73
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d2",
+        "pageNumber": 218,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.2 DISPLACEMENT CURRENT",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d3",
+        "pageNumber": 221,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.3 ELECTROMAGNETIC WAVES",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d4",
+        "pageNumber": 221,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.3.1 Sources of electromagnetic waves",
+        "type": "subtopic",
+        "order": 76
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d5",
+        "pageNumber": 222,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.3.2 Nature of electromagnetic waves",
+        "type": "subtopic",
+        "order": 77
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d6",
+        "pageNumber": 225,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.1 Radio waves",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d7",
+        "pageNumber": 225,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.2 Microwaves",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d8",
+        "pageNumber": 226,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.3 Infrared waves",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166d9",
+        "pageNumber": 226,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.4 Visible rays",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166da",
+        "pageNumber": 226,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.5 Ultraviolet rays",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166db",
+        "pageNumber": 227,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "8.4.7 Gamma rays",
+        "type": "subtopic",
+        "order": 83
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166dc",
+        "pageNumber": 232,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "2.7 x 106 V",
+        "type": "topic",
+        "order": 84
+    },
+    {
+        "id": "676bf39e515cc0a7fa0166dd",
+        "pageNumber": 234,
+        "bookID": "66b0c9cd30a4eaa83af6072e",
+        "text": "15.9 A",
+        "type": "topic",
+        "order": 85
+    }
+]

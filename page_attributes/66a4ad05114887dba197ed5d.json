@@ -1,0 +1,66 @@
+[
+    {
+        "id": "673c50e25494579cadbc64b1",
+        "pageNumber": 15,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Introduction: Tracing Changes Through a Thousand Years",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c50e25494579cadbc64b2",
+        "pageNumber": 30,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Kings and Kingdoms",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c50e25494579cadbc64b3",
+        "pageNumber": 44,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Delhi: 12th to 15th Century",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c50e25494579cadbc64b4",
+        "pageNumber": 53,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "The Mughals (16th to 17th Century)",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c50e25494579cadbc64b5",
+        "pageNumber": 63,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Tribes, Nomads and Settled Communities",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c50e25494579cadbc64b6",
+        "pageNumber": 75,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Devotional Paths to the Divine",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c50e25494579cadbc64b7",
+        "pageNumber": 93,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "The Making of Regional Cultures",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c50e25494579cadbc64b8",
+        "pageNumber": 108,
+        "bookID": "66a4ad05114887dba197ed5d",
+        "text": "Eighteenth-Century Political Formations",
+        "type": "chapter",
+        "order": 8
+    }
+]

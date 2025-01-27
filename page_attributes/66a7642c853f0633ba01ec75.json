@@ -1,0 +1,106 @@
+[
+    {
+        "id": "673c36935494579cadbc6398",
+        "pageNumber": 29,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Work with Life Forms",
+        "type": "unit",
+        "order": 1
+    },
+    {
+        "id": "673c36935494579cadbc6399",
+        "pageNumber": 31,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "School Kitchen Garden",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c36935494579cadbc639a",
+        "pageNumber": 62,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Biodiversity Register",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c36935494579cadbc639b",
+        "pageNumber": 83,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Work with Machines and Materials",
+        "type": "unit",
+        "order": 4
+    },
+    {
+        "id": "673c36935494579cadbc639c",
+        "pageNumber": 85,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Maker Skills",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c36935494579cadbc639d",
+        "pageNumber": 109,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Animation and Games",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c36935494579cadbc639e",
+        "pageNumber": 131,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Work in Human Services",
+        "type": "unit",
+        "order": 7
+    },
+    {
+        "id": "673c36935494579cadbc639f",
+        "pageNumber": 133,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "School Museum",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "673c36935494579cadbc63a0",
+        "pageNumber": 153,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Cooking without Fire",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "673c36935494579cadbc63a1",
+        "pageNumber": 182,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Project Template",
+        "type": "annexure",
+        "order": 10
+    },
+    {
+        "id": "673c36935494579cadbc63a2",
+        "pageNumber": 188,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Curricular Goals and Learning Outcomes for Grade 6",
+        "type": "annexure",
+        "order": 11
+    },
+    {
+        "id": "673c36935494579cadbc63a3",
+        "pageNumber": 190,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Exemplar Projects for Grades 6 to 8",
+        "type": "annexure",
+        "order": 12
+    },
+    {
+        "id": "673c36935494579cadbc63a4",
+        "pageNumber": 192,
+        "bookID": "66a7642c853f0633ba01ec75",
+        "text": "Time Allocation and Mapping of Learning Outcomes",
+        "type": "annexure",
+        "order": 13
+    }
+]

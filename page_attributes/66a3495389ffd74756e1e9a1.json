@@ -1,0 +1,122 @@
+[
+    {
+        "id": "673c4e385494579cadbc63a5",
+        "pageNumber": 19,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The Best Christmas Present",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4e385494579cadbc63a6",
+        "pageNumber": 31,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The Ant and the Cricket",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "673c4e385494579cadbc63a7",
+        "pageNumber": 34,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The Tsunami",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4e385494579cadbc63a8",
+        "pageNumber": 44,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "Geography Lesson",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "673c4e385494579cadbc63a9",
+        "pageNumber": 46,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "Glimpses of the Past",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c4e385494579cadbc63aa",
+        "pageNumber": 60,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "NOTES FOR THE TEACHER (UNITS 4-7)",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "673c4e385494579cadbc63ab",
+        "pageNumber": 66,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "Bepin Choudhury’s Lapse of Memory",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c4e385494579cadbc63ac",
+        "pageNumber": 80,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The Last Bargain",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "673c4e385494579cadbc63ad",
+        "pageNumber": 82,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The Summit Within",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "673c4e385494579cadbc63ae",
+        "pageNumber": 90,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "The School Boy",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "673c4e385494579cadbc63af",
+        "pageNumber": 93,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "This is Jody’s Fawn",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "673c4e385494579cadbc63b0",
+        "pageNumber": 103,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "A Visit to Cambridge",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "673c4e385494579cadbc63b1",
+        "pageNumber": 112,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "NOTES FOR THE TEACHER (UNIT 8)",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "673c4e385494579cadbc63b2",
+        "pageNumber": 114,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "A Short Monsoon Diary",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "673c4e385494579cadbc63b3",
+        "pageNumber": 123,
+        "bookID": "66a3495389ffd74756e1e9a1",
+        "text": "On the Grasshopper and Cricket",
+        "type": "topic",
+        "order": 15
+    }
+]

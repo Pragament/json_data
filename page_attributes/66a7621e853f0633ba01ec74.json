@@ -1,0 +1,154 @@
+[
+    {
+        "id": "673c368c5494579cadbc6385",
+        "pageNumber": 27,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "India and the World: Land and the People",
+        "type": "unit",
+        "order": 1
+    },
+    {
+        "id": "673c368c5494579cadbc6386",
+        "pageNumber": 27,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Locating Places on the Earth",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c368c5494579cadbc6387",
+        "pageNumber": 47,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Oceans and Continents",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c368c5494579cadbc6388",
+        "pageNumber": 61,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Landforms and Life",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c368c5494579cadbc6389",
+        "pageNumber": 79,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Tapestry of the Past",
+        "type": "unit",
+        "order": 5
+    },
+    {
+        "id": "673c368c5494579cadbc638a",
+        "pageNumber": 79,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Timeline and Sources of History",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c368c5494579cadbc638b",
+        "pageNumber": 95,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "India, That Is Bharat",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c368c5494579cadbc638c",
+        "pageNumber": 105,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "The Beginnings of Indian Civilisation",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "673c368c5494579cadbc638d",
+        "pageNumber": 125,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Our Cultural Heritage and Knowledge Traditions",
+        "type": "unit",
+        "order": 9
+    },
+    {
+        "id": "673c368c5494579cadbc638e",
+        "pageNumber": 125,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "India's Cultural Roots",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "673c368c5494579cadbc638f",
+        "pageNumber": 145,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Unity in Diversity, or 'Many in the One'",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "673c368c5494579cadbc6390",
+        "pageNumber": 157,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Governance and Democracy",
+        "type": "unit",
+        "order": 12
+    },
+    {
+        "id": "673c368c5494579cadbc6391",
+        "pageNumber": 157,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Family and Community",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "673c368c5494579cadbc6392",
+        "pageNumber": 169,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Grassroots Democracy — Part 1: Governance",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "673c368c5494579cadbc6393",
+        "pageNumber": 183,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Grassroots Democracy — Part 2: Local Government in Rural Areas",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "673c368c5494579cadbc6394",
+        "pageNumber": 193,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Grassroots Democracy — Part 3: Local Government in Urban Areas",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "673c368c5494579cadbc6395",
+        "pageNumber": 203,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Economic Life Around Us",
+        "type": "unit",
+        "order": 17
+    },
+    {
+        "id": "673c368c5494579cadbc6396",
+        "pageNumber": 203,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "The Value of Work",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "673c368c5494579cadbc6397",
+        "pageNumber": 215,
+        "bookID": "66a7621e853f0633ba01ec74",
+        "text": "Economic Activities Around Us",
+        "type": "chapter",
+        "order": 19
+    }
+]

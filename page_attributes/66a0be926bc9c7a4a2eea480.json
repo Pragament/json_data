@@ -1,0 +1,50 @@
+[
+    {
+        "id": "673c4f145494579cadbc640c",
+        "pageNumber": 11,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "India – Size and Location",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4f145494579cadbc640d",
+        "pageNumber": 17,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "Physical Features of India",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4f145494579cadbc640e",
+        "pageNumber": 27,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "Drainage",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4f145494579cadbc640f",
+        "pageNumber": 36,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "Climate",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c4f145494579cadbc6410",
+        "pageNumber": 49,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "Natural Vegetation and Wildlife",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c4f145494579cadbc6411",
+        "pageNumber": 58,
+        "bookID": "66a0be926bc9c7a4a2eea480",
+        "text": "Population",
+        "type": "chapter",
+        "order": 6
+    }
+]

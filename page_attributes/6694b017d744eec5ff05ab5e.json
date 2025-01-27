@@ -1,0 +1,58 @@
+[
+    {
+        "id": "673c4ff65494579cadbc648a",
+        "pageNumber": 13,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Resources and Development",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4ff65494579cadbc648b",
+        "pageNumber": 25,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Forest and Wildlife Resources",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4ff65494579cadbc648c",
+        "pageNumber": 31,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Water Resources",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4ff65494579cadbc648d",
+        "pageNumber": 42,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Agriculture",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c4ff65494579cadbc648e",
+        "pageNumber": 54,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Minerals and Energy Resources",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c4ff65494579cadbc648f",
+        "pageNumber": 70,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Manufacturing Industries",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c4ff65494579cadbc6490",
+        "pageNumber": 83,
+        "bookID": "6694b017d744eec5ff05ab5e",
+        "text": "Lifelines of National Economy",
+        "type": "chapter",
+        "order": 7
+    }
+]

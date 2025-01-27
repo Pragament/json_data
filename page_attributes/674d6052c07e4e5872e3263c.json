@@ -1,0 +1,1178 @@
+[
+    {
+        "id": "674e975960f1beedf7031012",
+        "pageNumber": 12,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7 Cell organelles",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674e975960f1beedf7031015",
+        "pageNumber": 14,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.4 Mitochondria",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "674e975960f1beedf7031019",
+        "pageNumber": 19,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Plant Tissues",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674e975960f1beedf703101f",
+        "pageNumber": 31,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.1 Animal Tissues",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "674e975960f1beedf7031020",
+        "pageNumber": 33,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.2 Epithelial Tissue",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "674e975960f1beedf7031024",
+        "pageNumber": 36,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3.3  Bone",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "674e975960f1beedf703102c",
+        "pageNumber": 49,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "4.3 Transport across the plasma",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "674e975960f1beedf703102e",
+        "pageNumber": 57,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Diversity in Living Organisms - Classification",
+        "type": "chapter",
+        "order": 34
+    },
+    {
+        "id": "674e975960f1beedf7031031",
+        "pageNumber": 61,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.2.1 Variations in humans",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "674e975960f1beedf7031032",
+        "pageNumber": 62,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.3 Variations in plants",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "674e975960f1beedf7031036",
+        "pageNumber": 66,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.5 Monera",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "674e975960f1beedf7031039",
+        "pageNumber": 67,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.7 Fungi",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "674e975960f1beedf703103b",
+        "pageNumber": 68,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.8 Plantae",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "674e975960f1beedf703103d",
+        "pageNumber": 71,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.9.3 Platyhelminthes",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "674e975960f1beedf703103f",
+        "pageNumber": 72,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.9.9 Chordata",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "674e975960f1beedf7031042",
+        "pageNumber": 86,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3 Our Sense Organs",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "674e975960f1beedf7031045",
+        "pageNumber": 88,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.3 Cells and tissues in the eye",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "674e975960f1beedf703104a",
+        "pageNumber": 92,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.4.1 External ear",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "674e975960f1beedf703104e",
+        "pageNumber": 94,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.4.6 Caring for the ears",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "674e975960f1beedf7031051",
+        "pageNumber": 96,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.5.2 Taking care of nose",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "674e975960f1beedf7031056",
+        "pageNumber": 99,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.7.2 Taking care of our skin",
+        "type": "subtopic",
+        "order": 74
+    },
+    {
+        "id": "674e975960f1beedf7031057",
+        "pageNumber": 99,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.7.3 Some of the diseases affecting the",
+        "type": "subtopic",
+        "order": 75
+    },
+    {
+        "id": "674e975960f1beedf7031061",
+        "pageNumber": 107,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.3.2 Imitation",
+        "type": "subtopic",
+        "order": 85
+    },
+    {
+        "id": "674e975960f1beedf7031066",
+        "pageNumber": 111,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.5 Some experiments towards",
+        "type": "topic",
+        "order": 90
+    },
+    {
+        "id": "674e975960f1beedf7031067",
+        "pageNumber": 115,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Challenges in Improving Agricultural Production",
+        "type": "chapter",
+        "order": 91
+    },
+    {
+        "id": "674e975960f1beedf7031068",
+        "pageNumber": 116,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.1 Crop production",
+        "type": "topic",
+        "order": 92
+    },
+    {
+        "id": "674e975960f1beedf703106d",
+        "pageNumber": 122,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.5 Soil Nutrients",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "674e975960f1beedf7031076",
+        "pageNumber": 132,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.6.3 Natural pest controlling methods",
+        "type": "subtopic",
+        "order": 106
+    },
+    {
+        "id": "674e975960f1beedf7031077",
+        "pageNumber": 141,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Adaptations in Different Ecosystems",
+        "type": "chapter",
+        "order": 107
+    },
+    {
+        "id": "674e975960f1beedf703107c",
+        "pageNumber": 146,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.3.1.1 Secret of swimming",
+        "type": "subtopic",
+        "order": 112
+    },
+    {
+        "id": "674e975960f1beedf703107f",
+        "pageNumber": 150,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.4 Fresh water Ecosystems",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "674e975960f1beedf7031080",
+        "pageNumber": 150,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.4.1 Littoral zone",
+        "type": "subtopic",
+        "order": 116
+    },
+    {
+        "id": "674e975960f1beedf7031081",
+        "pageNumber": 151,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.4.4 Other organisms found in lake",
+        "type": "subtopic",
+        "order": 117
+    },
+    {
+        "id": "674e975960f1beedf7031083",
+        "pageNumber": 153,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.6 Adaptations in some aquatic plants",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "674e975960f1beedf7031088",
+        "pageNumber": 159,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Soil Pollution",
+        "type": "chapter",
+        "order": 124
+    },
+    {
+        "id": "674e975960f1beedf7031089",
+        "pageNumber": 160,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.1.2 Soil properties",
+        "type": "subtopic",
+        "order": 125
+    },
+    {
+        "id": "674e975960f1beedf703108a",
+        "pageNumber": 162,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.2 Soil Fertility",
+        "type": "topic",
+        "order": 126
+    },
+    {
+        "id": "674e975960f1beedf703108b",
+        "pageNumber": 164,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.3 Dumping and decomposing",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "674e975960f1beedf7031097",
+        "pageNumber": 186,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.3.5 Denitrification",
+        "type": "subtopic",
+        "order": 139
+    },
+    {
+        "id": "674e975960f1beedf703109c",
+        "pageNumber": 190,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.5 Oxygen cycle",
+        "type": "topic",
+        "order": 144
+    },
+    {
+        "id": "674e975960f1beedf703100e",
+        "pageNumber": 8,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.1 Typical Cell",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "674e975960f1beedf7031013",
+        "pageNumber": 13,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.2 Golgi body or Golgi complex",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "674e975960f1beedf7031017",
+        "pageNumber": 15,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.6 Plastids",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "674e975960f1beedf703101a",
+        "pageNumber": 19,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "2.1 Parts of the plant and their",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "674e975960f1beedf7031022",
+        "pageNumber": 35,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3.1  Areolar tissue",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "674e975960f1beedf7031023",
+        "pageNumber": 35,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3.2 Adipose tissue",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "674e975960f1beedf7031029",
+        "pageNumber": 45,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Transportation of materials through Plasma Membrane",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "674e975960f1beedf7031035",
+        "pageNumber": 66,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.4.4 The hierarchy of classification",
+        "type": "subtopic",
+        "order": 41
+    },
+    {
+        "id": "674e975960f1beedf703103a",
+        "pageNumber": 67,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.7.1 Characteristics of fungi",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "674e975960f1beedf703103e",
+        "pageNumber": 71,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.9.4 Nematoda",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "674e975960f1beedf7031041",
+        "pageNumber": 85,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.2 Stimulation to Sensation",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "674e975960f1beedf7031043",
+        "pageNumber": 86,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1 Eye",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "674e975960f1beedf7031046",
+        "pageNumber": 89,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.4 Eye protection",
+        "type": "subtopic",
+        "order": 58
+    },
+    {
+        "id": "674e975960f1beedf7031047",
+        "pageNumber": 90,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.6 Eye and Illusions",
+        "type": "subtopic",
+        "order": 59
+    },
+    {
+        "id": "674e975960f1beedf703104d",
+        "pageNumber": 93,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.4.3 Internal ear or Inner ear",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "674e975960f1beedf703104f",
+        "pageNumber": 94,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.5  Nose",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "674e975960f1beedf7031052",
+        "pageNumber": 96,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.6 Tongue",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "674e975960f1beedf7031058",
+        "pageNumber": 103,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Animal Behaviour",
+        "type": "chapter",
+        "order": 76
+    },
+    {
+        "id": "674e975960f1beedf7031059",
+        "pageNumber": 103,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.1 What do we mean by Animal",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "674e975960f1beedf703105a",
+        "pageNumber": 104,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.2 Different types of Animal",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "674e975960f1beedf703105c",
+        "pageNumber": 104,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.2.2 Imprinting",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "674e975960f1beedf703105d",
+        "pageNumber": 105,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.2.3 Conditioning",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "674e975960f1beedf703105e",
+        "pageNumber": 106,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.2.4 Imitation",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "674e975960f1beedf703105f",
+        "pageNumber": 107,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.3 Human behaviour",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "674e975960f1beedf703106b",
+        "pageNumber": 118,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.1 High yielding crop management",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "674e975960f1beedf703106c",
+        "pageNumber": 121,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.4  Plant nutrients",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "674e975960f1beedf7031072",
+        "pageNumber": 128,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.4 Chemical Fertilizers",
+        "type": "topic",
+        "order": 102
+    },
+    {
+        "id": "674e975960f1beedf7031078",
+        "pageNumber": 141,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.1 Adaptations",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "674e975960f1beedf703107b",
+        "pageNumber": 145,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.3.1 Marine ecosystem",
+        "type": "subtopic",
+        "order": 111
+    },
+    {
+        "id": "674e975960f1beedf7031082",
+        "pageNumber": 152,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.5 Water salinity and fish",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "674e975960f1beedf7031084",
+        "pageNumber": 153,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.7 Other examples of adaptations",
+        "type": "topic",
+        "order": 120
+    },
+    {
+        "id": "674e975960f1beedf7031085",
+        "pageNumber": 154,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.7.1 Adaptation to temperature in",
+        "type": "subtopic",
+        "order": 121
+    },
+    {
+        "id": "674e975960f1beedf7031086",
+        "pageNumber": 154,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.7.2 Adaptation as a response to",
+        "type": "subtopic",
+        "order": 122
+    },
+    {
+        "id": "674e975960f1beedf7031087",
+        "pageNumber": 155,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.8 Lichens",
+        "type": "topic",
+        "order": 123
+    },
+    {
+        "id": "674e975960f1beedf7031091",
+        "pageNumber": 182,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Biogeochemical cycles",
+        "type": "chapter",
+        "order": 133
+    },
+    {
+        "id": "674e975960f1beedf7031094",
+        "pageNumber": 184,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.3 The Nitrogen cycle",
+        "type": "topic",
+        "order": 136
+    },
+    {
+        "id": "674e975960f1beedf7031098",
+        "pageNumber": 186,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.3.6 Human intervention and nitrogen",
+        "type": "subtopic",
+        "order": 140
+    },
+    {
+        "id": "674e975960f1beedf7031010",
+        "pageNumber": 10,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.4 Nucleus",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674e975960f1beedf7031014",
+        "pageNumber": 14,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.3  Lysosome",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "674e975960f1beedf7031018",
+        "pageNumber": 16,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.7 Vacuoles",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "674e975960f1beedf703101b",
+        "pageNumber": 22,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "2.2 Types of plant tissues",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674e975960f1beedf703101c",
+        "pageNumber": 22,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "2.2.1 Meristematic tissues",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "674e975960f1beedf7031025",
+        "pageNumber": 36,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3.4 Cartilage",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "674e975960f1beedf7031026",
+        "pageNumber": 37,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3.7 Blood",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "674e975960f1beedf7031028",
+        "pageNumber": 42,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.5 Nervous Tissue",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "674e975960f1beedf703102b",
+        "pageNumber": 49,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "4.2 Functions of plasma membrane",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "674e975960f1beedf703102d",
+        "pageNumber": 52,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "4.4 Diffusion",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "674e975960f1beedf703102f",
+        "pageNumber": 57,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.1 Diversity in plants",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "674e975960f1beedf7031033",
+        "pageNumber": 63,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.4 Classification and evolution",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674e975960f1beedf7031034",
+        "pageNumber": 63,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.4.2 History of classification",
+        "type": "subtopic",
+        "order": 40
+    },
+    {
+        "id": "674e975960f1beedf7031040",
+        "pageNumber": 83,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Sense Organs",
+        "type": "chapter",
+        "order": 52
+    },
+    {
+        "id": "674e975960f1beedf7031044",
+        "pageNumber": 87,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.1 Structure of the Eye",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "674e975960f1beedf7031048",
+        "pageNumber": 91,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.7 Taking care of our eyes",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "674e975960f1beedf7031049",
+        "pageNumber": 92,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.3.1.8 Diseases and defects of the eye",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "674e975960f1beedf703104b",
+        "pageNumber": 92,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.4 Ear",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "674e975960f1beedf703104c",
+        "pageNumber": 93,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.4.2 Middle ear",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "674e975960f1beedf7031053",
+        "pageNumber": 96,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.6.2 Developmental Changes in Taste",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "674e975960f1beedf7031054",
+        "pageNumber": 96,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.6.1 Taste and our tongue",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "674e975960f1beedf7031060",
+        "pageNumber": 107,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.3.1 Instinct",
+        "type": "subtopic",
+        "order": 84
+    },
+    {
+        "id": "674e975960f1beedf7031062",
+        "pageNumber": 107,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.3.3 Conditioning",
+        "type": "subtopic",
+        "order": 86
+    },
+    {
+        "id": "674e975960f1beedf7031064",
+        "pageNumber": 108,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.4.1 Tagging",
+        "type": "subtopic",
+        "order": 88
+    },
+    {
+        "id": "674e975960f1beedf703106f",
+        "pageNumber": 123,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.7 Cultivating mixed crops",
+        "type": "subtopic",
+        "order": 99
+    },
+    {
+        "id": "674e975960f1beedf7031070",
+        "pageNumber": 124,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.8 Root nodules in legume plants",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "674e975960f1beedf7031071",
+        "pageNumber": 124,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.9 Organic manure",
+        "type": "subtopic",
+        "order": 101
+    },
+    {
+        "id": "674e975960f1beedf7031075",
+        "pageNumber": 130,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.6.2 Insects and plant diseases",
+        "type": "subtopic",
+        "order": 105
+    },
+    {
+        "id": "674e975960f1beedf703107a",
+        "pageNumber": 144,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.3 Adaptations in Aquatic ecosystems",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "674e975960f1beedf703107d",
+        "pageNumber": 147,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.3.2 Oceanic Zones",
+        "type": "subtopic",
+        "order": 113
+    },
+    {
+        "id": "674e975960f1beedf703108c",
+        "pageNumber": 166,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.4 Causes of land pollution",
+        "type": "topic",
+        "order": 128
+    },
+    {
+        "id": "674e975960f1beedf703108d",
+        "pageNumber": 167,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.5 Indiscriminate use of fertilizers",
+        "type": "topic",
+        "order": 129
+    },
+    {
+        "id": "674e975960f1beedf703108f",
+        "pageNumber": 169,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.8 Dumping of solid wastes",
+        "type": "topic",
+        "order": 131
+    },
+    {
+        "id": "674e975960f1beedf7031090",
+        "pageNumber": 170,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.9 Deforestation",
+        "type": "topic",
+        "order": 132
+    },
+    {
+        "id": "674e975960f1beedf7031092",
+        "pageNumber": 182,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.1 Biogeochemical cycles",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "674e975960f1beedf7031099",
+        "pageNumber": 187,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.5 The Carbon cycle",
+        "type": "topic",
+        "order": 141
+    },
+    {
+        "id": "674e975960f1beedf703109a",
+        "pageNumber": 188,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.4.1 Carbon cycle and human",
+        "type": "subtopic",
+        "order": 142
+    },
+    {
+        "id": "674e975960f1beedf703109e",
+        "pageNumber": 192,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.5.2 Ozone layer",
+        "type": "subtopic",
+        "order": 146
+    },
+    {
+        "id": "674e975960f1beedf703109f",
+        "pageNumber": 192,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.5.3 Ozone depletion",
+        "type": "subtopic",
+        "order": 147
+    },
+    {
+        "id": "674e975960f1beedf703100d",
+        "pageNumber": 8,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Cell - Structure and Functions",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674e975960f1beedf703100f",
+        "pageNumber": 10,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.3 Cell wall",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674e975960f1beedf7031011",
+        "pageNumber": 12,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.5 Cytoplasm",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674e975960f1beedf7031016",
+        "pageNumber": 15,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "1.7.5 Ribosomes",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "674e975960f1beedf703101d",
+        "pageNumber": 24,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "2.2.2 Dermal Tissue",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "674e975960f1beedf703101e",
+        "pageNumber": 31,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "Animal Tissues",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "674e975960f1beedf7031021",
+        "pageNumber": 35,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.3 Connective tissue",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "674e975960f1beedf7031027",
+        "pageNumber": 40,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "3.4 Muscle Tissue",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674e975960f1beedf703102a",
+        "pageNumber": 47,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "4.1 Osmosis",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "674e975960f1beedf7031030",
+        "pageNumber": 60,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.2 Diversity in animals",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "674e975960f1beedf7031037",
+        "pageNumber": 67,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.6 Protista",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "674e975960f1beedf7031038",
+        "pageNumber": 67,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.6.1 Characteristics of protists",
+        "type": "subtopic",
+        "order": 44
+    },
+    {
+        "id": "674e975960f1beedf703103c",
+        "pageNumber": 70,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "5.9 Classification of Animals",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "674e975960f1beedf7031050",
+        "pageNumber": 94,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.5.1 Smell and our Nose",
+        "type": "subtopic",
+        "order": 68
+    },
+    {
+        "id": "674e975960f1beedf7031055",
+        "pageNumber": 98,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "6.7 Skin",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "674e975960f1beedf703105b",
+        "pageNumber": 104,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.2.1 Instinct",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "674e975960f1beedf7031063",
+        "pageNumber": 107,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.4 Investigating behaviour",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "674e975960f1beedf7031065",
+        "pageNumber": 108,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "7.4.2 Investigation in Lab",
+        "type": "subtopic",
+        "order": 89
+    },
+    {
+        "id": "674e975960f1beedf7031069",
+        "pageNumber": 117,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.2 How to increase the food",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "674e975960f1beedf703106a",
+        "pageNumber": 118,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3 Improving high yielding crop",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "674e975960f1beedf703106e",
+        "pageNumber": 122,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.3.6 Crop rotation",
+        "type": "subtopic",
+        "order": 98
+    },
+    {
+        "id": "674e975960f1beedf7031073",
+        "pageNumber": 130,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.6 Crop protection",
+        "type": "topic",
+        "order": 103
+    },
+    {
+        "id": "674e975960f1beedf7031074",
+        "pageNumber": 130,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "8.6.1 Weeds",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "674e975960f1beedf7031079",
+        "pageNumber": 143,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.2 Adaptations in some more",
+        "type": "topic",
+        "order": 109
+    },
+    {
+        "id": "674e975960f1beedf703107e",
+        "pageNumber": 148,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "9.3.2.1 Adaptations on the basis of",
+        "type": "subtopic",
+        "order": 114
+    },
+    {
+        "id": "674e975960f1beedf703108e",
+        "pageNumber": 168,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "10.7 Biomagnification",
+        "type": "topic",
+        "order": 130
+    },
+    {
+        "id": "674e975960f1beedf7031093",
+        "pageNumber": 183,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.2 The water cycle",
+        "type": "topic",
+        "order": 135
+    },
+    {
+        "id": "674e975960f1beedf7031095",
+        "pageNumber": 185,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.3.1 Nitrogen fixation",
+        "type": "subtopic",
+        "order": 137
+    },
+    {
+        "id": "674e975960f1beedf7031096",
+        "pageNumber": 185,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.3.2 Nitrification",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "674e975960f1beedf703109b",
+        "pageNumber": 189,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.4.2 The Green house effect",
+        "type": "subtopic",
+        "order": 143
+    },
+    {
+        "id": "674e975960f1beedf703109d",
+        "pageNumber": 191,
+        "bookID": "674d6052c07e4e5872e3263c",
+        "text": "11.5.1 Oxygen cycle and storage",
+        "type": "subtopic",
+        "order": 145
+    }
+]

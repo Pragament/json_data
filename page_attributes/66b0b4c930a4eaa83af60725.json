@@ -1,0 +1,1298 @@
+[
+    {
+        "id": "676a87cf45665a19fa62b907",
+        "pageNumber": 13,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "UNIT I DIVERSITY IN THE LIVING WORLD",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a87cf45665a19fa62b908",
+        "pageNumber": 15,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "The Living World",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "676a87cf45665a19fa62b909",
+        "pageNumber": 15,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "1.1 Diversity in the",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a87cf45665a19fa62b90a",
+        "pageNumber": 15,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "1.2 Taxonomic",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a87cf45665a19fa62b90b",
+        "pageNumber": 20,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "1.2.7 Kingdom",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "676a87cf45665a19fa62b90c",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Biological Classification",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "676a87cf45665a19fa62b90d",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "2.1 Kingdom Monera",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "676a87cf45665a19fa62b90e",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "2.2 Kingdom Protista",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676a87cf45665a19fa62b90f",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "2.3 Kingdom Fungi",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676a87cf45665a19fa62b910",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "2.4 Kingdom Plantae",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a87cf45665a19fa62b911",
+        "pageNumber": 22,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "2.5 Kingdom",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "676a87cf45665a19fa62b912",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Plant Kingdom",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "676a87cf45665a19fa62b913",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "3.1 Algae",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676a87cf45665a19fa62b914",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "3.2 Bryophytes",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a87cf45665a19fa62b915",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "3.3 Pteridophytes",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a87cf45665a19fa62b916",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "3.4 Gymnosperms",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676a87cf45665a19fa62b917",
+        "pageNumber": 35,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "3.5 Angiosperms",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a87cf45665a19fa62b918",
+        "pageNumber": 49,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Animal Kingdom",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "676a87cf45665a19fa62b919",
+        "pageNumber": 49,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "4.1 Basis of",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676a87cf45665a19fa62b91a",
+        "pageNumber": 49,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "4.2 Classification of",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a87cf45665a19fa62b91b",
+        "pageNumber": 67,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "UNIT II STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS",
+        "type": "chapter",
+        "order": 21
+    },
+    {
+        "id": "676a87cf45665a19fa62b91c",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Morphology of Flowering Plants",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "676a87cf45665a19fa62b91d",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.1 The Root",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676a87cf45665a19fa62b91e",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.2  The Stem",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676a87cf45665a19fa62b91f",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.3 The Leaf",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a87cf45665a19fa62b920",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.4 The Inflorescence",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a87cf45665a19fa62b921",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.5 The Flower",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676a87cf45665a19fa62b922",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.6 The Fruit",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a87cf45665a19fa62b923",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.7 The Seed",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "676a87cf45665a19fa62b924",
+        "pageNumber": 69,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "5.9 Description of",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a87cf45665a19fa62b925",
+        "pageNumber": 83,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Anatomy of Flowering Plants",
+        "type": "chapter",
+        "order": 31
+    },
+    {
+        "id": "676a87cf45665a19fa62b926",
+        "pageNumber": 83,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "6.1 The Tissue",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676a87cf45665a19fa62b927",
+        "pageNumber": 83,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "6.2 Anatomy of",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676a87cf45665a19fa62b928",
+        "pageNumber": 91,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Structural Organisation in Animals",
+        "type": "chapter",
+        "order": 34
+    },
+    {
+        "id": "676a87cf45665a19fa62b929",
+        "pageNumber": 91,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "7.1 ORGAN AND ORGAN SYSTEM",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a87cf45665a19fa62b92a",
+        "pageNumber": 92,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "7.2 FROGS",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a87cf45665a19fa62b92b",
+        "pageNumber": 92,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "7.2.1 Morphology",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "676a87cf45665a19fa62b92c",
+        "pageNumber": 93,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "7.2.2 Anatomy",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "676a87cf45665a19fa62b92d",
+        "pageNumber": 97,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "UNIT III CELL : STRUCTURE AND FUNCTIONS",
+        "type": "chapter",
+        "order": 39
+    },
+    {
+        "id": "676a87cf45665a19fa62b92e",
+        "pageNumber": 99,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Cell The Unit of Life",
+        "type": "chapter",
+        "order": 40
+    },
+    {
+        "id": "676a87cf45665a19fa62b92f",
+        "pageNumber": 105,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.1 Cell Membrane",
+        "type": "subtopic",
+        "order": 41
+    },
+    {
+        "id": "676a87cf45665a19fa62b930",
+        "pageNumber": 107,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.3.2 Golgi apparatus",
+        "type": "subtopic",
+        "order": 42
+    },
+    {
+        "id": "676a87cf45665a19fa62b931",
+        "pageNumber": 108,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.3.4 Vacuoles",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "676a87cf45665a19fa62b932",
+        "pageNumber": 108,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.4 Mitochondria",
+        "type": "subtopic",
+        "order": 44
+    },
+    {
+        "id": "676a87cf45665a19fa62b933",
+        "pageNumber": 111,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.8 Cilia and Flagella",
+        "type": "subtopic",
+        "order": 45
+    },
+    {
+        "id": "676a87cf45665a19fa62b934",
+        "pageNumber": 111,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "8.5.9 Centrosome and Centrioles",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "676a87cf45665a19fa62b935",
+        "pageNumber": 116,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Biomolecules",
+        "type": "chapter",
+        "order": 47
+    },
+    {
+        "id": "676a87cf45665a19fa62b936",
+        "pageNumber": 120,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "9.2 PRIMARY AND SECONDARY METABOLITES",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a87cf45665a19fa62b937",
+        "pageNumber": 120,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "9.3 BIOMACROMOLECULES",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a87cf45665a19fa62b938",
+        "pageNumber": 121,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "9.4 PROTEINS",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676a87cf45665a19fa62b939",
+        "pageNumber": 122,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "9.5 POLYSACCHARIDES",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676a87cf45665a19fa62b93a",
+        "pageNumber": 123,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "9.6 NUCLEIC ACIDS",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a87cf45665a19fa62b93b",
+        "pageNumber": 132,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Cell Cycle and Cell Division",
+        "type": "chapter",
+        "order": 53
+    },
+    {
+        "id": "676a87cf45665a19fa62b93c",
+        "pageNumber": 132,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.1 Cell Cycle",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a87cf45665a19fa62b93d",
+        "pageNumber": 132,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.3 Significance of",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a87cf45665a19fa62b93e",
+        "pageNumber": 132,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.4 Meiosis",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a87cf45665a19fa62b93f",
+        "pageNumber": 132,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.5 Significance of",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a87cf45665a19fa62b940",
+        "pageNumber": 133,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.1.1 Phases of Cell Cycle",
+        "type": "subtopic",
+        "order": 58
+    },
+    {
+        "id": "676a87cf45665a19fa62b941",
+        "pageNumber": 134,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.2.1 Prophase",
+        "type": "subtopic",
+        "order": 59
+    },
+    {
+        "id": "676a87cf45665a19fa62b942",
+        "pageNumber": 135,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.2.2 Metaphase",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "676a87cf45665a19fa62b943",
+        "pageNumber": 135,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.2.3 Anaphase",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "676a87cf45665a19fa62b944",
+        "pageNumber": 136,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.2.4 Telophase",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "676a87cf45665a19fa62b945",
+        "pageNumber": 136,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.2.5 Cytokinesis",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "676a87cf45665a19fa62b946",
+        "pageNumber": 138,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.4.1 Meiosis I",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "676a87cf45665a19fa62b947",
+        "pageNumber": 139,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "10.4.2 Meiosis II",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "676a87cf45665a19fa62b948",
+        "pageNumber": 143,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "UNIT IV PLANT PHYSIOLOGY",
+        "type": "chapter",
+        "order": 66
+    },
+    {
+        "id": "676a87cf45665a19fa62b949",
+        "pageNumber": 145,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Photosynthesis in Higher Plants",
+        "type": "chapter",
+        "order": 67
+    },
+    {
+        "id": "676a87cf45665a19fa62b94a",
+        "pageNumber": 146,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "11.2 EARLY EXPERIMENTS",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "676a87cf45665a19fa62b94b",
+        "pageNumber": 151,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "11.6.1 Splitting of Water",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "676a87cf45665a19fa62b94c",
+        "pageNumber": 152,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "11.6.3 Chemiosmotic Hypothesis",
+        "type": "subtopic",
+        "order": 70
+    },
+    {
+        "id": "676a87cf45665a19fa62b94d",
+        "pageNumber": 155,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "11.7.1 The Primary Acceptor of CO2",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "676a87cf45665a19fa62b94e",
+        "pageNumber": 155,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "11.7.2 The Calvin Cycle",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "676a87cf45665a19fa62b94f",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Respiration in Plants",
+        "type": "chapter",
+        "order": 73
+    },
+    {
+        "id": "676a87cf45665a19fa62b950",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.1 Do Plants",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "676a87cf45665a19fa62b951",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.2 Glycolysis",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "676a87cf45665a19fa62b952",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.3 Fermentation",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "676a87cf45665a19fa62b953",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.4 Aerobic",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "676a87cf45665a19fa62b954",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.5 The",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "676a87cf45665a19fa62b955",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.6 Amphibolic",
+        "type": "topic",
+        "order": 79
+    },
+    {
+        "id": "676a87cf45665a19fa62b956",
+        "pageNumber": 165,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.7 Respiratory",
+        "type": "topic",
+        "order": 80
+    },
+    {
+        "id": "676a87cf45665a19fa62b957",
+        "pageNumber": 170,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.4.1 Tricarboxylic Acid Cycle",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "676a87cf45665a19fa62b958",
+        "pageNumber": 173,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.5 THE RESPIRATORY BALANCE SHEET",
+        "type": "topic",
+        "order": 82
+    },
+    {
+        "id": "676a87cf45665a19fa62b959",
+        "pageNumber": 174,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "12.6 to see the points of entry of different substrates in the respiratory",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "676a87cf45665a19fa62b95a",
+        "pageNumber": 178,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Plant Growth and Development",
+        "type": "chapter",
+        "order": 84
+    },
+    {
+        "id": "676a87cf45665a19fa62b95b",
+        "pageNumber": 178,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1 Growth",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "676a87cf45665a19fa62b95c",
+        "pageNumber": 178,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.3 Development",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "676a87cf45665a19fa62b95d",
+        "pageNumber": 178,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4 Plant Growth",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "676a87cf45665a19fa62b95e",
+        "pageNumber": 179,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1.1  Plant Growth Generally is Indeterminate",
+        "type": "subtopic",
+        "order": 88
+    },
+    {
+        "id": "676a87cf45665a19fa62b95f",
+        "pageNumber": 180,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1.2 Growth is Measurable",
+        "type": "subtopic",
+        "order": 89
+    },
+    {
+        "id": "676a87cf45665a19fa62b960",
+        "pageNumber": 180,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1.3 Phases of Growth",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "676a87cf45665a19fa62b961",
+        "pageNumber": 181,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1.4  Growth Rates",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "676a87cf45665a19fa62b962",
+        "pageNumber": 183,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.1.5 Conditions for Growth",
+        "type": "subtopic",
+        "order": 92
+    },
+    {
+        "id": "676a87cf45665a19fa62b963",
+        "pageNumber": 186,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.1 Characteristics",
+        "type": "subtopic",
+        "order": 93
+    },
+    {
+        "id": "676a87cf45665a19fa62b964",
+        "pageNumber": 186,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.2  The Discovery of Plant Growth Regulators",
+        "type": "subtopic",
+        "order": 94
+    },
+    {
+        "id": "676a87cf45665a19fa62b965",
+        "pageNumber": 187,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3  Physiological Effects of Plant Growth Regulators",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "676a87cf45665a19fa62b966",
+        "pageNumber": 187,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3.1 Auxins",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "676a87cf45665a19fa62b967",
+        "pageNumber": 188,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3.2 Gibberellins",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "676a87cf45665a19fa62b968",
+        "pageNumber": 188,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3.3 Cytokinins",
+        "type": "subtopic",
+        "order": 98
+    },
+    {
+        "id": "676a87cf45665a19fa62b969",
+        "pageNumber": 189,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3.4 Ethylene",
+        "type": "subtopic",
+        "order": 99
+    },
+    {
+        "id": "676a87cf45665a19fa62b96a",
+        "pageNumber": 189,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "13.4.3.5 Abscisic acid",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "676a87cf45665a19fa62b96b",
+        "pageNumber": 193,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "UNIT V HUMAN PHYSIOLOGY",
+        "type": "chapter",
+        "order": 101
+    },
+    {
+        "id": "676a87cf45665a19fa62b96c",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Breathing and Exchange of Gases",
+        "type": "chapter",
+        "order": 102
+    },
+    {
+        "id": "676a87cf45665a19fa62b96d",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.1 Respiratory",
+        "type": "topic",
+        "order": 103
+    },
+    {
+        "id": "676a87cf45665a19fa62b96e",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.2 Mechanism of",
+        "type": "topic",
+        "order": 104
+    },
+    {
+        "id": "676a87cf45665a19fa62b96f",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.3 Exchange of",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "676a87cf45665a19fa62b970",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.4 Transport of",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "676a87cf45665a19fa62b971",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.5 Regulation of",
+        "type": "topic",
+        "order": 107
+    },
+    {
+        "id": "676a87cf45665a19fa62b972",
+        "pageNumber": 195,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.6 Disorders of",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "676a87cf45665a19fa62b973",
+        "pageNumber": 196,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.1.1 Human Respiratory System",
+        "type": "subtopic",
+        "order": 109
+    },
+    {
+        "id": "676a87cf45665a19fa62b974",
+        "pageNumber": 198,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.2.1 Respiratory Volumes and",
+        "type": "subtopic",
+        "order": 110
+    },
+    {
+        "id": "676a87cf45665a19fa62b975",
+        "pageNumber": 201,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.4.1 Transport of Oxygen",
+        "type": "subtopic",
+        "order": 111
+    },
+    {
+        "id": "676a87cf45665a19fa62b976",
+        "pageNumber": 201,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "14.4.2   Transport of Carbon dioxide",
+        "type": "subtopic",
+        "order": 112
+    },
+    {
+        "id": "676a87cf45665a19fa62b977",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Body Fluids and Circulation",
+        "type": "chapter",
+        "order": 113
+    },
+    {
+        "id": "676a87cf45665a19fa62b978",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.1 Plasma",
+        "type": "subtopic",
+        "order": 114
+    },
+    {
+        "id": "676a87cf45665a19fa62b979",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1 Blood",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "676a87cf45665a19fa62b97a",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.3 Circulatory",
+        "type": "topic",
+        "order": 116
+    },
+    {
+        "id": "676a87cf45665a19fa62b97b",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.4 Double",
+        "type": "topic",
+        "order": 117
+    },
+    {
+        "id": "676a87cf45665a19fa62b97c",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.5 Regulation of",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "676a87cf45665a19fa62b97d",
+        "pageNumber": 205,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.6 Disorders of",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "676a87cf45665a19fa62b97e",
+        "pageNumber": 206,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.2 Formed Elements",
+        "type": "subtopic",
+        "order": 120
+    },
+    {
+        "id": "676a87cf45665a19fa62b97f",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3 Blood Groups",
+        "type": "subtopic",
+        "order": 121
+    },
+    {
+        "id": "676a87cf45665a19fa62b980",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3.1 ABO grouping",
+        "type": "subtopic",
+        "order": 122
+    },
+    {
+        "id": "676a87cf45665a19fa62b981",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3.1 ABO grouping",
+        "type": "subtopic",
+        "order": 123
+    },
+    {
+        "id": "676a87cf45665a19fa62b982",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3.1 ABO grouping",
+        "type": "subtopic",
+        "order": 124
+    },
+    {
+        "id": "676a87cf45665a19fa62b983",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3.1 ABO grouping",
+        "type": "subtopic",
+        "order": 125
+    },
+    {
+        "id": "676a87cf45665a19fa62b984",
+        "pageNumber": 207,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.3.1 ABO grouping",
+        "type": "subtopic",
+        "order": 126
+    },
+    {
+        "id": "676a87cf45665a19fa62b985",
+        "pageNumber": 208,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.1.4 Coagulation of Blood",
+        "type": "subtopic",
+        "order": 127
+    },
+    {
+        "id": "676a87cf45665a19fa62b986",
+        "pageNumber": 210,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.3.1 Human Circulatory System",
+        "type": "subtopic",
+        "order": 128
+    },
+    {
+        "id": "676a87cf45665a19fa62b987",
+        "pageNumber": 211,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "15.3.2 Cardiac Cycle",
+        "type": "subtopic",
+        "order": 129
+    },
+    {
+        "id": "676a87cf45665a19fa62b988",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Excretory Products and their Elimination",
+        "type": "chapter",
+        "order": 130
+    },
+    {
+        "id": "676a87cf45665a19fa62b989",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.1 Human",
+        "type": "topic",
+        "order": 131
+    },
+    {
+        "id": "676a87cf45665a19fa62b98a",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.2 Urine Formation",
+        "type": "topic",
+        "order": 132
+    },
+    {
+        "id": "676a87cf45665a19fa62b98b",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.3 Function of the",
+        "type": "topic",
+        "order": 133
+    },
+    {
+        "id": "676a87cf45665a19fa62b98c",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.4 Mechanism of",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "676a87cf45665a19fa62b98d",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.5 Regulation of",
+        "type": "topic",
+        "order": 135
+    },
+    {
+        "id": "676a87cf45665a19fa62b98e",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.6 Micturition",
+        "type": "topic",
+        "order": 136
+    },
+    {
+        "id": "676a87cf45665a19fa62b98f",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.7 Role of other",
+        "type": "topic",
+        "order": 137
+    },
+    {
+        "id": "676a87cf45665a19fa62b990",
+        "pageNumber": 217,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.8 Disorders of the",
+        "type": "topic",
+        "order": 138
+    },
+    {
+        "id": "676a87cf45665a19fa62b991",
+        "pageNumber": 218,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "16.1 HUMAN EXCRETORY SYSTEM",
+        "type": "topic",
+        "order": 139
+    },
+    {
+        "id": "676a87cf45665a19fa62b992",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Locomotion and Movement",
+        "type": "chapter",
+        "order": 140
+    },
+    {
+        "id": "676a87cf45665a19fa62b993",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.1 Types of",
+        "type": "topic",
+        "order": 141
+    },
+    {
+        "id": "676a87cf45665a19fa62b994",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.2 Muscle",
+        "type": "topic",
+        "order": 142
+    },
+    {
+        "id": "676a87cf45665a19fa62b995",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.3 Skeletal",
+        "type": "topic",
+        "order": 143
+    },
+    {
+        "id": "676a87cf45665a19fa62b996",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.4 Joints",
+        "type": "topic",
+        "order": 144
+    },
+    {
+        "id": "676a87cf45665a19fa62b997",
+        "pageNumber": 229,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.5 Disorders of",
+        "type": "topic",
+        "order": 145
+    },
+    {
+        "id": "676a87cf45665a19fa62b998",
+        "pageNumber": 233,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.2.1 Structure of Contractile Proteins",
+        "type": "subtopic",
+        "order": 146
+    },
+    {
+        "id": "676a87cf45665a19fa62b999",
+        "pageNumber": 233,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "17.2.2 Mechanism of Muscle Contraction",
+        "type": "subtopic",
+        "order": 147
+    },
+    {
+        "id": "676a87cf45665a19fa62b99a",
+        "pageNumber": 242,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Neural Control and Coordination",
+        "type": "chapter",
+        "order": 148
+    },
+    {
+        "id": "676a87cf45665a19fa62b99b",
+        "pageNumber": 242,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.1 Neural System",
+        "type": "topic",
+        "order": 149
+    },
+    {
+        "id": "676a87cf45665a19fa62b99c",
+        "pageNumber": 242,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.2 Human Neural",
+        "type": "topic",
+        "order": 150
+    },
+    {
+        "id": "676a87cf45665a19fa62b99d",
+        "pageNumber": 242,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.3 Neuron as",
+        "type": "topic",
+        "order": 151
+    },
+    {
+        "id": "676a87cf45665a19fa62b99e",
+        "pageNumber": 242,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.4  Central Neural",
+        "type": "topic",
+        "order": 152
+    },
+    {
+        "id": "676a87cf45665a19fa62b99f",
+        "pageNumber": 246,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.3.2 Transmission of Impulses",
+        "type": "subtopic",
+        "order": 153
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a0",
+        "pageNumber": 248,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.4.1 Forebrain",
+        "type": "subtopic",
+        "order": 154
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a1",
+        "pageNumber": 248,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.4.2 Midbrain",
+        "type": "subtopic",
+        "order": 155
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a2",
+        "pageNumber": 248,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "18.4.3 Hindbrain",
+        "type": "subtopic",
+        "order": 156
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a3",
+        "pageNumber": 251,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "Chemical Coordination and Integration",
+        "type": "chapter",
+        "order": 157
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a4",
+        "pageNumber": 251,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "19.1 Endocrine",
+        "type": "topic",
+        "order": 158
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a5",
+        "pageNumber": 251,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "19.2 Human",
+        "type": "topic",
+        "order": 159
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a6",
+        "pageNumber": 251,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "19.3 Hormones of",
+        "type": "topic",
+        "order": 160
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a7",
+        "pageNumber": 251,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "19.4 Mechanism of",
+        "type": "topic",
+        "order": 161
+    },
+    {
+        "id": "676a87cf45665a19fa62b9a8",
+        "pageNumber": 252,
+        "bookID": "66b0b4c930a4eaa83af60725",
+        "text": "19.2   HUMAN ENDOCRINE SYSTEM",
+        "type": "topic",
+        "order": 162
+    }
+]

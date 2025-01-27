@@ -1,0 +1,546 @@
+[
+    {
+        "id": "676bf6e9515cc0a7fa0166e4",
+        "pageNumber": 19,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "RAY OPTICS AND OPTICAL INSTRUMENTS",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166e5",
+        "pageNumber": 19,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.1  INTRODUCTION",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166e6",
+        "pageNumber": 20,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.2  REFLECTION OF LIGHT BY SPHERICAL MIRRORS",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166e7",
+        "pageNumber": 20,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.2.1  Sign convention",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166e8",
+        "pageNumber": 21,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.2.2  Focal length of spherical mirrors",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166e9",
+        "pageNumber": 22,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.2.3  The mirror equation",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ea",
+        "pageNumber": 26,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.3  REFRACTION",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166eb",
+        "pageNumber": 27,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.4  TOTAL INTERNAL REFLECTION",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ec",
+        "pageNumber": 29,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.4.1 Total internal reflection in nature and",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ed",
+        "pageNumber": 30,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.5 REFRACTION AT SPHERICAL SURFACES",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ee",
+        "pageNumber": 30,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.5.1  Refraction at a spherical surface",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ef",
+        "pageNumber": 32,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.5.2  Refraction by a lens",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f0",
+        "pageNumber": 34,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.5.3  Power of a lens",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f1",
+        "pageNumber": 35,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.5.4  Combination of thin lenses in contact",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f2",
+        "pageNumber": 37,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.6  REFRACTION THROUGH A PRISM",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f3",
+        "pageNumber": 38,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.7  OPTICAL INSTRUMENTS",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f4",
+        "pageNumber": 38,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.7.1  The microscope",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f5",
+        "pageNumber": 42,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "9.7.2  Telescope",
+        "type": "subtopic",
+        "order": 18
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f6",
+        "pageNumber": 53,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "WAVE OPTICS",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f7",
+        "pageNumber": 53,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.1  INTRODUCTION",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f8",
+        "pageNumber": 55,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.2  HUYGENS PRINCIPLE",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166f9",
+        "pageNumber": 56,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.3 REFRACTION AND REFLECTION OF",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166fa",
+        "pageNumber": 56,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.3.1  Refraction of a plane wave",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166fb",
+        "pageNumber": 58,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.3.2  Refraction at a rarer medium",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166fc",
+        "pageNumber": 58,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.3.3  Reflection of a plane wave by a plane surface",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166fd",
+        "pageNumber": 60,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.4  COHERENT AND INCOHERENT",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166fe",
+        "pageNumber": 64,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.6  DIFFRACTION",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676bf6e9515cc0a7fa0166ff",
+        "pageNumber": 65,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.6.1  The single slit",
+        "type": "subtopic",
+        "order": 28
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016700",
+        "pageNumber": 66,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.6.2  Seeing the single slit diffraction pattern",
+        "type": "subtopic",
+        "order": 29
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016701",
+        "pageNumber": 67,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "10.7  POLARISATION",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016702",
+        "pageNumber": 72,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "DUAL NATURE OF RADIATION AND MATTER",
+        "type": "chapter",
+        "order": 31
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016703",
+        "pageNumber": 72,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.1  INTRODUCTION",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016704",
+        "pageNumber": 73,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.2  ELECTRON EMISSION",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016705",
+        "pageNumber": 74,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.3  PHOTOELECTRIC EFFECT",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016706",
+        "pageNumber": 75,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016707",
+        "pageNumber": 76,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.4.1  Effect of intensity of light on photocurrent",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016708",
+        "pageNumber": 76,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.4.2  Effect of potential on photoelectric current",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016709",
+        "pageNumber": 77,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.4.3 Effect of frequency of incident radiation on",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670a",
+        "pageNumber": 78,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.5 PHOTOELECTRIC EFFECT AND WAVE THEORY",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670b",
+        "pageNumber": 82,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "11.8  WAVE NATURE OF MATTER",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670c",
+        "pageNumber": 88,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "ATOMS",
+        "type": "chapter",
+        "order": 41
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670d",
+        "pageNumber": 88,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.1  INTRODUCTION",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670e",
+        "pageNumber": 93,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.2.2  Electron orbits",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01670f",
+        "pageNumber": 94,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.3  ATOMIC SPECTRA",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016710",
+        "pageNumber": 95,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.4  BOHR MODEL OF THE HYDROGEN",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016711",
+        "pageNumber": 97,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.6   eV",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016712",
+        "pageNumber": 98,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.4.1  Energy levels",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016713",
+        "pageNumber": 98,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "12.5  THE LINE SPECTRA OF THE HYDROGEN ATOM",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016714",
+        "pageNumber": 104,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "NUCLEI",
+        "type": "chapter",
+        "order": 49
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016715",
+        "pageNumber": 104,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.1  INTRODUCTION",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016716",
+        "pageNumber": 104,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.2  ATOMIC MASSES AND COMPOSITION OF NUCLEUS",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016717",
+        "pageNumber": 105,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "1.00727 u",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016718",
+        "pageNumber": 107,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.3  SIZE OF THE NUCLEUS",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016719",
+        "pageNumber": 108,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.4.2  Nuclear binding energy",
+        "type": "subtopic",
+        "order": 54
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671a",
+        "pageNumber": 111,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.5  NUCLEAR FORCE",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671b",
+        "pageNumber": 112,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.6  RADIOACTIVITY",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671c",
+        "pageNumber": 112,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.7  NUCLEAR ENERGY",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671d",
+        "pageNumber": 113,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.7.1  Fission",
+        "type": "subtopic",
+        "order": 58
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671e",
+        "pageNumber": 114,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "26.7 MeV",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676bf6e9515cc0a7fa01671f",
+        "pageNumber": 115,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "13.7.3  Controlled thermonuclear fusion",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016720",
+        "pageNumber": 121,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "SEMICONDUCTOR ELECTRONICS: MATERIALS, DEVICES AND SIMPLE CIRCUITS",
+        "type": "chapter",
+        "order": 61
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016721",
+        "pageNumber": 121,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "14.1  INTRODUCTION",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016722",
+        "pageNumber": 125,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "14.3  INTRINSIC SEMICONDUCTOR",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016723",
+        "pageNumber": 127,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "14.4  EXTRINSIC SEMICONDUCTOR",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016724",
+        "pageNumber": 132,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "14.6  SEMICONDUCTOR DIODE",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016725",
+        "pageNumber": 136,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "14.7  APPLICATION OF JUNCTION DIODE AS A RECTIFIER",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016726",
+        "pageNumber": 149,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "2.0 V",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "676bf6e9515cc0a7fa016727",
+        "pageNumber": 149,
+        "bookID": "66b0cc6930a4eaa83af6072f",
+        "text": "104.7 MeV",
+        "type": "topic",
+        "order": 68
+    }
+]

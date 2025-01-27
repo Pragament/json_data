@@ -1,0 +1,98 @@
+[
+    {
+        "id": "674eaab160f1beedf70310eb",
+        "pageNumber": 34,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "అసామాన్యులు",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674eaab160f1beedf70310ee",
+        "pageNumber": 72,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "మంచీర",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674eaab160f1beedf70310f1",
+        "pageNumber": 101,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "సింగరేణి",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674eaab160f1beedf70310f2",
+        "pageNumber": 112,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "కాపుబిడ్డ",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674eaab160f1beedf70310e8",
+        "pageNumber": 6,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "త్యాగనిరతి",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674eaab160f1beedf70310ef",
+        "pageNumber": 82,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "చిన్నప్పుడే",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674eaab160f1beedf70310f0",
+        "pageNumber": 93,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "అమరులు",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674eaab160f1beedf70310f3",
+        "pageNumber": 122,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "మాట్లాడే నాగలి",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674eaab160f1beedf70310e9",
+        "pageNumber": 14,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "సముద్ర ప్రయాణం",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674eaab160f1beedf70310ea",
+        "pageNumber": 26,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "బండారి బసవన్న",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674eaab160f1beedf70310ed",
+        "pageNumber": 60,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "తెలుగు జానపద గేయాలు",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674eaab160f1beedf70310ec",
+        "pageNumber": 48,
+        "bookID": "669a857d40162c818c13dd49",
+        "text": "శతక సుధ",
+        "type": "chapter",
+        "order": 5
+    }
+]

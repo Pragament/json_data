@@ -1,0 +1,58 @@
+[
+    {
+        "id": "673c503e5494579cadbc64aa",
+        "pageNumber": 13,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Environment",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c503e5494579cadbc64ab",
+        "pageNumber": 19,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Inside Our Earth",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c503e5494579cadbc64ac",
+        "pageNumber": 24,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Our Changing Earth",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c503e5494579cadbc64ad",
+        "pageNumber": 32,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Air",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c503e5494579cadbc64ae",
+        "pageNumber": 42,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Water",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c503e5494579cadbc64af",
+        "pageNumber": 51,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Human Environment Interactions - The Tropical and the Subtropical Region",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c503e5494579cadbc64b0",
+        "pageNumber": 61,
+        "bookID": "66a4aa8d114887dba197ed5c",
+        "text": "Life in the Deserts",
+        "type": "chapter",
+        "order": 7
+    }
+]

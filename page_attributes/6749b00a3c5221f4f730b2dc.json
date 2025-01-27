@@ -1,0 +1,234 @@
+[
+    {
+        "id": "674d6d6360f1beedf7030c99",
+        "pageNumber": 30,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Conserving natural resources",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9c",
+        "pageNumber": 36,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Urbanization - employment opportunities",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9f",
+        "pageNumber": 42,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Nature, culture, people and their relationships",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca7",
+        "pageNumber": 58,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Let’s keep our domestic environment healthy",
+        "type": "chapter",
+        "order": 25
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca8",
+        "pageNumber": 60,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Depletion of natural resources",
+        "type": "chapter",
+        "order": 26
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca9",
+        "pageNumber": 62,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Conservation of water resources",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "674d6d6360f1beedf7030cab",
+        "pageNumber": 66,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Nature is a sacred place",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "674d6d6360f1beedf7030c96",
+        "pageNumber": 24,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Use solar energy - Save electricity",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9a",
+        "pageNumber": 32,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Over use of groundwater - it’s consequences",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9b",
+        "pageNumber": 34,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Impact of low-cost materials on environment",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9e",
+        "pageNumber": 40,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Do we need zoos?",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca5",
+        "pageNumber": 54,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Disaster management",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "674d6d6360f1beedf7030caa",
+        "pageNumber": 64,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Flourosis",
+        "type": "chapter",
+        "order": 28
+    },
+    {
+        "id": "674d6d6360f1beedf7030c90",
+        "pageNumber": 11,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Saviours of our environment",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d6d6360f1beedf7030c92",
+        "pageNumber": 15,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Vaccination - A shield",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674d6d6360f1beedf7030c93",
+        "pageNumber": 17,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Mosquitoes - woes",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674d6d6360f1beedf7030c95",
+        "pageNumber": 22,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Changes in surroundings and their effect",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674d6d6360f1beedf7030c9d",
+        "pageNumber": 38,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Plenty of water - still we are thirsty!",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca1",
+        "pageNumber": 46,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "The plight of ragpickers",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca2",
+        "pageNumber": 48,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Water bodies in the neighbourhood",
+        "type": "chapter",
+        "order": 20
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca3",
+        "pageNumber": 50,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Impact assessment of developmental projects",
+        "type": "chapter",
+        "order": 21
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca4",
+        "pageNumber": 52,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Awareness about common ailments",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca6",
+        "pageNumber": 56,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Education for all - Everybody’s concern",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "674d6d6360f1beedf7030c8f",
+        "pageNumber": 9,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Global warming",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d6d6360f1beedf7030c91",
+        "pageNumber": 13,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Estimation of particulate pollutants in air",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674d6d6360f1beedf7030c94",
+        "pageNumber": 19,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Fossil fuels",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674d6d6360f1beedf7030c97",
+        "pageNumber": 26,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Pollination - an interaction of plants and insects",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674d6d6360f1beedf7030c98",
+        "pageNumber": 28,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Observing 4 ‘R’s",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674d6d6360f1beedf7030ca0",
+        "pageNumber": 44,
+        "bookID": "6749b00a3c5221f4f730b2dc",
+        "text": "Household Wastes",
+        "type": "chapter",
+        "order": 18
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "id": "676a488b45665a19fa62b5f9",
+        "pageNumber": 15,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "CROP PRODUCTION AND MANAGEMENT",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a488b45665a19fa62b5fa",
+        "pageNumber": 15,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.1 Agricultural Practices",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676a488b45665a19fa62b5fb",
+        "pageNumber": 16,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.2 Basic Practices of Crop",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a488b45665a19fa62b5fc",
+        "pageNumber": 16,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.3 Preparation of Soil",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a488b45665a19fa62b5fd",
+        "pageNumber": 18,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.4 Sowing",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676a488b45665a19fa62b5fe",
+        "pageNumber": 19,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.5 Adding Manure and",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "676a488b45665a19fa62b5ff",
+        "pageNumber": 21,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.6 Irrigation",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "676a488b45665a19fa62b600",
+        "pageNumber": 24,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.7 Protection from Weeds",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676a488b45665a19fa62b601",
+        "pageNumber": 24,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.8 Harvesting",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676a488b45665a19fa62b602",
+        "pageNumber": 25,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "1.9 Storage",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a488b45665a19fa62b603",
+        "pageNumber": 31,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "MICROORGANISMS : FRIEND AND FOE",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "676a488b45665a19fa62b604",
+        "pageNumber": 31,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.1 Microorganisms",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "676a488b45665a19fa62b605",
+        "pageNumber": 33,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.2 Where do Microorganisms",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676a488b45665a19fa62b606",
+        "pageNumber": 33,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.3 Microorganisms and Us",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a488b45665a19fa62b607",
+        "pageNumber": 36,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.4 Harmful Microorganisms",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a488b45665a19fa62b608",
+        "pageNumber": 39,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.5 Food Preservation",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676a488b45665a19fa62b609",
+        "pageNumber": 40,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.6 Nitrogen Fixation",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a488b45665a19fa62b60a",
+        "pageNumber": 41,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "2.7 Nitrogen cycle",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676a488b45665a19fa62b60b",
+        "pageNumber": 46,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "COAL AND PETROLEUM",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "676a488b45665a19fa62b60c",
+        "pageNumber": 47,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "3.1 Coal",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a488b45665a19fa62b60d",
+        "pageNumber": 49,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "3.2 Petroleum",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676a488b45665a19fa62b60e",
+        "pageNumber": 50,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "3.3 Natural Gas",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676a488b45665a19fa62b60f",
+        "pageNumber": 51,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "3.4 Some Natural Resources",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676a488b45665a19fa62b610",
+        "pageNumber": 54,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "COMBUSTION AND FLAME",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "676a488b45665a19fa62b611",
+        "pageNumber": 59,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "4.3 Types of Combustion",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a488b45665a19fa62b612",
+        "pageNumber": 60,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "4.4 Flame",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a488b45665a19fa62b613",
+        "pageNumber": 61,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "4.5 Structure of a Flame",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "676a488b45665a19fa62b614",
+        "pageNumber": 62,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "4.7 Fuel Efficiency",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a488b45665a19fa62b615",
+        "pageNumber": 67,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "CONSERVATION OF PLANTS AND ANIMALS",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "676a488b45665a19fa62b616",
+        "pageNumber": 67,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.1 Deforestation and Its",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a488b45665a19fa62b617",
+        "pageNumber": 67,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.2 Consequences of",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676a488b45665a19fa62b618",
+        "pageNumber": 68,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.3 Conservation of Forest",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676a488b45665a19fa62b619",
+        "pageNumber": 69,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.4 Biosphere Reserve",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676a488b45665a19fa62b61a",
+        "pageNumber": 70,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.5 Flora and Fauna",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676a488b45665a19fa62b61b",
+        "pageNumber": 71,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.6 Endemic Species",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a488b45665a19fa62b61c",
+        "pageNumber": 72,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.7 Wildlife Sanctuary",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a488b45665a19fa62b61d",
+        "pageNumber": 72,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.8 National Park",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "676a488b45665a19fa62b61e",
+        "pageNumber": 74,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "5.9 Red Data Book",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676a488b45665a19fa62b61f",
+        "pageNumber": 80,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "REPRODUCTION IN ANIMALS",
+        "type": "chapter",
+        "order": 39
+    },
+    {
+        "id": "676a488b45665a19fa62b620",
+        "pageNumber": 80,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "6.1 Modes of Reproduction",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "676a488b45665a19fa62b621",
+        "pageNumber": 80,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "6.2 Sexual Reproduction",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a488b45665a19fa62b622",
+        "pageNumber": 86,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "6.3 Asexual Reproduction",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a488b45665a19fa62b623",
+        "pageNumber": 93,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "REACHING THE AGE OF ADOLESCENCE",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "676a488b45665a19fa62b624",
+        "pageNumber": 94,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "7.2 Changes at Puberty",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a488b45665a19fa62b625",
+        "pageNumber": 97,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "7.4 Role of Hormones in",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676a488b45665a19fa62b626",
+        "pageNumber": 107,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "FORCE AND PRESSURE",
+        "type": "chapter",
+        "order": 46
+    },
+    {
+        "id": "676a488b45665a19fa62b627",
+        "pageNumber": 107,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.1 Force A Push or a Pull",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "676a488b45665a19fa62b628",
+        "pageNumber": 109,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.2 Forces are due to an",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a488b45665a19fa62b629",
+        "pageNumber": 110,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.2 when both of you were pushing the",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a488b45665a19fa62b62a",
+        "pageNumber": 113,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.5 Force can Change the",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676a488b45665a19fa62b62b",
+        "pageNumber": 114,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.6 Contact Forces",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676a488b45665a19fa62b62c",
+        "pageNumber": 117,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "8.8 Pressure",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a488b45665a19fa62b62d",
+        "pageNumber": 126,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "FRICTION",
+        "type": "chapter",
+        "order": 53
+    },
+    {
+        "id": "676a488b45665a19fa62b62e",
+        "pageNumber": 126,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "9.1 Force of Friction",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a488b45665a19fa62b62f",
+        "pageNumber": 127,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "9.2 Factors affecting Friction",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a488b45665a19fa62b630",
+        "pageNumber": 131,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "9.4 Increasing and Reducing",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a488b45665a19fa62b631",
+        "pageNumber": 132,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "9.5 Wheels Reduce Friction",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a488b45665a19fa62b632",
+        "pageNumber": 133,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "9.6 Fluid Friction",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "676a488b45665a19fa62b633",
+        "pageNumber": 137,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "SOUND",
+        "type": "chapter",
+        "order": 59
+    },
+    {
+        "id": "676a488b45665a19fa62b634",
+        "pageNumber": 138,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.1 Sound is Produced by a",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "676a488b45665a19fa62b635",
+        "pageNumber": 140,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.2 Sound Produced by",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "676a488b45665a19fa62b636",
+        "pageNumber": 141,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.3 Sound Needs a Medium",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "676a488b45665a19fa62b637",
+        "pageNumber": 143,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.4 We Hear Sound through",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "676a488b45665a19fa62b638",
+        "pageNumber": 146,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.6 Audible and Inaudible",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "676a488b45665a19fa62b639",
+        "pageNumber": 146,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.7 Noise and Music",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676a488b45665a19fa62b63a",
+        "pageNumber": 146,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "10.8 Noise Pollution",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "676a488b45665a19fa62b63b",
+        "pageNumber": 152,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "CHEMICAL EFFECTS OF ELECTRIC CURRENT",
+        "type": "chapter",
+        "order": 67
+    },
+    {
+        "id": "676a488b45665a19fa62b63c",
+        "pageNumber": 152,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "11.1 Do Liquids Conduct",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "676a488b45665a19fa62b63d",
+        "pageNumber": 156,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "11.2 Chemical Effects of",
+        "type": "topic",
+        "order": 69
+    },
+    {
+        "id": "676a488b45665a19fa62b63e",
+        "pageNumber": 158,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "11.3 Electroplating",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "676a488b45665a19fa62b63f",
+        "pageNumber": 164,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "SOME NATURAL PHENOMENA",
+        "type": "chapter",
+        "order": 71
+    },
+    {
+        "id": "676a488b45665a19fa62b640",
+        "pageNumber": 164,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.1 Lightning",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "676a488b45665a19fa62b641",
+        "pageNumber": 165,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.2 Charging by Rubbing",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "676a488b45665a19fa62b642",
+        "pageNumber": 166,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.3 Types of Charges and",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "676a488b45665a19fa62b643",
+        "pageNumber": 167,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.4 Transfer of Charge",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "676a488b45665a19fa62b644",
+        "pageNumber": 168,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.5 The Story of Lightning",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "676a488b45665a19fa62b645",
+        "pageNumber": 169,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.6 Lightning Safety",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "676a488b45665a19fa62b646",
+        "pageNumber": 170,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "12.7 Earthquakes",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "676a488b45665a19fa62b647",
+        "pageNumber": 179,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "LIGHT",
+        "type": "chapter",
+        "order": 79
+    },
+    {
+        "id": "676a488b45665a19fa62b648",
+        "pageNumber": 179,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.1 What makes Things",
+        "type": "topic",
+        "order": 80
+    },
+    {
+        "id": "676a488b45665a19fa62b649",
+        "pageNumber": 179,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.2 Laws of Reflection",
+        "type": "topic",
+        "order": 81
+    },
+    {
+        "id": "676a488b45665a19fa62b64a",
+        "pageNumber": 182,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.3 Regular and Diffused",
+        "type": "topic",
+        "order": 82
+    },
+    {
+        "id": "676a488b45665a19fa62b64b",
+        "pageNumber": 183,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.4 Reflected Light Can be",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "676a488b45665a19fa62b64c",
+        "pageNumber": 183,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.5 Multiple Images",
+        "type": "topic",
+        "order": 84
+    },
+    {
+        "id": "676a488b45665a19fa62b64d",
+        "pageNumber": 185,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.6 Sunlight",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "676a488b45665a19fa62b64e",
+        "pageNumber": 187,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.8 Care of the Eyes",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "676a488b45665a19fa62b64f",
+        "pageNumber": 188,
+        "bookID": "66a3530089ffd74756e1e9a6",
+        "text": "13.9 Visually Impaired",
+        "type": "topic",
+        "order": 87
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "674ed66060f1beedf7031163",
+        "pageNumber": 23,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "మనజెండా",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674ed66060f1beedf7031165",
+        "pageNumber": 37,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "సాలార్జంగ్ మ్యూజియం",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674ed66060f1beedf7031166",
+        "pageNumber": 46,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "ప్యారా హైదరాబాద్",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674ed66060f1beedf7031169",
+        "pageNumber": 65,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "తెలుగు సంవత్సరాలు",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "674ed66060f1beedf703116b",
+        "pageNumber": 74,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "బోనాలు",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674ed66060f1beedf703116a",
+        "pageNumber": 66,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "మనసుంటే మార్గముంటది",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674ed66060f1beedf703116c",
+        "pageNumber": 74,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "చిట్యాల ఐలమ్మ",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674ed66060f1beedf703116f",
+        "pageNumber": 93,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "గోపి డప్పు",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674ed66060f1beedf7031170",
+        "pageNumber": 101,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "చింతచెట్టు",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674ed66060f1beedf7031164",
+        "pageNumber": 30,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "యాదగిరిగుట్ట",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674ed66060f1beedf7031167",
+        "pageNumber": 47,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "నీడ ఖరీదు",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674ed66060f1beedf7031168",
+        "pageNumber": 57,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "నీతి పద్యాలు",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674ed66060f1beedf703116d",
+        "pageNumber": 83,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "వృథాచేయం",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674ed66060f1beedf703116e",
+        "pageNumber": 92,
+        "bookID": "669b88453237690e0d60c88b",
+        "text": "క్రిస్మస్",
+        "type": "topic",
+        "order": 12
+    }
+]
