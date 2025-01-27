@@ -1,0 +1,1346 @@
+[
+    {
+        "id": "6690d73d5369ccdcca4d0787",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078c",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0794",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0797",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0789",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078d",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0791",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078f",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0788",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0792",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0796",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0798",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079a",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078e",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078b",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d078a",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0793",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0795",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0799",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d0790",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079d",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ca",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a2",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07bf",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079c",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a8",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079e",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07aa",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b5",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c8",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d9",
+        "pageNumber": 83,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_83.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_83.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_83_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a6",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b0",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b6",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b8",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c4",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d5",
+        "pageNumber": 79,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_79.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_79.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_79_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a3",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d4",
+        "pageNumber": 78,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_78.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_78.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_78_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c5",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ce",
+        "pageNumber": 72,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_72.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_72.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_72_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d6",
+        "pageNumber": 80,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_80.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_80.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_80_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07cd",
+        "pageNumber": 71,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_71.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_71.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_71_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07cf",
+        "pageNumber": 73,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_73.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_73.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_73_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a4",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a9",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b3",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b4",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c7",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ac",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ab",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ae",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07af",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b7",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ba",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07bb",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c3",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d2",
+        "pageNumber": 76,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_76.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_76.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_76_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b2",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07cb",
+        "pageNumber": 69,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_69.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_69.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_69_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07bd",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c6",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c9",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d7",
+        "pageNumber": 81,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_81.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_81.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_81_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079f",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07bc",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d0",
+        "pageNumber": 74,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_74.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_74.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_74_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d3",
+        "pageNumber": 77,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_77.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_77.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_77_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a0",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c1",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ad",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b1",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07cc",
+        "pageNumber": 70,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_70.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_70.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_70_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d1",
+        "pageNumber": 75,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_75.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_75.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_75_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d079b",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07be",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a5",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a1",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07da",
+        "pageNumber": 84,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_84.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_84.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_84_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07a7",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07b9",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07d8",
+        "pageNumber": 82,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_82.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_82.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_82_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c0",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07c2",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e2",
+        "pageNumber": 92,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_92.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_92.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_92_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e4",
+        "pageNumber": 94,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_94.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_94.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_94_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e3",
+        "pageNumber": 93,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_93.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_93.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_93_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ed",
+        "pageNumber": 103,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_103.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_103.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_103_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07dc",
+        "pageNumber": 86,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_86.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_86.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_86_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07dd",
+        "pageNumber": 87,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_87.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_87.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_87_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f0",
+        "pageNumber": 106,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_106.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_106.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_106_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e1",
+        "pageNumber": 91,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_91.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_91.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_91_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f1",
+        "pageNumber": 107,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_107.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_107.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_107_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e8",
+        "pageNumber": 98,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_98.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_98.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_98_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f3",
+        "pageNumber": 109,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_109.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_109.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_109_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f6",
+        "pageNumber": 112,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_112.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_112.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_112_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e5",
+        "pageNumber": 95,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_95.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_95.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_95_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07db",
+        "pageNumber": 85,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_85.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_85.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_85_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ec",
+        "pageNumber": 102,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_102.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_102.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_102_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e6",
+        "pageNumber": 96,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_96.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_96.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_96_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e9",
+        "pageNumber": 99,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_99.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_99.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_99_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07eb",
+        "pageNumber": 101,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_101.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_101.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_101_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07df",
+        "pageNumber": 89,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_89.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_89.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_89_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ef",
+        "pageNumber": 105,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_105.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_105.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_105_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e0",
+        "pageNumber": 90,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_90.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_90.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_90_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07de",
+        "pageNumber": 88,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_88.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_88.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_88_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ea",
+        "pageNumber": 100,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_100.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_100.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_100_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f4",
+        "pageNumber": 110,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_110.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_110.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_110_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07ee",
+        "pageNumber": 104,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_104.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_104.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_104_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f2",
+        "pageNumber": 108,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_108.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_108.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_108_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07e7",
+        "pageNumber": 97,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_97.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_97.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_97_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "6690d73d5369ccdcca4d07f5",
+        "pageNumber": 111,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/absoluteImages/10th_hindi_page_111.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/thumbnails/10th_hindi_page_111.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/10thhindi/textAnnotations/page_111_text_annotation.json",
+        "bookID": {
+            "id": "6690d48c2dce372c499477fb",
+            "name": "class 10 Hindi"
+        },
+        "imageText": ""
+    }
+]
