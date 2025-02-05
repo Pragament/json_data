@@ -1,0 +1,234 @@
+[
+    {
+        "id": "674e954a60f1beedf7030fea",
+        "pageNumber": 9,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Rain water harvesting",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674e954a60f1beedf7030fec",
+        "pageNumber": 13,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Re use plastic and other waste material",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674e954a60f1beedf7030ff1",
+        "pageNumber": 27,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Alternate cropping",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674e954a60f1beedf7030ff2",
+        "pageNumber": 29,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Water supply and waste-water disposal systems in the past",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674e954a60f1beedf7030ff5",
+        "pageNumber": 35,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Our rural life",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674e954a60f1beedf7030ff6",
+        "pageNumber": 37,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Availability of food for all",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674e954a60f1beedf7030ff7",
+        "pageNumber": 39,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Our people are our resources",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674e954a60f1beedf7030ff8",
+        "pageNumber": 41,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Modern Agriculture and its impact on environment",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "674e954a60f1beedf7030ffa",
+        "pageNumber": 45,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Use and misuse of water bodies",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "674e954a60f1beedf7030ffb",
+        "pageNumber": 47,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Reduce paper usage - Reduce pollution",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "674e954a60f1beedf7030ffe",
+        "pageNumber": 53,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Our Responsibilities in tourism",
+        "type": "chapter",
+        "order": 21
+    },
+    {
+        "id": "674e954a60f1beedf7031004",
+        "pageNumber": 65,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Save electricity",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "674e954a60f1beedf7031006",
+        "pageNumber": 72,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Annexure",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "674e954a60f1beedf7030feb",
+        "pageNumber": 11,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Exploring local artisans",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674e954a60f1beedf7030fed",
+        "pageNumber": 15,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Reducing wastage of cooked food",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674e954a60f1beedf7030fee",
+        "pageNumber": 17,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Wastage of water due to negligence",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674e954a60f1beedf7030ff4",
+        "pageNumber": 33,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Service providers in our village",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674e954a60f1beedf7030ff9",
+        "pageNumber": 43,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Lifestyles of people in different regions of India",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674e954a60f1beedf7030ffd",
+        "pageNumber": 51,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Care for animals",
+        "type": "chapter",
+        "order": 20
+    },
+    {
+        "id": "674e954a60f1beedf7030fff",
+        "pageNumber": 55,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Our kitchen garden",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "674e954a60f1beedf7030fef",
+        "pageNumber": 19,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Preventing wastage of electricity",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674e954a60f1beedf7030ff0",
+        "pageNumber": 25,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Locally available medicinal plants",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674e954a60f1beedf7031002",
+        "pageNumber": 61,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Animal breeding for increased production",
+        "type": "chapter",
+        "order": 25
+    },
+    {
+        "id": "674e954a60f1beedf7031005",
+        "pageNumber": 68,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Fluorosis",
+        "type": "chapter",
+        "order": 28
+    },
+    {
+        "id": "674e954a60f1beedf7030ff3",
+        "pageNumber": 31,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Rainfall and soil erosion in the mountain region",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674e954a60f1beedf7030ffc",
+        "pageNumber": 49,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Our lifestyle and its impact on environment",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "674e954a60f1beedf7031000",
+        "pageNumber": 57,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Quality of water",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "674e954a60f1beedf7031001",
+        "pageNumber": 59,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Protecting endangered species",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "674e954a60f1beedf7031003",
+        "pageNumber": 63,
+        "bookID": "674d635789906ca049bcbe4e",
+        "text": "Home remedies for insect stings",
+        "type": "chapter",
+        "order": 26
+    }
+]

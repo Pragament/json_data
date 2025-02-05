@@ -1,0 +1,874 @@
+[
+    {
+        "id": "6749a862ea033f94456b2882",
+        "pageNumber": 8,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Force",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "6749a862ea033f94456b288f",
+        "pageNumber": 19,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.6 How to calculate net force",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "6749a862ea033f94456b2891",
+        "pageNumber": 22,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.9 Pressure",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "6749a862ea033f94456b2893",
+        "pageNumber": 27,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "2.1 Force of friction",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "6749a862ea033f94456b289c",
+        "pageNumber": 47,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.3 Acrylic",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "6749a862ea033f94456b289d",
+        "pageNumber": 48,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.4 Polyesters",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "6749a862ea033f94456b28a7",
+        "pageNumber": 64,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.1.3 Ductility",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "6749a862ea033f94456b28aa",
+        "pageNumber": 66,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2.1 Reaction with Oxygen",
+        "type": "subtopic",
+        "order": 41
+    },
+    {
+        "id": "6749a862ea033f94456b28ab",
+        "pageNumber": 68,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2.3 Reaction with water",
+        "type": "subtopic",
+        "order": 42
+    },
+    {
+        "id": "6749a862ea033f94456b28b6",
+        "pageNumber": 84,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.5 Structure and functioning of",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "6749a862ea033f94456b28bd",
+        "pageNumber": 96,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "6.2  Plane mirror",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "6749a862ea033f94456b28c3",
+        "pageNumber": 105,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.2 Exhaustible and Inexhaustible",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "6749a862ea033f94456b28c5",
+        "pageNumber": 112,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.2.4 Some petrochemical products",
+        "type": "subtopic",
+        "order": 68
+    },
+    {
+        "id": "6749a862ea033f94456b28c9",
+        "pageNumber": 114,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.3.3 Conserving coal and petroleum",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "6749a862ea033f94456b28ca",
+        "pageNumber": 114,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.4 Misuse of energy resources and",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "6749a862ea033f94456b28ce",
+        "pageNumber": 123,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.3 Types of Combustion",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "6749a862ea033f94456b28cf",
+        "pageNumber": 124,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.4 Fuels",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "6749a862ea033f94456b28d0",
+        "pageNumber": 125,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.5 Fire control",
+        "type": "topic",
+        "order": 79
+    },
+    {
+        "id": "6749a862ea033f94456b28d5",
+        "pageNumber": 136,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "9.1.1 When do liquids conduct",
+        "type": "subtopic",
+        "order": 84
+    },
+    {
+        "id": "6749a862ea033f94456b28d9",
+        "pageNumber": 145,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Some natural phenomena",
+        "type": "chapter",
+        "order": 88
+    },
+    {
+        "id": "6749a862ea033f94456b28dc",
+        "pageNumber": 148,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.3 Types of charges and their",
+        "type": "topic",
+        "order": 91
+    },
+    {
+        "id": "6749a862ea033f94456b28de",
+        "pageNumber": 152,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.4.1 Lightning Safety",
+        "type": "subtopic",
+        "order": 93
+    },
+    {
+        "id": "6749a862ea033f94456b28df",
+        "pageNumber": 153,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.5 Earthquakes",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "6749a862ea033f94456b28e1",
+        "pageNumber": 157,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.6.2 Earth quakes in Telangana",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "6749a862ea033f94456b28e9",
+        "pageNumber": 175,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.5.1 The solar system",
+        "type": "subtopic",
+        "order": 104
+    },
+    {
+        "id": "6749a862ea033f94456b28ec",
+        "pageNumber": 181,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.7 How did people come to an",
+        "type": "topic",
+        "order": 107
+    },
+    {
+        "id": "6749a862ea033f94456b2884",
+        "pageNumber": 10,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.3.1 Magnetic force",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "6749a862ea033f94456b2887",
+        "pageNumber": 11,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.3.3 Gravitational force",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "6749a862ea033f94456b2888",
+        "pageNumber": 12,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.3.4 Explaining of force acting at a",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "6749a862ea033f94456b2889",
+        "pageNumber": 13,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.4 Contact Forces",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "6749a862ea033f94456b288c",
+        "pageNumber": 16,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.4.3 Normal force",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "6749a862ea033f94456b289e",
+        "pageNumber": 49,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.5 How can you say a bottle is",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "6749a862ea033f94456b28a0",
+        "pageNumber": 52,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.7.1 Thermoplastic",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "6749a862ea033f94456b28a1",
+        "pageNumber": 52,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.7.2 Thermosetting Plastic",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "6749a862ea033f94456b28ac",
+        "pageNumber": 68,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2.2 Rusting of Metals",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "6749a862ea033f94456b28b0",
+        "pageNumber": 75,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.1 Production of sound",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "6749a862ea033f94456b28b9",
+        "pageNumber": 89,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.8 Music and Noise",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "6749a862ea033f94456b28c2",
+        "pageNumber": 105,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.1 Sources of materials",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "6749a862ea033f94456b28c7",
+        "pageNumber": 113,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.3.1 Formation of petroleum",
+        "type": "subtopic",
+        "order": 70
+    },
+    {
+        "id": "6749a862ea033f94456b28d2",
+        "pageNumber": 127,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.6.1 Structure of a flame",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "6749a862ea033f94456b28d4",
+        "pageNumber": 133,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "9.1 Electrical conductivity of liquids",
+        "type": "topic",
+        "order": 83
+    },
+    {
+        "id": "6749a862ea033f94456b28d6",
+        "pageNumber": 137,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "9.1.2 Chemical effect of electric",
+        "type": "subtopic",
+        "order": 85
+    },
+    {
+        "id": "6749a862ea033f94456b28da",
+        "pageNumber": 145,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.1 Lightning",
+        "type": "topic",
+        "order": 89
+    },
+    {
+        "id": "6749a862ea033f94456b28dd",
+        "pageNumber": 152,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.4 The Story of Lightning",
+        "type": "topic",
+        "order": 92
+    },
+    {
+        "id": "6749a862ea033f94456b28e3",
+        "pageNumber": 161,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.1 Observing the changes in the",
+        "type": "topic",
+        "order": 98
+    },
+    {
+        "id": "6749a862ea033f94456b28e6",
+        "pageNumber": 169,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.3 Solar Eclipse",
+        "type": "topic",
+        "order": 101
+    },
+    {
+        "id": "6749a862ea033f94456b28ea",
+        "pageNumber": 178,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "29.5 years",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "6749a862ea033f94456b28eb",
+        "pageNumber": 179,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.6 Some other members of the",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "6749a862ea033f94456b2885",
+        "pageNumber": 10,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.2 Types of forces",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "6749a862ea033f94456b2886",
+        "pageNumber": 11,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.3.2 Electrostatic force",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "6749a862ea033f94456b288a",
+        "pageNumber": 13,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.4.1 Muscular Force",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "6749a862ea033f94456b2894",
+        "pageNumber": 30,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "2.2 Observing the variation of",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "6749a862ea033f94456b2895",
+        "pageNumber": 31,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "2.3 Factors affecting  friciton",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "6749a862ea033f94456b2896",
+        "pageNumber": 36,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "2.6 Fluid friction",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "6749a862ea033f94456b2897",
+        "pageNumber": 41,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Synthetic fibres and plastics",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "6749a862ea033f94456b2898",
+        "pageNumber": 41,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.1 Clothes made of natural fibres",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "6749a862ea033f94456b289b",
+        "pageNumber": 45,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.2.2 Rayon",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "6749a862ea033f94456b28a2",
+        "pageNumber": 54,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.7.4 Plastics and environment",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "6749a862ea033f94456b28a8",
+        "pageNumber": 64,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.1.4 Electrical Conductivity",
+        "type": "subtopic",
+        "order": 39
+    },
+    {
+        "id": "6749a862ea033f94456b28ad",
+        "pageNumber": 69,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2.4 Reaction with Acids",
+        "type": "subtopic",
+        "order": 44
+    },
+    {
+        "id": "6749a862ea033f94456b28af",
+        "pageNumber": 75,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Sound",
+        "type": "chapter",
+        "order": 46
+    },
+    {
+        "id": "6749a862ea033f94456b28b1",
+        "pageNumber": 78,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.2 Musical instruments",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "6749a862ea033f94456b28b5",
+        "pageNumber": 81,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.4.1 Sound needs a medium to",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "6749a862ea033f94456b28b8",
+        "pageNumber": 88,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.7 Normal sound consists of",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "6749a862ea033f94456b28bb",
+        "pageNumber": 94,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Reflection of light by plane surfaces",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "6749a862ea033f94456b28bc",
+        "pageNumber": 94,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "6.1 Formation of image by a",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "6749a862ea033f94456b28be",
+        "pageNumber": 97,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "6.2.1 Reflection of light by plane",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "6749a862ea033f94456b28c1",
+        "pageNumber": 104,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Coal and petroleum",
+        "type": "chapter",
+        "order": 64
+    },
+    {
+        "id": "6749a862ea033f94456b28c8",
+        "pageNumber": 113,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.3.2 Why are coal and petroleum so",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "6749a862ea033f94456b28cc",
+        "pageNumber": 120,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.1 What is needed for  the process",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "6749a862ea033f94456b28d1",
+        "pageNumber": 126,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.6 Flame",
+        "type": "topic",
+        "order": 80
+    },
+    {
+        "id": "6749a862ea033f94456b28d8",
+        "pageNumber": 140,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "9.3 Electroplating",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "6749a862ea033f94456b28ed",
+        "pageNumber": 181,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.8 How did people come to an",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "6749a862ea033f94456b2883",
+        "pageNumber": 10,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.3 Forces acting at a distance",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "6749a862ea033f94456b288b",
+        "pageNumber": 14,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.4.2 Force of Friction",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "6749a862ea033f94456b288d",
+        "pageNumber": 16,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.4.4 Tension",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "6749a862ea033f94456b288e",
+        "pageNumber": 17,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.5 Net force",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "6749a862ea033f94456b2890",
+        "pageNumber": 21,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "1.8 Other effects of force",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "6749a862ea033f94456b2892",
+        "pageNumber": 27,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Friction",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "6749a862ea033f94456b2899",
+        "pageNumber": 42,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.2 Some synthetic fibres",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "6749a862ea033f94456b289a",
+        "pageNumber": 43,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.2.1 Nylon",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "6749a862ea033f94456b289f",
+        "pageNumber": 51,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "3.7 Types of Plastics",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "6749a862ea033f94456b28a3",
+        "pageNumber": 61,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Metals and non-metals",
+        "type": "chapter",
+        "order": 34
+    },
+    {
+        "id": "6749a862ea033f94456b28a4",
+        "pageNumber": 61,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.1 Physical Properties",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "6749a862ea033f94456b28a5",
+        "pageNumber": 62,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.1.1 Sonority",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "6749a862ea033f94456b28a6",
+        "pageNumber": 63,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.1.2 Malleability",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "6749a862ea033f94456b28a9",
+        "pageNumber": 66,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2 Chemical properties of metals",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "6749a862ea033f94456b28ae",
+        "pageNumber": 69,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "4.2.5 Reactivity of metals",
+        "type": "subtopic",
+        "order": 45
+    },
+    {
+        "id": "6749a862ea033f94456b28b2",
+        "pageNumber": 80,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.3.1 Structrure of  larynx or vioce box",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "6749a862ea033f94456b28b3",
+        "pageNumber": 80,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.3 Sounds produced by human beings",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "6749a862ea033f94456b28b4",
+        "pageNumber": 81,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.4 Propagation of sound",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "6749a862ea033f94456b28b7",
+        "pageNumber": 85,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.6 Characteristics of sound",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "6749a862ea033f94456b28ba",
+        "pageNumber": 89,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "5.9 Audible range",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "6749a862ea033f94456b28bf",
+        "pageNumber": 98,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "6.2.2 Plane of reflection",
+        "type": "subtopic",
+        "order": 62
+    },
+    {
+        "id": "6749a862ea033f94456b28c0",
+        "pageNumber": 101,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "6.2.5 Uses of plane mirrors in our daily life",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "6749a862ea033f94456b28c4",
+        "pageNumber": 108,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.2.2 Natural gas is another important",
+        "type": "subtopic",
+        "order": 67
+    },
+    {
+        "id": "6749a862ea033f94456b28c6",
+        "pageNumber": 113,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "7.3 Formation of coal",
+        "type": "topic",
+        "order": 69
+    },
+    {
+        "id": "6749a862ea033f94456b28cb",
+        "pageNumber": 119,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Combustion, fuels and flame",
+        "type": "chapter",
+        "order": 74
+    },
+    {
+        "id": "6749a862ea033f94456b28cd",
+        "pageNumber": 122,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "8.2 Ignition Temperature",
+        "type": "topic",
+        "order": 76
+    },
+    {
+        "id": "6749a862ea033f94456b28d3",
+        "pageNumber": 132,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Electrical conductivity of liquids",
+        "type": "chapter",
+        "order": 82
+    },
+    {
+        "id": "6749a862ea033f94456b28d7",
+        "pageNumber": 137,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "9.2 Electrolytic cell",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "6749a862ea033f94456b28db",
+        "pageNumber": 146,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.2 Charging by rubbing",
+        "type": "topic",
+        "order": 90
+    },
+    {
+        "id": "6749a862ea033f94456b28e0",
+        "pageNumber": 157,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "10.6.1 Protection against earthquakes",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "6749a862ea033f94456b28e2",
+        "pageNumber": 161,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Stars and solar system",
+        "type": "chapter",
+        "order": 97
+    },
+    {
+        "id": "6749a862ea033f94456b28e4",
+        "pageNumber": 165,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.1.3 Observing phases of the moon",
+        "type": "subtopic",
+        "order": 99
+    },
+    {
+        "id": "6749a862ea033f94456b28e5",
+        "pageNumber": 169,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.2 The surface of the moon",
+        "type": "topic",
+        "order": 100
+    },
+    {
+        "id": "6749a862ea033f94456b28e7",
+        "pageNumber": 170,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.4 Lunar eclipse",
+        "type": "topic",
+        "order": 102
+    },
+    {
+        "id": "6749a862ea033f94456b28e8",
+        "pageNumber": 171,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "11.5 Let us know something about",
+        "type": "topic",
+        "order": 103
+    },
+    {
+        "id": "6749a862ea033f94456b28ee",
+        "pageNumber": 185,
+        "bookID": "669a8519a4869f2442d74ffc",
+        "text": "Graphs of motion",
+        "type": "chapter",
+        "order": 109
+    }
+]

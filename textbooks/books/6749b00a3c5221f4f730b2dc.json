@@ -1,0 +1,794 @@
+[
+    {
+        "id": "674d5e014daca22b65dc7946",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7947",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7949",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794a",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794c",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7952",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7953",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7954",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7957",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7959",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795e",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7963",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7967",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7969",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796a",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7971",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7973",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7974",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7976",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7978",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797d",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7983",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7985",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794d",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794e",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7951",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795a",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7961",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7962",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7964",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7968",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796c",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7977",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7979",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797a",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7981",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794b",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc794f",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7956",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7958",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795c",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795f",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7960",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7965",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7966",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7970",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7972",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7975",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797c",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797e",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797f",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7982",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7984",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7948",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7950",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7955",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795b",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc795d",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796b",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796d",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796e",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc796f",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc797b",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7980",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7986",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "674d5e014daca22b65dc7987",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/absoluteImages/10_env_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/thumbnails/10_env_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/tg_scert/10env/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "6749b00a3c5221f4f730b2dc",
+            "name": "class 10 Environmental Education"
+        },
+        "imageText": ""
+    }
+]

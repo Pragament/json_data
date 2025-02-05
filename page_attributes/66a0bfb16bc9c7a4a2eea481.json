@@ -1,0 +1,34 @@
+[
+    {
+        "id": "673c4ef45494579cadbc63eb",
+        "pageNumber": 11,
+        "bookID": "66a0bfb16bc9c7a4a2eea481",
+        "text": "The Story of Village Palampur",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4ef45494579cadbc63ec",
+        "pageNumber": 26,
+        "bookID": "66a0bfb16bc9c7a4a2eea481",
+        "text": "People as Resource",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4ef45494579cadbc63ed",
+        "pageNumber": 39,
+        "bookID": "66a0bfb16bc9c7a4a2eea481",
+        "text": "Poverty as a Challenge",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4ef45494579cadbc63ee",
+        "pageNumber": 52,
+        "bookID": "66a0bfb16bc9c7a4a2eea481",
+        "text": "Food Security in India",
+        "type": "chapter",
+        "order": 4
+    }
+]

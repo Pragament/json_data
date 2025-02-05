@@ -1,0 +1,162 @@
+[
+    {
+        "id": "674d418960f1beedf702fc68",
+        "pageNumber": 18,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Playing with magnets",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d418960f1beedf702fc6b",
+        "pageNumber": 28,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Rain: where does it come from?",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674d418960f1beedf702fc67",
+        "pageNumber": 8,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Our food",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d418960f1beedf702fc69",
+        "pageNumber": 18,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "2.1 Magnets",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d418960f1beedf702fc6a",
+        "pageNumber": 19,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "2.2 Magnets of different shapes",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674d418960f1beedf702fc6c",
+        "pageNumber": 28,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "3.1 Forms of  Water",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674d418960f1beedf702fc6e",
+        "pageNumber": 35,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "What do animals eat?",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d418960f1beedf702fc6f",
+        "pageNumber": 48,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Materials - Objects",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674d418960f1beedf702fc77",
+        "pageNumber": 125,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Learning how to measure",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "674d418960f1beedf702fc79",
+        "pageNumber": 154,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Light, Shadows and Images",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "674d418960f1beedf702fc70",
+        "pageNumber": 57,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Habitat",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674d418960f1beedf702fc71",
+        "pageNumber": 68,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Separation of Substances",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674d418960f1beedf702fc74",
+        "pageNumber": 96,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Changes around us",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674d418960f1beedf702fc75",
+        "pageNumber": 108,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Water in our life",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "674d418960f1beedf702fc7a",
+        "pageNumber": 166,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Living and non living",
+        "type": "chapter",
+        "order": 20
+    },
+    {
+        "id": "674d418960f1beedf702fc6d",
+        "pageNumber": 29,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "3.1.2 Liquid Form",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "674d418960f1beedf702fc72",
+        "pageNumber": 77,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Fibre to Fabric",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674d418960f1beedf702fc73",
+        "pageNumber": 86,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Plants: parts and functions",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674d418960f1beedf702fc76",
+        "pageNumber": 116,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Simple electric circuits",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674d418960f1beedf702fc78",
+        "pageNumber": 140,
+        "bookID": "669ab71f42624eabbf844732",
+        "text": "Movements in animals",
+        "type": "chapter",
+        "order": 18
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "id": "673c62115494579cadbc64be",
+        "pageNumber": 13,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "NUMBER SYSTEMS",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c62115494579cadbc64bf",
+        "pageNumber": 13,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.1 Introduction",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "673c62115494579cadbc64c0",
+        "pageNumber": 17,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.2 Irrational Numbers",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "673c62115494579cadbc64c1",
+        "pageNumber": 20,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.3 Real Numbers and their Decimal Expansions",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "673c62115494579cadbc64c2",
+        "pageNumber": 27,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.4 Operations on Real Numbers",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "673c62115494579cadbc64c3",
+        "pageNumber": 33,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.5 Laws of Exponents for Real Numbers",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "673c62115494579cadbc64c4",
+        "pageNumber": 36,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "1.6 Summary",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "673c62115494579cadbc64c5",
+        "pageNumber": 37,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "POLYNOMIALS",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "673c62115494579cadbc64c6",
+        "pageNumber": 37,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.1 Introduction",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "673c62115494579cadbc64c7",
+        "pageNumber": 37,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.2 Polynomials in One Variable",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "673c62115494579cadbc64c8",
+        "pageNumber": 41,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.3 Zeroes of a Polynomial",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "673c62115494579cadbc64c9",
+        "pageNumber": 44,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.4 Factorisation of Polynomials",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "673c62115494579cadbc64ca",
+        "pageNumber": 48,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.5 Algebraic Identities",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "673c62115494579cadbc64cb",
+        "pageNumber": 54,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "2.6 Summary",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "673c62115494579cadbc64cc",
+        "pageNumber": 55,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "COORDINATE GEOMETRY",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "673c62115494579cadbc64cd",
+        "pageNumber": 55,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "3.1 Introduction",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "673c62115494579cadbc64ce",
+        "pageNumber": 58,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "3.2 Cartesian System",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "673c62115494579cadbc64cf",
+        "pageNumber": 65,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "3.3 Summary",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "673c62115494579cadbc64d0",
+        "pageNumber": 67,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "LINEAR EQUATIONS IN TWO VARIABLES",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "673c62115494579cadbc64d1",
+        "pageNumber": 67,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "4.1 Introduction",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "673c62115494579cadbc64d2",
+        "pageNumber": 67,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "4.2 Linear Equations",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "673c62115494579cadbc64d3",
+        "pageNumber": 69,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "4.3 Solution of a Linear Equation",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "673c62115494579cadbc64d4",
+        "pageNumber": 71,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "4.4 Summary",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "673c62115494579cadbc64d5",
+        "pageNumber": 72,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "INTRODUCTION TO EUCLID’S GEOMETRY",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "673c62115494579cadbc64d6",
+        "pageNumber": 72,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "5.1 Introduction",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "673c62115494579cadbc64d7",
+        "pageNumber": 74,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "5.2 Euclid’s Definitions, Axioms and Postulates",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "673c62115494579cadbc64d8",
+        "pageNumber": 80,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "5.3 Summary",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "673c62115494579cadbc64d9",
+        "pageNumber": 81,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "LINES AND ANGLES",
+        "type": "chapter",
+        "order": 28
+    },
+    {
+        "id": "673c62115494579cadbc64da",
+        "pageNumber": 81,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.1 Introduction",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "673c62115494579cadbc64db",
+        "pageNumber": 82,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.2 Basic Terms and Definitions",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "673c62115494579cadbc64dc",
+        "pageNumber": 84,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.3 Intersecting Lines and Non-intersecting Lines",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "673c62115494579cadbc64dd",
+        "pageNumber": 84,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.4 Pairs of Angles",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "673c62115494579cadbc64de",
+        "pageNumber": 90,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.5 Lines Parallel to the Same Line",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "673c62115494579cadbc64df",
+        "pageNumber": 94,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "6.6 Summary",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "673c62115494579cadbc64e0",
+        "pageNumber": 95,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "TRIANGLES",
+        "type": "chapter",
+        "order": 35
+    },
+    {
+        "id": "673c62115494579cadbc64e1",
+        "pageNumber": 95,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.1 Introduction",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "673c62115494579cadbc64e2",
+        "pageNumber": 95,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.2 Congruence of Triangles",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "673c62115494579cadbc64e3",
+        "pageNumber": 98,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.3 Criteria for Congruence of Triangles",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "673c62115494579cadbc64e4",
+        "pageNumber": 106,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.4 Some Properties of a Triangle",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "673c62115494579cadbc64e5",
+        "pageNumber": 111,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.5 Some More Criteria for Congruence of Triangles",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "673c62115494579cadbc64e6",
+        "pageNumber": 115,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "7.6 Summary",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "673c62115494579cadbc64e7",
+        "pageNumber": 116,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "QUADRILATERALS",
+        "type": "chapter",
+        "order": 42
+    },
+    {
+        "id": "673c62115494579cadbc64e8",
+        "pageNumber": 116,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "8.1 Properties of a Parallelogram",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "673c62115494579cadbc64e9",
+        "pageNumber": 123,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "8.2 The Mid-point Theorem",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "673c62115494579cadbc64ea",
+        "pageNumber": 127,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "8.3 Summary",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "673c62115494579cadbc64eb",
+        "pageNumber": 128,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "CIRCLES",
+        "type": "chapter",
+        "order": 46
+    },
+    {
+        "id": "673c62115494579cadbc64ec",
+        "pageNumber": 128,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.1 Angle Subtended by a Chord at a Point",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "673c62115494579cadbc64ed",
+        "pageNumber": 130,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.2 Perpendicular from the Centre to a Chord",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "673c62115494579cadbc64ee",
+        "pageNumber": 131,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.3 Equal Chords and their Distances from the Centre",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "673c62115494579cadbc64ef",
+        "pageNumber": 134,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.4 Angle Subtended by an Arc of a Circle",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "673c62115494579cadbc64f0",
+        "pageNumber": 137,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.5 Cyclic Quadrilaterals",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "673c62115494579cadbc64f1",
+        "pageNumber": 141,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "9.6 Summary",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "673c62115494579cadbc64f2",
+        "pageNumber": 143,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "HERON’S FORMULA",
+        "type": "chapter",
+        "order": 53
+    },
+    {
+        "id": "673c62115494579cadbc64f3",
+        "pageNumber": 143,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "10.1 Area of a Triangle – by Heron’s Formula",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "673c62115494579cadbc64f4",
+        "pageNumber": 148,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "10.2 Summary",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "673c62115494579cadbc64f5",
+        "pageNumber": 149,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "SURFACE AREAS AND VOLUMES",
+        "type": "chapter",
+        "order": 56
+    },
+    {
+        "id": "673c62115494579cadbc64f6",
+        "pageNumber": 149,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "11.1 Surface Area of a Right Circular Cone",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "673c62115494579cadbc64f7",
+        "pageNumber": 153,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "11.2 Surface Area of a Sphere",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "673c62115494579cadbc64f8",
+        "pageNumber": 157,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "11.3 Volume of a Right Circular Cone",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "673c62115494579cadbc64f9",
+        "pageNumber": 160,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "11.4 Volume of a Sphere",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "673c62115494579cadbc64fa",
+        "pageNumber": 162,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "11.5 Summary",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "673c62115494579cadbc64fb",
+        "pageNumber": 163,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "STATISTICS",
+        "type": "chapter",
+        "order": 62
+    },
+    {
+        "id": "673c62115494579cadbc64fc",
+        "pageNumber": 163,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "12.1 Ggraphical Representation of Data",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "673c62115494579cadbc64fd",
+        "pageNumber": 178,
+        "bookID": "66a0c68c6bc9c7a4a2eea485",
+        "text": "12.2 Summary",
+        "type": "topic",
+        "order": 64
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "id": "674d962460f1beedf7030e7f",
+        "pageNumber": 8,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "बरसते बादल (कविता) सुमित्रानंदन पंत",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d962460f1beedf7030e82",
+        "pageNumber": 19,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "माँ मुझे आने दे! (कविता) मृदुल जोशी",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674d962460f1beedf7030e86",
+        "pageNumber": 35,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "उलझन (पटन हेतु कविता)",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "674d962460f1beedf7030e88",
+        "pageNumber": 41,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "हम सब एक हैं (उपवाचक निबंध) संकलित",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "674d962460f1beedf7030e8e",
+        "pageNumber": 64,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "नीति दोहे (कविता) रहीम, विहारी",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674d962460f1beedf7030e92",
+        "pageNumber": 81,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "अनोखा उपाय (उपवाचक अनूदित कहानी) डॉ. रावूरि भरद्वाज",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "674d962460f1beedf7030e87",
+        "pageNumber": 36,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "अंतर्राष्ट्रीय स्तर पर हिंदी (पत्र) संकलित",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674d962460f1beedf7030e89",
+        "pageNumber": 44,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "भक्ति पद (कविता) रदास, मीराबाई",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674d962460f1beedf7030e91",
+        "pageNumber": 74,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "धरती के सवाल अंतरिक्ष के ज़वाब (साक्षात्कार)",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "674d962460f1beedf7030e83",
+        "pageNumber": 23,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "शांति की राह में (उपवाचक निबंध) संकलित",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674d962460f1beedf7030e84",
+        "pageNumber": 26,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "कण-कण का अधिकारी (कविता) डॉ. रामधारी सिंह 'दिनकर'",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674d962460f1beedf7030e85",
+        "pageNumber": 30,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "लोकगीत (निबंध) भगवतशरण उपाध्याय",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674d962460f1beedf7030e8a",
+        "pageNumber": 48,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "स्वराज्य की नींव (एकांकी) विष्णु प्रभाकर",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674d962460f1beedf7030e8b",
+        "pageNumber": 56,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "हम भारतवासी (पठन हेतु कविता)",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "674d962460f1beedf7030e8d",
+        "pageNumber": 61,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "अपने स्कूल को एक उपहार (उपवाचक कहानी) ऋतु भूषण",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674d962460f1beedf7030e80",
+        "pageNumber": 11,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "ईदगाह (कहानी) प्रेमचंद",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d962460f1beedf7030e81",
+        "pageNumber": 16,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "यह रास्ता कहाँ जाता है? (पठन हेतु नाटक)",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d962460f1beedf7030e8c",
+        "pageNumber": 57,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "दक्षिणी गंगा गोदावरी (यात्रा-वृत्तांत) काका कालेलकर",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674d962460f1beedf7030e8f",
+        "pageNumber": 67,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "जल ही जीवन है (कहानी) श्री प्रकाश",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "674d962460f1beedf7030e90",
+        "pageNumber": 73,
+        "bookID": "6749ab4cc39563553ec424a7",
+        "text": "क्या आपको पता है? (पठन हेतु पी.पी.टी.)",
+        "type": "topic",
+        "order": 18
+    }
+]

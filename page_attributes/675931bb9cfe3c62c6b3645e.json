@@ -1,0 +1,82 @@
+[
+    {
+        "id": "675bba853fa14a5dead6e5d6",
+        "pageNumber": 33,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "శ్వాసక్రియ",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "675bba853fa14a5dead6e5d7",
+        "pageNumber": 85,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "విసర్జన",
+        "type": "chapter",
+        "order": 44
+    },
+    {
+        "id": "675bba853fa14a5dead6e5d8",
+        "pageNumber": 183,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "వారసత్వం - పరిణామం",
+        "type": "chapter",
+        "order": 84
+    },
+    {
+        "id": "675bba853fa14a5dead6e5d9",
+        "pageNumber": 160,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "జీవిత ప్రక్రియలలో సమన్వయం",
+        "type": "chapter",
+        "order": 76
+    },
+    {
+        "id": "675bba853fa14a5dead6e5da",
+        "pageNumber": 8,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "పోషణ",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "675bba853fa14a5dead6e5db",
+        "pageNumber": 107,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "సమన్వయం",
+        "type": "chapter",
+        "order": 57
+    },
+    {
+        "id": "675bba853fa14a5dead6e5dc",
+        "pageNumber": 232,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "సహజ వనరులు",
+        "type": "chapter",
+        "order": 99
+    },
+    {
+        "id": "675bba853fa14a5dead6e5dd",
+        "pageNumber": 58,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "సర్క్యులేషన్",
+        "type": "chapter",
+        "order": 35
+    },
+    {
+        "id": "675bba853fa14a5dead6e5de",
+        "pageNumber": 130,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "పునరుత్పత్తి",
+        "type": "chapter",
+        "order": 64
+    },
+    {
+        "id": "675bba853fa14a5dead6e5df",
+        "pageNumber": 212,
+        "bookID": "675931bb9cfe3c62c6b3645e",
+        "text": "మన పర్యావరణం",
+        "type": "chapter",
+        "order": 94
+    }
+]

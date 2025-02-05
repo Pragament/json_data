@@ -1,0 +1,538 @@
+[
+    {
+        "id": "676a584a45665a19fa62b73f",
+        "pageNumber": 21,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Patterns in Mathematics",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a584a45665a19fa62b740",
+        "pageNumber": 22,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "1.2 Patterns in Numbers",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676a584a45665a19fa62b741",
+        "pageNumber": 23,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "1.3 Visualising Number Sequences",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a584a45665a19fa62b742",
+        "pageNumber": 26,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "1.4 Relations among Number Sequences",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a584a45665a19fa62b743",
+        "pageNumber": 29,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "1.5 Patterns in Shapes",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676a584a45665a19fa62b744",
+        "pageNumber": 31,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "1.6 Relation to Number Sequences",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "676a584a45665a19fa62b745",
+        "pageNumber": 33,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Lines and Angles",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "676a584a45665a19fa62b746",
+        "pageNumber": 33,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.1 Point",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676a584a45665a19fa62b747",
+        "pageNumber": 34,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.2 Line Segment",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676a584a45665a19fa62b748",
+        "pageNumber": 34,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.3 Line",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a584a45665a19fa62b749",
+        "pageNumber": 35,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.4 Ray",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "676a584a45665a19fa62b74a",
+        "pageNumber": 37,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.5 Angle",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "676a584a45665a19fa62b74b",
+        "pageNumber": 41,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.6 Comparing Angles",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676a584a45665a19fa62b74c",
+        "pageNumber": 45,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.7 Making Rotating Arms",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a584a45665a19fa62b74d",
+        "pageNumber": 47,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.8 Special Types of Angles",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a584a45665a19fa62b74e",
+        "pageNumber": 52,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "2.9 Measuring Angles",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676a584a45665a19fa62b74f",
+        "pageNumber": 75,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Number Play",
+        "type": "chapter",
+        "order": 17
+    },
+    {
+        "id": "676a584a45665a19fa62b750",
+        "pageNumber": 75,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.1 Numbers can Tell us Things",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676a584a45665a19fa62b751",
+        "pageNumber": 77,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.2 Supercells",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676a584a45665a19fa62b752",
+        "pageNumber": 79,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.3 Patterns of Numbers on the Number Line",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a584a45665a19fa62b753",
+        "pageNumber": 80,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.4 Playing with Digits",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676a584a45665a19fa62b754",
+        "pageNumber": 81,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.5 Pretty Palindromic Patterns",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676a584a45665a19fa62b755",
+        "pageNumber": 82,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.6 The Magic Number of Kaprekar",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676a584a45665a19fa62b756",
+        "pageNumber": 84,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.7 Clock and Calendar Numbers",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676a584a45665a19fa62b757",
+        "pageNumber": 85,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.8 Mental Math",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a584a45665a19fa62b758",
+        "pageNumber": 87,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "3.9 Playing with Number Patterns",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a584a45665a19fa62b759",
+        "pageNumber": 94,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Data Handling and Presentation",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "676a584a45665a19fa62b75a",
+        "pageNumber": 94,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "4.1 Collecting and Organising Data",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a584a45665a19fa62b75b",
+        "pageNumber": 99,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "4.2 Pictographs",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "676a584a45665a19fa62b75c",
+        "pageNumber": 105,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "4.3 Bar Graphs",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a584a45665a19fa62b75d",
+        "pageNumber": 109,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "4.4 Drawing a Bar Graph",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676a584a45665a19fa62b75e",
+        "pageNumber": 121,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "4.5 Artistic and Aesthetic Considerations",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676a584a45665a19fa62b75f",
+        "pageNumber": 127,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Prime Time",
+        "type": "chapter",
+        "order": 33
+    },
+    {
+        "id": "676a584a45665a19fa62b760",
+        "pageNumber": 127,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "5.1 Common Multiples and Common Factors",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676a584a45665a19fa62b761",
+        "pageNumber": 132,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "5.2 Prime Numbers",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "676a584a45665a19fa62b762",
+        "pageNumber": 137,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "5.4 Prime Factorisation",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a584a45665a19fa62b763",
+        "pageNumber": 142,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "5.5 Divisibility Tests",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "676a584a45665a19fa62b764",
+        "pageNumber": 146,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "5.6 Fun with Numbers",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676a584a45665a19fa62b765",
+        "pageNumber": 149,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Perimeter and Area",
+        "type": "chapter",
+        "order": 39
+    },
+    {
+        "id": "676a584a45665a19fa62b766",
+        "pageNumber": 149,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "6.1 Perimeter",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "676a584a45665a19fa62b767",
+        "pageNumber": 157,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "6.2 Area",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a584a45665a19fa62b768",
+        "pageNumber": 162,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "6.3 Area of a Triangle",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a584a45665a19fa62b769",
+        "pageNumber": 171,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Fractions",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "676a584a45665a19fa62b76a",
+        "pageNumber": 172,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.1 Fractional Units and Equal Shares",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a584a45665a19fa62b76b",
+        "pageNumber": 174,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.2 Fractional Units as Parts of a Whole",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676a584a45665a19fa62b76c",
+        "pageNumber": 176,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.3 Measuring Using Fractional Units",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "676a584a45665a19fa62b76d",
+        "pageNumber": 179,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.4 Marking Fraction Lengths on the Number Line",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "676a584a45665a19fa62b76e",
+        "pageNumber": 181,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.5 Mixed Fractions",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a584a45665a19fa62b76f",
+        "pageNumber": 183,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.6 Equivalent Fractions",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a584a45665a19fa62b770",
+        "pageNumber": 193,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.7 Comparing Fractions",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676a584a45665a19fa62b771",
+        "pageNumber": 195,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.8 Addition and Subtraction of Fractions",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676a584a45665a19fa62b772",
+        "pageNumber": 202,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "7.9 A Pinch of History",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "676a584a45665a19fa62b773",
+        "pageNumber": 207,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Playing with Constructions",
+        "type": "chapter",
+        "order": 53
+    },
+    {
+        "id": "676a584a45665a19fa62b774",
+        "pageNumber": 207,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.1 Artwork",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a584a45665a19fa62b775",
+        "pageNumber": 212,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.2 Squares and Rectangles",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a584a45665a19fa62b776",
+        "pageNumber": 215,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.3 Constructing Squares and Rectangles",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a584a45665a19fa62b777",
+        "pageNumber": 217,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.4 An Exploration in Rectangles",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a584a45665a19fa62b778",
+        "pageNumber": 223,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.5 Exploring Diagonals of Rectangles and Squares",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "676a584a45665a19fa62b779",
+        "pageNumber": 231,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "8.6 Points Equidistant from Two Given Points",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676a584a45665a19fa62b77a",
+        "pageNumber": 237,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "Symmetry",
+        "type": "chapter",
+        "order": 60
+    },
+    {
+        "id": "676a584a45665a19fa62b77b",
+        "pageNumber": 239,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "9.1 Line of Symmetry",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "676a584a45665a19fa62b77c",
+        "pageNumber": 250,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "9.2 Rotational Symmetry",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "676a584a45665a19fa62b77d",
+        "pageNumber": 262,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "The Other Side of Zero",
+        "type": "chapter",
+        "order": 63
+    },
+    {
+        "id": "676a584a45665a19fa62b77e",
+        "pageNumber": 276,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "10.2 The Token Model",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "676a584a45665a19fa62b77f",
+        "pageNumber": 279,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "10.3 Integers in Other Places",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676a584a45665a19fa62b780",
+        "pageNumber": 283,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "10.4 Explorations with Integers",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "676a584a45665a19fa62b781",
+        "pageNumber": 286,
+        "bookID": "66c9a8082d154823ee9ff39a",
+        "text": "10.5 A Pinch of History",
+        "type": "topic",
+        "order": 67
+    }
+]

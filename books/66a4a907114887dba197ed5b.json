@@ -1,0 +1,1382 @@
+[
+    {
+        "id": "66a4cf65857d4c5df0e4ee8a",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec7",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee98",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee93",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee92",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea1",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee91",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9f",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea2",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea8",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eebe",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec0",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec4",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee8c",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee94",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9b",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9e",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea3",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea5",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeae",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeca",
+        "pageNumber": 65,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_65.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_65.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_65_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee8d",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee97",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee95",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eebd",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec2",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9c",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee8e",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea6",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea9",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eebc",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea0",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea4",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb4",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb7",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec5",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9a",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeaa",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eead",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec1",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeaf",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb0",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb1",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb5",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec3",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee96",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eea7",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee90",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee99",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee9d",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeab",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeac",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb2",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb8",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb6",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eebf",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec9",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee8b",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4ee8f",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb3",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeb9",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeba",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eebb",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec6",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eec8",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed2",
+        "pageNumber": 73,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_73.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_73.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_73_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef3",
+        "pageNumber": 106,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_106.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_106.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_106_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eecd",
+        "pageNumber": 68,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_68.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_68.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_68_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed3",
+        "pageNumber": 74,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_74.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_74.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_74_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed1",
+        "pageNumber": 72,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_72.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_72.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_72_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eece",
+        "pageNumber": 69,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_69.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_69.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_69_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eedc",
+        "pageNumber": 83,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_83.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_83.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_83_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef7",
+        "pageNumber": 110,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_110.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_110.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_110_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee0",
+        "pageNumber": 87,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_87.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_87.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_87_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee7",
+        "pageNumber": 94,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_94.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_94.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_94_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeed",
+        "pageNumber": 100,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_100.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_100.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_100_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeeb",
+        "pageNumber": 98,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_98.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_98.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_98_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef9",
+        "pageNumber": 112,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_112.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_112.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_112_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed7",
+        "pageNumber": 78,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_78.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_78.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_78_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eedb",
+        "pageNumber": 82,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_82.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_82.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_82_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef1",
+        "pageNumber": 104,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_104.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_104.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_104_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eefb",
+        "pageNumber": 114,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_114.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_114.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_114_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee9",
+        "pageNumber": 96,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_96.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_96.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_96_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eecf",
+        "pageNumber": 70,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_70.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_70.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_70_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eedf",
+        "pageNumber": 86,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_86.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_86.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_86_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eefc",
+        "pageNumber": 115,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_115.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_115.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_115_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed4",
+        "pageNumber": 75,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_75.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_75.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_75_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eedd",
+        "pageNumber": 84,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_84.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_84.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_84_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeda",
+        "pageNumber": 81,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_81.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_81.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_81_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eede",
+        "pageNumber": 85,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_85.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_85.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_85_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef6",
+        "pageNumber": 109,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_109.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_109.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_109_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef8",
+        "pageNumber": 111,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_111.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_111.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_111_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee2",
+        "pageNumber": 89,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_89.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_89.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_89_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef2",
+        "pageNumber": 105,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_105.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_105.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_105_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef4",
+        "pageNumber": 107,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_107.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_107.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_107_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eecb",
+        "pageNumber": 66,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_66.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_66.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_66_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee4",
+        "pageNumber": 91,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_91.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_91.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_91_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeee",
+        "pageNumber": 101,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_101.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_101.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_101_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed5",
+        "pageNumber": 76,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_76.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_76.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_76_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee3",
+        "pageNumber": 90,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_90.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_90.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_90_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee5",
+        "pageNumber": 92,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_92.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_92.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_92_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee6",
+        "pageNumber": 93,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_93.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_93.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_93_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeec",
+        "pageNumber": 99,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_99.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_99.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_99_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef5",
+        "pageNumber": 108,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_108.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_108.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_108_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee8",
+        "pageNumber": 95,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_95.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_95.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_95_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eef0",
+        "pageNumber": 103,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_103.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_103.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_103_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eecc",
+        "pageNumber": 67,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_67.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_67.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_67_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed6",
+        "pageNumber": 77,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_77.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_77.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_77_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed8",
+        "pageNumber": 79,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_79.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_79.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_79_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eee1",
+        "pageNumber": 88,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_88.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_88.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_88_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeea",
+        "pageNumber": 97,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_97.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_97.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_97_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eeef",
+        "pageNumber": 102,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_102.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_102.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_102_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed9",
+        "pageNumber": 80,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_80.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_80.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_80_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eefa",
+        "pageNumber": 113,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_113.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_113.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_113_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a4cf65857d4c5df0e4eed0",
+        "pageNumber": 71,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/absoluteImages/7_social_and_political_life-2_page_71.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/thumbnails/7_social_and_political_life-2_page_71.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/7social_and_political_life-2/textAnnotations/page_71_text_annotation.json",
+        "bookID": {
+            "id": "66a4a907114887dba197ed5b",
+            "name": "class 7 Social and Political Life-2"
+        },
+        "imageText": ""
+    }
+]

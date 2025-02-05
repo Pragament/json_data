@@ -1,0 +1,66 @@
+[
+    {
+        "id": "673c4e4d5494579cadbc63d0",
+        "pageNumber": 13,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "Introduction: How, When and Where",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d1",
+        "pageNumber": 21,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "From Trade to Territory",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d2",
+        "pageNumber": 38,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "Ruling the Countryside",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d3",
+        "pageNumber": 51,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "Tribals, Dikus and the Vision of a Golden Age",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d4",
+        "pageNumber": 63,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "When People Revolt 1857 and After",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d5",
+        "pageNumber": 77,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "Civilising the “Native”, Educating the Nation",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d6",
+        "pageNumber": 90,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "Women, Caste and Reform",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "673c4e4d5494579cadbc63d7",
+        "pageNumber": 105,
+        "bookID": "66a358da89ffd74756e1e9a8",
+        "text": "The Making of the National Movement: 1870s–1947",
+        "type": "chapter",
+        "order": 8
+    }
+]

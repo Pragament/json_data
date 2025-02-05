@@ -1,0 +1,130 @@
+[
+    {
+        "id": "674edc1f60f1beedf7031174",
+        "pageNumber": 42,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "చిన్ని కృష్ణుడు",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674edc1f60f1beedf703117a",
+        "pageNumber": 69,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "సుమతీ శతకం",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674edc1f60f1beedf7031171",
+        "pageNumber": 27,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "తెలంగాణ వైభవం",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674edc1f60f1beedf7031172",
+        "pageNumber": 34,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "పిల్లల్లారా రారండి...",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "674edc1f60f1beedf7031175",
+        "pageNumber": 43,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "వినాయక చవితి",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674edc1f60f1beedf7031178",
+        "pageNumber": 58,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "కళారత్నాలు",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "674edc1f60f1beedf7031179",
+        "pageNumber": 59,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "చిన్నారి కల",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674edc1f60f1beedf703117d",
+        "pageNumber": 92,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "పంటసిరి",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "674edc1f60f1beedf703117e",
+        "pageNumber": 93,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "బొమ్మ గుర్రం",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674edc1f60f1beedf703117f",
+        "pageNumber": 101,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "ఎవరు నేను?",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674edc1f60f1beedf7031180",
+        "pageNumber": 102,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "మాటల ప్రయాణం",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674edc1f60f1beedf7031173",
+        "pageNumber": 35,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "పరమానందయ్య శిష్యులు",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674edc1f60f1beedf7031176",
+        "pageNumber": 50,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "రంజాన్",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674edc1f60f1beedf7031177",
+        "pageNumber": 51,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "దేశమును ప్రేమించుమన్నా",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674edc1f60f1beedf703117b",
+        "pageNumber": 76,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "నేను గోదావరిని",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674edc1f60f1beedf703117c",
+        "pageNumber": 85,
+        "bookID": "669b848a3237690e0d60c889",
+        "text": "ఎలుక విందు",
+        "type": "chapter",
+        "order": 12
+    }
+]

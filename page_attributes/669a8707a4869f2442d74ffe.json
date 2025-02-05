@@ -1,0 +1,1562 @@
+[
+    {
+        "id": "674d568360f1beedf7030940",
+        "pageNumber": 9,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.1 Maps Down the Ages",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d568360f1beedf7030946",
+        "pageNumber": 20,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.8 Atlas",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674d568360f1beedf7030947",
+        "pageNumber": 25,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Energy from the Sun",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674d568360f1beedf7030948",
+        "pageNumber": 28,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.1.4 Heat Balance",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "674d568360f1beedf7030949",
+        "pageNumber": 28,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.1.2 Land and Water Contrasts",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "674d568360f1beedf7030951",
+        "pageNumber": 35,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.4 Inversion",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "674d568360f1beedf7030953",
+        "pageNumber": 36,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.4.2 Temperature maps",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "674d568360f1beedf7030954",
+        "pageNumber": 37,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.4.3 Why is the North Cooler in",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "674d568360f1beedf7030955",
+        "pageNumber": 40,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Earth Movements and Seasons",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "674d568360f1beedf7030956",
+        "pageNumber": 42,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "3.1 Factors Effecting the Seasons",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "674d568360f1beedf703095e",
+        "pageNumber": 51,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.2  Hunting and Fishing",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "674d568360f1beedf7030961",
+        "pageNumber": 53,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.5 Clothing and Crafts",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "674d568360f1beedf7030964",
+        "pageNumber": 54,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.4 Contacts with the Outside",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674d568360f1beedf703096a",
+        "pageNumber": 69,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Minerals and Mining",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "674d568360f1beedf703096b",
+        "pageNumber": 70,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.1.1  Some important minerals and their uses",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "674d568360f1beedf7030973",
+        "pageNumber": 77,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.6 Safety and Health Checkups",
+        "type": "subtopic",
+        "order": 54
+    },
+    {
+        "id": "674d568360f1beedf7030976",
+        "pageNumber": 82,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - II: Production, Exchange and Livelihoods",
+        "type": "chapter",
+        "order": 57
+    },
+    {
+        "id": "674d568360f1beedf7030977",
+        "pageNumber": 82,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Money and Banking",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "674d568360f1beedf703097c",
+        "pageNumber": 86,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.1 Commercial Banks",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "674d568360f1beedf703097e",
+        "pageNumber": 86,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.3 Savings Deposits or Savings",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "674d568360f1beedf7030987",
+        "pageNumber": 92,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.4 Internet banking",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "674d568360f1beedf703098c",
+        "pageNumber": 98,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.1.3 Decline in the use of animal",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "674d568360f1beedf703098e",
+        "pageNumber": 100,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.2 Technology and Industry",
+        "type": "topic",
+        "order": 81
+    },
+    {
+        "id": "674d568360f1beedf703098f",
+        "pageNumber": 100,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.2.1 Impact of Textile Mills",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "674d568360f1beedf7030996",
+        "pageNumber": 108,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.1.1 Public Health Services",
+        "type": "subtopic",
+        "order": 89
+    },
+    {
+        "id": "674d568360f1beedf7030999",
+        "pageNumber": 110,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.2.1 Healthcare and Equality",
+        "type": "subtopic",
+        "order": 92
+    },
+    {
+        "id": "674d568360f1beedf703099a",
+        "pageNumber": 110,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.3 Basic public facilities",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "674d568360f1beedf703099e",
+        "pageNumber": 119,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "10.2 The Ryotwari system",
+        "type": "topic",
+        "order": 97
+    },
+    {
+        "id": "674d568360f1beedf70309a3",
+        "pageNumber": 126,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "National Movement - The Early Phase 1885-1919",
+        "type": "chapter",
+        "order": 102
+    },
+    {
+        "id": "674d568360f1beedf70309a7",
+        "pageNumber": 134,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "11.1 Rowlatt Act and Jalianwala",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "674d568360f1beedf70309b1",
+        "pageNumber": 155,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.7 Merger with India",
+        "type": "topic",
+        "order": 116
+    },
+    {
+        "id": "674d568360f1beedf70309b6",
+        "pageNumber": 163,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "13.3 Preamble of the Constitution",
+        "type": "topic",
+        "order": 121
+    },
+    {
+        "id": "674d568360f1beedf70309ba",
+        "pageNumber": 170,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.1.1 The Houses of Parliament",
+        "type": "subtopic",
+        "order": 125
+    },
+    {
+        "id": "674d568360f1beedf70309cb",
+        "pageNumber": 187,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.4.1 Separation of powers and",
+        "type": "subtopic",
+        "order": 142
+    },
+    {
+        "id": "674d568360f1beedf70309cd",
+        "pageNumber": 193,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - IV: Social Organisation and Inequities",
+        "type": "chapter",
+        "order": 144
+    },
+    {
+        "id": "674d568360f1beedf70309d0",
+        "pageNumber": 195,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "16.1.1 Abolition of Jagirdari system",
+        "type": "subtopic",
+        "order": 147
+    },
+    {
+        "id": "674d568360f1beedf70309d9",
+        "pageNumber": 216,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "18.2 Rights Approach to improve",
+        "type": "topic",
+        "order": 156
+    },
+    {
+        "id": "674d568360f1beedf70309da",
+        "pageNumber": 217,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "18.3 Right of",
+        "type": "topic",
+        "order": 157
+    },
+    {
+        "id": "674d568360f1beedf70309dc",
+        "pageNumber": 219,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Social and Religious Reform Movements",
+        "type": "chapter",
+        "order": 159
+    },
+    {
+        "id": "674d568360f1beedf70309de",
+        "pageNumber": 220,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.2 Brahma Samaj and the",
+        "type": "topic",
+        "order": 161
+    },
+    {
+        "id": "674d568360f1beedf70309e1",
+        "pageNumber": 222,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.5 Social Reforms and Women",
+        "type": "topic",
+        "order": 164
+    },
+    {
+        "id": "674d568360f1beedf70309e3",
+        "pageNumber": 224,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.7 Women Reformers",
+        "type": "topic",
+        "order": 166
+    },
+    {
+        "id": "674d568360f1beedf70309ef",
+        "pageNumber": 245,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Film and Print Media",
+        "type": "chapter",
+        "order": 178
+    },
+    {
+        "id": "674d568360f1beedf70309f0",
+        "pageNumber": 245,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "22.1 Evolution of cinema",
+        "type": "topic",
+        "order": 179
+    },
+    {
+        "id": "674d568360f1beedf70309f1",
+        "pageNumber": 247,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "22.1.2 Cinema and freedom movement",
+        "type": "subtopic",
+        "order": 180
+    },
+    {
+        "id": "674d568360f1beedf70309f2",
+        "pageNumber": 249,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "22.1.3 Film as an industry",
+        "type": "subtopic",
+        "order": 181
+    },
+    {
+        "id": "674d568360f1beedf70309f4",
+        "pageNumber": 250,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "22.2.1 Role of Newspapers in",
+        "type": "subtopic",
+        "order": 183
+    },
+    {
+        "id": "674d568360f1beedf70309f6",
+        "pageNumber": 253,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "23.2 Cricket in India",
+        "type": "topic",
+        "order": 185
+    },
+    {
+        "id": "674d568360f1beedf70309fe",
+        "pageNumber": 266,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.3.4 Watershed Development",
+        "type": "subtopic",
+        "order": 193
+    },
+    {
+        "id": "674d568360f1beedf7030a00",
+        "pageNumber": 266,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.3.1 Impact of Drought",
+        "type": "subtopic",
+        "order": 195
+    },
+    {
+        "id": "674d568360f1beedf7030941",
+        "pageNumber": 13,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.2 Projection in a Map",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674d568360f1beedf7030942",
+        "pageNumber": 15,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.3.1 Use of maps in our times",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "674d568360f1beedf7030944",
+        "pageNumber": 18,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.6 Conventional symbols on maps",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "674d568360f1beedf703094b",
+        "pageNumber": 30,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.2 The Temperature of Atmosphere",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "674d568360f1beedf703094e",
+        "pageNumber": 33,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.3 Different Places have",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "674d568360f1beedf703094f",
+        "pageNumber": 33,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.3.1 Maritine and Continental",
+        "type": "subtopic",
+        "order": 18
+    },
+    {
+        "id": "674d568360f1beedf703095d",
+        "pageNumber": 50,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.1 Group Life",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "674d568360f1beedf7030962",
+        "pageNumber": 53,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.6 Religious Beliefs",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "674d568360f1beedf7030966",
+        "pageNumber": 58,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "5.1 Location and Types of Forests",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "674d568360f1beedf7030967",
+        "pageNumber": 60,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "5.2 Status of Forests in Telangana",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "674d568360f1beedf7030968",
+        "pageNumber": 61,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "5.2.1 Initiation for Greenery in",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "674d568360f1beedf703096e",
+        "pageNumber": 75,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.1 Danger and Safety Measures",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "674d568360f1beedf7030974",
+        "pageNumber": 78,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.7 New trends in Mining Industry",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "674d568360f1beedf7030979",
+        "pageNumber": 84,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.1.1 Evolution of Money",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "674d568360f1beedf703097a",
+        "pageNumber": 85,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.1.2 Paper Money and Emergence",
+        "type": "subtopic",
+        "order": 61
+    },
+    {
+        "id": "674d568360f1beedf703097b",
+        "pageNumber": 86,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2 Modern Banks",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "674d568360f1beedf7030980",
+        "pageNumber": 87,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.5 Small Account",
+        "type": "subtopic",
+        "order": 67
+    },
+    {
+        "id": "674d568360f1beedf7030981",
+        "pageNumber": 87,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.6 Current Account Deposits",
+        "type": "subtopic",
+        "order": 68
+    },
+    {
+        "id": "674d568360f1beedf7030988",
+        "pageNumber": 93,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.5 DIGITAL PAYMENT OPTIONS",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "674d568360f1beedf703098b",
+        "pageNumber": 97,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.1.1 Impact of Technology",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "674d568360f1beedf703098d",
+        "pageNumber": 98,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.1.4 Loss of employment because of",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "674d568360f1beedf7030991",
+        "pageNumber": 101,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.2.3 Decline of Handlooms",
+        "type": "subtopic",
+        "order": 84
+    },
+    {
+        "id": "674d568360f1beedf7030992",
+        "pageNumber": 102,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.3 Technological changes in",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "674d568360f1beedf7030998",
+        "pageNumber": 110,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.2 Health Insurance",
+        "type": "topic",
+        "order": 91
+    },
+    {
+        "id": "674d568360f1beedf703099b",
+        "pageNumber": 111,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.4 Status of Nutrition in",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "674d568360f1beedf70309a2",
+        "pageNumber": 124,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "10.7 The Peasant Movements",
+        "type": "topic",
+        "order": 101
+    },
+    {
+        "id": "674d568360f1beedf70309aa",
+        "pageNumber": 145,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Freedom Movement in Hyderabad State",
+        "type": "chapter",
+        "order": 109
+    },
+    {
+        "id": "674d568360f1beedf70309af",
+        "pageNumber": 150,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.5.2 Hyderabad State Congress",
+        "type": "subtopic",
+        "order": 114
+    },
+    {
+        "id": "674d568360f1beedf70309b0",
+        "pageNumber": 151,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.6 The  Telangana Armed",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "674d568360f1beedf70309b7",
+        "pageNumber": 165,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "13.4 The Systems of Government",
+        "type": "topic",
+        "order": 122
+    },
+    {
+        "id": "674d568360f1beedf70309bc",
+        "pageNumber": 172,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.2 Elections to Lok Sabha",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "674d568360f1beedf70309bf",
+        "pageNumber": 177,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.4 The President and",
+        "type": "topic",
+        "order": 130
+    },
+    {
+        "id": "674d568360f1beedf70309c1",
+        "pageNumber": 181,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Law and Justice - A Case Study",
+        "type": "chapter",
+        "order": 132
+    },
+    {
+        "id": "674d568360f1beedf70309c2",
+        "pageNumber": 181,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.2 Filing the case",
+        "type": "topic",
+        "order": 133
+    },
+    {
+        "id": "674d568360f1beedf70309c3",
+        "pageNumber": 181,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.1 A Dispute over",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "674d568360f1beedf70309c8",
+        "pageNumber": 186,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.3.2 Fair  Trial",
+        "type": "subtopic",
+        "order": 139
+    },
+    {
+        "id": "674d568360f1beedf70309ca",
+        "pageNumber": 187,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.4.2 The Evidence of Witnesses",
+        "type": "subtopic",
+        "order": 141
+    },
+    {
+        "id": "674d568360f1beedf70309d1",
+        "pageNumber": 200,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Understanding Poverty",
+        "type": "chapter",
+        "order": 148
+    },
+    {
+        "id": "674d568360f1beedf70309d2",
+        "pageNumber": 201,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "17.1 Poverty as Chronic Hunger",
+        "type": "topic",
+        "order": 149
+    },
+    {
+        "id": "674d568360f1beedf70309d3",
+        "pageNumber": 205,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "17.2 Other Livelihood Options",
+        "type": "topic",
+        "order": 150
+    },
+    {
+        "id": "674d568360f1beedf70309dd",
+        "pageNumber": 219,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.1 Christian Missionaries and",
+        "type": "topic",
+        "order": 160
+    },
+    {
+        "id": "674d568360f1beedf70309df",
+        "pageNumber": 221,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.3 Arya Samaj in Punjab",
+        "type": "topic",
+        "order": 162
+    },
+    {
+        "id": "674d568360f1beedf70309e4",
+        "pageNumber": 224,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.7.1 Savitribai Jyotirao Phule",
+        "type": "subtopic",
+        "order": 167
+    },
+    {
+        "id": "674d568360f1beedf70309e9",
+        "pageNumber": 232,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "20.1.1 Why is it important to",
+        "type": "subtopic",
+        "order": 172
+    },
+    {
+        "id": "674d568360f1beedf70309f3",
+        "pageNumber": 249,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "22.2 Print Media",
+        "type": "topic",
+        "order": 182
+    },
+    {
+        "id": "674d568360f1beedf70309fc",
+        "pageNumber": 265,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.3 DROUGHT",
+        "type": "topic",
+        "order": 191
+    },
+    {
+        "id": "674d568360f1beedf70309ff",
+        "pageNumber": 266,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.3.5 Are you a water saver or",
+        "type": "subtopic",
+        "order": 194
+    },
+    {
+        "id": "674d568360f1beedf703093e",
+        "pageNumber": 8,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - I: Diversity on the Earth",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d568360f1beedf703093f",
+        "pageNumber": 8,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Reading and Analysis of Maps",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d568360f1beedf7030943",
+        "pageNumber": 15,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.4 Reading Thematic Maps",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674d568360f1beedf703094a",
+        "pageNumber": 28,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.1.3 Heating of the Atmosphere",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "674d568360f1beedf7030958",
+        "pageNumber": 45,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "3.2 Temperature Belts on the",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674d568360f1beedf703095a",
+        "pageNumber": 48,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.2 Seasons in the Tundra",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "674d568360f1beedf703095c",
+        "pageNumber": 48,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.2.2 Vegetation",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "674d568360f1beedf703095f",
+        "pageNumber": 51,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.3 Food",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "674d568360f1beedf7030960",
+        "pageNumber": 52,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.4  Shelter",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "674d568360f1beedf7030963",
+        "pageNumber": 53,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.3.7 Recreation",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "674d568360f1beedf7030969",
+        "pageNumber": 61,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "5.3 Tribal people and Forests",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "674d568360f1beedf703096d",
+        "pageNumber": 73,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.1.4 To whom do the Minerals",
+        "type": "subtopic",
+        "order": 48
+    },
+    {
+        "id": "674d568360f1beedf7030971",
+        "pageNumber": 77,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.4 Transporting coal",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "674d568360f1beedf7030972",
+        "pageNumber": 77,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.5 Welfare",
+        "type": "subtopic",
+        "order": 53
+    },
+    {
+        "id": "674d568360f1beedf7030975",
+        "pageNumber": 79,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.3 Open Cast Mine at Sattupally",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "674d568360f1beedf703097d",
+        "pageNumber": 86,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.2 Cash Deposits",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "674d568360f1beedf703097f",
+        "pageNumber": 87,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.4 Basic Saving Bank Deposit",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "674d568360f1beedf7030984",
+        "pageNumber": 89,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.3.1 Cheques",
+        "type": "subtopic",
+        "order": 71
+    },
+    {
+        "id": "674d568360f1beedf7030985",
+        "pageNumber": 91,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.3.4 Types of Loans",
+        "type": "subtopic",
+        "order": 72
+    },
+    {
+        "id": "674d568360f1beedf703098a",
+        "pageNumber": 97,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.1 Technological  changes  in  Agriculture",
+        "type": "topic",
+        "order": 77
+    },
+    {
+        "id": "674d568360f1beedf7030990",
+        "pageNumber": 100,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.2.2 Impact of Powerlooms",
+        "type": "subtopic",
+        "order": 83
+    },
+    {
+        "id": "674d568360f1beedf7030994",
+        "pageNumber": 106,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Public Health and the Government",
+        "type": "chapter",
+        "order": 87
+    },
+    {
+        "id": "674d568360f1beedf7030995",
+        "pageNumber": 107,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.1 Healthcare Services",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "674d568360f1beedf7030997",
+        "pageNumber": 109,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "9.1.2 Private Health Services",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "674d568360f1beedf703099f",
+        "pageNumber": 121,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "10.3 Commercialisation and",
+        "type": "topic",
+        "order": 98
+    },
+    {
+        "id": "674d568360f1beedf70309a0",
+        "pageNumber": 123,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "10.6 Doras and Peasants of",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "674d568360f1beedf70309a1",
+        "pageNumber": 124,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "10.6.1 Famines",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "674d568360f1beedf70309a4",
+        "pageNumber": 126,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "11.1  Early Associations",
+        "type": "topic",
+        "order": 103
+    },
+    {
+        "id": "674d568360f1beedf70309a5",
+        "pageNumber": 130,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "11.4 The Moderates and the",
+        "type": "topic",
+        "order": 104
+    },
+    {
+        "id": "674d568360f1beedf70309a6",
+        "pageNumber": 134,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "National Movement - The Last Phase 1919-1947",
+        "type": "chapter",
+        "order": 105
+    },
+    {
+        "id": "674d568360f1beedf70309a8",
+        "pageNumber": 136,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "11.1.1 Khilafat agitation and the",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "674d568360f1beedf70309ab",
+        "pageNumber": 146,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.1 Early years of Nationalism",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "674d568360f1beedf70309ac",
+        "pageNumber": 146,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.2 Feudal system of the state",
+        "type": "topic",
+        "order": 111
+    },
+    {
+        "id": "674d568360f1beedf70309ae",
+        "pageNumber": 149,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.5.1 Andhra Maha Sabha",
+        "type": "subtopic",
+        "order": 113
+    },
+    {
+        "id": "674d568360f1beedf70309b2",
+        "pageNumber": 158,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "The Indian Constitution",
+        "type": "chapter",
+        "order": 117
+    },
+    {
+        "id": "674d568360f1beedf70309b8",
+        "pageNumber": 169,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Parliament and Central Government",
+        "type": "chapter",
+        "order": 123
+    },
+    {
+        "id": "674d568360f1beedf70309bb",
+        "pageNumber": 170,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.1.2 Powers of the Houses",
+        "type": "subtopic",
+        "order": 126
+    },
+    {
+        "id": "674d568360f1beedf70309be",
+        "pageNumber": 174,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.3 Challenges in conducting free",
+        "type": "topic",
+        "order": 129
+    },
+    {
+        "id": "674d568360f1beedf70309c0",
+        "pageNumber": 177,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.4.1 The Council of Ministers and Prime Minister",
+        "type": "subtopic",
+        "order": 131
+    },
+    {
+        "id": "674d568360f1beedf70309c5",
+        "pageNumber": 183,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.2.2 Role of the Police in",
+        "type": "subtopic",
+        "order": 136
+    },
+    {
+        "id": "674d568360f1beedf70309c6",
+        "pageNumber": 183,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.3 Civil and Criminal Offences",
+        "type": "topic",
+        "order": 137
+    },
+    {
+        "id": "674d568360f1beedf70309c7",
+        "pageNumber": 185,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.3.1 Bail",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "674d568360f1beedf70309cf",
+        "pageNumber": 193,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "16.1 Abolition of Zamindari and",
+        "type": "topic",
+        "order": 146
+    },
+    {
+        "id": "674d568360f1beedf70309d4",
+        "pageNumber": 207,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "17.3 Access to Affordable Food",
+        "type": "topic",
+        "order": 151
+    },
+    {
+        "id": "674d568360f1beedf70309d6",
+        "pageNumber": 213,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "18.1 Need for Right to Information",
+        "type": "topic",
+        "order": 153
+    },
+    {
+        "id": "674d568360f1beedf70309d8",
+        "pageNumber": 214,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "18.1.3 PROVISIONS UNDER RTI",
+        "type": "subtopic",
+        "order": 155
+    },
+    {
+        "id": "674d568360f1beedf70309db",
+        "pageNumber": 219,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - V: Religion and Society",
+        "type": "chapter",
+        "order": 158
+    },
+    {
+        "id": "674d568360f1beedf70309e2",
+        "pageNumber": 223,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.6 Reform Movements in",
+        "type": "topic",
+        "order": 165
+    },
+    {
+        "id": "674d568360f1beedf70309e6",
+        "pageNumber": 225,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.8 Education among Muslim women",
+        "type": "topic",
+        "order": 169
+    },
+    {
+        "id": "674d568360f1beedf70309e7",
+        "pageNumber": 228,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.9.5 Arigey Ramaswamy",
+        "type": "subtopic",
+        "order": 170
+    },
+    {
+        "id": "674d568360f1beedf70309ea",
+        "pageNumber": 235,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - VI: Culture and Communication",
+        "type": "chapter",
+        "order": 173
+    },
+    {
+        "id": "674d568360f1beedf70309ec",
+        "pageNumber": 238,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "21.1 Burrakatha",
+        "type": "topic",
+        "order": 175
+    },
+    {
+        "id": "674d568360f1beedf70309ee",
+        "pageNumber": 241,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "21.2.2 Revival",
+        "type": "subtopic",
+        "order": 177
+    },
+    {
+        "id": "674d568360f1beedf70309f7",
+        "pageNumber": 255,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "23.2.1 Transformation of Cricket",
+        "type": "subtopic",
+        "order": 186
+    },
+    {
+        "id": "674d568360f1beedf70309f8",
+        "pageNumber": 258,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "23.3 Other popular games and",
+        "type": "topic",
+        "order": 187
+    },
+    {
+        "id": "674d568360f1beedf70309f9",
+        "pageNumber": 260,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Disaster Management",
+        "type": "chapter",
+        "order": 188
+    },
+    {
+        "id": "674d568360f1beedf70309fa",
+        "pageNumber": 260,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.1 Types of Disasters",
+        "type": "topic",
+        "order": 189
+    },
+    {
+        "id": "674d568360f1beedf7030945",
+        "pageNumber": 19,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "1.7 Representation of relief",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "674d568360f1beedf703094c",
+        "pageNumber": 31,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.2.1 High and Low Temperatures",
+        "type": "subtopic",
+        "order": 15
+    },
+    {
+        "id": "674d568360f1beedf703094d",
+        "pageNumber": 32,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.2.2 Recording",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "674d568360f1beedf7030950",
+        "pageNumber": 34,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.3.2 Height and Temperature",
+        "type": "subtopic",
+        "order": 19
+    },
+    {
+        "id": "674d568360f1beedf7030952",
+        "pageNumber": 35,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "2.4.1 Temperatures in Places Near",
+        "type": "subtopic",
+        "order": 21
+    },
+    {
+        "id": "674d568360f1beedf7030957",
+        "pageNumber": 42,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "3.1.1 Curvature of the Earth",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "674d568360f1beedf7030959",
+        "pageNumber": 47,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "The Polar Regions",
+        "type": "chapter",
+        "order": 28
+    },
+    {
+        "id": "674d568360f1beedf703095b",
+        "pageNumber": 48,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "4.2.1 Summer",
+        "type": "subtopic",
+        "order": 30
+    },
+    {
+        "id": "674d568360f1beedf7030965",
+        "pageNumber": 56,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Forests: Uses and Protection",
+        "type": "chapter",
+        "order": 40
+    },
+    {
+        "id": "674d568360f1beedf703096c",
+        "pageNumber": 71,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.1.3 Look at the mineral map of",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "674d568360f1beedf703096f",
+        "pageNumber": 75,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.2 Inside the mine",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "674d568360f1beedf7030970",
+        "pageNumber": 76,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "6.2.3 Blasting the coal",
+        "type": "subtopic",
+        "order": 51
+    },
+    {
+        "id": "674d568360f1beedf7030978",
+        "pageNumber": 83,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.1 Exchange with Money",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "674d568360f1beedf7030982",
+        "pageNumber": 88,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.2.7 Fixed Deposit",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "674d568360f1beedf7030983",
+        "pageNumber": 89,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.3 How does the Banking system",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "674d568360f1beedf7030986",
+        "pageNumber": 91,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "7.3.3 Loans",
+        "type": "subtopic",
+        "order": 73
+    },
+    {
+        "id": "674d568360f1beedf7030989",
+        "pageNumber": 95,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Impact of Technology on Livelihoods",
+        "type": "chapter",
+        "order": 76
+    },
+    {
+        "id": "674d568360f1beedf7030993",
+        "pageNumber": 103,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "8.3.1 Change in technology makes",
+        "type": "subtopic",
+        "order": 86
+    },
+    {
+        "id": "674d568360f1beedf703099c",
+        "pageNumber": 116,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Theme - III: Political Systems and Governance",
+        "type": "chapter",
+        "order": 95
+    },
+    {
+        "id": "674d568360f1beedf703099d",
+        "pageNumber": 116,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Landlords and Tenants under the British and the Nizam",
+        "type": "chapter",
+        "order": 96
+    },
+    {
+        "id": "674d568360f1beedf70309a9",
+        "pageNumber": 138,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "11.3  Civil",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "674d568360f1beedf70309ad",
+        "pageNumber": 147,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "12.3 Language and Religion",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "674d568360f1beedf70309b3",
+        "pageNumber": 158,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "13.1 Making of the Indian  Constitution",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "674d568360f1beedf70309b4",
+        "pageNumber": 160,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "13.1.1 The Constituent Assembly",
+        "type": "subtopic",
+        "order": 119
+    },
+    {
+        "id": "674d568360f1beedf70309b5",
+        "pageNumber": 162,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "13.2 The Dream and the Promise",
+        "type": "topic",
+        "order": 120
+    },
+    {
+        "id": "674d568360f1beedf70309b9",
+        "pageNumber": 169,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.1 Role of the Parliament",
+        "type": "topic",
+        "order": 124
+    },
+    {
+        "id": "674d568360f1beedf70309bd",
+        "pageNumber": 173,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "14.2.1 The First Elections to Lok",
+        "type": "subtopic",
+        "order": 128
+    },
+    {
+        "id": "674d568360f1beedf70309c4",
+        "pageNumber": 182,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.2.1 First Information Report",
+        "type": "subtopic",
+        "order": 135
+    },
+    {
+        "id": "674d568360f1beedf70309c9",
+        "pageNumber": 186,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.4 The first Hearing and",
+        "type": "topic",
+        "order": 140
+    },
+    {
+        "id": "674d568360f1beedf70309cc",
+        "pageNumber": 188,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "15.5 Appellate System",
+        "type": "topic",
+        "order": 143
+    },
+    {
+        "id": "674d568360f1beedf70309ce",
+        "pageNumber": 193,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Abolition of Zamindari System",
+        "type": "chapter",
+        "order": 145
+    },
+    {
+        "id": "674d568360f1beedf70309d5",
+        "pageNumber": 212,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Rights Approach to Development",
+        "type": "chapter",
+        "order": 152
+    },
+    {
+        "id": "674d568360f1beedf70309d7",
+        "pageNumber": 214,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "18.1.2 How the movement began",
+        "type": "subtopic",
+        "order": 154
+    },
+    {
+        "id": "674d568360f1beedf70309e0",
+        "pageNumber": 221,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.4 Reform and Education",
+        "type": "topic",
+        "order": 163
+    },
+    {
+        "id": "674d568360f1beedf70309e5",
+        "pageNumber": 224,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "19.7.2 Pandita Ramabai Saraswati",
+        "type": "subtopic",
+        "order": 168
+    },
+    {
+        "id": "674d568360f1beedf70309e8",
+        "pageNumber": 231,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Understanding Secularism",
+        "type": "chapter",
+        "order": 171
+    },
+    {
+        "id": "674d568360f1beedf70309eb",
+        "pageNumber": 235,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Performing Arts and Artistes in Modern Times",
+        "type": "chapter",
+        "order": 174
+    },
+    {
+        "id": "674d568360f1beedf70309ed",
+        "pageNumber": 239,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "21.2 The Themes of the plays",
+        "type": "topic",
+        "order": 176
+    },
+    {
+        "id": "674d568360f1beedf70309f5",
+        "pageNumber": 252,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "Sports: Nationalism and Commerce",
+        "type": "chapter",
+        "order": 184
+    },
+    {
+        "id": "674d568360f1beedf70309fb",
+        "pageNumber": 262,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.2.1 TSUNAMI",
+        "type": "subtopic",
+        "order": 190
+    },
+    {
+        "id": "674d568360f1beedf70309fd",
+        "pageNumber": 266,
+        "bookID": "669a8707a4869f2442d74ffe",
+        "text": "24.3.3 Rainwater harvesting",
+        "type": "subtopic",
+        "order": 192
+    }
+]

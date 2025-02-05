@@ -1,0 +1,66 @@
+[
+    {
+        "id": "674819d0f82e0060c7a4fe44",
+        "pageNumber": 58,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "RAIN... RAIN...",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe45",
+        "pageNumber": 69,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "HERE IS YOUR COIN!",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe46",
+        "pageNumber": 81,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "WHAT’S MY NAME?",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe43",
+        "pageNumber": 45,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "SNOOPY COMES TO SCHOOL",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe40",
+        "pageNumber": 9,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "AT THE ZOO",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe41",
+        "pageNumber": 22,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "WHERE ARE YOU, SWEETY?",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe42",
+        "pageNumber": 33,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "A VISIT TO UNCLE’S HOUSE",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674819d0f82e0060c7a4fe47",
+        "pageNumber": 93,
+        "bookID": "669b6eb61622730884f6fd45",
+        "text": "TOGETHER WE PULL",
+        "type": "chapter",
+        "order": 8
+    }
+]

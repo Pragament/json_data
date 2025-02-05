@@ -1,0 +1,1370 @@
+[
+    {
+        "id": "674d58bf60f1beedf7030ac5",
+        "pageNumber": 16,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Globe – A Model of the Earth",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac6",
+        "pageNumber": 16,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.1   The Earth is like a ball",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "674d58bf60f1beedf7030aca",
+        "pageNumber": 19,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.4.1  Latitudes",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "674d58bf60f1beedf7030acf",
+        "pageNumber": 26,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.1  Bandar Canal",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad1",
+        "pageNumber": 27,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.2   Soils",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad6",
+        "pageNumber": 31,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.8     Animal rearing",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad7",
+        "pageNumber": 34,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Dokur – A Village on the Plateau",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "674d58bf60f1beedf7030add",
+        "pageNumber": 38,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.7   Agriculture and Crops",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae2",
+        "pageNumber": 40,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.9.2 Other activities",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae5",
+        "pageNumber": 43,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.1  Eastern Ghats",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae6",
+        "pageNumber": 45,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.2   Podu",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674d58bf60f1beedf7030aec",
+        "pageNumber": 48,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.8  Customs",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "674d58bf60f1beedf7030af2",
+        "pageNumber": 54,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.2   Fire",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "674d58bf60f1beedf7030af5",
+        "pageNumber": 57,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.6   Shared living",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "674d58bf60f1beedf7030af6",
+        "pageNumber": 58,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.8    From gathering to growing",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "674d58bf60f1beedf7030afc",
+        "pageNumber": 66,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "7.3   Contract farming",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "674d58bf60f1beedf7030aff",
+        "pageNumber": 69,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "7.7   Agriculture in Telangana",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "674d58bf60f1beedf7030b00",
+        "pageNumber": 72,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Trade in Agricultural Produce – Part - A",
+        "type": "chapter",
+        "order": 65
+    },
+    {
+        "id": "674d58bf60f1beedf7030b02",
+        "pageNumber": 74,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.2.1 Sunday weekly market in",
+        "type": "subtopic",
+        "order": 67
+    },
+    {
+        "id": "674d58bf60f1beedf7030b08",
+        "pageNumber": 84,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.4  Selling through Brokers",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0a",
+        "pageNumber": 85,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.6  Indebtedness and selling",
+        "type": "topic",
+        "order": 75
+    },
+    {
+        "id": "674d58bf60f1beedf7030b21",
+        "pageNumber": 119,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.1   Providing public amenities",
+        "type": "topic",
+        "order": 98
+    },
+    {
+        "id": "674d58bf60f1beedf7030b22",
+        "pageNumber": 119,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.2  Democracy at the village",
+        "type": "topic",
+        "order": 99
+    },
+    {
+        "id": "674d58bf60f1beedf7030b24",
+        "pageNumber": 121,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.4   Formation of Gram",
+        "type": "topic",
+        "order": 101
+    },
+    {
+        "id": "674d58bf60f1beedf7030b25",
+        "pageNumber": 121,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.4.2  Wards",
+        "type": "subtopic",
+        "order": 102
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2b",
+        "pageNumber": 128,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.1  Formation of Municipalities",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "674d58bf60f1beedf7030b32",
+        "pageNumber": 134,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Diversity in our Society",
+        "type": "chapter",
+        "order": 115
+    },
+    {
+        "id": "674d58bf60f1beedf7030b37",
+        "pageNumber": 137,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.2.2 Thar Desert",
+        "type": "subtopic",
+        "order": 120
+    },
+    {
+        "id": "674d58bf60f1beedf7030b38",
+        "pageNumber": 138,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.2.3  Sikkim",
+        "type": "subtopic",
+        "order": 121
+    },
+    {
+        "id": "674d58bf60f1beedf7030b39",
+        "pageNumber": 139,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.2.4  Pondicherry",
+        "type": "subtopic",
+        "order": 122
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3c",
+        "pageNumber": 142,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.1  Are women naturally",
+        "type": "topic",
+        "order": 125
+    },
+    {
+        "id": "674d58bf60f1beedf7030b42",
+        "pageNumber": 148,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.8  Things are changing now",
+        "type": "topic",
+        "order": 131
+    },
+    {
+        "id": "674d58bf60f1beedf7030b47",
+        "pageNumber": 153,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.3.1  Religion of the Vedas",
+        "type": "subtopic",
+        "order": 136
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4a",
+        "pageNumber": 157,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.5  New questions in the Age",
+        "type": "topic",
+        "order": 139
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4c",
+        "pageNumber": 158,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.7  Parivrajakas",
+        "type": "topic",
+        "order": 141
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4d",
+        "pageNumber": 158,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.7.1 How can one attain",
+        "type": "subtopic",
+        "order": 142
+    },
+    {
+        "id": "674d58bf60f1beedf7030b52",
+        "pageNumber": 163,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.1.2  Story tellers",
+        "type": "subtopic",
+        "order": 147
+    },
+    {
+        "id": "674d58bf60f1beedf7030b54",
+        "pageNumber": 164,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.1.4  Alvars and Nayanars",
+        "type": "subtopic",
+        "order": 149
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5a",
+        "pageNumber": 169,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Language, Script and Scriptures",
+        "type": "chapter",
+        "order": 155
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5b",
+        "pageNumber": 170,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.1.1 Why are there so many",
+        "type": "subtopic",
+        "order": 156
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5e",
+        "pageNumber": 173,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.5  Jataka Stories",
+        "type": "topic",
+        "order": 159
+    },
+    {
+        "id": "674d58bf60f1beedf7030b66",
+        "pageNumber": 180,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.1.5 Change in livelihood",
+        "type": "subtopic",
+        "order": 167
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad2",
+        "pageNumber": 28,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.4   Crops",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad3",
+        "pageNumber": 29,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.4.1  Vegetables",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad9",
+        "pageNumber": 34,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.2   Dokur Village",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "674d58bf60f1beedf7030ada",
+        "pageNumber": 35,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.3   Climate and Rainfall",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674d58bf60f1beedf7030adb",
+        "pageNumber": 36,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.4   Soils",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "674d58bf60f1beedf7030ade",
+        "pageNumber": 38,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.7.1  Fruit orchards",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae4",
+        "pageNumber": 43,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Penugolu – A Village on the Hills",
+        "type": "chapter",
+        "order": 37
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae7",
+        "pageNumber": 46,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.3    Vegetable garden in the",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "674d58bf60f1beedf7030aeb",
+        "pageNumber": 48,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.7   Houses and habitation",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "674d58bf60f1beedf7030af0",
+        "pageNumber": 52,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.1  Gathering food and hunting",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "674d58bf60f1beedf7030af1",
+        "pageNumber": 53,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.1.1  Stone tools",
+        "type": "subtopic",
+        "order": 50
+    },
+    {
+        "id": "674d58bf60f1beedf7030afa",
+        "pageNumber": 64,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Agriculture in Our Times",
+        "type": "chapter",
+        "order": 59
+    },
+    {
+        "id": "674d58bf60f1beedf7030afb",
+        "pageNumber": 65,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "7.2    Small farmers in",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "674d58bf60f1beedf7030afe",
+        "pageNumber": 68,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "7.6   Conversation with a big",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "674d58bf60f1beedf7030b04",
+        "pageNumber": 80,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Trade in Agricultural Produce – Part - B",
+        "type": "chapter",
+        "order": 69
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0b",
+        "pageNumber": 87,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - III: Political Systems and Governance",
+        "type": "chapter",
+        "order": 76
+    },
+    {
+        "id": "674d58bf60f1beedf7030b10",
+        "pageNumber": 94,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "10.1.2  Villages in the times of",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "674d58bf60f1beedf7030b13",
+        "pageNumber": 100,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.1   Mauryan Empire",
+        "type": "topic",
+        "order": 84
+    },
+    {
+        "id": "674d58bf60f1beedf7030b17",
+        "pageNumber": 106,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.5  Some Important Empires",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "674d58bf60f1beedf7030b18",
+        "pageNumber": 106,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.5.1  Kushans",
+        "type": "subtopic",
+        "order": 89
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1a",
+        "pageNumber": 110,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Democratic Government",
+        "type": "chapter",
+        "order": 91
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1d",
+        "pageNumber": 113,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "12.3  Democratic Governments",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1e",
+        "pageNumber": 115,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "12.3.2  Equality and democracy",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "674d58bf60f1beedf7030b20",
+        "pageNumber": 119,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Village Panchayats",
+        "type": "chapter",
+        "order": 97
+    },
+    {
+        "id": "674d58bf60f1beedf7030b28",
+        "pageNumber": 124,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.8   Mandal Parishad and Zilla",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2f",
+        "pageNumber": 130,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.3.1  Municipal Workers",
+        "type": "subtopic",
+        "order": 112
+    },
+    {
+        "id": "674d58bf60f1beedf7030b33",
+        "pageNumber": 134,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.1 Diversity in our neighbou",
+        "type": "topic",
+        "order": 116
+    },
+    {
+        "id": "674d58bf60f1beedf7030b34",
+        "pageNumber": 135,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.1.1  Making friends",
+        "type": "subtopic",
+        "order": 117
+    },
+    {
+        "id": "674d58bf60f1beedf7030b36",
+        "pageNumber": 137,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.2.1 How does diversity come",
+        "type": "subtopic",
+        "order": 119
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3a",
+        "pageNumber": 139,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.3   Unity in Diversity",
+        "type": "topic",
+        "order": 123
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3f",
+        "pageNumber": 146,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.5  Right to property",
+        "type": "topic",
+        "order": 128
+    },
+    {
+        "id": "674d58bf60f1beedf7030b43",
+        "pageNumber": 150,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - V: Religion and Society",
+        "type": "chapter",
+        "order": 132
+    },
+    {
+        "id": "674d58bf60f1beedf7030b46",
+        "pageNumber": 152,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.3  Religion in the Indus",
+        "type": "topic",
+        "order": 135
+    },
+    {
+        "id": "674d58bf60f1beedf7030b50",
+        "pageNumber": 161,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.1  Hindu Religion",
+        "type": "topic",
+        "order": 145
+    },
+    {
+        "id": "674d58bf60f1beedf7030b53",
+        "pageNumber": 163,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.1.3 Love for the supreme",
+        "type": "subtopic",
+        "order": 148
+    },
+    {
+        "id": "674d58bf60f1beedf7030b59",
+        "pageNumber": 169,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - VI: Culture and Communication",
+        "type": "chapter",
+        "order": 154
+    },
+    {
+        "id": "674d58bf60f1beedf7030b67",
+        "pageNumber": 181,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.2 Sculpture after Indus Valley",
+        "type": "topic",
+        "order": 168
+    },
+    {
+        "id": "674d58bf60f1beedf7030b68",
+        "pageNumber": 182,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.2.1  Buddhist Stupas and",
+        "type": "subtopic",
+        "order": 169
+    },
+    {
+        "id": "674d58bf60f1beedf7030b6a",
+        "pageNumber": 188,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Greenery in Telangana",
+        "type": "chapter",
+        "order": 171
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac0",
+        "pageNumber": 8,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - I: Diversity on the Earth",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac2",
+        "pageNumber": 8,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.1  District Political Map",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac3",
+        "pageNumber": 11,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "1.3.1  Directions on a map",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac4",
+        "pageNumber": 13,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "1.4   Symbols",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674d58bf60f1beedf7030acd",
+        "pageNumber": 24,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.1   Delta",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad5",
+        "pageNumber": 30,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.7   Houses",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad8",
+        "pageNumber": 34,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.1 Deccan Plateau",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae0",
+        "pageNumber": 39,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.9   Other livelihoods",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae1",
+        "pageNumber": 39,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.9.1  Cattle rearing",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae3",
+        "pageNumber": 40,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.9.3  Market and Transportation",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae9",
+        "pageNumber": 47,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.5   Drinking water",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "674d58bf60f1beedf7030aea",
+        "pageNumber": 48,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.6  Bamboo",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "674d58bf60f1beedf7030aed",
+        "pageNumber": 49,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.9   The Future of Koyas",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "674d58bf60f1beedf7030aee",
+        "pageNumber": 51,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - II: Production Exchange and Livelihoods",
+        "type": "chapter",
+        "order": 47
+    },
+    {
+        "id": "674d58bf60f1beedf7030aef",
+        "pageNumber": 51,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "From Gathering Food to Growing Food - The Earliest People",
+        "type": "chapter",
+        "order": 48
+    },
+    {
+        "id": "674d58bf60f1beedf7030af3",
+        "pageNumber": 54,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.3  Nomadic life",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "674d58bf60f1beedf7030af8",
+        "pageNumber": 59,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.8.2  Domestication",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "674d58bf60f1beedf7030afd",
+        "pageNumber": 67,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "7.5   Small farmers of",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "674d58bf60f1beedf7030b01",
+        "pageNumber": 72,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.1  Selling vegetables on streets",
+        "type": "topic",
+        "order": 66
+    },
+    {
+        "id": "674d58bf60f1beedf7030b03",
+        "pageNumber": 76,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.3 Rythu  Bazaar in Telangana",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "674d58bf60f1beedf7030b05",
+        "pageNumber": 80,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.1  Agriculture Market Yard",
+        "type": "topic",
+        "order": 70
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0c",
+        "pageNumber": 87,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Community Decision Making in a Tribe",
+        "type": "chapter",
+        "order": 77
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0e",
+        "pageNumber": 92,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Emergence of Kingdoms and Republics",
+        "type": "chapter",
+        "order": 79
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0f",
+        "pageNumber": 92,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "10.1.1 How do we know about the",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "674d58bf60f1beedf7030b11",
+        "pageNumber": 94,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "10.1.2 Cities of Mahajanapadas",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "674d58bf60f1beedf7030b12",
+        "pageNumber": 100,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "First Empires",
+        "type": "chapter",
+        "order": 83
+    },
+    {
+        "id": "674d58bf60f1beedf7030b14",
+        "pageNumber": 104,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.3   Kingdoms and Empires",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "674d58bf60f1beedf7030b15",
+        "pageNumber": 105,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.3.1  Kotilingala in Satavahana",
+        "type": "subtopic",
+        "order": 86
+    },
+    {
+        "id": "674d58bf60f1beedf7030b19",
+        "pageNumber": 107,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.5.2  Gupta empire",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1b",
+        "pageNumber": 110,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "12.1  What does a Government",
+        "type": "topic",
+        "order": 92
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1c",
+        "pageNumber": 111,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "12.2  Types of Government",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "674d58bf60f1beedf7030b23",
+        "pageNumber": 119,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.3   Gram Sabha",
+        "type": "topic",
+        "order": 100
+    },
+    {
+        "id": "674d58bf60f1beedf7030b26",
+        "pageNumber": 121,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.4.3  Reservations in Gram",
+        "type": "subtopic",
+        "order": 103
+    },
+    {
+        "id": "674d58bf60f1beedf7030b27",
+        "pageNumber": 124,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.7  Funds for the work of",
+        "type": "topic",
+        "order": 104
+    },
+    {
+        "id": "674d58bf60f1beedf7030b30",
+        "pageNumber": 131,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.4   Vemulawada Nagara",
+        "type": "topic",
+        "order": 113
+    },
+    {
+        "id": "674d58bf60f1beedf7030b31",
+        "pageNumber": 134,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Theme - IV: Social Organisation and Inequities",
+        "type": "chapter",
+        "order": 114
+    },
+    {
+        "id": "674d58bf60f1beedf7030b35",
+        "pageNumber": 136,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "15.2  Diversity in India",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3b",
+        "pageNumber": 142,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Towards gender equality",
+        "type": "chapter",
+        "order": 124
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3d",
+        "pageNumber": 144,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.2  Growing up as boys and girls",
+        "type": "topic",
+        "order": 126
+    },
+    {
+        "id": "674d58bf60f1beedf7030b3e",
+        "pageNumber": 145,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.4  Differences in Literacy",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "674d58bf60f1beedf7030b40",
+        "pageNumber": 146,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.6   Employment",
+        "type": "topic",
+        "order": 129
+    },
+    {
+        "id": "674d58bf60f1beedf7030b44",
+        "pageNumber": 150,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Religion and society in early times",
+        "type": "chapter",
+        "order": 133
+    },
+    {
+        "id": "674d58bf60f1beedf7030b45",
+        "pageNumber": 151,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.2  Early farmers and herders",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "674d58bf60f1beedf7030b48",
+        "pageNumber": 155,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.4   Worshipping dead",
+        "type": "topic",
+        "order": 137
+    },
+    {
+        "id": "674d58bf60f1beedf7030b49",
+        "pageNumber": 156,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.4.1 Megaliths of Telangana",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4e",
+        "pageNumber": 158,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.7.2 Why is there sorrow in this",
+        "type": "subtopic",
+        "order": 143
+    },
+    {
+        "id": "674d58bf60f1beedf7030b55",
+        "pageNumber": 165,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.2  Christianity",
+        "type": "topic",
+        "order": 150
+    },
+    {
+        "id": "674d58bf60f1beedf7030b57",
+        "pageNumber": 166,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.3.1 Al fatiha",
+        "type": "subtopic",
+        "order": 152
+    },
+    {
+        "id": "674d58bf60f1beedf7030b58",
+        "pageNumber": 167,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.4  The belief  in a Supreme God",
+        "type": "topic",
+        "order": 153
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5c",
+        "pageNumber": 170,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.2  Writing and Script",
+        "type": "topic",
+        "order": 157
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5d",
+        "pageNumber": 172,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.3  Vedas",
+        "type": "topic",
+        "order": 158
+    },
+    {
+        "id": "674d58bf60f1beedf7030b5f",
+        "pageNumber": 173,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.6  Sangam Literature in Tamil",
+        "type": "topic",
+        "order": 160
+    },
+    {
+        "id": "674d58bf60f1beedf7030b60",
+        "pageNumber": 174,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.7  Books on Medicine and",
+        "type": "topic",
+        "order": 161
+    },
+    {
+        "id": "674d58bf60f1beedf7030b62",
+        "pageNumber": 176,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Sculptures and Buildings",
+        "type": "chapter",
+        "order": 163
+    },
+    {
+        "id": "674d58bf60f1beedf7030b69",
+        "pageNumber": 185,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.2.2 Rock cut Chaityas and",
+        "type": "subtopic",
+        "order": 170
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac1",
+        "pageNumber": 8,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Reading and Making Maps",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac7",
+        "pageNumber": 17,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.2  Oceans and Continents",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac8",
+        "pageNumber": 18,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.3    Directions on the globe",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674d58bf60f1beedf7030ac9",
+        "pageNumber": 19,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.4   Lines on the globe",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "674d58bf60f1beedf7030acb",
+        "pageNumber": 19,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "2.4.2  Longitudes",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "674d58bf60f1beedf7030acc",
+        "pageNumber": 22,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Land Forms (Part - A)",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674d58bf60f1beedf7030ace",
+        "pageNumber": 26,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Penamakuru – A Village in the Krishna Delta (Part - B)",
+        "type": "chapter",
+        "order": 15
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad0",
+        "pageNumber": 27,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.3   Rainfall and Irrigation",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "674d58bf60f1beedf7030ad4",
+        "pageNumber": 29,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "3.4.2  Orchards",
+        "type": "subtopic",
+        "order": 21
+    },
+    {
+        "id": "674d58bf60f1beedf7030adc",
+        "pageNumber": 37,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.6   Wells and Bore wells",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "674d58bf60f1beedf7030adf",
+        "pageNumber": 39,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "4.8   Is the Land use in Dokur",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "674d58bf60f1beedf7030ae8",
+        "pageNumber": 47,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "5.4    Minor Forest products",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "674d58bf60f1beedf7030af4",
+        "pageNumber": 55,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.4   Paintings",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "674d58bf60f1beedf7030af7",
+        "pageNumber": 58,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.8.1  Learning to grow crops",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "674d58bf60f1beedf7030af9",
+        "pageNumber": 59,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "6.9   Settled life",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "674d58bf60f1beedf7030b06",
+        "pageNumber": 80,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.2  Minimum Support Price",
+        "type": "topic",
+        "order": 71
+    },
+    {
+        "id": "674d58bf60f1beedf7030b07",
+        "pageNumber": 82,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.3  Selling to a Rice Miller",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "674d58bf60f1beedf7030b09",
+        "pageNumber": 85,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "8.5  Trading paddy in Telangana",
+        "type": "topic",
+        "order": 74
+    },
+    {
+        "id": "674d58bf60f1beedf7030b0d",
+        "pageNumber": 89,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "9.2   Gond Panch and Patla",
+        "type": "topic",
+        "order": 78
+    },
+    {
+        "id": "674d58bf60f1beedf7030b16",
+        "pageNumber": 106,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "11.4  How did the headmen of",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "674d58bf60f1beedf7030b1f",
+        "pageNumber": 117,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "12.4  Government at different",
+        "type": "topic",
+        "order": 96
+    },
+    {
+        "id": "674d58bf60f1beedf7030b29",
+        "pageNumber": 124,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "13.9  Jangamma of Hazipally",
+        "type": "topic",
+        "order": 106
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2a",
+        "pageNumber": 127,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Local Self – Government in Urban Areas",
+        "type": "chapter",
+        "order": 107
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2c",
+        "pageNumber": 128,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.1.1 How does the Municipality",
+        "type": "subtopic",
+        "order": 109
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2d",
+        "pageNumber": 129,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.2  A community representation",
+        "type": "topic",
+        "order": 110
+    },
+    {
+        "id": "674d58bf60f1beedf7030b2e",
+        "pageNumber": 130,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "14.3  Funds for the",
+        "type": "topic",
+        "order": 111
+    },
+    {
+        "id": "674d58bf60f1beedf7030b41",
+        "pageNumber": 147,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "16.7   Unrecognised work of",
+        "type": "topic",
+        "order": 130
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4b",
+        "pageNumber": 157,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "17.6.1  What is it that will never",
+        "type": "subtopic",
+        "order": 140
+    },
+    {
+        "id": "674d58bf60f1beedf7030b4f",
+        "pageNumber": 161,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "Devotion and love towards god",
+        "type": "chapter",
+        "order": 144
+    },
+    {
+        "id": "674d58bf60f1beedf7030b51",
+        "pageNumber": 162,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.1.1 Bhagawatas and Shaivas",
+        "type": "subtopic",
+        "order": 146
+    },
+    {
+        "id": "674d58bf60f1beedf7030b56",
+        "pageNumber": 166,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "18.3  Islam",
+        "type": "topic",
+        "order": 151
+    },
+    {
+        "id": "674d58bf60f1beedf7030b61",
+        "pageNumber": 174,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "19.8  Books on Astronomy and",
+        "type": "topic",
+        "order": 162
+    },
+    {
+        "id": "674d58bf60f1beedf7030b63",
+        "pageNumber": 178,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.1.2 Features of the cities",
+        "type": "subtopic",
+        "order": 164
+    },
+    {
+        "id": "674d58bf60f1beedf7030b64",
+        "pageNumber": 179,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "201.3 Language",
+        "type": "topic",
+        "order": 165
+    },
+    {
+        "id": "674d58bf60f1beedf7030b65",
+        "pageNumber": 180,
+        "bookID": "669b8a953237690e0d60c88c",
+        "text": "20.1.4 Rulers",
+        "type": "subtopic",
+        "order": 166
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "id": "674e913560f1beedf7030fbe",
+        "pageNumber": 28,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.4.2 Work of Water",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "674e913560f1beedf7030fc0",
+        "pageNumber": 31,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.4.4 Work of waves",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "674e913560f1beedf7030fc6",
+        "pageNumber": 39,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "3.3.4 Ocean Currents",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "674e913560f1beedf7030fc7",
+        "pageNumber": 40,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "3.3.5 Ocean as a Resource",
+        "type": "subtopic",
+        "order": 15
+    },
+    {
+        "id": "674e913560f1beedf7030fcf",
+        "pageNumber": 66,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Agriculture in India",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "674e913560f1beedf7030fd7",
+        "pageNumber": 112,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Credit in the Financial System",
+        "type": "chapter",
+        "order": 31
+    },
+    {
+        "id": "674e913560f1beedf7030fd9",
+        "pageNumber": 137,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "The Government Budget and Taxation",
+        "type": "chapter",
+        "order": 33
+    },
+    {
+        "id": "674e913560f1beedf7030fe1",
+        "pageNumber": 196,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Colonialism in Latin America, Asia and Africa",
+        "type": "chapter",
+        "order": 41
+    },
+    {
+        "id": "674e913560f1beedf7030fbd",
+        "pageNumber": 21,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "The Natural Realms of the Earth - Lithosphere",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674e913560f1beedf7030fbf",
+        "pageNumber": 30,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.4.3 Work of Glaciers",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "674e913560f1beedf7030fc4",
+        "pageNumber": 38,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "3.3.2 Salinity of the Ocean",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "674e913560f1beedf7030fc5",
+        "pageNumber": 39,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "3.3.3 Ocean Temperature",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "674e913560f1beedf7030fc8",
+        "pageNumber": 43,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Atmosphere",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674e913560f1beedf7030fcc",
+        "pageNumber": 60,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "5.1.4 Temperate Deciduous Forests",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "674e913560f1beedf7030fcd",
+        "pageNumber": 61,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "5.1.6 Coniferous Forests",
+        "type": "subtopic",
+        "order": 21
+    },
+    {
+        "id": "674e913560f1beedf7030fd4",
+        "pageNumber": 82,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Industries in India",
+        "type": "chapter",
+        "order": 28
+    },
+    {
+        "id": "674e913560f1beedf7030fd6",
+        "pageNumber": 105,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "8.2   Importance of the service sector and some challenges",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "674e913560f1beedf7030fdc",
+        "pageNumber": 153,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Democratic and Nationalist Revolutions: 17th, 18th & 19th Centuries",
+        "type": "chapter",
+        "order": 36
+    },
+    {
+        "id": "674e913560f1beedf7030fe3",
+        "pageNumber": 225,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Expansion of Democracy",
+        "type": "chapter",
+        "order": 43
+    },
+    {
+        "id": "674e913560f1beedf7030fe4",
+        "pageNumber": 236,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Democracy: An Evolving Idea",
+        "type": "chapter",
+        "order": 44
+    },
+    {
+        "id": "674e913560f1beedf7030fe5",
+        "pageNumber": 247,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Human Rights and Fundamental Rights",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "674e913560f1beedf7030fe8",
+        "pageNumber": 269,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Disaster Management",
+        "type": "chapter",
+        "order": 48
+    },
+    {
+        "id": "674e913560f1beedf7030fb9",
+        "pageNumber": 8,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Our Earth",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674e913560f1beedf7030fbc",
+        "pageNumber": 18,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "1.6.3 Longitudes and the question of time",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "674e913560f1beedf7030fc2",
+        "pageNumber": 32,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.4.6 Action of Vegetation and Human beings",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "674e913560f1beedf7030fce",
+        "pageNumber": 64,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "5.3.2 Depletion of Resources",
+        "type": "subtopic",
+        "order": 22
+    },
+    {
+        "id": "674e913560f1beedf7030fd0",
+        "pageNumber": 66,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "6.1   Types of Farming",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "674e913560f1beedf7030fd3",
+        "pageNumber": 73,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "10.1 to 25 acrs",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674e913560f1beedf7030fd8",
+        "pageNumber": 125,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Prices and Cost of Living",
+        "type": "chapter",
+        "order": 32
+    },
+    {
+        "id": "674e913560f1beedf7030fdb",
+        "pageNumber": 151,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "11.6  Collection and Evasion of Taxes",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "674e913560f1beedf7030fdd",
+        "pageNumber": 155,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "12.2  Changes that made the Modern World",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "674e913560f1beedf7030fe0",
+        "pageNumber": 188,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Social Protest Movements",
+        "type": "chapter",
+        "order": 40
+    },
+    {
+        "id": "674e913560f1beedf7030fe2",
+        "pageNumber": 211,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Impact of Colonialism in India",
+        "type": "chapter",
+        "order": 42
+    },
+    {
+        "id": "674e913560f1beedf7030fba",
+        "pageNumber": 15,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "1.6.1 Latitudes",
+        "type": "subtopic",
+        "order": 2
+    },
+    {
+        "id": "674e913560f1beedf7030fbb",
+        "pageNumber": 16,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "1.6.2 Longitudes",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "674e913560f1beedf7030fc1",
+        "pageNumber": 31,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.4.5 Work of wind",
+        "type": "subtopic",
+        "order": 9
+    },
+    {
+        "id": "674e913560f1beedf7030fc3",
+        "pageNumber": 34,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Hydrosphere",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674e913560f1beedf7030fc9",
+        "pageNumber": 47,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "4.2.1 Pressure Belts",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "674e913560f1beedf7030fca",
+        "pageNumber": 52,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "4.3    Weather and Climate",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "674e913560f1beedf7030fcb",
+        "pageNumber": 58,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Biosphere",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "674e913560f1beedf7030fd1",
+        "pageNumber": 72,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "6.6   Importance of Agriculture",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "674e913560f1beedf7030fd2",
+        "pageNumber": 73,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "2.6 to 5 acrs",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "674e913560f1beedf7030fd5",
+        "pageNumber": 103,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Service Activities in India",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "674e913560f1beedf7030fda",
+        "pageNumber": 137,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "11.1 Role of the Government",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "674e913560f1beedf7030fde",
+        "pageNumber": 164,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "12.6.6 The Course of the Revolt",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "674e913560f1beedf7030fdf",
+        "pageNumber": 174,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Industrialisation and Social Change",
+        "type": "chapter",
+        "order": 39
+    },
+    {
+        "id": "674e913560f1beedf7030fe6",
+        "pageNumber": 248,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "19.2  Fundamental Rights in Indian Constitution",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "674e913560f1beedf7030fe7",
+        "pageNumber": 260,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Women Protection Acts",
+        "type": "chapter",
+        "order": 47
+    },
+    {
+        "id": "674e913560f1beedf7030fe9",
+        "pageNumber": 278,
+        "bookID": "674d618cc07e4e5872e3263d",
+        "text": "Traffic Education",
+        "type": "chapter",
+        "order": 49
+    }
+]

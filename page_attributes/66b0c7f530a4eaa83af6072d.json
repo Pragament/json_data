@@ -1,0 +1,490 @@
+[
+    {
+        "id": "676bd621515cc0a7fa0165c7",
+        "pageNumber": 15,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Integrals",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676bd621515cc0a7fa0165c8",
+        "pageNumber": 15,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.1  Introduction",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676bd621515cc0a7fa0165c9",
+        "pageNumber": 16,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.2  Integration as an Inverse Process of Differentiation",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ca",
+        "pageNumber": 19,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.2.1 Some properties of indefinite integral",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "676bd621515cc0a7fa0165cb",
+        "pageNumber": 25,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.3  Methods of Integration",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676bd621515cc0a7fa0165cc",
+        "pageNumber": 25,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.3.1 Integration by substitution",
+        "type": "subtopic",
+        "order": 6
+    },
+    {
+        "id": "676bd621515cc0a7fa0165cd",
+        "pageNumber": 31,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.3.2  Integration using trigonometric identities",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ce",
+        "pageNumber": 33,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.4  Integrals of Some Particular Functions",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676bd621515cc0a7fa0165cf",
+        "pageNumber": 42,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.5  Integration by Partial Fractions",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d0",
+        "pageNumber": 49,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.6  Integration by Parts",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d1",
+        "pageNumber": 52,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.6.1 Integral of the type",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d2",
+        "pageNumber": 54,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.6.2 Integrals of some more types",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d3",
+        "pageNumber": 57,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.7   Definite Integral",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d4",
+        "pageNumber": 57,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.8  Fundamental Theorem of Calculus",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d5",
+        "pageNumber": 57,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.8.1  Area function",
+        "type": "subtopic",
+        "order": 15
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d6",
+        "pageNumber": 57,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.8.2  First fundamental theorem of integral calculus",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d7",
+        "pageNumber": 58,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.8.3  Second fundamental theorem of integral calculus",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d8",
+        "pageNumber": 61,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "7.9  Evaluation of Definite Integrals by Substitution",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "676bd621515cc0a7fa0165d9",
+        "pageNumber": 82,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Application of Integrals",
+        "type": "chapter",
+        "order": 19
+    },
+    {
+        "id": "676bd621515cc0a7fa0165da",
+        "pageNumber": 82,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "8.1  Introduction",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676bd621515cc0a7fa0165db",
+        "pageNumber": 82,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "8.2 Area under Simple Curves",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676bd621515cc0a7fa0165dc",
+        "pageNumber": 90,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Differential Equations",
+        "type": "chapter",
+        "order": 22
+    },
+    {
+        "id": "676bd621515cc0a7fa0165dd",
+        "pageNumber": 90,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.1  Introduction",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "676bd621515cc0a7fa0165de",
+        "pageNumber": 90,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.2  Basic Concepts",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676bd621515cc0a7fa0165df",
+        "pageNumber": 92,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.2.2  Degree of a differential equation",
+        "type": "subtopic",
+        "order": 25
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e0",
+        "pageNumber": 96,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.4.1  Differential equations with variables separable",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e1",
+        "pageNumber": 102,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.4.2  Homogeneous differential equations",
+        "type": "subtopic",
+        "order": 27
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e2",
+        "pageNumber": 112,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "9.4.3  Linear differential equations",
+        "type": "subtopic",
+        "order": 28
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e3",
+        "pageNumber": 128,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Vector Algebra",
+        "type": "chapter",
+        "order": 29
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e4",
+        "pageNumber": 128,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.1  Introduction",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e5",
+        "pageNumber": 128,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.2  Some Basic Concepts",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e6",
+        "pageNumber": 131,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.3  Types of Vectors",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e7",
+        "pageNumber": 133,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.4  Addition of Vectors",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e8",
+        "pageNumber": 136,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.5  Multiplication of a Vector by a Scalar",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676bd621515cc0a7fa0165e9",
+        "pageNumber": 137,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.5.1  Components of a vector",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ea",
+        "pageNumber": 141,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.5.2  Vector joining two points",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "676bd621515cc0a7fa0165eb",
+        "pageNumber": 142,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.5.3  Section formula",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ec",
+        "pageNumber": 145,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.6  Product of Two Vectors",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ed",
+        "pageNumber": 147,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "10.6.2  Projection of a vector on a line",
+        "type": "subtopic",
+        "order": 39
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ee",
+        "pageNumber": 167,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Three Dimensional Geometry",
+        "type": "chapter",
+        "order": 40
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ef",
+        "pageNumber": 167,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.1  Introduction",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f0",
+        "pageNumber": 167,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.2  Direction Cosines and Direction Ratios of a Line",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f1",
+        "pageNumber": 169,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.2.1  Direction cosines of a line passing through two points",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f2",
+        "pageNumber": 171,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.3 Equation of a Line in Space",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f3",
+        "pageNumber": 173,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.4  Angle between Two Lines",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f4",
+        "pageNumber": 175,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.5  Shortest Distance between Two Lines",
+        "type": "topic",
+        "order": 46
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f5",
+        "pageNumber": 176,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.5.1  Distance between two skew lines",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f6",
+        "pageNumber": 177,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "11.5.2 Distance between parallel lines",
+        "type": "subtopic",
+        "order": 48
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f7",
+        "pageNumber": 184,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Linear Programming",
+        "type": "chapter",
+        "order": 49
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f8",
+        "pageNumber": 184,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "12.1  Introduction",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676bd621515cc0a7fa0165f9",
+        "pageNumber": 185,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "12.2  Linear Programming Problem and its Mathematical Formulation",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676bd621515cc0a7fa0165fa",
+        "pageNumber": 185,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "12.2.1 Mathematical formulation of the problem",
+        "type": "subtopic",
+        "order": 52
+    },
+    {
+        "id": "676bd621515cc0a7fa0165fb",
+        "pageNumber": 187,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "12.2.2 Graphical method of solving linear programming problems",
+        "type": "subtopic",
+        "order": 53
+    },
+    {
+        "id": "676bd621515cc0a7fa0165fc",
+        "pageNumber": 196,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "Probability",
+        "type": "chapter",
+        "order": 54
+    },
+    {
+        "id": "676bd621515cc0a7fa0165fd",
+        "pageNumber": 196,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.1  Introduction",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676bd621515cc0a7fa0165fe",
+        "pageNumber": 196,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.2  Conditional Probability",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676bd621515cc0a7fa0165ff",
+        "pageNumber": 198,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.2.1  Properties of conditional probability",
+        "type": "subtopic",
+        "order": 57
+    },
+    {
+        "id": "676bd621515cc0a7fa016600",
+        "pageNumber": 205,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.3  Multiplication Theorem on Probability",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "676bd621515cc0a7fa016601",
+        "pageNumber": 207,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.4  Independent Events",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676bd621515cc0a7fa016602",
+        "pageNumber": 213,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.5.1 Partition of a sample space",
+        "type": "subtopic",
+        "order": 60
+    },
+    {
+        "id": "676bd621515cc0a7fa016603",
+        "pageNumber": 214,
+        "bookID": "66b0c7f530a4eaa83af6072d",
+        "text": "13.5.2  Theorem of total probability",
+        "type": "subtopic",
+        "order": 61
+    }
+]

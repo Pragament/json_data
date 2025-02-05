@@ -1,0 +1,98 @@
+[
+    {
+        "id": "674ec26d60f1beedf7031158",
+        "pageNumber": 14,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "స్నేహబంధం",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674ec26d60f1beedf703115a",
+        "pageNumber": 34,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "లేఖ",
+        "type": "chapter",
+        "order": 4
+    },
+    {
+        "id": "674ec26d60f1beedf703115f",
+        "pageNumber": 88,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "చీమలబారు",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674ec26d60f1beedf7031161",
+        "pageNumber": 112,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "పల్లెటూరి పిల్లగాడా!",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674ec26d60f1beedf7031157",
+        "pageNumber": 6,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "అభినందన",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674ec26d60f1beedf703115c",
+        "pageNumber": 58,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "పోతన బాల్యం",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674ec26d60f1beedf703115d",
+        "pageNumber": 68,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "ఉడుత సాయం",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674ec26d60f1beedf7031160",
+        "pageNumber": 98,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "బాలనాగమ్మ",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674ec26d60f1beedf7031162",
+        "pageNumber": 122,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "కాపాడుకుందాం",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674ec26d60f1beedf7031159",
+        "pageNumber": 24,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "వర్షం",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674ec26d60f1beedf703115b",
+        "pageNumber": 46,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "శతకసుధ",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674ec26d60f1beedf703115e",
+        "pageNumber": 78,
+        "bookID": "669ab52142624eabbf84472e",
+        "text": "చెరువు",
+        "type": "chapter",
+        "order": 8
+    }
+]

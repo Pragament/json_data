@@ -1,0 +1,1650 @@
+[
+    {
+        "id": "6752d9599079fcc34f7ca069",
+        "pageNumber": 11,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "MATTER IN OUR SURROUNDINGS",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06c",
+        "pageNumber": 11,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.1.2 How SMALL ARE THESE PARTICLES",
+        "type": "subtopic",
+        "order": 4
+    },
+    {
+        "id": "6752d9599079fcc34f7ca072",
+        "pageNumber": 14,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.3.1 THE SOLID STATE",
+        "type": "subtopic",
+        "order": 10
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07a",
+        "pageNumber": 24,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "IS MATTER AROUND US PURE?",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07c",
+        "pageNumber": 26,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.2.1 CONCENTRATION OF A SOLUTION",
+        "type": "subtopic",
+        "order": 20
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07f",
+        "pageNumber": 29,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.4.1 ELEMENTS",
+        "type": "subtopic",
+        "order": 23
+    },
+    {
+        "id": "6752d9599079fcc34f7ca082",
+        "pageNumber": 36,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1.1 LAW OF CONSERVATION OF MASS",
+        "type": "subtopic",
+        "order": 26
+    },
+    {
+        "id": "6752d9599079fcc34f7ca085",
+        "pageNumber": 36,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1 Laws of Chemical Combination",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08c",
+        "pageNumber": 41,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.3.1 MOLECULES OF ELEMENTS",
+        "type": "subtopic",
+        "order": 36
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08d",
+        "pageNumber": 41,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.3.1 MOLECULES OF ELEMENTS",
+        "type": "subtopic",
+        "order": 37
+    },
+    {
+        "id": "6752d9599079fcc34f7ca094",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5 Molecular Mass",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "6752d9599079fcc34f7ca095",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5 Molecular Mass",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "6752d9599079fcc34f7ca098",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5.2 FORMULA UNIT MASS",
+        "type": "subtopic",
+        "order": 48
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09a",
+        "pageNumber": 48,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "STRUCTURE OF THE ATOM",
+        "type": "chapter",
+        "order": 50
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09c",
+        "pageNumber": 48,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.1 Charged Particles in Matter",
+        "type": "topic",
+        "order": 52
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a3",
+        "pageNumber": 52,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.4 Valency",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a5",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5 Atomic Number and Mass",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a6",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5 Atomic Number and Mass",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a8",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5.1 ATOMIC NUMBER",
+        "type": "subtopic",
+        "order": 64
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a9",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5.2 MASS NUMBER",
+        "type": "subtopic",
+        "order": 65
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ac",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.6 Isotopes",
+        "type": "topic",
+        "order": 68
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0af",
+        "pageNumber": 59,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "THE FUNDAMENTAL UNIT OF LIFE",
+        "type": "chapter",
+        "order": 71
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0bb",
+        "pageNumber": 65,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.5 CELL ORGANELLES",
+        "type": "subtopic",
+        "order": 83
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0be",
+        "pageNumber": 70,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.1 Are Plants and Animals Made",
+        "type": "topic",
+        "order": 86
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c7",
+        "pageNumber": 75,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.1 EPITHELIAL TISSUE",
+        "type": "subtopic",
+        "order": 95
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d2",
+        "pageNumber": 83,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.1.1 MOTION ALONG A STRAIGHT LINE",
+        "type": "subtopic",
+        "order": 106
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d3",
+        "pageNumber": 83,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.1.1 MOTION ALONG A STRAIGHT LINE",
+        "type": "subtopic",
+        "order": 107
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d5",
+        "pageNumber": 84,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.2 Measuring the Rate of Motion",
+        "type": "topic",
+        "order": 109
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e5",
+        "pageNumber": 101,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.3 Inertia and Mass",
+        "type": "topic",
+        "order": 125
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e6",
+        "pageNumber": 101,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.3 Inertia and Mass",
+        "type": "topic",
+        "order": 126
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0eb",
+        "pageNumber": 105,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.5 Third Law of Motion",
+        "type": "topic",
+        "order": 131
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ec",
+        "pageNumber": 105,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.5 Third Law of Motion",
+        "type": "topic",
+        "order": 132
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0fd",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.4 Weight",
+        "type": "topic",
+        "order": 149
+    },
+    {
+        "id": "6752d9599079fcc34f7ca104",
+        "pageNumber": 118,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.2 BUOYANCY",
+        "type": "subtopic",
+        "order": 156
+    },
+    {
+        "id": "6752d9599079fcc34f7ca108",
+        "pageNumber": 123,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "WORK AND ENERGY",
+        "type": "chapter",
+        "order": 160
+    },
+    {
+        "id": "6752d9599079fcc34f7ca110",
+        "pageNumber": 126,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2 Energy",
+        "type": "topic",
+        "order": 168
+    },
+    {
+        "id": "6752d9599079fcc34f7ca111",
+        "pageNumber": 126,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.1 FORMS OF ENERGY",
+        "type": "subtopic",
+        "order": 169
+    },
+    {
+        "id": "6752d9599079fcc34f7ca114",
+        "pageNumber": 127,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.2 KINETIC ENERGY",
+        "type": "subtopic",
+        "order": 172
+    },
+    {
+        "id": "6752d9599079fcc34f7ca115",
+        "pageNumber": 129,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.3 POTENTIAL ENERGY",
+        "type": "subtopic",
+        "order": 173
+    },
+    {
+        "id": "6752d9599079fcc34f7ca122",
+        "pageNumber": 139,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.2.1 SOUND WAVES ARE LONGITUDINAL",
+        "type": "subtopic",
+        "order": 186
+    },
+    {
+        "id": "6752d9599079fcc34f7ca126",
+        "pageNumber": 144,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.3.1 ECHO",
+        "type": "subtopic",
+        "order": 190
+    },
+    {
+        "id": "6752d9599079fcc34f7ca129",
+        "pageNumber": 145,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.4 Range of Hearing",
+        "type": "topic",
+        "order": 193
+    },
+    {
+        "id": "6752d9599079fcc34f7ca136",
+        "pageNumber": 165,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "208333.3 J",
+        "type": "topic",
+        "order": 206
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06e",
+        "pageNumber": 12,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.2 Characteristics of Particles of",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "6752d9599079fcc34f7ca071",
+        "pageNumber": 14,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.3 States of Matter",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "6752d9599079fcc34f7ca078",
+        "pageNumber": 19,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.5.1 FACTORS AFFECTING",
+        "type": "subtopic",
+        "order": 16
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07d",
+        "pageNumber": 29,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.3 Physical and Chemical",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "6752d9599079fcc34f7ca080",
+        "pageNumber": 30,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.4.2 COMPOUNDS",
+        "type": "subtopic",
+        "order": 24
+    },
+    {
+        "id": "6752d9599079fcc34f7ca083",
+        "pageNumber": 36,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1.1 LAW OF CONSERVATION OF MASS",
+        "type": "subtopic",
+        "order": 27
+    },
+    {
+        "id": "6752d9599079fcc34f7ca086",
+        "pageNumber": 37,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1.2 LAW OF CONSTANT PROPORTIONS",
+        "type": "subtopic",
+        "order": 30
+    },
+    {
+        "id": "6752d9599079fcc34f7ca087",
+        "pageNumber": 37,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1.2 LAW OF CONSTANT PROPORTIONS",
+        "type": "subtopic",
+        "order": 31
+    },
+    {
+        "id": "6752d9599079fcc34f7ca088",
+        "pageNumber": 38,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.2.1 WHAT ARE THE MODERN DAY",
+        "type": "subtopic",
+        "order": 32
+    },
+    {
+        "id": "6752d9599079fcc34f7ca089",
+        "pageNumber": 38,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.2.1 WHAT ARE THE MODERN DAY",
+        "type": "subtopic",
+        "order": 33
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08a",
+        "pageNumber": 39,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.2.2 ATOMIC MASS",
+        "type": "subtopic",
+        "order": 34
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08b",
+        "pageNumber": 39,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.2.2 ATOMIC MASS",
+        "type": "subtopic",
+        "order": 35
+    },
+    {
+        "id": "6752d9599079fcc34f7ca091",
+        "pageNumber": 42,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.4 Writing Chemical Formulae",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "6752d9599079fcc34f7ca093",
+        "pageNumber": 43,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.4.1 FORMULAE OF SIMPLE COMPOUNDS",
+        "type": "subtopic",
+        "order": 43
+    },
+    {
+        "id": "6752d9599079fcc34f7ca096",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5.1 MOLECULAR MASS",
+        "type": "subtopic",
+        "order": 46
+    },
+    {
+        "id": "6752d9599079fcc34f7ca097",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5.1 MOLECULAR MASS",
+        "type": "subtopic",
+        "order": 47
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a0",
+        "pageNumber": 51,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.2.4 NEUTRONS",
+        "type": "subtopic",
+        "order": 56
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b2",
+        "pageNumber": 61,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.1 PLASMA MEMBRANE OR CELL",
+        "type": "subtopic",
+        "order": 74
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b5",
+        "pageNumber": 63,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.2 CELL WALL",
+        "type": "subtopic",
+        "order": 77
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b8",
+        "pageNumber": 64,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.4 CYTOPLASM",
+        "type": "subtopic",
+        "order": 80
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ba",
+        "pageNumber": 65,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.5 CELL ORGANELLES",
+        "type": "subtopic",
+        "order": 82
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c1",
+        "pageNumber": 71,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2.1 MERISTEMATIC TISSUE",
+        "type": "subtopic",
+        "order": 89
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c3",
+        "pageNumber": 72,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2.2 PERMANENT TISSUE",
+        "type": "subtopic",
+        "order": 91
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0cb",
+        "pageNumber": 77,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.3 MUSCULAR TISSUE",
+        "type": "subtopic",
+        "order": 99
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0cd",
+        "pageNumber": 78,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.4 NERVOUS TISSUE",
+        "type": "subtopic",
+        "order": 101
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0cf",
+        "pageNumber": 82,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "MOTION",
+        "type": "chapter",
+        "order": 103
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d0",
+        "pageNumber": 82,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.1 Describing Motion",
+        "type": "topic",
+        "order": 104
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d1",
+        "pageNumber": 82,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.1 Describing Motion",
+        "type": "topic",
+        "order": 105
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d4",
+        "pageNumber": 84,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.2 Measuring the Rate of Motion",
+        "type": "topic",
+        "order": 108
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d8",
+        "pageNumber": 86,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.3 Rate of Change of Velocity",
+        "type": "topic",
+        "order": 112
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0dd",
+        "pageNumber": 91,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.5 Equations of Motion",
+        "type": "topic",
+        "order": 117
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0de",
+        "pageNumber": 93,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.6 Uniform Circular Motion",
+        "type": "topic",
+        "order": 118
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0df",
+        "pageNumber": 93,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.6 Uniform Circular Motion",
+        "type": "topic",
+        "order": 119
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e0",
+        "pageNumber": 97,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "FORCE AND LAWS OF MOTION",
+        "type": "chapter",
+        "order": 120
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e1",
+        "pageNumber": 98,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.1 Balanced and Unbalanced",
+        "type": "topic",
+        "order": 121
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e4",
+        "pageNumber": 99,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.2 First Law of Motion",
+        "type": "topic",
+        "order": 124
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e7",
+        "pageNumber": 101,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.4 Second Law of Motion",
+        "type": "topic",
+        "order": 127
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f3",
+        "pageNumber": 112,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1.2 IMPORTANCE OF THE UNIVERSAL",
+        "type": "subtopic",
+        "order": 139
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f7",
+        "pageNumber": 113,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2.1 TO CALCULATE THE VALUE OF 9",
+        "type": "subtopic",
+        "order": 143
+    },
+    {
+        "id": "6752d9599079fcc34f7ca100",
+        "pageNumber": 116,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5 Thrust and Pressure",
+        "type": "topic",
+        "order": 152
+    },
+    {
+        "id": "6752d9599079fcc34f7ca105",
+        "pageNumber": 118,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.2 BUOYANCY",
+        "type": "subtopic",
+        "order": 157
+    },
+    {
+        "id": "6752d9599079fcc34f7ca109",
+        "pageNumber": 123,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1 Work",
+        "type": "topic",
+        "order": 161
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10c",
+        "pageNumber": 124,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1.2 SCIENTIFIC CONCEPTION OF WORK",
+        "type": "subtopic",
+        "order": 164
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10d",
+        "pageNumber": 124,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1.3 WORK DONE BY A CONSTANT",
+        "type": "subtopic",
+        "order": 165
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10e",
+        "pageNumber": 124,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1.3 WORK DONE BY A CONSTANT",
+        "type": "subtopic",
+        "order": 166
+    },
+    {
+        "id": "6752d9599079fcc34f7ca117",
+        "pageNumber": 130,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.4 POTENTIAL ENERGY OF AN OBJECT",
+        "type": "subtopic",
+        "order": 175
+    },
+    {
+        "id": "6752d9599079fcc34f7ca119",
+        "pageNumber": 131,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.5 ARE VARIOUS ENERGY FORMS",
+        "type": "subtopic",
+        "order": 177
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11b",
+        "pageNumber": 131,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.6 LAW OF CONSERVATION OF ENERGY",
+        "type": "subtopic",
+        "order": 179
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11c",
+        "pageNumber": 131,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.6 LAW OF CONSERVATION OF ENERGY",
+        "type": "subtopic",
+        "order": 180
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11f",
+        "pageNumber": 137,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "SOUND",
+        "type": "chapter",
+        "order": 183
+    },
+    {
+        "id": "6752d9599079fcc34f7ca121",
+        "pageNumber": 138,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.2 Propagation of Sound",
+        "type": "topic",
+        "order": 185
+    },
+    {
+        "id": "6752d9599079fcc34f7ca124",
+        "pageNumber": 143,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.2.3 SPEED OF SOUND IN DIFFERENT",
+        "type": "subtopic",
+        "order": 188
+    },
+    {
+        "id": "6752d9599079fcc34f7ca128",
+        "pageNumber": 144,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.3.3 USES OF MULTIPLE REFLECTION",
+        "type": "subtopic",
+        "order": 192
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12c",
+        "pageNumber": 150,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "IMPROVEMENT IN FOOD RESOURCES",
+        "type": "chapter",
+        "order": 196
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12e",
+        "pageNumber": 152,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.1.1 CROP VARIETY IMPROVEMENT",
+        "type": "subtopic",
+        "order": 198
+    },
+    {
+        "id": "6752d9599079fcc34f7ca130",
+        "pageNumber": 156,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.1.3 CROP PROTECTION MANAGEMENT",
+        "type": "subtopic",
+        "order": 200
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06a",
+        "pageNumber": 11,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.1 Physical Nature of Matter",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06b",
+        "pageNumber": 11,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.1.1 MATTER IS MADE UP OF PARTICLES",
+        "type": "subtopic",
+        "order": 3
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06d",
+        "pageNumber": 12,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.2.2 PARTICLES",
+        "type": "subtopic",
+        "order": 5
+    },
+    {
+        "id": "6752d9599079fcc34f7ca070",
+        "pageNumber": 13,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.2.3 PARTICLES OF MATTER ATTRACT",
+        "type": "subtopic",
+        "order": 8
+    },
+    {
+        "id": "6752d9599079fcc34f7ca073",
+        "pageNumber": 14,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.3.2 THE LIQUID STATE",
+        "type": "subtopic",
+        "order": 11
+    },
+    {
+        "id": "6752d9599079fcc34f7ca074",
+        "pageNumber": 15,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.3.3 THE GASEOUS STATE",
+        "type": "subtopic",
+        "order": 12
+    },
+    {
+        "id": "6752d9599079fcc34f7ca075",
+        "pageNumber": 16,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.4.1 EFFECT OF CHANGE OF TEMPERATURE",
+        "type": "subtopic",
+        "order": 13
+    },
+    {
+        "id": "6752d9599079fcc34f7ca076",
+        "pageNumber": 18,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.4.2 EFFECT OF CHANGE OF PRESSURE",
+        "type": "subtopic",
+        "order": 14
+    },
+    {
+        "id": "6752d9599079fcc34f7ca081",
+        "pageNumber": 36,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "ATOMS AND MOLECULES",
+        "type": "chapter",
+        "order": 25
+    },
+    {
+        "id": "6752d9599079fcc34f7ca090",
+        "pageNumber": 42,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.4 Writing Chemical Formulae",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "6752d9599079fcc34f7ca092",
+        "pageNumber": 43,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.4.1 FORMULAE OF SIMPLE COMPOUNDS",
+        "type": "subtopic",
+        "order": 42
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09b",
+        "pageNumber": 48,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.1 Charged Particles in Matter",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09d",
+        "pageNumber": 49,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.2 The Structure of an Atom",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09e",
+        "pageNumber": 49,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.2 The Structure of an Atom",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a1",
+        "pageNumber": 51,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.3 How are Electrons Distributed",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a4",
+        "pageNumber": 52,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.4 Valency",
+        "type": "topic",
+        "order": 60
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a7",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5.1 ATOMIC NUMBER",
+        "type": "subtopic",
+        "order": 63
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0aa",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.5.2 MASS NUMBER",
+        "type": "subtopic",
+        "order": 66
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ab",
+        "pageNumber": 54,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.6 Isotopes",
+        "type": "topic",
+        "order": 67
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ad",
+        "pageNumber": 55,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.6.1 ISOBARS",
+        "type": "subtopic",
+        "order": 69
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ae",
+        "pageNumber": 55,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.6.1 ISOBARS",
+        "type": "subtopic",
+        "order": 70
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b0",
+        "pageNumber": 59,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.1 What are Living Organisms",
+        "type": "topic",
+        "order": 72
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b1",
+        "pageNumber": 59,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.1 What are Living Organisms",
+        "type": "topic",
+        "order": 73
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b3",
+        "pageNumber": 61,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.1 PLASMA MEMBRANE OR CELL",
+        "type": "subtopic",
+        "order": 75
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b7",
+        "pageNumber": 63,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.3 NUCLEUS",
+        "type": "subtopic",
+        "order": 79
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b9",
+        "pageNumber": 64,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.4 CYTOPLASM",
+        "type": "subtopic",
+        "order": 81
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0bf",
+        "pageNumber": 71,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2 Plant Tissues",
+        "type": "topic",
+        "order": 87
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c2",
+        "pageNumber": 71,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2.1 MERISTEMATIC TISSUE",
+        "type": "subtopic",
+        "order": 90
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c4",
+        "pageNumber": 72,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2.2 PERMANENT TISSUE",
+        "type": "subtopic",
+        "order": 92
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c5",
+        "pageNumber": 75,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3 Animal Tissues",
+        "type": "topic",
+        "order": 93
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c6",
+        "pageNumber": 75,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3 Animal Tissues",
+        "type": "topic",
+        "order": 94
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c9",
+        "pageNumber": 76,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.2 CONNECTIVE TISSUE",
+        "type": "subtopic",
+        "order": 97
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ca",
+        "pageNumber": 76,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.2 CONNECTIVE TISSUE",
+        "type": "subtopic",
+        "order": 98
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ce",
+        "pageNumber": 78,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.4 NERVOUS TISSUE",
+        "type": "subtopic",
+        "order": 102
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d9",
+        "pageNumber": 86,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.3 Rate of Change of Velocity",
+        "type": "topic",
+        "order": 113
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0da",
+        "pageNumber": 88,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.4 Graphical Representation of",
+        "type": "topic",
+        "order": 114
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e8",
+        "pageNumber": 101,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.4 Second Law of Motion",
+        "type": "topic",
+        "order": 128
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e9",
+        "pageNumber": 102,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.4.1 MATHEMATICAL FORMULATION OF",
+        "type": "subtopic",
+        "order": 129
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ed",
+        "pageNumber": 110,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "GRAVITATION",
+        "type": "chapter",
+        "order": 133
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ef",
+        "pageNumber": 110,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1 Gravitation",
+        "type": "topic",
+        "order": 135
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f0",
+        "pageNumber": 111,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1.1 UNIVERSAL LAW OF GRAVITATION",
+        "type": "subtopic",
+        "order": 136
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f1",
+        "pageNumber": 111,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1.1 UNIVERSAL LAW OF GRAVITATION",
+        "type": "subtopic",
+        "order": 137
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f2",
+        "pageNumber": 112,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1.2 IMPORTANCE OF THE UNIVERSAL",
+        "type": "subtopic",
+        "order": 138
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f4",
+        "pageNumber": 112,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2 Free Fall",
+        "type": "topic",
+        "order": 140
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f8",
+        "pageNumber": 113,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2.2 MOTION OF OBJECTS UNDER THE",
+        "type": "subtopic",
+        "order": 144
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f9",
+        "pageNumber": 113,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2.2 MOTION OF OBJECTS UNDER THE",
+        "type": "subtopic",
+        "order": 145
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0fb",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.3 Mass",
+        "type": "topic",
+        "order": 147
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0fc",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.4 Weight",
+        "type": "topic",
+        "order": 148
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0fe",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.4.1 WEIGHT OF AN OBJECT ON",
+        "type": "subtopic",
+        "order": 150
+    },
+    {
+        "id": "6752d9599079fcc34f7ca101",
+        "pageNumber": 116,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5 Thrust and Pressure",
+        "type": "topic",
+        "order": 153
+    },
+    {
+        "id": "6752d9599079fcc34f7ca102",
+        "pageNumber": 117,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.1 PRESSURE IN FLUIDS",
+        "type": "subtopic",
+        "order": 154
+    },
+    {
+        "id": "6752d9599079fcc34f7ca106",
+        "pageNumber": 118,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.3 WHY OBJECTS FLOAT OR SINK",
+        "type": "subtopic",
+        "order": 158
+    },
+    {
+        "id": "6752d9599079fcc34f7ca107",
+        "pageNumber": 118,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.3 WHY OBJECTS FLOAT OR SINK",
+        "type": "subtopic",
+        "order": 159
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10a",
+        "pageNumber": 123,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1 Work",
+        "type": "topic",
+        "order": 162
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10b",
+        "pageNumber": 124,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.1.2 SCIENTIFIC CONCEPTION OF WORK",
+        "type": "subtopic",
+        "order": 163
+    },
+    {
+        "id": "6752d9599079fcc34f7ca113",
+        "pageNumber": 127,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.2 KINETIC ENERGY",
+        "type": "subtopic",
+        "order": 171
+    },
+    {
+        "id": "6752d9599079fcc34f7ca118",
+        "pageNumber": 130,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.4 POTENTIAL ENERGY OF AN OBJECT",
+        "type": "subtopic",
+        "order": 176
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11d",
+        "pageNumber": 132,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.3 Rate of Doing Work",
+        "type": "topic",
+        "order": 181
+    },
+    {
+        "id": "6752d9599079fcc34f7ca123",
+        "pageNumber": 139,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.2.2 CHARACTERISTICS OF A SOUND",
+        "type": "subtopic",
+        "order": 187
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12a",
+        "pageNumber": 146,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.5 Applications of Ultrasound",
+        "type": "topic",
+        "order": 194
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12b",
+        "pageNumber": 147,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.5 Applications of Ultrasound",
+        "type": "topic",
+        "order": 195
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12f",
+        "pageNumber": 153,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.1.2 CROP PRODUCTION MANAGEMENT",
+        "type": "subtopic",
+        "order": 199
+    },
+    {
+        "id": "6752d9599079fcc34f7ca131",
+        "pageNumber": 157,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.2 Animal Husbandry",
+        "type": "topic",
+        "order": 201
+    },
+    {
+        "id": "6752d9599079fcc34f7ca133",
+        "pageNumber": 158,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.2.2 POULTRY FARMING",
+        "type": "subtopic",
+        "order": 203
+    },
+    {
+        "id": "6752d9599079fcc34f7ca06f",
+        "pageNumber": 12,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.2.1 PARTICLES OF MATTER HAVE SPACE",
+        "type": "subtopic",
+        "order": 7
+    },
+    {
+        "id": "6752d9599079fcc34f7ca077",
+        "pageNumber": 19,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.5 Evaporation",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "6752d9599079fcc34f7ca079",
+        "pageNumber": 19,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "1.5.2 How DOES EVAPORATION CAUSE",
+        "type": "subtopic",
+        "order": 17
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07b",
+        "pageNumber": 24,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.1.1 TYPES OF MIXTURES",
+        "type": "subtopic",
+        "order": 19
+    },
+    {
+        "id": "6752d9599079fcc34f7ca07e",
+        "pageNumber": 29,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "2.4 What are the Types of Pure",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "6752d9599079fcc34f7ca084",
+        "pageNumber": 36,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.1 Laws of Chemical Combination",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08e",
+        "pageNumber": 41,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.3.2 MOLECULES OF COMPOUNDS",
+        "type": "subtopic",
+        "order": 38
+    },
+    {
+        "id": "6752d9599079fcc34f7ca08f",
+        "pageNumber": 41,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.3.2 MOLECULES OF COMPOUNDS",
+        "type": "subtopic",
+        "order": 39
+    },
+    {
+        "id": "6752d9599079fcc34f7ca099",
+        "pageNumber": 44,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "3.5.2 FORMULA UNIT MASS",
+        "type": "subtopic",
+        "order": 49
+    },
+    {
+        "id": "6752d9599079fcc34f7ca09f",
+        "pageNumber": 51,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.2.4 NEUTRONS",
+        "type": "subtopic",
+        "order": 55
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0a2",
+        "pageNumber": 51,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "4.3 How are Electrons Distributed",
+        "type": "topic",
+        "order": 58
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b4",
+        "pageNumber": 63,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.2 CELL WALL",
+        "type": "subtopic",
+        "order": 76
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0b6",
+        "pageNumber": 63,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "5.2.3 NUCLEUS",
+        "type": "subtopic",
+        "order": 78
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0bc",
+        "pageNumber": 70,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "TISSUES",
+        "type": "chapter",
+        "order": 84
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0bd",
+        "pageNumber": 70,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.1 Are Plants and Animals Made",
+        "type": "topic",
+        "order": 85
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c0",
+        "pageNumber": 71,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.2 Plant Tissues",
+        "type": "topic",
+        "order": 88
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0c8",
+        "pageNumber": 75,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.1 EPITHELIAL TISSUE",
+        "type": "subtopic",
+        "order": 96
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0cc",
+        "pageNumber": 77,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "6.3.3 MUSCULAR TISSUE",
+        "type": "subtopic",
+        "order": 100
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d6",
+        "pageNumber": 85,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.2.1 SPEED WITH DIRECTION",
+        "type": "subtopic",
+        "order": 110
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0d7",
+        "pageNumber": 85,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.2.1 SPEED WITH DIRECTION",
+        "type": "subtopic",
+        "order": 111
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0db",
+        "pageNumber": 88,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.4 Graphical Representation of",
+        "type": "topic",
+        "order": 115
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0dc",
+        "pageNumber": 91,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "7.5 Equations of Motion",
+        "type": "topic",
+        "order": 116
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e2",
+        "pageNumber": 98,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.1 Balanced and Unbalanced",
+        "type": "topic",
+        "order": 122
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0e3",
+        "pageNumber": 99,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.2 First Law of Motion",
+        "type": "topic",
+        "order": 123
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ea",
+        "pageNumber": 102,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "8.4.1 MATHEMATICAL FORMULATION OF",
+        "type": "subtopic",
+        "order": 130
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ee",
+        "pageNumber": 110,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.1 Gravitation",
+        "type": "topic",
+        "order": 134
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f5",
+        "pageNumber": 112,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2 Free Fall",
+        "type": "topic",
+        "order": 141
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0f6",
+        "pageNumber": 113,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.2.1 TO CALCULATE THE VALUE OF 9",
+        "type": "subtopic",
+        "order": 142
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0fa",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.3 Mass",
+        "type": "topic",
+        "order": 146
+    },
+    {
+        "id": "6752d9599079fcc34f7ca0ff",
+        "pageNumber": 115,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.4.1 WEIGHT OF AN OBJECT ON",
+        "type": "subtopic",
+        "order": 151
+    },
+    {
+        "id": "6752d9599079fcc34f7ca103",
+        "pageNumber": 117,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.5.1 PRESSURE IN FLUIDS",
+        "type": "subtopic",
+        "order": 155
+    },
+    {
+        "id": "6752d9599079fcc34f7ca10f",
+        "pageNumber": 126,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2 Energy",
+        "type": "topic",
+        "order": 167
+    },
+    {
+        "id": "6752d9599079fcc34f7ca112",
+        "pageNumber": 126,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.1 FORMS OF ENERGY",
+        "type": "subtopic",
+        "order": 170
+    },
+    {
+        "id": "6752d9599079fcc34f7ca116",
+        "pageNumber": 129,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.3 POTENTIAL ENERGY",
+        "type": "subtopic",
+        "order": 174
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11a",
+        "pageNumber": 131,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.2.5 ARE VARIOUS ENERGY FORMS",
+        "type": "subtopic",
+        "order": 178
+    },
+    {
+        "id": "6752d9599079fcc34f7ca11e",
+        "pageNumber": 132,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "10.3 Rate of Doing Work",
+        "type": "topic",
+        "order": 182
+    },
+    {
+        "id": "6752d9599079fcc34f7ca120",
+        "pageNumber": 137,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.1 Production of Sound",
+        "type": "topic",
+        "order": 184
+    },
+    {
+        "id": "6752d9599079fcc34f7ca125",
+        "pageNumber": 143,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.3 Reflection of Sound",
+        "type": "topic",
+        "order": 189
+    },
+    {
+        "id": "6752d9599079fcc34f7ca127",
+        "pageNumber": 144,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "11.3.2 REVERBERATION",
+        "type": "subtopic",
+        "order": 191
+    },
+    {
+        "id": "6752d9599079fcc34f7ca12d",
+        "pageNumber": 151,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.1 Improvement in Crop Yields",
+        "type": "topic",
+        "order": 197
+    },
+    {
+        "id": "6752d9599079fcc34f7ca132",
+        "pageNumber": 157,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.2.1 CATTLE FARMING",
+        "type": "subtopic",
+        "order": 202
+    },
+    {
+        "id": "6752d9599079fcc34f7ca134",
+        "pageNumber": 159,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "12.2.3 FISH PRODUCTION",
+        "type": "subtopic",
+        "order": 204
+    },
+    {
+        "id": "6752d9599079fcc34f7ca135",
+        "pageNumber": 165,
+        "bookID": "66a0c99e6bc9c7a4a2eea487",
+        "text": "9.8 N",
+        "type": "topic",
+        "order": 205
+    }
+]

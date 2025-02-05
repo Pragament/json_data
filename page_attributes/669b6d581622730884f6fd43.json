@@ -1,0 +1,138 @@
+[
+    {
+        "id": "674edff560f1beedf7031184",
+        "pageNumber": 27,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "వానదేవుడా!",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674edff560f1beedf703118d",
+        "pageNumber": 92,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "ఏమేమి చూడాలి",
+        "type": "chapter",
+        "order": 10
+    },
+    {
+        "id": "674edff560f1beedf7031186",
+        "pageNumber": 45,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "అమ్మ",
+        "type": "chapter",
+        "order": 3
+    },
+    {
+        "id": "674edff560f1beedf7031188",
+        "pageNumber": 53,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "మన పండుగలు",
+        "type": "chapter",
+        "order": 5
+    },
+    {
+        "id": "674edff560f1beedf703118c",
+        "pageNumber": 85,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "మతిమరుపు ఈగ",
+        "type": "chapter",
+        "order": 9
+    },
+    {
+        "id": "674edff560f1beedf7031191",
+        "pageNumber": 119,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "మహాత్ముడు",
+        "type": "chapter",
+        "order": 14
+    },
+    {
+        "id": "674edff560f1beedf7031192",
+        "pageNumber": 126,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "ఆట బతుకు",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674edff560f1beedf7031185",
+        "pageNumber": 37,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "బాల భీముడు",
+        "type": "chapter",
+        "order": 2
+    },
+    {
+        "id": "674edff560f1beedf703118b",
+        "pageNumber": 77,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "నీటి అందాలు",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674edff560f1beedf7031190",
+        "pageNumber": 112,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "తోటతల్లి",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "id": "674edff560f1beedf7031193",
+        "pageNumber": 127,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "చెట్టుకొరిక (కాల్పనికత)",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674edff560f1beedf7031187",
+        "pageNumber": 52,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "దయ",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674edff560f1beedf7031189",
+        "pageNumber": 63,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "కాకుల లెక్క",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "id": "674edff560f1beedf703118a",
+        "pageNumber": 70,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "లేగదూడ",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "674edff560f1beedf703118e",
+        "pageNumber": 97,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "వేమన శతకం",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "674edff560f1beedf703118f",
+        "pageNumber": 105,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "తెలంగాణ రాష్ట్ర చిహ్నాలు",
+        "type": "chapter",
+        "order": 12
+    },
+    {
+        "id": "674edff560f1beedf7031194",
+        "pageNumber": 135,
+        "bookID": "669b6d581622730884f6fd43",
+        "text": "కొబ్బరి బొండం",
+        "type": "topic",
+        "order": 17
+    }
+]

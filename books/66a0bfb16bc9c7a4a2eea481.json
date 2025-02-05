@@ -1,0 +1,770 @@
+[
+    {
+        "id": "66a1e4a73b816d6bd4f86660",
+        "pageNumber": 1,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_1.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_1.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_1_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666d",
+        "pageNumber": 14,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_14.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_14.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_14_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86689",
+        "pageNumber": 42,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_42.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_42.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_42_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668f",
+        "pageNumber": 48,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_48.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_48.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_48_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86693",
+        "pageNumber": 52,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_52.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_52.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_52_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86672",
+        "pageNumber": 19,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_19.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_19.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_19_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667d",
+        "pageNumber": 30,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_30.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_30.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_30_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86694",
+        "pageNumber": 53,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_53.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_53.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_53_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669e",
+        "pageNumber": 63,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_63.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_63.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_63_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86673",
+        "pageNumber": 20,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_20.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_20.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_20_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86680",
+        "pageNumber": 33,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_33.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_33.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_33_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86683",
+        "pageNumber": 36,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_36.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_36.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_36_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86687",
+        "pageNumber": 40,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_40.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_40.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_40_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669b",
+        "pageNumber": 60,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_60.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_60.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_60_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669f",
+        "pageNumber": 64,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_64.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_64.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_64_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666a",
+        "pageNumber": 11,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_11.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_11.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_11_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666e",
+        "pageNumber": 15,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_15.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_15.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_15_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86679",
+        "pageNumber": 26,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_26.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_26.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_26_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86688",
+        "pageNumber": 41,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_41.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_41.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_41_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86662",
+        "pageNumber": 3,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_3.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_3.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_3_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86669",
+        "pageNumber": 10,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_10.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_10.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_10_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666b",
+        "pageNumber": 12,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_12.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_12.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_12_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86670",
+        "pageNumber": 17,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_17.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_17.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_17_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668a",
+        "pageNumber": 43,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_43.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_43.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_43_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86696",
+        "pageNumber": 55,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_55.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_55.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_55_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86675",
+        "pageNumber": 22,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_22.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_22.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_22_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668d",
+        "pageNumber": 46,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_46.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_46.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_46_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668e",
+        "pageNumber": 47,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_47.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_47.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_47_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86663",
+        "pageNumber": 4,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_4.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_4.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_4_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86664",
+        "pageNumber": 5,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_5.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_5.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_5_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86685",
+        "pageNumber": 38,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_38.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_38.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_38_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86695",
+        "pageNumber": 54,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_54.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_54.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_54_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669c",
+        "pageNumber": 61,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_61.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_61.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_61_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86676",
+        "pageNumber": 23,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_23.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_23.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_23_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86678",
+        "pageNumber": 25,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_25.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_25.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_25_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667f",
+        "pageNumber": 32,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_32.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_32.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_32_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86690",
+        "pageNumber": 49,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_49.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_49.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_49_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669a",
+        "pageNumber": 59,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_59.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_59.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_59_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86684",
+        "pageNumber": 37,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_37.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_37.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_37_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86681",
+        "pageNumber": 34,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_34.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_34.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_34_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668b",
+        "pageNumber": 44,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_44.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_44.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_44_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86698",
+        "pageNumber": 57,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_57.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_57.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_57_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86699",
+        "pageNumber": 58,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_58.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_58.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_58_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667c",
+        "pageNumber": 29,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_29.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_29.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_29_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8669d",
+        "pageNumber": 62,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_62.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_62.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_62_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86671",
+        "pageNumber": 18,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_18.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_18.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_18_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86674",
+        "pageNumber": 21,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_21.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_21.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_21_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86697",
+        "pageNumber": 56,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_56.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_56.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_56_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86667",
+        "pageNumber": 8,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_8.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_8.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_8_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86691",
+        "pageNumber": 50,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_50.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_50.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_50_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86665",
+        "pageNumber": 6,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_6.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_6.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_6_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86666",
+        "pageNumber": 7,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_7.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_7.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_7_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86668",
+        "pageNumber": 9,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_9.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_9.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_9_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86677",
+        "pageNumber": 24,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_24.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_24.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_24_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667b",
+        "pageNumber": 28,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_28.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_28.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_28_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667e",
+        "pageNumber": 31,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_31.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_31.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_31_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86682",
+        "pageNumber": 35,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_35.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_35.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_35_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86686",
+        "pageNumber": 39,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_39.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_39.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_39_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8668c",
+        "pageNumber": 45,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_45.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_45.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_45_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86661",
+        "pageNumber": 2,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_2.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_2.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_2_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666c",
+        "pageNumber": 13,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_13.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_13.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_13_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8666f",
+        "pageNumber": 16,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_16.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_16.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_16_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f8667a",
+        "pageNumber": 27,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_27.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_27.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_27_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    },
+    {
+        "id": "66a1e4a73b816d6bd4f86692",
+        "pageNumber": 51,
+        "absoluteImageURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/absoluteImages/9_economics_page_51.png",
+        "absoluteThumbnailURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/thumbnails/9_economics_page_51.png",
+        "absoluteTextAnnotationURL": "https://textbookpdf.s3.ap-south-1.amazonaws.com/ncert/9economics/textAnnotations/page_51_text_annotation.json",
+        "bookID": {
+            "id": "66a0bfb16bc9c7a4a2eea481",
+            "name": "class 9 Economics"
+        },
+        "imageText": ""
+    }
+]

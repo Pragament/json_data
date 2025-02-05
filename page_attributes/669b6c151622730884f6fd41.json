@@ -1,0 +1,418 @@
+[
+    {
+        "id": "674d5ce460f1beedf7030b6b",
+        "pageNumber": 9,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Animals - The Base of our life",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "674d5ce460f1beedf7030b70",
+        "pageNumber": 15,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.7     Needs and Difficulties of Animals",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7a",
+        "pageNumber": 34,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Let's Grow Trees",
+        "type": "chapter",
+        "order": 16
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7c",
+        "pageNumber": 36,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "3.5   Growing plants",
+        "type": "topic",
+        "order": 18
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7f",
+        "pageNumber": 45,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "4.1    Varieties of food items",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "674d5ce460f1beedf7030b80",
+        "pageNumber": 49,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "4.5    Importance of food",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "674d5ce460f1beedf7030b83",
+        "pageNumber": 57,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.2    Sense organs",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "674d5ce460f1beedf7030b84",
+        "pageNumber": 58,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.3   Eyes",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "674d5ce460f1beedf7030b85",
+        "pageNumber": 59,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.4    Ears",
+        "type": "topic",
+        "order": 27
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8e",
+        "pageNumber": 79,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "6.6    The Nervous System",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "674d5ce460f1beedf7030b90",
+        "pageNumber": 83,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.1   Observe the picture and discuss",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "674d5ce460f1beedf7030b9c",
+        "pageNumber": 164,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Our Country - World",
+        "type": "chapter",
+        "order": 50
+    },
+    {
+        "id": "674d5ce460f1beedf7030b6f",
+        "pageNumber": 15,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.6     The Other Uses of Animals",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "674d5ce460f1beedf7030b76",
+        "pageNumber": 28,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.5   The Success Story of a Woman Farmer",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7d",
+        "pageNumber": 39,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "3.6    Council for Green Revolution",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "674d5ce460f1beedf7030b86",
+        "pageNumber": 62,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.5    Nose",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "674d5ce460f1beedf7030b87",
+        "pageNumber": 63,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.6     Tongue",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "674d5ce460f1beedf7030b88",
+        "pageNumber": 64,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.7    Teeth",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "674d5ce460f1beedf7030b91",
+        "pageNumber": 84,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.2     Life style of the Tribals",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "674d5ce460f1beedf7030b92",
+        "pageNumber": 85,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.3    The Nagoba fair",
+        "type": "topic",
+        "order": 40
+    },
+    {
+        "id": "674d5ce460f1beedf7030b95",
+        "pageNumber": 90,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.6    Depletion of forests",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "674d5ce460f1beedf7030b99",
+        "pageNumber": 127,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Safety and First Aid",
+        "type": "chapter",
+        "order": 47
+    },
+    {
+        "id": "674d5ce460f1beedf7030b9a",
+        "pageNumber": 144,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Historical Sites - Wanaparti Fort",
+        "type": "chapter",
+        "order": 48
+    },
+    {
+        "id": "674d5ce460f1beedf7030b9b",
+        "pageNumber": 154,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Energy",
+        "type": "chapter",
+        "order": 49
+    },
+    {
+        "id": "674d5ce460f1beedf7030b9d",
+        "pageNumber": 172,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Our Constitution",
+        "type": "chapter",
+        "order": 51
+    },
+    {
+        "id": "674d5ce460f1beedf7030b6d",
+        "pageNumber": 13,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.4    Problems of sheep rearing",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "674d5ce460f1beedf7030b71",
+        "pageNumber": 18,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.8    Decreasing animal population",
+        "type": "topic",
+        "order": 7
+    },
+    {
+        "id": "674d5ce460f1beedf7030b72",
+        "pageNumber": 23,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Agriculture - Crops",
+        "type": "chapter",
+        "order": 8
+    },
+    {
+        "id": "674d5ce460f1beedf7030b78",
+        "pageNumber": 30,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.7    Kinds of Crops",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7b",
+        "pageNumber": 34,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "3.1   Observe the picture and discuss",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "674d5ce460f1beedf7030b81",
+        "pageNumber": 52,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "4.6    Junk food",
+        "type": "topic",
+        "order": 23
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8a",
+        "pageNumber": 71,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Our Body - Its Internal Organ System",
+        "type": "chapter",
+        "order": 32
+    },
+    {
+        "id": "674d5ce460f1beedf7030b98",
+        "pageNumber": 120,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "The Sun and The Planets",
+        "type": "chapter",
+        "order": 46
+    },
+    {
+        "id": "674d5ce460f1beedf7030b6c",
+        "pageNumber": 9,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.1  Observe the picture and discuss",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "674d5ce460f1beedf7030b6e",
+        "pageNumber": 14,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "1.5     Friends of Farmers",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "674d5ce460f1beedf7030b73",
+        "pageNumber": 23,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.1    Observe the pictures and discuss",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "674d5ce460f1beedf7030b74",
+        "pageNumber": 26,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.3   Seeds",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "674d5ce460f1beedf7030b75",
+        "pageNumber": 27,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.4    Sustainable Farming",
+        "type": "topic",
+        "order": 11
+    },
+    {
+        "id": "674d5ce460f1beedf7030b77",
+        "pageNumber": 29,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.6   Pesticides",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "674d5ce460f1beedf7030b79",
+        "pageNumber": 31,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "2.8    Places where different crops are cultivated in Telangana",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "674d5ce460f1beedf7030b7e",
+        "pageNumber": 45,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Nutritious Food",
+        "type": "chapter",
+        "order": 20
+    },
+    {
+        "id": "674d5ce460f1beedf7030b82",
+        "pageNumber": 56,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Our Body Parts - Sense Organs",
+        "type": "chapter",
+        "order": 24
+    },
+    {
+        "id": "674d5ce460f1beedf7030b89",
+        "pageNumber": 67,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "5.8    Skin",
+        "type": "topic",
+        "order": 31
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8b",
+        "pageNumber": 74,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "6.3    The Skeletal System",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8c",
+        "pageNumber": 75,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "6.4    The Digestive System",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8d",
+        "pageNumber": 78,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "6.5   The Excretory System",
+        "type": "topic",
+        "order": 35
+    },
+    {
+        "id": "674d5ce460f1beedf7030b8f",
+        "pageNumber": 83,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Forests - Tribals",
+        "type": "chapter",
+        "order": 37
+    },
+    {
+        "id": "674d5ce460f1beedf7030b93",
+        "pageNumber": 86,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.4     Life style of the Chenchus",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "674d5ce460f1beedf7030b94",
+        "pageNumber": 88,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "7.5  Life Style of the Bonda Tribe",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "674d5ce460f1beedf7030b96",
+        "pageNumber": 95,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Rivers - Means of Livelihood",
+        "type": "chapter",
+        "order": 44
+    },
+    {
+        "id": "674d5ce460f1beedf7030b97",
+        "pageNumber": 105,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Atmosphere - Wind",
+        "type": "chapter",
+        "order": 45
+    },
+    {
+        "id": "674d5ce460f1beedf7030b9e",
+        "pageNumber": 183,
+        "bookID": "669b6c151622730884f6fd41",
+        "text": "Child Rights",
+        "type": "chapter",
+        "order": 52
+    }
+]

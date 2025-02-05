@@ -1,0 +1,530 @@
+[
+    {
+        "id": "676a54dc45665a19fa62b6be",
+        "pageNumber": 17,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Nutrition in Plants",
+        "type": "chapter",
+        "order": 1
+    },
+    {
+        "id": "676a54dc45665a19fa62b6bf",
+        "pageNumber": 17,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "1.1 MODE OF NUTRITION IN PLANTS",
+        "type": "topic",
+        "order": 2
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c0",
+        "pageNumber": 17,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "1.2 PHOTOSYNTHESIS",
+        "type": "topic",
+        "order": 3
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c1",
+        "pageNumber": 20,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "1.3 OTHER MODES OF NUTRITION IN",
+        "type": "topic",
+        "order": 4
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c2",
+        "pageNumber": 21,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "1.4 SAPROTROPHS",
+        "type": "topic",
+        "order": 5
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c3",
+        "pageNumber": 23,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "1.5 How NUTRIENTS ARE",
+        "type": "topic",
+        "order": 6
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c4",
+        "pageNumber": 27,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Nutrition in Animals",
+        "type": "chapter",
+        "order": 7
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c5",
+        "pageNumber": 27,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "2.1 DIFFERENT WAYS OF TAKING FOOD",
+        "type": "topic",
+        "order": 8
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c6",
+        "pageNumber": 28,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "2.2 DIGESTION IN HUMANS",
+        "type": "topic",
+        "order": 9
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c7",
+        "pageNumber": 34,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "2.4 FEEDING AND DIGESTION IN",
+        "type": "topic",
+        "order": 10
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c8",
+        "pageNumber": 40,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Heat",
+        "type": "chapter",
+        "order": 11
+    },
+    {
+        "id": "676a54dc45665a19fa62b6c9",
+        "pageNumber": 40,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.1 HOT AND COLD",
+        "type": "topic",
+        "order": 12
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ca",
+        "pageNumber": 41,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.2 MEASURING TEMPERATURE",
+        "type": "topic",
+        "order": 13
+    },
+    {
+        "id": "676a54dc45665a19fa62b6cb",
+        "pageNumber": 43,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.3 LABORATORY THERMOMETER",
+        "type": "topic",
+        "order": 14
+    },
+    {
+        "id": "676a54dc45665a19fa62b6cc",
+        "pageNumber": 45,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.4 TRANSFER OF HEAT",
+        "type": "topic",
+        "order": 15
+    },
+    {
+        "id": "676a54dc45665a19fa62b6cd",
+        "pageNumber": 48,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.5 KI",
+        "type": "topic",
+        "order": 16
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ce",
+        "pageNumber": 48,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "3.5 KINDS OF CLOTHES WE WEAR IN",
+        "type": "topic",
+        "order": 17
+    },
+    {
+        "id": "676a54dc45665a19fa62b6cf",
+        "pageNumber": 54,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Acids, Bases and Salts",
+        "type": "chapter",
+        "order": 18
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d0",
+        "pageNumber": 54,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "4.1 ACIDS AND BASES",
+        "type": "topic",
+        "order": 19
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d1",
+        "pageNumber": 55,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "4.2 NATURAL INDICATORS",
+        "type": "topic",
+        "order": 20
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d2",
+        "pageNumber": 59,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "4.3 NEUTRALISATION",
+        "type": "topic",
+        "order": 21
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d3",
+        "pageNumber": 60,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "4.4 NEUTRALISATION IN EVERYDAY",
+        "type": "topic",
+        "order": 22
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d4",
+        "pageNumber": 63,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Physical and Chemical Changes",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d5",
+        "pageNumber": 64,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "5.2 CHEMICAL CHANGE",
+        "type": "topic",
+        "order": 24
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d6",
+        "pageNumber": 68,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "5.3 RUSTING OF IRON",
+        "type": "topic",
+        "order": 25
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d7",
+        "pageNumber": 69,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "5.4 CRYSTALLISATION",
+        "type": "topic",
+        "order": 26
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d8",
+        "pageNumber": 73,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Respiration in Organisms",
+        "type": "chapter",
+        "order": 27
+    },
+    {
+        "id": "676a54dc45665a19fa62b6d9",
+        "pageNumber": 74,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "6.2 BREATHING",
+        "type": "topic",
+        "order": 28
+    },
+    {
+        "id": "676a54dc45665a19fa62b6da",
+        "pageNumber": 80,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "6.5 BREATHING IN OTHER ANIMALS",
+        "type": "topic",
+        "order": 29
+    },
+    {
+        "id": "676a54dc45665a19fa62b6db",
+        "pageNumber": 81,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "6.6 BREATHING UNDER WATER",
+        "type": "topic",
+        "order": 30
+    },
+    {
+        "id": "676a54dc45665a19fa62b6dc",
+        "pageNumber": 86,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Transportation in Animals and Plants",
+        "type": "chapter",
+        "order": 31
+    },
+    {
+        "id": "676a54dc45665a19fa62b6dd",
+        "pageNumber": 86,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "7.1 CIRCULATORY SYSTEM",
+        "type": "topic",
+        "order": 32
+    },
+    {
+        "id": "676a54dc45665a19fa62b6de",
+        "pageNumber": 91,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "7.2 EXCRETION IN ANIMALS",
+        "type": "topic",
+        "order": 33
+    },
+    {
+        "id": "676a54dc45665a19fa62b6df",
+        "pageNumber": 93,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "7.3 TRANSPORT OF SUBSTANCES IN",
+        "type": "topic",
+        "order": 34
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e0",
+        "pageNumber": 98,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Reproduction in Plants",
+        "type": "chapter",
+        "order": 35
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e1",
+        "pageNumber": 98,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "8.1 MODES OF REPRODUCTION",
+        "type": "topic",
+        "order": 36
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e2",
+        "pageNumber": 101,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "12.2 SEXUAL REPRODUCTION",
+        "type": "topic",
+        "order": 37
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e3",
+        "pageNumber": 103,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "8.3 FRUITS AND SEED FORMATION",
+        "type": "topic",
+        "order": 38
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e4",
+        "pageNumber": 103,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "8.4 SEED DISPERSAL",
+        "type": "topic",
+        "order": 39
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e5",
+        "pageNumber": 108,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Motion and Time",
+        "type": "chapter",
+        "order": 40
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e6",
+        "pageNumber": 108,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "9.1 SLOW OR FAST",
+        "type": "topic",
+        "order": 41
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e7",
+        "pageNumber": 109,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "9.2 SPEED",
+        "type": "topic",
+        "order": 42
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e8",
+        "pageNumber": 110,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "9.3 MEASUREMENT OF TIME",
+        "type": "topic",
+        "order": 43
+    },
+    {
+        "id": "676a54dc45665a19fa62b6e9",
+        "pageNumber": 113,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "9.4 MEASURING SPEED",
+        "type": "topic",
+        "order": 44
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ea",
+        "pageNumber": 119,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "9.5 could be",
+        "type": "topic",
+        "order": 45
+    },
+    {
+        "id": "676a54dc45665a19fa62b6eb",
+        "pageNumber": 125,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Electric Current and its Effects",
+        "type": "chapter",
+        "order": 46
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ec",
+        "pageNumber": 125,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "10.1 SYMBOLS OF ELECTRIC",
+        "type": "topic",
+        "order": 47
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ed",
+        "pageNumber": 128,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "10.2 HEATING EFFECT OF ELECTRIC",
+        "type": "topic",
+        "order": 48
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ee",
+        "pageNumber": 132,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "10.3 MAGNETIC EFFECT OF",
+        "type": "topic",
+        "order": 49
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ef",
+        "pageNumber": 133,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "10.4 ELECTROMAGNET",
+        "type": "topic",
+        "order": 50
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f0",
+        "pageNumber": 134,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "10.5 ELECTRIC BELL",
+        "type": "topic",
+        "order": 51
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f1",
+        "pageNumber": 139,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Light",
+        "type": "chapter",
+        "order": 52
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f2",
+        "pageNumber": 139,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "11.1 LIGHT TRAVELS ALONG A",
+        "type": "topic",
+        "order": 53
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f3",
+        "pageNumber": 140,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "11.2 REFLECTION OF LIGHT",
+        "type": "topic",
+        "order": 54
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f4",
+        "pageNumber": 144,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "11.4 PLAYING WITH SPHERICAL",
+        "type": "topic",
+        "order": 55
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f5",
+        "pageNumber": 148,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "11.5 IMAGES FORMED BY LENSES",
+        "type": "topic",
+        "order": 56
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f6",
+        "pageNumber": 150,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "11.6 SUNLIGHT WHITE OR",
+        "type": "topic",
+        "order": 57
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f7",
+        "pageNumber": 158,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Forests: Our Lifeline",
+        "type": "chapter",
+        "order": 58
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f8",
+        "pageNumber": 158,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "12.1 VISIT TO A FOREST",
+        "type": "topic",
+        "order": 59
+    },
+    {
+        "id": "676a54dc45665a19fa62b6f9",
+        "pageNumber": 172,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "Wastewater Story",
+        "type": "chapter",
+        "order": 60
+    },
+    {
+        "id": "676a54dc45665a19fa62b6fa",
+        "pageNumber": 173,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.3 WATER FRESHENS UP",
+        "type": "topic",
+        "order": 61
+    },
+    {
+        "id": "676a54dc45665a19fa62b6fb",
+        "pageNumber": 175,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.4 WASTEWATER TREATMENT PLANT",
+        "type": "topic",
+        "order": 62
+    },
+    {
+        "id": "676a54dc45665a19fa62b6fc",
+        "pageNumber": 177,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.5 BETTER HOUSEKEEPING",
+        "type": "topic",
+        "order": 63
+    },
+    {
+        "id": "676a54dc45665a19fa62b6fd",
+        "pageNumber": 178,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.6 SANITATION AND DISEASE",
+        "type": "topic",
+        "order": 64
+    },
+    {
+        "id": "676a54dc45665a19fa62b6fe",
+        "pageNumber": 178,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.7 ALTERNATIVE ARRANGEMENT",
+        "type": "topic",
+        "order": 65
+    },
+    {
+        "id": "676a54dc45665a19fa62b6ff",
+        "pageNumber": 178,
+        "bookID": "66a4a642114887dba197ed5a",
+        "text": "13.8 SANITATION AT PUBLIC PLACES",
+        "type": "topic",
+        "order": 66
+    }
+]
