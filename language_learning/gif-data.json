@@ -8,15 +8,15 @@
   "next_page_api": "current_page=1&items_per_page=2",
   "items": [
     {
-      "multiline_text": "5 Sample Title : Red ; in language(s): English, Spanish",
-      "gif": "https://www.easygifanimator.net/images/samples/eglite.gif",
+      "multiline_text": "5 Sample Title : \nRed ; in language(s):\n English, Spanish",
+      "gif": "https://staticapis.pragament.com/1.gif",
       "thumbnail_gif": "https://dummyimage.com/100/ff0000/000.gif?text=Sample11",
       "youtube_url": "https://youtu.be/tPEE9ZwTmy0",
       "category-id": 11
     },
     {
-      "multiline_text": "6 Another Title : Blue ; in language(s): French",
-      "gif": "https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif",
+      "multiline_text": "6 Another\n Title : Blue ; in \nlanguage(s): French",
+      "gif": "",
       "thumbnail_gif": "https://dummyimage.com/100/0000ff/000.gif?text=Another22",
       "youtube_url": "https://youtu.be/tPEE9ZwTmy0",
       "category-id": 22
