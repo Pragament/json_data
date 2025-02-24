@@ -1,23 +1,23 @@
 {
-  "total_count": 5,
+  "total_count": 2,
   "keyword": "sample keyword",
-  "items_per_page": 10,
-  "total_pages": 2,
+  "items_per_page": 2,
+  "total_pages": 1,
   "current_page": 1,
-  "next_page": 2,
-  "next_page_api": "current_page=2&items_per_page=10",
+  "next_page": 1,
+  "next_page_api": "current_page=1&items_per_page=2",
   "items": [
     {
       "multiline_text": "5 Sample Title : Red ; in language(s): English, Spanish",
-      "gif": "https://example.com/sample.gif",
-      "thumbnail_gif": "https://dummyimage.com/100/ff0000/000.gif?text=Sample",
+      "gif": "https://www.easygifanimator.net/images/samples/eglite.gif",
+      "thumbnail_gif": "https://dummyimage.com/100/ff0000/000.gif?text=Sample11",
       "youtube_url": "https://youtu.be/tPEE9ZwTmy0",
       "category-id": 11
     },
     {
       "multiline_text": "6 Another Title : Blue ; in language(s): French",
-      "gif": "https://example.com/another.gif",
-      "thumbnail_gif": "https://dummyimage.com/100/0000ff/000.gif?text=Another",
+      "gif": "https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif",
+      "thumbnail_gif": "https://dummyimage.com/100/0000ff/000.gif?text=Another22",
       "youtube_url": "https://youtu.be/tPEE9ZwTmy0",
       "category-id": 22
     }
