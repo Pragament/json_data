@@ -1,0 +1,30 @@
+[
+  {
+    "category": "1",
+    "category-id": "1",
+    "sub-category-items": [
+      {
+        "sub-category": "11",
+        "sub-category-id": "11"
+      },
+      {
+        "sub-category": "12",
+        "sub-category-id": "12"
+      }
+    ]
+  },
+  {
+    "category": "2",
+    "category-id": "2",
+    "sub-category-items": [
+      {
+        "sub-category": "21",
+        "sub-category-id": "21"
+      },
+      {
+        "sub-category": "22",
+        "sub-category-id": "22"
+      }
+    ]
+  }
+]
