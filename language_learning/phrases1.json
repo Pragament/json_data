@@ -1,0 +1,206 @@
+{
+  "Tamil Chat Messages": {
+    "Greetings": [
+      {
+        "english": "Hello!",
+        "tamil": "வணக்கம்!",
+        "hindi": "नमस्ते!",
+        "telugu": "నమస్తే!",
+        "kannada": "ನಮಸ್ಕಾರ!",
+        "malayalam": "നമസ്കാരം!"
+      }
+    ],
+    "Common Questions": [
+      {
+        "english": "How are you?",
+        "tamil": "நீ எப்படி இருக்கிறாய்?",
+        "hindi": "आप कैसे हैं?",
+        "telugu": "మీరు ఎలా ఉన్నారు?",
+        "kannada": "ನೀವು ಹೇಗಿದ್ದೀರಾ?",
+        "malayalam": "സുഖമാണോ?"
+      },
+      {
+        "english": "Really?",
+        "tamil": "உண்மையா?",
+        "hindi": "सच में?",
+        "telugu": "నిజంగా?",
+        "kannada": "ನಿಜವಾಗಿಯೂ?",
+        "malayalam": "ശരിക്കുമോ?"
+      },
+      {
+        "english": "Why?",
+        "tamil": "ஏன்?",
+        "hindi": "क्यों?",
+        "telugu": "ఎందుకు?",
+        "kannada": "ಯಾಕೆ?",
+        "malayalam": "എന്തുകൊണ്ട്?"
+      },
+      {
+        "english": "How?",
+        "tamil": "எப்படி?",
+        "hindi": "कैसे?",
+        "telugu": "ఎలా?",
+        "kannada": "ಹೇಗೆ?",
+        "malayalam": "എങ്ങനെ?"
+      },
+      {
+        "english": "Where?",
+        "tamil": "எங்கே?",
+        "hindi": "कहाँ?",
+        "telugu": "ఎక్కడ?",
+        "kannada": "ಎಲ್ಲಿ?",
+        "malayalam": "എവിടെ?"
+      },
+      {
+        "english": "What?",
+        "tamil": "என்ன?",
+        "hindi": "क्या?",
+        "telugu": "ఏమి?",
+        "kannada": "ಏನು?",
+        "malayalam": "എന്ത്?"
+      },
+      {
+        "english": "When?",
+        "tamil": "எப்போது?",
+        "hindi": "कब?",
+        "telugu": "ఎప్పుడు?",
+        "kannada": "ಯಾವಾಗ?",
+        "malayalam": "എപ്പോഴാണ്?"
+      }
+    ],
+    "Responses": [
+      {
+        "english": "Yes",
+        "tamil": "ஆமா",
+        "hindi": "हाँ",
+        "telugu": "అవును",
+        "kannada": "ಹೌದು",
+        "malayalam": "അതെ"
+      },
+      {
+        "english": "No",
+        "tamil": "இல்லை",
+        "hindi": "नहीं",
+        "telugu": "కాదు",
+        "kannada": "ಇಲ್ಲ",
+        "malayalam": "ഇല്ല"
+      },
+      {
+        "english": "Okay",
+        "tamil": "சரி",
+        "hindi": "ठीक है",
+        "telugu": "సరే",
+        "kannada": "ಸರಿ",
+        "malayalam": "ശരി"
+      },
+      {
+        "english": "Oh, I see!",
+        "tamil": "அப்போ!",
+        "hindi": "अच्छा!",
+        "telugu": "ఆహా!",
+        "kannada": "ಆಹಾ!",
+        "malayalam": "അതേ!"
+      },
+      {
+        "english": "Fine / Alright",
+        "tamil": "நன்றாக இருக்கிறது",
+        "hindi": "ठीक है",
+        "telugu": "బాగుంది",
+        "kannada": "ಚೆನ್ನಾಗಿದೆ",
+        "malayalam": "നന്നായിരിക്കുന്നു"
+      }
+    ],
+    "General Expressions": [
+      {
+        "english": "Generally",
+        "tamil": "பொதுவாக",
+        "hindi": "आम तौर पर",
+        "telugu": "సాధారణంగా",
+        "kannada": "ಸಾಧಾರಣವಾಗಿ",
+        "malayalam": "പൊതുവെ"
+      },
+      {
+        "english": "Coming soon",
+        "tamil": "விரைவில் வருகிறது",
+        "hindi": "जल्द आ रहा है",
+        "telugu": "త్వరలో వస్తుంది",
+        "kannada": "ಶೀಘ್ರದಲ್ಲೇ ಬರುತ್ತದೆ",
+        "malayalam": "വരുന്നു"
+      },
+      {
+        "english": "Little bit",
+        "tamil": "கொஞ்சம்",
+        "hindi": "थोड़ा सा",
+        "telugu": "కొంచెం",
+        "kannada": "ಸ್ವಲ್ಪ",
+        "malayalam": "അൽപം"
+      },
+      {
+        "english": "Ask me",
+        "tamil": "என்னிடம் கேள்",
+        "hindi": "मुझसे पूछो",
+        "telugu": "నన్ను అడుగు",
+        "kannada": "ನನ್ನನ್ನು ಕೇಳಿ",
+        "malayalam": "എന്നോട് ചോദിക്കൂ"
+      },
+      {
+        "english": "Now",
+        "tamil": "இப்போது",
+        "hindi": "अभी",
+        "telugu": "ఇప్పుడే",
+        "kannada": "ಈಗ",
+        "malayalam": "ഇപ്പോൾ"
+      },
+      {
+        "english": "Full",
+        "tamil": "முழு",
+        "hindi": "पूरा",
+        "telugu": "పూర్తి",
+        "kannada": "ಪೂರ್ಣ",
+        "malayalam": "മുഴുവൻ"
+      },
+      {
+        "english": "Available",
+        "tamil": "கிடைக்கும்",
+        "hindi": "उपलब्ध है",
+        "telugu": "లభిస్తుంది",
+        "kannada": "ಲಭ್ಯವಿದೆ",
+        "malayalam": "ലഭ്യമാണ്"
+      },
+      {
+        "english": "In millions",
+        "tamil": "மில்லியன்களில்",
+        "hindi": "लाखों में",
+        "telugu": "మిలియన్లలో",
+        "kannada": "ಮಿಲಿಯನ್ ಗಳಲ್ಲಿ",
+        "malayalam": "മില്ല്യണുകളിൽ"
+      },
+      {
+        "english": "Heard the news",
+        "tamil": "செய்தி கேட்டதா?",
+        "hindi": "खबर सुनी?",
+        "telugu": "వార్త విన్నారా?",
+        "kannada": "ಸುದ್ದಿ ಕೇಳಿದಿರಾ?",
+        "malayalam": "വാർത്ത കേട്ടോ?"
+      }
+    ],
+    "Farewells": [
+      {
+        "english": "Goodbye!",
+        "tamil": "போயிட்டு வரேன்!",
+        "hindi": "अलविदा!",
+        "telugu": "వీడ్కొలు!",
+        "kannada": "ಹೋಗಿ ಬರುವೆ!",
+        "malayalam": "വിട!"
+      },
+      {
+        "english": "I am going",
+        "tamil": "நான் செல்கிறேன்",
+        "hindi": "मैं जा रहा हूँ",
+        "telugu": "నేను వెళ్తున్నాను",
+        "kannada": "ನಾನು ಹೋಗುತ್ತೇನೆ",
+        "malayalam": "ഞാൻ പോകുന്നു"
+      }
+    ]
+  }
+}
