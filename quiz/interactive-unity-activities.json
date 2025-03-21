@@ -1,0 +1,437 @@
+{
+  "title": "cloud_list2",
+  "activities": [
+    {
+      "type": "activity",
+      "title": "Four Seasons",
+      "description": "tbd1",
+      "dropIndicator": "Always",
+      "canvas": {
+        "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2019-07/Whiteboard.png"
+      },
+      "theme": {
+        "image": "https://live.staticflickr.com/564/32465597003_850e751237_z.jpg"
+      },
+      "components": [
+        {
+          "title": "Spring",
+          "description": "",
+          "left": 10.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/flower-2923492_640.png?itok=9YcO3JyB"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Autumn",
+          "description": "",
+          "left": 310.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/maple-leaves-482678_640.png?itok=0x7LN8Ib"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Summer",
+          "description": "",
+          "left": 170.0,
+          "bottom": 140.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/sun-151763_640.png?itok=wbmWdI-c"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Winter",
+          "description": "",
+          "left": 170.0,
+          "bottom": 10.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/snow-160956_640.png?itok=X1u-WgKi"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BEarrow",
+          "description": "",
+          "left": 110.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/arrow_left_to_right.png?itok=VBKS-Ccz"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BParrow",
+          "description": "",
+          "left": 120.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_negative_90/public/2019-07/arrow_left_to_right.png?itok=PBArNEnf"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "PCarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_180/public/2019-07/arrow_left_to_right.png?itok=Tmv-ArlZ"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "CEarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_90/public/2019-07/arrow_left_to_right.png?itok=Ps7MIc6P"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+      ]
+    },
+{
+      "type": "activity",
+      "title": "Water Cycle",
+      "description": "tbd1",
+      "dropIndicator": "Always",
+      "canvas": {
+        "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2019-07/Whiteboard.png"
+      },
+      "theme": {
+        "image": "https://live.staticflickr.com/564/32465597003_850e751237_z.jpg"
+      },
+      "components": [
+        {
+          "title": "Evaporation",
+          "description": "",
+          "left": 10.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/Evaporation.png?itok=SqDzg_n6"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Precipitation",
+          "description": "",
+          "left": 310.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/raincloud-47580_640.png?itok=X7u1ksEh"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Condensation",
+          "description": "",
+          "left": 170.0,
+          "bottom": 140.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/clouds-33139_640.png?itok=O3mXEwdu"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Lake",
+          "description": "",
+          "left": 170.0,
+          "bottom": 10.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/pond-312465_640.png?itok=V2ALolaG"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BEarrow",
+          "description": "",
+          "left": 110.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/arrow_left_to_right.png?itok=VBKS-Ccz"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BParrow",
+          "description": "",
+          "left": 120.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_negative_90/public/2019-07/arrow_left_to_right.png?itok=PBArNEnf"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "PCarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_180/public/2019-07/arrow_left_to_right.png?itok=Tmv-ArlZ"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "CEarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_90/public/2019-07/arrow_left_to_right.png?itok=Ps7MIc6P"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "activity",
+      "title": "Butterfly Life Cycle",
+      "description": "t d2",
+      "dropIndicator": "When Dragging",
+      "canvas": {
+        "image": "http"
+      },
+      "theme": {
+        "image": "https://live.staticflickr.com/564/32465597003_850e751237_z.jpg"
+      },
+      "components": [
+        {
+          "title": "Butterfly",
+          "description": "",
+          "left": 10.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/butterfly-2028591_640.png?itok=OF0XVh7S"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Caterpillar",
+          "description": "",
+          "left": 310.0,
+          "bottom": 80.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/caterpillar-36248_640.png?itok=gtWTIRLF"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Eggs",
+          "description": "",
+          "left": 170.0,
+          "bottom": 140.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/leaf-311715_640.png?itok=3wXkMg1A"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "Pupa",
+          "description": "",
+          "left": 170.0,
+          "bottom": 10.0,
+          "width": 100.0,
+          "height": 100.0,
+          "isVisible": true,
+          "isFixed": false,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/pupa-732369_640.png?itok=OWzEQ5l8"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BEarrow",
+          "description": "",
+          "left": 110.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/android_component/public/2019-07/arrow_left_to_right.png?itok=VBKS-Ccz"
+          },
+          "final": {
+            "image": ""
+          }
+        },
+        {
+          "title": "BParrow",
+          "description": "",
+          "left": 120.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_negative_90/public/2019-07/arrow_left_to_right.png?itok=PBArNEnf"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "PCarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 30.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_180/public/2019-07/arrow_left_to_right.png?itok=Tmv-ArlZ"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+,
+        {
+          "title": "CEarrow",
+          "description": "",
+          "left": 275.0,
+          "bottom": 170.0,
+          "width": 50.0,
+          "height": 50.0,
+          "isVisible": true,
+          "isFixed": true,
+          "first": {
+            "image": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/rotate_90/public/2019-07/arrow_left_to_right.png?itok=Ps7MIc6P"
+          },
+          "final": {
+            "image": ""
+          }
+        }
+      ]
+    }
+  ]
+}
