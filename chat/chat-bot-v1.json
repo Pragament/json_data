@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "label": "Login",
+      "type": "button",
+      "adapterMode": "live_chat",
+      "subtype": "login",
+      "id": 10,
+      "uuid": 10
+    },
+    {
+      "label": "welcome",
+      "type": "imageInline",
+      "subtype": "imageInline",
+      "id": "imageInline",
+      "extra": {
+        "url": "https://placehold.co/600x400.png?text=imageInline"
+      }
+    },
+    {
+      "label": "Pragathi Nagar",
+      "description": "(7AM - 7PM) Zipcode: 500090",
+      "type": "bannerCarts",
+      "subtype": "banner-Carts",
+      "id": "2355",
+      "uuid": "88",
+      "extra": {
+        "subactions": [
+          {
+            "label": "Empty Cart",
+            "description": 0,
+            "type": "view_cart",
+            "subtype": "order",
+            "id": 0,
+            "extra": {
+              "url": "https://placehold.co/600x400.png?text=store_img_url"
+            }
+          },
+          {
+            "label": "slide_item text_slide 2",
+            "type": "slide_item",
+            "subtype": "text_slide",
+            "id": "546"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Orders",
+      "type": "bannerOrders",
+      "subtype": "banner-orders",
+      "id": "banner_orders",
+      "uuid": "74",
+      "extra": {
+        "subactions": [
+          {
+            "label": "Empty Cart",
+            "description": 0,
+            "type": "view_cart",
+            "subtype": "order",
+            "id": 0,
+            "extra": {
+              "url": "https://placehold.co/600x400.png?text=banner_orders"
+            }
+          },
+          {
+            "label": "slide_item text_slide 1",
+            "type": "slide_item",
+            "subtype": "text_slide",
+            "id": "1212412"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Please Update the App from PayStore!",
+      "type": "UX_HIDE_FAB",
+      "subtype": "dummy",
+      "id": "0",
+      "uuid": "0"
+    },
+    {
+      "label": "Please Update the App from PayStore!",
+      "type": "UX_HIDE_BOTTOM_NAV",
+      "subtype": "dummy",
+      "id": "0",
+      "uuid": "0"
+    },
+    {
+      "label": "1change Language",
+      "description": "1change Language description",
+      "type": "user_field",
+      "subtype": "radios",
+      "id": "preferred_langcode",
+      "extra": {
+        "options": {
+          "en": "English",
+          "te": "తెలుగు",
+          "hi": "हिंदी"
+        }
+      }
+    },
+    {
+      "label": "textfield Language",
+      "description": "textfield Language description",
+      "type": "user_field",
+      "subtype": "textfield",
+      "id": "textfield_langcode"
+    }
+  ],
+  "message": ""
+}
