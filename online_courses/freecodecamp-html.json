@@ -1,0 +1,2170 @@
+{
+  "chapters": [
+    {
+      "name": "Welcome to freeCodeCamp",
+      "dashedName": "lecture-welcome-to-freecodecamp",
+      "topics": [
+        {
+          "id": "6734ddabad59e593a49afafe",
+          "title": "Welcome Message from Quincy"
+        },
+        {
+          "id": "6734e2c5780912abd874e79c",
+          "title": "How Does the Certification Process Work?"
+        },
+        {
+          "id": "6763500bd5a85d5898cc21a9",
+          "title": "How do Most People Learn Effectively?"
+        },
+        {
+          "id": "6734e2dcb965e5ac0ea38e0f",
+          "title": "How Can You Build Effective Learning Habits and Work Smarter?"
+        }
+      ]
+    },
+    {
+      "name": "What is HTML?",
+      "dashedName": "lecture-what-is-html",
+      "topics": [
+        {
+          "id": "66f6db08d55022680a3cfbc9",
+          "title": "What Is HTML, and What Role Does It Play on the Web?"
+        },
+        {
+          "id": "6708143cab2b583ecd3324f5",
+          "title": "What Are Attributes, and How Do They Work?"
+        },
+        {
+          "id": "670838977810401844af6fe0",
+          "title": "What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?"
+        },
+        {
+          "id": "670838e914096b194b0c51aa",
+          "title": "What Is an HTML Boilerplate, and Why Is It Important?"
+        },
+        {
+          "id": "670839051794aa19fcef6dc8",
+          "title": "What Is UTF-8 Character Encoding, and Why Is It Needed?"
+        }
+      ]
+    },
+    {
+      "name": "HTML Fundamentals",
+      "dashedName": "lecture-html-fundamentals",
+      "topics": [
+        {
+          "id": "670803abcb3e980233da4768",
+          "title": "What are Div Elements and When Should You Use Them?"
+        },
+        {
+          "id": "6708382cf088b216580a9ff1",
+          "title": "What Are IDs and Classes, and When Should You Use Them?"
+        },
+        {
+          "id": "67083868d5fdcb17bf8c14bd",
+          "title": "What Are HTML Entities, and What Are Some Common Examples?"
+        },
+        {
+          "id": "670838b10ee87a18e5faff62",
+          "title": "What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?"
+        },
+        {
+          "id": "67083952f800051a8a21fcfd",
+          "title": "What Is the Role of the Meta Description, and How Does It Affect SEO?"
+        },
+        {
+          "id": "6708396caa00e11b597b3365",
+          "title": "What Is the Role of Open Graph Tags, and How Do They Affect SEO?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Media",
+      "dashedName": "lecture-working-with-media",
+      "topics": [
+        {
+          "id": "6716743531fc9a797351c21e",
+          "title": "What Are Replaced Elements, and What Are Some Examples?"
+        },
+        {
+          "id": "67167835def3588873f339c6",
+          "title": "What Are Common Ways to Optimize Media Assets?"
+        },
+        {
+          "id": "6716823876aa22a68ba3e2ec",
+          "title": "What Are the Different Types of Image Licenses, and How Do They Work?"
+        },
+        {
+          "id": "6716825aff3434a71fdc3e99",
+          "title": "What Are SVGs, and When Should You Use Them?"
+        },
+        {
+          "id": "67168278ac6df6a799555db5",
+          "title": "What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?"
+        },
+        {
+          "id": "671682b3983489a819507553",
+          "title": "How Do You Embed Videos onto Your Page Using the iframe Element?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Links",
+      "dashedName": "lecture-working-with-links",
+      "topics": [
+        {
+          "id": "6716744f7245947a3dd60009",
+          "title": "What Are the Different Target Attribute Types, and How Do They Work?"
+        },
+        {
+          "id": "671682dd88e461a8e2620f38",
+          "title": "What Is the Difference Between Absolute and Relative Paths?"
+        },
+        {
+          "id": "6716830dbaf95da9564f2e3b",
+          "title": "What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?"
+        },
+        {
+          "id": "67168323932391a9ee0d3a9e",
+          "title": "What Are the Different Link States, and Why Are They Important?"
+        }
+      ]
+    },
+    {
+      "name": "Importance of Semantic HTML",
+      "dashedName": "lecture-importance-of-semantic-html",
+      "topics": [
+        {
+          "id": "67298243760ae980de5266db",
+          "title": "Why Should You Care About Semantic HTML?"
+        },
+        {
+          "id": "672985445d7da807c6b4f406",
+          "title": "Why is it Important to Have Good Structural Hierarchy?"
+        },
+        {
+          "id": "672990ecf71a852804ababe7",
+          "title": "What Is the Difference Between Presentational and Semantic HTML?"
+        },
+        {
+          "id": "6729959bf9c8e835f46b3f78",
+          "title": "When Should You Use the Emphasis Element Over the Idiomatic Text Element?"
+        },
+        {
+          "id": "672995ac85fd943657c2ede5",
+          "title": "When Should You Use the Strong Element Over the Bring Attention To Element?"
+        },
+        {
+          "id": "672995bda6c67e369aaf8588",
+          "title": "What Are Description Lists, and When Should You Use Them?"
+        },
+        {
+          "id": "672995c9e6f69436dbcccc79",
+          "title": "How Do Block and Inline Quotes Work in HTML?"
+        },
+        {
+          "id": "672995d673bd3237200b9e7c",
+          "title": "How Do You Display Abbreviations and Acronyms in HTML?"
+        },
+        {
+          "id": "672995e43674fb3775b9ec5d",
+          "title": "How Do You Display Addresses in HTML?"
+        },
+        {
+          "id": "672995f16ed97837b365a9f6",
+          "title": "How Do You Display Times and Dates in HTML?"
+        },
+        {
+          "id": "672995ffdfd2f337f5f215f8",
+          "title": "How Do You Display Mathematical Equations and Chemical Formulas in HTML?"
+        },
+        {
+          "id": "6729960ed6e2ca3825940e97",
+          "title": "How Do You Represent Computer Code in HTML?"
+        },
+        {
+          "id": "6729963b1ab11638753cf082",
+          "title": "What Are the U, S, and Ruby Elements Used For, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Forms",
+      "dashedName": "lecture-working-with-forms",
+      "topics": [
+        {
+          "id": "6729974ec29be33cb00eb54d",
+          "title": "How Do Forms, Labels, and Inputs Work in HTML?"
+        },
+        {
+          "id": "672a4cd3d59756726657efb8",
+          "title": "What Are the Different Types of Buttons, and When Should You Use Them?"
+        },
+        {
+          "id": "672a4ce6dab9eb735828b48b",
+          "title": "What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?"
+        },
+        {
+          "id": "672a4cf959443073a6774908",
+          "title": "What Are the Different Form States, and Why Are They Important?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Tables",
+      "dashedName": "lecture-working-with-tables",
+      "topics": [
+        {
+          "id": "672a4e04a24858778f57ebfe",
+          "title": "What Are HTML Tables Used For, and What Should They Not Be Used For?"
+        }
+      ]
+    },
+    {
+      "name": "Working with HTML Tools",
+      "dashedName": "lecture-working-with-html-tools",
+      "topics": [
+        {
+          "id": "672a4fa7d335bc7cfb63a392",
+          "title": "What Is an HTML Validator, and How Can It Help You Debug Your Code?"
+        },
+        {
+          "id": "672a511bb408ec81c592eb68",
+          "title": "How to Use the DOM Inspector and DevTools to Debug and Build Your Projects"
+        }
+      ]
+    },
+    {
+      "name": "Importance of Accessibility and Good HTML Structure",
+      "dashedName": "lecture-importance-of-accessibility-and-good-html-structure",
+      "topics": [
+        {
+          "id": "672a51e9e4fd8b8552eeb758",
+          "title": "What Is Accessibility?"
+        },
+        {
+          "id": "672a5310d7e46b8a34d48dfd",
+          "title": "What Are Screen Readers, and Who Uses Them?"
+        },
+        {
+          "id": "672a5326a7606a8a766cbedb",
+          "title": "What Are Large Text or Braille Keyboards, and Who Uses Them?"
+        },
+        {
+          "id": "672a533e6041c28ad680eb8f",
+          "title": "What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?"
+        },
+        {
+          "id": "672a5361ef88158b25fbfba7",
+          "title": "What Are Screen Magnifiers Used For?"
+        },
+        {
+          "id": "672a536f8386288b9ed0a154",
+          "title": "What Is Voice Recognition Software Used For?"
+        },
+        {
+          "id": "672a537f05f3798bd4f57d2d",
+          "title": "What Are Some Common Accessibility Auditing Tools to Use?"
+        },
+        {
+          "id": "672a538c029f9e8c1687460e",
+          "title": "How Does Proper Heading Level Structure Affect Accessibility?"
+        },
+        {
+          "id": "672a539b887ec68c593cdc4b",
+          "title": "What Are Best Practices for Tables and Accessibility?"
+        },
+        {
+          "id": "672a53ae8f1ad28c8a1ed0f0",
+          "title": "Why Is It Important for Inputs to Have an Associated Label?"
+        },
+        {
+          "id": "672a53cf67140d8cd85d4b0f",
+          "title": "What Is the Purpose of WAI-ARIA, and How Does It Work?"
+        },
+        {
+          "id": "672a549231b8728f7171ed9d",
+          "title": "What Are ARIA Roles?"
+        },
+        {
+          "id": "672a54a6675c168faa84252d",
+          "title": "What Are the Roles of the aria-label and aria-labelledby Attributes?"
+        },
+        {
+          "id": "672a54bc58319c8fe6f78ad4",
+          "title": "What Is the aria-hidden Attribute, and How Does It Work?"
+        },
+        {
+          "id": "672a54ce90c19e9038f481d7",
+          "title": "What Is the aria-expanded Attribute, and How Does It Work?"
+        },
+        {
+          "id": "672a54dff9dc439089f1a219",
+          "title": "What Is the aria-live Attribute, and How Does It Work?"
+        },
+        {
+          "id": "672a54f29d783890d1f94740",
+          "title": "What Are Some Common ARIA States Used on Custom Control Elements?"
+        },
+        {
+          "id": "672a5507d857a891139abc7f",
+          "title": "What Is the aria-controls Attribute, and How Does It Work?"
+        },
+        {
+          "id": "672a551975938a916c74802c",
+          "title": "What Is the aria-describedby Attribute, and How Does It Work?"
+        },
+        {
+          "id": "672a55b5c0c14493328fe36e",
+          "title": "When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text?"
+        },
+        {
+          "id": "672a55dd1d86bc939606e204",
+          "title": "What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?"
+        },
+        {
+          "id": "672a55eb7791559421ff0cd3",
+          "title": "What Are Good Ways to Make Audio and Video Content Accessible?"
+        },
+        {
+          "id": "672a55fbc2d95a9453151caf",
+          "title": "What Are Some Ways to Make Web Applications Keyboard Accessible?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Computer, Internet, and Tooling Basics",
+      "dashedName": "lecture-understanding-computer-internet-and-tooling-basics",
+      "topics": [
+        {
+          "id": "672aa578a2129554d4675049",
+          "title": "What Are the Basic Parts of a Computer?"
+        },
+        {
+          "id": "672ab82c1a9bbd0e3aabc39d",
+          "title": "How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices"
+        },
+        {
+          "id": "672ab83c4297910eade53c2e",
+          "title": "What Are the Different Types of Internet Service Providers?"
+        },
+        {
+          "id": "672ab849aa1ef70eefd29364",
+          "title": "What Are Safe Ways to Sign Into Your Computer?"
+        },
+        {
+          "id": "672ab8573f32480f192aaae1",
+          "title": "What Are the Different Types of Tools Professional Developers Use?"
+        }
+      ]
+    },
+    {
+      "name": "Working with File Systems",
+      "dashedName": "lecture-working-with-file-systems",
+      "topics": [
+        {
+          "id": "672aa58c389eb9565978495d",
+          "title": "How Can You Use File Management Applications on Your Computer?"
+        },
+        {
+          "id": "672ac37104dc2530a769e6a4",
+          "title": "What Are Best Practices for Naming Files for Web Applications?"
+        },
+        {
+          "id": "672ac39a22b0cc30eb8fd65e",
+          "title": "What Are Best Practices for File/Folder Organization in Web Applications?"
+        },
+        {
+          "id": "672ac3c5d0e9fd31835ff772",
+          "title": "How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?"
+        },
+        {
+          "id": "672ac3f129efbf327742eb33",
+          "title": "How Can You Search for Files and Folders on Your Computer?"
+        },
+        {
+          "id": "672ac403a9ba7732b31c6480",
+          "title": "What Are Some Common File Types You Will Work With in Web Applications?"
+        }
+      ]
+    },
+    {
+      "name": "Browsing the Web Effectively",
+      "dashedName": "lecture-browsing-the-web-effectively",
+      "topics": [
+        {
+          "id": "672aa5bd69657d56ab49ec8a",
+          "title": "What Are Some of the Common Web Browsers Available Today and How Do You Install One?"
+        },
+        {
+          "id": "672ac96491845f43ea9a26d7",
+          "title": "What Is the Difference Between a Web Browser, a Website, and a Search Engine?"
+        },
+        {
+          "id": "672ac9705b07a64439b73b59",
+          "title": "How to Use a Search Engine Effectively to Achieve Optimal Results"
+        }
+      ]
+    },
+    {
+      "name": "What Is CSS?",
+      "dashedName": "lecture-what-is-css",
+      "topics": [
+        {
+          "id": "672aa5e1f8b935577acfb2b9",
+          "title": "What Is CSS, and What Is Its Role on the Web?"
+        },
+        {
+          "id": "672acbbe2891564c4e316164",
+          "title": "What Is the Basic Anatomy of a CSS Rule?"
+        },
+        {
+          "id": "672acbce8163374c903253c9",
+          "title": "What Is the Meta Viewport Element Used For?"
+        },
+        {
+          "id": "672acbdd06b44c4cd3bf8713",
+          "title": "What Are Some Default Browser Styles Applied to HTML?"
+        },
+        {
+          "id": "672acbf7490c054d213a8c1f",
+          "title": "What Are Inline, Internal, and External CSS, and When Should You Use Each One?"
+        },
+        {
+          "id": "672acc03c257524d6a5151e8",
+          "title": "How Do Width and Height Work?"
+        },
+        {
+          "id": "672acc100d59d24da7b4e09c",
+          "title": "What Are the Different Types of CSS Combinators?"
+        },
+        {
+          "id": "672acc1e24c1e54df5ad89bd",
+          "title": "What Is the Difference Between Inline and Block-Level Elements in CSS?"
+        },
+        {
+          "id": "672acc3f6f3e3c4e31ec3e12",
+          "title": "How Does Inline-Block Work, and How Does It Differ from Inline and Block Elements?"
+        },
+        {
+          "id": "672acc538e6ef24e9dd3c94f",
+          "title": "What Are Margins and Padding, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "CSS Specificity, the Cascade Algorithm, and Inheritance",
+      "dashedName": "lecture-css-specificity-the-cascade-algorithm-and-inheritance",
+      "topics": [
+        {
+          "id": "672aa62178d5ff57fe4f98e0",
+          "title": "What Is CSS Specificity, and the Specificity for Inline, Internal, and External CSS?"
+        },
+        {
+          "id": "672b8e7eca8a4322306d15f8",
+          "title": "What Is the Universal Selector, and What Is Its Specificity?"
+        },
+        {
+          "id": "672b8e8adcc27e235a154231",
+          "title": "What Is the Specificity for Type Selectors?"
+        },
+        {
+          "id": "672b8e9892eafe238d6513a5",
+          "title": "What Is the Specificity for Class Selectors?"
+        },
+        {
+          "id": "672b8ea434ceac23cc90f337",
+          "title": "What Is the Specificity for ID Selectors?"
+        },
+        {
+          "id": "672b8f1399cabc2406c3227f",
+          "title": "What Is the important Keyword, and What Are the Best Practices for Using It?"
+        },
+        {
+          "id": "672b8f23511adf25646b4236",
+          "title": "How Does the Cascade Algorithm Work at a High Level?"
+        },
+        {
+          "id": "672b8f382370e025aadd3f4e",
+          "title": "How Does Inheritance Work with CSS at a High Level?"
+        }
+      ]
+    },
+    {
+      "name": "Styling Lists and Links",
+      "dashedName": "lecture-styling-lists-and-links",
+      "topics": [
+        {
+          "id": "672aa6441bcd3758e9f52ae0",
+          "title": "How Do You Space List Items Using margin or line-height?"
+        },
+        {
+          "id": "672b951b1bf78038b1a2a0e7",
+          "title": "How Do the Different list-style Properties Work?"
+        },
+        {
+          "id": "672b952d3a5c603908841971",
+          "title": "Why Are Default Link Styles Important for Usability on the Web?"
+        },
+        {
+          "id": "672b9538c25634394ceb7b8f",
+          "title": "How Do You Style the Different Link States?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Backgrounds and Borders",
+      "dashedName": "lecture-working-with-backgrounds-and-borders",
+      "topics": [
+        {
+          "id": "672aa669960f6a596081fcad",
+          "title": "How Do Background Image Size, Repeat, Position, and Attachment Work?"
+        },
+        {
+          "id": "672b98be592cfb451f651451",
+          "title": "What Is a Background Gradient, and How Does It Work?"
+        },
+        {
+          "id": "672b98cd77b6b7456b6ef2de",
+          "title": "What Are Some Accessibility Considerations for Backgrounds?"
+        },
+        {
+          "id": "672b98db3bcdd545ab3b3c73",
+          "title": "What Are the Different Ways You Can Add Borders Around Images?"
+        }
+      ]
+    },
+    {
+      "name": "User Interface Design Fundamentals",
+      "dashedName": "lecture-user-interface-design-fundamentals",
+      "topics": [
+        {
+          "id": "672aa6c9e379285acca5a2aa",
+          "title": "What Are Common Design Terms to Help You Communicate with Designers?"
+        },
+        {
+          "id": "672baa97f2990e6631d522e7",
+          "title": "How Do You Create Good Background and Foreground Contrast in Your Designs?"
+        },
+        {
+          "id": "672baaa62d4b46667a8ac869",
+          "title": "What Is the Importance of Good Visual Hierarchy in Design?"
+        },
+        {
+          "id": "672baab2a0c3df66ad987b94",
+          "title": "How Does Scale Work in Design?"
+        },
+        {
+          "id": "672baabf16290b66e6b79a39",
+          "title": "How Does Alignment Work in Design?"
+        },
+        {
+          "id": "672baacb7f2f446728e77efe",
+          "title": "What Is the Importance of Whitespace in Design?"
+        },
+        {
+          "id": "672baad7bbc4f86762ca173e",
+          "title": "What Are Best Practices for Working with Images in Your Designs?"
+        },
+        {
+          "id": "672baae11d06c867a16f64e1",
+          "title": "What Is Progressive Enhancement?"
+        }
+      ]
+    },
+    {
+      "name": "User-Centered Design",
+      "dashedName": "lecture-user-centered-design",
+      "topics": [
+        {
+          "id": "672aa6ee9011775b27e23399",
+          "title": "What Is User-Centered Design?"
+        },
+        {
+          "id": "672bafd715f6ba77d57f3ec0",
+          "title": "What Are User Requirements, User Research, and Testing?"
+        },
+        {
+          "id": "672bafe4ef812b78696b0e27",
+          "title": "What Are Best Practices for Designing a Dark Mode Feature?"
+        },
+        {
+          "id": "672baff13bc5b3789691c75c",
+          "title": "What Are Best Practices for Designing Breadcrumbs?"
+        },
+        {
+          "id": "672baffc684be178dd02fa06",
+          "title": "What Are Best Practices for Designing Cards?"
+        },
+        {
+          "id": "672bb009952c7a7904a750cb",
+          "title": "What Are Best Practices for Designing Infinite Scrolls?"
+        },
+        {
+          "id": "672bb015cfc889794359c4e0",
+          "title": "What Are Best Practices for Designing Modal Dialogs?"
+        },
+        {
+          "id": "672bb02009ffc0797ca567ab",
+          "title": "What Are Best Practices for Progress Indication on Forms, Registration, and Setup?"
+        },
+        {
+          "id": "672bb02ecb230779bbbaccd9",
+          "title": "What Are Best Practices for Designing Shopping Carts?"
+        },
+        {
+          "id": "672bb03999f39379f67d8972",
+          "title": "What Is Progressive Disclosure?"
+        },
+        {
+          "id": "672bb04476b1997a1da8b79b",
+          "title": "What Is Deferred and Lazy Registration?"
+        }
+      ]
+    },
+    {
+      "name": "Common Design Tools",
+      "dashedName": "lecture-common-design-tools",
+      "topics": [
+        {
+          "id": "672aa7005c24e45bbd53b20d",
+          "title": "What Are Design Briefs and How Do Developers Work with Them?"
+        },
+        {
+          "id": "672bb619f0d4538d0528760d",
+          "title": "What Are Some Common Tools Developers Should Know About That Are Used by Designers in the Industry?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Relative and Absolute Units",
+      "dashedName": "lecture-working-with-relative-and-absolute-units",
+      "topics": [
+        {
+          "id": "672aa7194614b55c16b879a1",
+          "title": "What Are Absolute Units in CSS, and When Should You Use Them?"
+        },
+        {
+          "id": "672bb7d659f0089377a91eab",
+          "title": "What Are Percentages in CSS, and When Should You Use Them?"
+        },
+        {
+          "id": "672bb7f08b58df93ed2a8768",
+          "title": "What Are ems and rems in CSS, and When Should You Use Them?"
+        },
+        {
+          "id": "672bb83c3a9906945536cff2",
+          "title": "What Are vh and vw Units, and When Should You Use Them?"
+        },
+        {
+          "id": "672bb851b068e3954a05b9b1",
+          "title": "What Is the calc() Function, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Pseudo-Classes and Pseudo-Elements in CSS",
+      "dashedName": "lecture-working-with-pseudo-classes-and-pseudo-elements-in-css",
+      "topics": [
+        {
+          "id": "672aa74f761c065c9828a95e",
+          "title": "What Are Pseudo-classes, and How Do They Work?"
+        },
+        {
+          "id": "672bbe9171a5cca90f2edeea",
+          "title": "What Are Examples of Element User Action Pseudo-classes?"
+        },
+        {
+          "id": "672bbe9d6ec03ea954d92ff7",
+          "title": "What Are Examples of Input Pseudo-classes?"
+        },
+        {
+          "id": "672bbeaa5afdc5a98d5ab8ff",
+          "title": "What Are Examples of Location Pseudo-classes?"
+        },
+        {
+          "id": "672bbeb6eefd7ca9c003ea00",
+          "title": "What Are Examples of Tree-structural Pseudo-classes?"
+        },
+        {
+          "id": "672bbec3b86dbdaa07a5a5be",
+          "title": "What Are Examples of Functional Pseudo-classes?"
+        },
+        {
+          "id": "672bbed37c6f51aa3a15e78c",
+          "title": "What Are Pseudo-elements, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Colors in CSS",
+      "dashedName": "lecture-working-with-colors-in-css",
+      "topics": [
+        {
+          "id": "672aa7678e05e35d42e33522",
+          "title": "What Is Color Theory in Design?"
+        },
+        {
+          "id": "672bc4ff5e7a4bbdee8ba013",
+          "title": "What Are Named Colors in CSS, and When to Use Them?"
+        },
+        {
+          "id": "672bc51370c789be459186b4",
+          "title": "What Is the RGB Color Model, and How Does the RGB Function Work in CSS?"
+        },
+        {
+          "id": "672bc523324694be91d90d96",
+          "title": "What Is the HSL Color Model, and How Does the HSL Function Work in CSS?"
+        },
+        {
+          "id": "672bc5344330d7bee2f9c2ed",
+          "title": "What Are Hex Codes, and How Do They Work in CSS?"
+        },
+        {
+          "id": "672bc544196a17bf28594e64",
+          "title": "What Are Linear and Radial Gradients, and How Do They Work in CSS?"
+        }
+      ]
+    },
+    {
+      "name": "Best Practices for Styling Forms",
+      "dashedName": "lecture-best-practices-for-styling-forms",
+      "topics": [
+        {
+          "id": "672aa791227e755da64cf240",
+          "title": "What Are Some Best Practices for Styling Text Inputs?"
+        },
+        {
+          "id": "672bc9d9eecb65cdf63491de",
+          "title": "When Should You Use appearance: none to Deal with Issues Styling Search Inputs and Checkboxes?"
+        },
+        {
+          "id": "672bca660aa9f9ce9b2b2787",
+          "title": "What Are Common Issues When Styling Special Input Elements?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Transforms, Overflow, and Filters",
+      "dashedName": "lecture-working-with-css-transforms-overflow-and-filters",
+      "topics": [
+        {
+          "id": "672aa7e03c2e365e906e5733",
+          "title": "What Is Overflow in CSS, and How Does It Work?"
+        },
+        {
+          "id": "672bcc8ccc976fd791610f43",
+          "title": "What Is the CSS Transform Property, and How Does It Work?"
+        },
+        {
+          "id": "672bcc9c4a6dd6d7dd3e6357",
+          "title": "What Is the CSS Box Model, and How Does It Work?"
+        },
+        {
+          "id": "672bccae6e556cd81cef6af2",
+          "title": "What Is Margin Collapsing, and How Does It Work?"
+        },
+        {
+          "id": "672bccc8ea33bad87abb3c56",
+          "title": "What Is the Difference Between content-box and border-box?"
+        },
+        {
+          "id": "672bccdb8f1823d8c60f914c",
+          "title": "What Is a CSS Reset, and What Are Some Common Examples?"
+        },
+        {
+          "id": "672bccebe1fc82d911c3f078",
+          "title": "What Is the CSS Filter Property, and What Are Common Examples?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Flexbox",
+      "dashedName": "lecture-working-with-css-flexbox",
+      "topics": [
+        {
+          "id": "672aa7f7284b235f46f7d4e9",
+          "title": "What Is CSS Flexbox, and When Should You Use It?"
+        },
+        {
+          "id": "672bd658c0e190f674a5e057",
+          "title": "What Are Some Common Flex Properties, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Fonts",
+      "dashedName": "lecture-working-with-css-fonts",
+      "topics": [
+        {
+          "id": "672aa80bc17f355fabd2e9e8",
+          "title": "What Are the Fundamentals of Typography?"
+        },
+        {
+          "id": "672bd807c49548fc9be66aca",
+          "title": "What Are Some Best Practices for Working with Typography in Your Designs?"
+        },
+        {
+          "id": "672bd814105a0ffcf36f9233",
+          "title": "What Are Font Families and How Do They Work?"
+        },
+        {
+          "id": "672bd81ee07c43fd2070f0fe",
+          "title": "What Are Web Safe Fonts?"
+        },
+        {
+          "id": "672bd834cedccefd5939a913",
+          "title": "What Is the @font-face At-Rule, and How Does It Work?"
+        },
+        {
+          "id": "672bd8453d1371fdb1510fe5",
+          "title": "How Do You Work with External Fonts Like Font Squirrel and Google Fonts?"
+        },
+        {
+          "id": "672bd853c985cdfdeb32f4f9",
+          "title": "What Is the text-shadow Property, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Best Practices for Accessibility and CSS",
+      "dashedName": "lecture-best-practices-for-accessibility-and-css",
+      "topics": [
+        {
+          "id": "672aa82768e00d600305afc0",
+          "title": "What Are Some Tools to Check for Good Color Contrast on Sites?"
+        },
+        {
+          "id": "672c35a79fa53e00de9f2a49",
+          "title": "What Are Best Practices for Hiding Content So It Doesn't Become Inaccessible?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding How to Work with Floats and Positioning in CSS",
+      "dashedName": "lecture-understanding-how-to-work-with-floats-and-positioning-in-css",
+      "topics": [
+        {
+          "id": "672aa86da9937560d3dfe3d6",
+          "title": "What Are Common Use Cases for Using Floats, and How Do They Work?"
+        },
+        {
+          "id": "672c3a84fb8d4613776cc99e",
+          "title": "What Is Relative Positioning, and How Does This Differ from the Default Static Positioning?"
+        },
+        {
+          "id": "672c3a8fac7c5613b4bb75de",
+          "title": "What Is Absolute Positioning, and How Does It Work?"
+        },
+        {
+          "id": "672c3a9d32c56113fcaedf24",
+          "title": "What Is Fixed and Sticky Positioning, and How Does It Differ from Absolute Positioning?"
+        },
+        {
+          "id": "672c3aa9bc3a481425cb52b3",
+          "title": "What Is the Z-Index Property, and How Does It Work to Control the Stacking of Positioned Elements?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Attribute Selectors",
+      "dashedName": "lecture-working-with-attribute-selectors",
+      "topics": [
+        {
+          "id": "672aa840de72b3607bba4bed",
+          "title": "What Is the Attribute Selector, and How Can It Be Used to Target Links with the href and title Attributes?"
+        },
+        {
+          "id": "672c37498952920879c43de9",
+          "title": "How to Use the Attribute Selector to Target Elements with the lang and data-lang Attributes?"
+        },
+        {
+          "id": "672c375857128708d04d0e22",
+          "title": "How to Use the Attribute Selector to Target Ordered List Elements with the type Attribute?"
+        }
+      ]
+    },
+    {
+      "name": "Best Practices for Responsive Web Design",
+      "dashedName": "lecture-best-practices-for-responsive-web-design",
+      "topics": [
+        {
+          "id": "672aa8873d4e25618870764f",
+          "title": "What Is Responsive Web Design, and What Is Its Relationship to Tools Like CSS Grid and Flexbox?"
+        },
+        {
+          "id": "672cf05c3ad533eabe1e8197",
+          "title": "How Do Media Queries Work, and What Are Some Common Media Types and Features?"
+        },
+        {
+          "id": "672cf07a2b9796eb49719e03",
+          "title": "What Are Media Breakpoints, and What Are Common Breakpoints in Modern Design?"
+        },
+        {
+          "id": "672cf06c8f46f9eb04db9832",
+          "title": "What Is the Mobile First Approach in Responsive Web Design?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Variables",
+      "dashedName": "lecture-working-with-css-variables",
+      "topics": [
+        {
+          "id": "672aa8985acb7361e656f94c",
+          "title": "What Are CSS Custom Properties, and How Do They Work?"
+        },
+        {
+          "id": "672cf3ca326da9f63683e236",
+          "title": "What Is the @property Rule, and How Does It Work with Fallbacks?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Grid",
+      "dashedName": "lecture-working-with-css-grid",
+      "topics": [
+        {
+          "id": "672aa8ac4631d1623ec5cd86",
+          "title": "What Is CSS Grid, and How Does It Differ from Flexbox?"
+        },
+        {
+          "id": "673226732b19aa1cacd0a75c",
+          "title": "How Can You Create Flexible Grids with the fr Unit?"
+        },
+        {
+          "id": "6732267ecab2151ced471cd4",
+          "title": "How Can You Create Gaps Between Tracks in a Grid?"
+        },
+        {
+          "id": "6732268d05c3661d32a0fee8",
+          "title": "How Can You Repeat Track Listings in a Grid Layout?"
+        },
+        {
+          "id": "6732269a7aa2ca1d6b6574fe",
+          "title": "What Is the Difference Between an Implicit and Explicit Grid?"
+        },
+        {
+          "id": "673226a62eb2121da41a3d68",
+          "title": "What Is the minmax() Function and How Does It Work?"
+        },
+        {
+          "id": "673226afcd33991dd751937a",
+          "title": "How Do the grid-column and grid-row Properties Work?"
+        },
+        {
+          "id": "673226b97d4a731e0577ae93",
+          "title": "How Can You Position Items on the Grid Using the grid-template-areas Property?"
+        }
+      ]
+    },
+    {
+      "name": "Debugging CSS",
+      "dashedName": "lecture-debugging-css",
+      "topics": [
+        {
+          "id": "672aa8c1ad423562a38b484d",
+          "title": "How Can You Use the DevTools Inspection Tool and CSS Validators to Debug Your CSS?"
+        }
+      ]
+    },
+    {
+      "name": "Animations and Accessibility",
+      "dashedName": "lecture-animations-and-accessibility",
+      "topics": [
+        {
+          "id": "672aa8d65995be62ef1c7515",
+          "title": "What Are CSS Animations, and How Do They Work?"
+        },
+        {
+          "id": "672cf764cf55a70433590def",
+          "title": "What Are Accessibility Concerns Around Using Animations, and How Can prefers-reduced-motion Help?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Code Editors and IDE's",
+      "dashedName": "lecture-working-with-code-editors-and-ides",
+      "topics": [
+        {
+          "id": "672d26269456511aa3db614d",
+          "title": "What Is a Code Editor and IDE?"
+        },
+        {
+          "id": "672d45583fd75a504136fbbb",
+          "title": "How to Install Visual Studio Code onto Your Computer"
+        },
+        {
+          "id": "672d45651d83b450801efb3a",
+          "title": "How to Create a Project and Run Your Code Locally in VS Code"
+        },
+        {
+          "id": "672d456f4ac35950b300e93f",
+          "title": "What Are Several Useful Keyboard Shortcuts for Maximizing Productivity in VS Code?"
+        },
+        {
+          "id": "672d457bcdd8b350ec2b6254",
+          "title": "What Are Some Good VS Code Extensions You Can Use in Your Editor?"
+        }
+      ]
+    },
+    {
+      "name": "Introduction to JavaScript",
+      "dashedName": "lecture-introduction-to-javascript",
+      "topics": [
+        {
+          "id": "672d26385dbe73203c4dac81",
+          "title": "What Is JavaScript, and How Does It Work with HTML and CSS?"
+        },
+        {
+          "id": "672d496eca926b5df8176a67",
+          "title": "What Is a Data Type, and What Are the Different Data Types in JavaScript?"
+        },
+        {
+          "id": "672d497cb1a1675e47bf7ea1",
+          "title": "What Are Variables, and What Are Guidelines for Naming JavaScript Variables?"
+        },
+        {
+          "id": "672d49959621885e9d3e672c",
+          "title": "How Do let and const Work Differently When It Comes to Variable Declaration, Assignment, and Reassignment?"
+        },
+        {
+          "id": "672d49a5cf43945ee09e5fba",
+          "title": "What Is a String in JavaScript, and What Is String Immutability?"
+        },
+        {
+          "id": "672d49b2fb76df5f1d6117af",
+          "title": "What Is String Concatenation, and How Can You Concatenate Strings with Variables?"
+        },
+        {
+          "id": "672d49c4e899345f5b33c24c",
+          "title": "What Is console.log Used For, and How Does It Work?"
+        },
+        {
+          "id": "672d49d93b54b85faa4dbad7",
+          "title": "What Is the Role of Semicolons in JavaScript, and Programming in General?"
+        },
+        {
+          "id": "672d49e65a1c855fe7bb3fdb",
+          "title": "What Are Comments in JavaScript, and When Should You Use Them?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Data Types",
+      "dashedName": "lecture-working-with-data-types",
+      "topics": [
+        {
+          "id": "672d264645e289208e562f10",
+          "title": "What Is Dynamic Typing in JavaScript, and How Does It Differ from Statically Typed Languages?"
+        },
+        {
+          "id": "6732518a8627876f4fcd18a4",
+          "title": "How Does the typeof Operator Work, and What Is the typeof null Bug in JavaScript?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Strings in JavaScript",
+      "dashedName": "lecture-working-with-strings-in-javascript",
+      "topics": [
+        {
+          "id": "672d2654f78cbf20e0ba4501",
+          "title": "What Is Bracket Notation, and How Do You Access Characters from a String?"
+        },
+        {
+          "id": "673263df0eb568a7b450f2fc",
+          "title": "How Do You Create a Newline in Strings and Escape Strings?"
+        },
+        {
+          "id": "673263d58da27ea7809963bf",
+          "title": "What Are Template Literals, and What Is String Interpolation?"
+        },
+        {
+          "id": "673263e80dd43da7df3ae565",
+          "title": "How Can You Find the Position of a Substring in a String?"
+        },
+        {
+          "id": "673263f4a5899da8124542fd",
+          "title": "What Is the Prompt Method, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Common String Methods",
+      "dashedName": "lecture-working-with-common-string-methods",
+      "topics": [
+        {
+          "id": "672d266034b5242126271995",
+          "title": "What Is ASCII, and How Does It Work with charCodeAt() and fromCharCode()?"
+        },
+        {
+          "id": "67326c0d7bef01c539120766",
+          "title": "How Can You Test if a String Contains a Substring?"
+        },
+        {
+          "id": "67326c15b3b2f0c5827927cc",
+          "title": "How Can You Extract a Substring from a String?"
+        },
+        {
+          "id": "67326c1fdaf9c0c5ad1a2589",
+          "title": "How Can You Change the Casing for a String?"
+        },
+        {
+          "id": "67326c29dcd98fc5ecc49779",
+          "title": "How Can You Replace Parts of a String with Another?"
+        },
+        {
+          "id": "67326c3392068ec6184a0c95",
+          "title": "How Can You Repeat a String x Number of Times?"
+        },
+        {
+          "id": "67326c3c3ab931c644cea05b",
+          "title": "How Can You Trim Whitespace from a String?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Numbers, Booleans, and the Math Object",
+      "dashedName": "lecture-working-with-numbers-booleans-and-the-math-object",
+      "topics": [
+        {
+          "id": "672d266e014ef8216df987d2",
+          "title": "What Is the Number Type in JavaScript, and What Are the Different Types of Numbers Available?"
+        },
+        {
+          "id": "673271884bf678d8b9c64f56",
+          "title": "What Are the Different Arithmetic Operators in JavaScript?"
+        },
+        {
+          "id": "67327195e77b1bd90bdd49d7",
+          "title": "What Happens When You Try to Do Calculations with Numbers and Strings?"
+        },
+        {
+          "id": "6732719e2e3ad4d947410b65",
+          "title": "How Does Operator Precedence Work?"
+        },
+        {
+          "id": "673271a8998ddfd97578d095",
+          "title": "How Do the Increment and Decrement Operators Work?"
+        },
+        {
+          "id": "673271b4213033d9b661c70e",
+          "title": "What Are Compound Assignment Operators in JavaScript, and How Do They Work?"
+        },
+        {
+          "id": "673271c7581a27d9dd78f6d6",
+          "title": "What Are Booleans, and How Do They Work with Equality and Inequality Operators?"
+        },
+        {
+          "id": "673271dffbc34fda31da9515",
+          "title": "What Are Comparison Operators, and How Do They Work?"
+        },
+        {
+          "id": "673271e8e3d43bda89f723b3",
+          "title": "What Are Unary Operators, and How Do They Work?"
+        },
+        {
+          "id": "673271f39f124ddac28866d5",
+          "title": "What Are Bitwise Operators, and How Do They Work?"
+        },
+        {
+          "id": "673271fd11d063daf0cf8d20",
+          "title": "What Are Conditional Statements, and How Do If/Else If/Else Statements Work?"
+        },
+        {
+          "id": "6732720e95f6a0db526a2e4d",
+          "title": "What Are Binary Logical Operators, and How Do They Work?"
+        },
+        {
+          "id": "67327217e70ee0db7913b255",
+          "title": "What Is the Math Object in JavaScript, and What Are Some Common Methods?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Numbers and Common Number Methods",
+      "dashedName": "lecture-working-with-numbers-and-common-number-methods",
+      "topics": [
+        {
+          "id": "672d26809d388621ad1ecd43",
+          "title": "How Does isNaN Work?"
+        },
+        {
+          "id": "6732808f3221720adc833e81",
+          "title": "How Do the parseFloat() and parseInt() Methods Work?"
+        },
+        {
+          "id": "673280a1c29d0a0b17316e56",
+          "title": "What Is the toFixed() Method, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Comparisons and Conditionals",
+      "dashedName": "lecture-understanding-comparisons-and-conditionals",
+      "topics": [
+        {
+          "id": "672d26917a8ab3220c038a42",
+          "title": "How Do Comparisons Work with Null and Undefined Data Types?"
+        },
+        {
+          "id": "673282bea35dbf129efb63d6",
+          "title": "What Are Switch Statements and How Do They Differ from If/Else Chains?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Functions",
+      "dashedName": "lecture-working-with-functions",
+      "topics": [
+        {
+          "id": "672d269da46786225e3fe3fd",
+          "title": "What Is the Purpose of Functions, and How Do They Work?"
+        },
+        {
+          "id": "673284d5e52ef81a2169b097",
+          "title": "What Are Arrow Functions, and How Do They Work?"
+        },
+        {
+          "id": "673284e7244c0c1a649121b9",
+          "title": "What Is Scope in Programming, and How Does Global, Local, and Block Scope Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Arrays",
+      "dashedName": "lecture-working-with-arrays",
+      "topics": [
+        {
+          "id": "67329f508a6ec45b046700b3",
+          "title": "What Are the Key Characteristics of JavaScript Arrays?"
+        },
+        {
+          "id": "6732aebaa8abb9086a9bb17a",
+          "title": "How Do You Access and Update Elements in an Array?"
+        },
+        {
+          "id": "6732aec982904608b637716b",
+          "title": "How Do You Add and Remove Elements from the Beginning and End of an Array?"
+        },
+        {
+          "id": "6732aed2ac3d3c08f6149dd6",
+          "title": "What Is the Difference Between One-Dimensional and Two-Dimensional Arrays?"
+        },
+        {
+          "id": "6732aedd2d92e30923b9bc24",
+          "title": "What Is Array Destructuring, and How Does It Work?"
+        },
+        {
+          "id": "6732b2a6de5a1c15edf05b75",
+          "title": "How Can You Use String and Array Methods to Reverse a String?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Common Array Methods",
+      "dashedName": "lecture-working-with-common-array-methods",
+      "topics": [
+        {
+          "id": "67329f64e0ef5c5b7388158d",
+          "title": "How Do You Get the Index for an Element in an Array Using the indexOf Method?"
+        },
+        {
+          "id": "6732b284901f8c1539e20bcb",
+          "title": "How Do You Add and Remove Elements from the Middle of an Array?"
+        },
+        {
+          "id": "6732b28eeadda1158cdbff7b",
+          "title": "How Can You Check if an Array Contains a Certain Value?"
+        },
+        {
+          "id": "6732b29b8b7d4f15b94d12ca",
+          "title": "What Is a Shallow Copy of an Array, and What Are Some Ways to Create These Copies?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Objects",
+      "dashedName": "lecture-working-with-objects",
+      "topics": [
+        {
+          "id": "67329f737126b75bcb949e13",
+          "title": "What Is an Object in JavaScript, and How Can You Access Properties from an Object?"
+        },
+        {
+          "id": "6732b77adf9de12617a2dbb3",
+          "title": "What Is Object Destructuring, and How Does It Work?"
+        },
+        {
+          "id": "6732b721eb98f224868b44a6",
+          "title": "How Can You Remove Properties from an Object?"
+        },
+        {
+          "id": "6732b72961f94324bd6390de",
+          "title": "How to Check If an Object Has a Property?"
+        },
+        {
+          "id": "6732b73509f71f24ef05e86e",
+          "title": "How Do You Work with Accessing Properties from Nested Objects and Arrays in Objects?"
+        },
+        {
+          "id": "6732b73d25cc01251b778043",
+          "title": "What Is the Difference Between Primitive and Non-Primitive Data Types?"
+        },
+        {
+          "id": "6732b749b8aad125523dcda5",
+          "title": "What Is the Difference Between Functions and Object Methods?"
+        },
+        {
+          "id": "6732b758194c97257d23fc72",
+          "title": "What Is the Object() Constructor, and When Should You Use It?"
+        },
+        {
+          "id": "6732b76c03f7d825c7fc74ee",
+          "title": "What Is the Optional Chaining Operator, and How Does It Work?"
+        },
+        {
+          "id": "6732b788046862264eeb1c39",
+          "title": "What Is JSON, and How Do You Access Values Using Bracket and Dot Notation?"
+        },
+        {
+          "id": "6732b79c6aa77826855a3f11",
+          "title": "How Do JSON.parse() and JSON.stringify() Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Loops",
+      "dashedName": "lecture-working-with-loops",
+      "topics": [
+        {
+          "id": "67329f7f3d1bd75c17896c66",
+          "title": "How Do Loops and Iteration Work in JavaScript?"
+        },
+        {
+          "id": "6732c04638420641dcca2e6e",
+          "title": "How Does the For...of Loop Work, and When Should You Use It?"
+        },
+        {
+          "id": "6732c05595ca7d422b9e55ff",
+          "title": "What Is the For...in Loop, and When Should You Use It?"
+        },
+        {
+          "id": "6732c06654ea3442724284fe",
+          "title": "What Is a While Loop, and How Does It Differ from the Do...while Loop?"
+        },
+        {
+          "id": "6732c07238355642a9781dfb",
+          "title": "What Are the Break and Continue Statements Used for in Loops?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Core JavaScript Fundamentals",
+      "dashedName": "lecture-understanding-core-javascript-fundamentals",
+      "topics": [
+        {
+          "id": "67329f9e9eb84e5c6a5e4366",
+          "title": "What Is a String Object, and How Does It Differ from a String Primitive?"
+        },
+        {
+          "id": "6732c68f4520d160584a6fd2",
+          "title": "What Is the toString() Method, and How Does It Work?"
+        },
+        {
+          "id": "6732c69d82814160951b1aa7",
+          "title": "What Is the Number Constructor, and How Does It Work for Type Coercion?"
+        },
+        {
+          "id": "6732c6ab21031b60d2b0c999",
+          "title": "What Are Some Common Practices for Naming Variables and Functions?"
+        },
+        {
+          "id": "6732c6ba2ea42b610b9f9ce1",
+          "title": "How Do You Get the Length for an Array, and How Can You Create an Empty Array of Fixed Length?"
+        },
+        {
+          "id": "6732c6c72d3738614e1230a2",
+          "title": "What Are Linters and Formatters, and How Can They Help You with Code Consistency?"
+        },
+        {
+          "id": "6732c6d4dec34c61850a1276",
+          "title": "What Is Memory Management, and How Does It Work in JavaScript?"
+        },
+        {
+          "id": "6732c6e281c14a61c4858361",
+          "title": "What Are Closures, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "The var Keyword and Hoisting",
+      "dashedName": "lecture-the-var-keyword-and-hoisting",
+      "topics": [
+        {
+          "id": "67329fbcfaf5ff5cdaa38a42",
+          "title": "What Is the var Keyword, and Why Is It No Longer Suggested to Use It?"
+        },
+        {
+          "id": "67335f45489c5a11b71d0ed5",
+          "title": "What Is Hoisting?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Modules, Imports, and Exports",
+      "dashedName": "lecture-understanding-modules-imports-and-exports",
+      "topics": [
+        {
+          "id": "67329fd6ad99c75d4a4b74e4",
+          "title": "What Is a Module in JavaScript, and How Can You Import and Export Modules in Your Program?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Higher Order Functions and Callbacks",
+      "dashedName": "lecture-working-with-higher-order-functions-and-callbacks",
+      "topics": [
+        {
+          "id": "67329ffd75010f5ddeb4ea13",
+          "title": "What Is a Callback Function, and How Does It Work with the forEach Method?"
+        },
+        {
+          "id": "67336296a3c1591da81856c2",
+          "title": "What Are Higher-Order Functions?"
+        },
+        {
+          "id": "673362a34edda41dedf87623",
+          "title": "What Is the Map Method, and How Does It Work?"
+        },
+        {
+          "id": "673362b3f763ae1e38e17df7",
+          "title": "What Is the Filter Method, and How Does It Work?"
+        },
+        {
+          "id": "673362be2f70c21e65bc5459",
+          "title": "What Is the Reduce Method, and How Does It Work?"
+        },
+        {
+          "id": "673362cbb475e21eab726506",
+          "title": "What Is Method Chaining, and How Does It Work?"
+        },
+        {
+          "id": "673362d7f94d551edb532d24",
+          "title": "How Does the Sort Method Work?"
+        },
+        {
+          "id": "673362e43d57b51f1ad2d466",
+          "title": "How Do the every() and some() Methods Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with the DOM, Click Events, and Web APIs",
+      "dashedName": "lecture-working-with-the-dom-click-events-and-web-apis",
+      "topics": [
+        {
+          "id": "6732a0472f52015e511f8e58",
+          "title": "What Is an API, and What Are Web APIs?"
+        },
+        {
+          "id": "67336894ae148431a870694d",
+          "title": "What Is the DOM, and How Do You Access Elements?"
+        },
+        {
+          "id": "6733689f9f31dd31e7d9c789",
+          "title": "How Do DOM Nodes Exist Relative to Each Other in the DOM Tree?"
+        },
+        {
+          "id": "673368b1cf26253212a3cfb2",
+          "title": "What Is the querySelectorAll() Method, and When Should You Use It?"
+        },
+        {
+          "id": "673368c0161e6b326a7e03f0",
+          "title": "How Do You Create New Nodes Using innerHTML and createElement()?"
+        },
+        {
+          "id": "673368ccf52205329b729378",
+          "title": "What Is the Difference Between innerText, textContent, and innerHTML?"
+        },
+        {
+          "id": "673368d97e8ce232cdcd6b68",
+          "title": "How Do You Add and Remove Nodes from the DOM with appendChild() and removeChild()?"
+        },
+        {
+          "id": "673368e7bd043f331919514d",
+          "title": "How Do the Navigator, Window, and Document Work?"
+        },
+        {
+          "id": "673368f272706633516e4873",
+          "title": "How Do You Add Attributes with setAttribute()?"
+        },
+        {
+          "id": "673368fbe12a2b337645053d",
+          "title": "What Is the Event Object?"
+        },
+        {
+          "id": "673369067f824d33a90a0534",
+          "title": "How Does the addEventListener Method Work?"
+        },
+        {
+          "id": "673369101e5c4a33db0e8a02",
+          "title": "How Does the removeEventListener Method Work?"
+        },
+        {
+          "id": "6733691d88e3053414689276",
+          "title": "What Are Inline Event Handlers, and Why Is It Best Practice to Use addEventListener Instead?"
+        },
+        {
+          "id": "6733692ffe1da034469f7917",
+          "title": "How Do You Manipulate Styles Using Element.style and Element.classList?"
+        },
+        {
+          "id": "6733693bfce9a43489a355db",
+          "title": "What Is the DOMContentLoaded Event, and How Does It Work?"
+        },
+        {
+          "id": "6733694805a85d34ced08a9b",
+          "title": "How Do the setTimeout and setInterval Methods Work?"
+        },
+        {
+          "id": "67336956340e8a34fbd5d9f3",
+          "title": "What Is the requestAnimationFrame() API, and How Can It Be Used to Set Up an Animation Loop?"
+        },
+        {
+          "id": "6733696567d2273540aa6033",
+          "title": "What Is the Web Animations API, and How Does It Relate to CSS Animation Properties?"
+        },
+        {
+          "id": "6733697661182d357fc643d2",
+          "title": "What Is the Canvas API, and How Does It Work?"
+        },
+        {
+          "id": "673369829e232835c2732656",
+          "title": "How Do You Open and Close Dialog Elements Using JavaScript?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding the Event Object and Event Delegation",
+      "dashedName": "lecture-understanding-the-event-object-and-event-delegation",
+      "topics": [
+        {
+          "id": "6732a06aed1b095f57b0bb82",
+          "title": "What Is the Change Event, and How Does It Work?"
+        },
+        {
+          "id": "67338e93b75977a344cf6d40",
+          "title": "How Do Event Bubbling, and Event Delegation Work?"
+        }
+      ]
+    },
+    {
+      "name": "Debugging Techniques",
+      "dashedName": "lecture-debugging-techniques",
+      "topics": [
+        {
+          "id": "6733aa9b006d29f4d11307a5",
+          "title": "What Are Some Examples of Common JavaScript Errors?"
+        },
+        {
+          "id": "6733bec70d86e13522e98a4f",
+          "title": "How Does the Throw Statement Work?"
+        },
+        {
+          "id": "6733bee844600f35c05b8264",
+          "title": "How Does try...catch...finally Work?"
+        },
+        {
+          "id": "6733becf4b0c353553b9bfa4",
+          "title": "How Does the Debugger Statement Work?"
+        },
+        {
+          "id": "6733befb703ca6361da3755b",
+          "title": "What Are Some Examples of Using Advanced JavaScript Debugging Techniques?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Regular Expressions",
+      "dashedName": "lecture-working-with-regular-expressions",
+      "topics": [
+        {
+          "id": "6733aad43b3ebff588a26fb5",
+          "title": "What Are Regular Expressions, and What Are Some Common Methods?"
+        },
+        {
+          "id": "6733c5ba834ded4bb067e67c",
+          "title": "What Are Some Common Regular Expression Modifiers Used for Searching?"
+        },
+        {
+          "id": "6733c5c549775c4be710237c",
+          "title": "How Can You Match and Replace All Occurrences in a String?"
+        },
+        {
+          "id": "6733c5d0048bb74c18431296",
+          "title": "What Are Character Classes, and What Are Some Common Examples?"
+        },
+        {
+          "id": "6733c5dc74176e4c496d09e6",
+          "title": "What Are Lookahead and Lookbehind Assertions, and How Do They Work?"
+        },
+        {
+          "id": "6733c5e54e3a154c8078ed48",
+          "title": "What Are Regex Quantifiers, and How Do They Work?"
+        },
+        {
+          "id": "6733c5f20cc9584cada942a4",
+          "title": "What Are Capturing Groups and Backreferences, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Form Validation",
+      "dashedName": "lecture-understanding-form-validation",
+      "topics": [
+        {
+          "id": "6733aae9d25004f60d1e86f2",
+          "title": "What Are Some Ways to Validate Forms Using JavaScript?"
+        },
+        {
+          "id": "6733d3a33abdd27cd562bdf2",
+          "title": "What Is the Purpose of e.preventDefault?"
+        },
+        {
+          "id": "6733d3ab69e94b7df7ee91b0",
+          "title": "How Does the Submit Event Work with Forms?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Dates",
+      "dashedName": "lecture-working-with-dates",
+      "topics": [
+        {
+          "id": "6733aafb9c0802f66cc1e056",
+          "title": "How Does the JavaScript Date Object Work, and What Are Some Common Methods?"
+        },
+        {
+          "id": "6733d608654c17868e01c0a2",
+          "title": "What Are the Different Ways to Format Dates?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Audio and Video",
+      "dashedName": "lecture-working-with-audio-and-video",
+      "topics": [
+        {
+          "id": "6733ab12b60bd7f6b2b0b0c0",
+          "title": "How Does the Audio Constructor Work, and What Are Some Common Methods?"
+        },
+        {
+          "id": "6733d8203da84a08a0f5eab4",
+          "title": "What Are the Different Types of Video and Audio Formats?"
+        },
+        {
+          "id": "6733d829d983c008d2db41a1",
+          "title": "What Is Codecs and How Does It Work?"
+        },
+        {
+          "id": "6733d83630e76f08ff49e6dc",
+          "title": "What Is the HTMLMediaElement API and How Does It Work?"
+        },
+        {
+          "id": "6733d852175df50937f06061",
+          "title": "How Can You Work with the Media Streams to Capture Video and Audio from a Local Device?"
+        },
+        {
+          "id": "6733d8606fb893099e3d0df3",
+          "title": "What Are Some Other Examples of Video and Audio APIs?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Maps and Sets",
+      "dashedName": "lecture-working-with-maps-and-sets",
+      "topics": [
+        {
+          "id": "6733ab269b378bf724c9ac71",
+          "title": "What Are Sets in JavaScript, and How Does It Differ from WeakSets?"
+        },
+        {
+          "id": "6733dd694f91d61a5272b4ac",
+          "title": "What Is the Map Object, and How Does It Differ from WeakMaps?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Client-Side Storage and CRUD Operations",
+      "dashedName": "lecture-working-with-client-side-storage-and-crud-operations",
+      "topics": [
+        {
+          "id": "6733ab64775d35f78f5238fe",
+          "title": "What Does CRUD Stand For, and How Do the Basic Operations Work?"
+        },
+        {
+          "id": "6733ff4a9319c8486750886c",
+          "title": "What Is localStorage, and What Are Some Common Methods?"
+        },
+        {
+          "id": "6733ff5814129c48b4fca88e",
+          "title": "What Is sessionStorage, and What Are Some Common Methods?"
+        },
+        {
+          "id": "6733ff6f02dde548ebe4a6d5",
+          "title": "What Are Cookies, and How Do They Work?"
+        },
+        {
+          "id": "6733ff8d06376149474a0c0d",
+          "title": "What Is the Cache API, and How Does It Work?"
+        },
+        {
+          "id": "6733ff9d2fb9c449af68ad99",
+          "title": "What Are Some Negative Patterns Associated with Client-Side Storage?"
+        },
+        {
+          "id": "6733ffacd0ad1e49ec2af051",
+          "title": "How Can You Use Cookies to Store Arbitrary Data, Normally Controlled by HTTP Headers?"
+        },
+        {
+          "id": "6733ffb59c62ee4a23522efe",
+          "title": "What Is IndexedDB, and How Does It Work?"
+        },
+        {
+          "id": "6733ffc7353af34a61ed683a",
+          "title": "What Are Cache and Service Workers, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding How to Work with Classes in JavaScript",
+      "dashedName": "lecture-understanding-how-to-work-with-classes-in-javascript",
+      "topics": [
+        {
+          "id": "6733affc29df1304e2c97e88",
+          "title": "What Are Classes, and How Do They Work in JavaScript?"
+        },
+        {
+          "id": "673403ca2bb16658309e3632",
+          "title": "How Does the This Keyword Work?"
+        },
+        {
+          "id": "673403d2aa52d8586a14a269",
+          "title": "What Is Class Inheritance, and How Does It Work?"
+        },
+        {
+          "id": "673403dbf5c9835898632c84",
+          "title": "What Are Static Properties and Methods in Classes?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Recursion and the Call Stack",
+      "dashedName": "lecture-understanding-recursion-and-the-call-stack",
+      "topics": [
+        {
+          "id": "6733b02d1e556005a544c5e3",
+          "title": "What Is Recursion, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Functional Programming",
+      "dashedName": "lecture-understanding-functional-programming",
+      "topics": [
+        {
+          "id": "6733b0451d6be0065430b418",
+          "title": "What Is Functional Programming?"
+        },
+        {
+          "id": "6734061fe116df617a564a37",
+          "title": "What Is Currying, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Asynchronous Programming",
+      "dashedName": "lecture-understanding-asynchronous-programming",
+      "topics": [
+        {
+          "id": "6733b072bd8f5b06ccdbd9e2",
+          "title": "What Is Asynchronous JavaScript, and How Does It Differ from Synchronous JavaScript?"
+        },
+        {
+          "id": "67340798c2c1776709d8a5fe",
+          "title": "How Does the Async Attribute Work Inside Script Elements, and How Does It Differ from the Defer Attribute?"
+        },
+        {
+          "id": "673407a223891b6734563c89",
+          "title": "What Is the Fetch API, and What Are Common Types of Resources That Are Fetched from the Network?"
+        },
+        {
+          "id": "673407be6af21d6766ed4b96",
+          "title": "How Does the Fetch API Work with Common HTTP Methods and res.json()?"
+        },
+        {
+          "id": "673407ca21117a67cf9521ca",
+          "title": "What Are Promises, and How Does Promise Chaining Work?"
+        },
+        {
+          "id": "673407d56c3dce67fa97969b",
+          "title": "What Is Async/Await, and How Does It Work?"
+        },
+        {
+          "id": "673407e02bcf0d682b9a49a9",
+          "title": "How Does the JavaScript Engine Work, and What Is a JavaScript Runtime?"
+        },
+        {
+          "id": "673407eb10ca9d68634e81d9",
+          "title": "What Is the Geolocation API, and How Does the getCurrentPosition Work?"
+        }
+      ]
+    },
+    {
+      "name": "Introduction to JavaScript Libraries and Frameworks",
+      "dashedName": "lecture-introduction-to-javascript-libraries-and-frameworks",
+      "topics": [
+        {
+          "id": "6734e3a9cc78faaf4248d335",
+          "title": "What Is the Role of JS Libraries and Frameworks, and Why Are They Used in the Industry?"
+        },
+        {
+          "id": "6734e867bbf41cc5b11648c4",
+          "title": "What Are Single Page Applications, and What Are Some Issues Surrounding Them?"
+        },
+        {
+          "id": "6734e86f590727c5e7e9ec5e",
+          "title": "What Is React, and What Is It Commonly Used For?"
+        },
+        {
+          "id": "6734e879c78ee6c61db25b90",
+          "title": "What Are Components in React, and How Do They Work?"
+        },
+        {
+          "id": "674ba6876f7ada867135bb95",
+          "title": "How Can You Import and Export Components in React?"
+        },
+        {
+          "id": "6734e88cc46e6dc679420040",
+          "title": "What is Vite, and How Can It Be Used to Set Up a New React Project?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Data in React",
+      "dashedName": "lecture-working-with-data-in-react",
+      "topics": [
+        {
+          "id": "6734e3ceee2da4b0301719b7",
+          "title": "How Do You Pass Props from a Parent Component to a Child Component in React?"
+        },
+        {
+          "id": "673500abfe36cd015b67b1b7",
+          "title": "How Does Conditional Rendering Work in React Components?"
+        },
+        {
+          "id": "673500b41af8500191febedc",
+          "title": "How Do You Render Lists in React?"
+        },
+        {
+          "id": "673500bfe1f41601c1ddb1a2",
+          "title": "How Do Inline Styles Work in React?"
+        }
+      ]
+    },
+    {
+      "name": "Working with State and Responding to Events in React",
+      "dashedName": "lecture-working-with-state-and-responding-to-events-in-react",
+      "topics": [
+        {
+          "id": "67d1a3fea729e274dc33d04d",
+          "title": "How Do Events Work in React"
+        },
+        {
+          "id": "67d1eaf77f510e15dfed7c14",
+          "title": "What is State, and How Does the useState Hook Work?"
+        },
+        {
+          "id": "67d1eb6929e68117faa6717f",
+          "title": "What Is Rendering in React, and How Are Components Displayed on the Screen?"
+        },
+        {
+          "id": "67d1ebb595f4f619c0e35d1a",
+          "title": "How Do You Update Objects in State?"
+        },
+        {
+          "id": "67d1ebcab4e0521a6654bb64",
+          "title": "How Do You Update Arrays in State?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Effects and Referencing Values in React",
+      "dashedName": "lecture-understanding-effects-and-referencing-values-in-react",
+      "topics": [
+        {
+          "id": "67d1a82dad69dc95546e5f0d",
+          "title": "How Do You Reference Values Using Refs?"
+        },
+        {
+          "id": "67d1ec6711b62f1cc5cc52e1",
+          "title": "What Are Effects in React, and How Does the useEffect Hook Work?"
+        },
+        {
+          "id": "67d1ec87b34cee1d9219f7e9",
+          "title": "How Can You Create Custom Hooks in React?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Forms in React",
+      "dashedName": "lecture-working-with-forms-in-react",
+      "topics": [
+        {
+          "id": "67d1a928ae86929a85c1bb6b",
+          "title": "How Do Forms Work in React?"
+        },
+        {
+          "id": "67e2a4cab99d4e8bc795e99d",
+          "title": "What Is the useActionState Hook, and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "name": "Working with Data Fetching and Memoization in React",
+      "dashedName": "lecture-working-with-data-fetching-and-memoization-in-react",
+      "topics": [
+        {
+          "id": "67d1a99d10fd509c88faf3bf",
+          "title": "How Does Data Fetching Work in React?"
+        },
+        {
+          "id": "67e2a513dbffdc8dcf1700af",
+          "title": "What Is the useOptimistic Hook, and How Does It Work?"
+        },
+        {
+          "id": "67d2f4ddb4a4306fdf5bbaee",
+          "title": "What Is Memoization, and How Does the useMemo Hook Work?"
+        },
+        {
+          "id": "67d2f51ff2c927713caa24fa",
+          "title": "How Do the useCallback Hook and React.memo Work?"
+        }
+      ]
+    },
+    {
+      "name": "Routing, React Frameworks, and Dependency Management Tools",
+      "dashedName": "lecture-routing-react-frameworks-and-dependency-management-tools",
+      "topics": [
+        {
+          "id": "67d1ab248317a5a29058a763",
+          "title": "What Is Dependency Management, and How Does It Work with Libraries Like React?"
+        },
+        {
+          "id": "67d311627010a0efa127b651",
+          "title": "How Does Routing Work in React?"
+        },
+        {
+          "id": "67d311d256c58ef01e0d62ec",
+          "title": "What Are React Frameworks, and Why Are They Commonly Used in the Industry?"
+        }
+      ]
+    },
+    {
+      "name": "React Strategies and Debugging",
+      "dashedName": "lecture-react-strategies-and-debugging",
+      "topics": [
+        {
+          "id": "67d1ad82cff954a854bcbcaa",
+          "title": "What Is Prop Drilling?"
+        },
+        {
+          "id": "67d2f5b78609f97400923f7f",
+          "title": "What Are State Management Libraries, and When Should You Use Them?"
+        },
+        {
+          "id": "67d2f5dacd5e0c749e5d534c",
+          "title": "How Can You Debug Your React Components Using the React DevTools?"
+        },
+        {
+          "id": "67d2f5f19a0f0b75343f1905",
+          "title": "What Are React Server Components, and How Do They Work?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Performance in Web Applications",
+      "dashedName": "lecture-understanding-performance-in-web-applications",
+      "topics": [
+        {
+          "id": "67d1d6af27858c4f487d3f4c",
+          "title": "What Is the Difference Between Real Performance and Perceived Performance?"
+        },
+        {
+          "id": "67d2f6a63acd9e781b4b5061",
+          "title": "What Are the Key Performance Concepts?"
+        },
+        {
+          "id": "67d2f6b17844ae7898583eb3",
+          "title": "What Is INP?"
+        },
+        {
+          "id": "67d2f6cea4916d78d5a27ad3",
+          "title": "How to Measure and Improve INP?"
+        },
+        {
+          "id": "67d2f6e2836565795d789ab7",
+          "title": "How Does a Browser Render a Page?"
+        },
+        {
+          "id": "67d2f70278179479d3eed390",
+          "title": "How Does Performance Impact Sustainability?"
+        },
+        {
+          "id": "67d2f7183a537d7a4908a9ff",
+          "title": "What Are Some Ways to Reduce Page Loading Times?"
+        },
+        {
+          "id": "67d2f738dcef5d7abfe4243a",
+          "title": "How Do You Improve \"Time to Usable\"?"
+        },
+        {
+          "id": "67d2f759154eac7b4d5cb1bf",
+          "title": "How to Improve the Perceived Performance of Features?"
+        },
+        {
+          "id": "67d2f778a856c37bd31c5022",
+          "title": "What Are Some Key Metrics for Measuring Performance?"
+        },
+        {
+          "id": "67d2f7a69809807c59a44002",
+          "title": "What Are Some Common Performance Measurement Tools?"
+        },
+        {
+          "id": "67d2f7cf63fafe7d20270498",
+          "title": "How Can You Use Performance Web APIs to Create Your Own Performance Measurement Tools?"
+        },
+        {
+          "id": "67d2f7e9d895bf7dcef00408",
+          "title": "What Are Some Techniques for Improving CSS Performance?"
+        },
+        {
+          "id": "67d2f80313efe77e43182e86",
+          "title": "What Are Some Techniques for Improving JavaScript Performance?"
+        }
+      ]
+    },
+    {
+      "name": "Working with CSS Libraries and Frameworks",
+      "dashedName": "lecture-working-with-css-libraries-and-frameworks",
+      "topics": [
+        {
+          "id": "67d1d74780981f521b8ac090",
+          "title": "What Is a CSS Framework, and What Are Some Advantages and Disadvantages of Using It?"
+        },
+        {
+          "id": "67d2fe63c8b0049ad7481021",
+          "title": "What Is the Value of Using a CSS Preprocessor, and What Are Some Disadvantages?"
+        }
+      ]
+    },
+    {
+      "name": "Understanding the Different Types of Testing",
+      "dashedName": "lecture-understanding-the-different-types-of-testing",
+      "topics": [
+        {
+          "id": "67d1d844d84c8b540297bbe4",
+          "title": "What Is the Overall Purpose of Testing Your Applications?"
+        },
+        {
+          "id": "67db30fedfa0b22a1a2a570c",
+          "title": "What Is the Software Development Life Cycle, and How Does It Relate to Testing?"
+        },
+        {
+          "id": "67d2ff1996e4ae9e67170502",
+          "title": "What Is Unit Testing?"
+        },
+        {
+          "id": "67db31349f3ace2c5c803c33",
+          "title": "What Are BDD and TDD?"
+        },
+        {
+          "id": "67db3180830cf02eb662ecaf",
+          "title": "How Do Assertions Work in Unit Testing?"
+        },
+        {
+          "id": "67db31c7ed46f430ce6c2da6",
+          "title": "What Are the Differences Between Mocking, Faking, and Stubbing? "
+        },
+        {
+          "id": "67d2ff33452ce69ea169c872",
+          "title": "What Is Functional Testing, and How Does It Differ from Unit Testing?"
+        },
+        {
+          "id": "67d2ff4231359d9f21d1437a",
+          "title": "What Is End-to-End Testing?"
+        },
+        {
+          "id": "67d2ff5f14f6ce9f6d3cbe22",
+          "title": "What Is Usability Testing, and What Does the Process Look Like?"
+        },
+        {
+          "id": "67d2ff6f069dce9feacb7d25",
+          "title": "What Is Compatibility Testing?"
+        },
+        {
+          "id": "67d2ff7a461f62a03e3d1861",
+          "title": "What Is Performance Testing?"
+        },
+        {
+          "id": "67d2ff887d2583a079c02e78",
+          "title": "What Is Security Testing?"
+        },
+        {
+          "id": "67d2ff93d213d5a0c17ecfa2",
+          "title": "What Is Accessibility Testing?"
+        },
+        {
+          "id": "67db3238375ff8340ee1ff90",
+          "title": "What Is A/B Testing?"
+        },
+        {
+          "id": "67db3248eceee03588a22b8f",
+          "title": "What Is Alpha and Beta Testing?"
+        },
+        {
+          "id": "67db32542c7075361b06024c",
+          "title": "What Is Regression Testing?"
+        }
+      ]
+    },
+    {
+      "name": "Introduction to TypeScript",
+      "dashedName": "lecture-introduction-to-typescript",
+      "topics": [
+        {
+          "id": "67d1d96532bc095aee051657",
+          "title": "What Is TypeScript, and Why Is It Used in the Industry?"
+        },
+        {
+          "id": "67d3018062fe6ba92b7d8299",
+          "title": "How Do the Different Types Work in TypeScript?"
+        },
+        {
+          "id": "67d30191adb999a9909109ef",
+          "title": "What Are Generics, and How Do They Work?"
+        },
+        {
+          "id": "67d301a5f536d1a9e5df1a8c",
+          "title": "What Is Type Narrowing, and How Does It Work?"
+        },
+        {
+          "id": "67d301cc87b84eaa42bdcdbe",
+          "title": "What Is a tsconfig File, and Why Is It Important to Include in Your TypeScript Projects?"
+        }
+      ]
+    }
+  ]
+}
