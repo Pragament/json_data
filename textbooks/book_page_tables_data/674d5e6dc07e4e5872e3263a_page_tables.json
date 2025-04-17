@@ -1,0 +1,942 @@
+[
+    {
+        "id": "67581c346146c059d97278ce",
+        "pageNumber": 35,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_35_table_2.png",
+        "numRows": 3,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278cf",
+        "pageNumber": 37,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_37_table_1.png",
+        "numRows": 2,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d0",
+        "pageNumber": 38,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_38_table_1.png",
+        "numRows": 2,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d1",
+        "pageNumber": 43,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_43_table_1.png",
+        "numRows": 4,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d2",
+        "pageNumber": 79,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_79_table_2.png",
+        "numRows": 4,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d3",
+        "pageNumber": 79,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_79_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d4",
+        "pageNumber": 81,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_81_table_2.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d5",
+        "pageNumber": 85,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_85_table_2.png",
+        "numRows": 2,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d6",
+        "pageNumber": 109,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_109_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d7",
+        "pageNumber": 116,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_116_table_1.png",
+        "numRows": 6,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d8",
+        "pageNumber": 135,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_135_table_2.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278d9",
+        "pageNumber": 137,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_137_table_1.png",
+        "numRows": 5,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278da",
+        "pageNumber": 138,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_138_table_1.png",
+        "numRows": 7,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278db",
+        "pageNumber": 139,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_139_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278dc",
+        "pageNumber": 142,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_142_table_1.png",
+        "numRows": 2,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278dd",
+        "pageNumber": 147,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_147_table_1.png",
+        "numRows": 4,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278de",
+        "pageNumber": 194,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_194_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278df",
+        "pageNumber": 203,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_203_table_1.png",
+        "numRows": 3,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e0",
+        "pageNumber": 204,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_204_table_1.png",
+        "numRows": 2,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e1",
+        "pageNumber": 205,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_205_table_1.png",
+        "numRows": 3,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e2",
+        "pageNumber": 205,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_205_table_2.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e3",
+        "pageNumber": 206,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_206_table_1.png",
+        "numRows": 2,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e4",
+        "pageNumber": 207,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_207_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e5",
+        "pageNumber": 209,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_209_table_2.png",
+        "numRows": 2,
+        "numCols": 11,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e6",
+        "pageNumber": 209,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_209_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e7",
+        "pageNumber": 210,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_210_table_1.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e8",
+        "pageNumber": 211,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_211_table_1.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278e9",
+        "pageNumber": 212,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_212_table_1.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ea",
+        "pageNumber": 212,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_212_table_2.png",
+        "numRows": 3,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278eb",
+        "pageNumber": 212,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_212_table_2.png",
+        "numRows": 3,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ec",
+        "pageNumber": 213,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_213_table_1.png",
+        "numRows": 2,
+        "numCols": 8,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ed",
+        "pageNumber": 213,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_213_table_2.png",
+        "numRows": 3,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ee",
+        "pageNumber": 213,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_213_table_3.png",
+        "numRows": 3,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ef",
+        "pageNumber": 214,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_214_table_1.png",
+        "numRows": 2,
+        "numCols": 8,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f0",
+        "pageNumber": 214,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_214_table_2.png",
+        "numRows": 5,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f1",
+        "pageNumber": 215,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_215_table_1.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f2",
+        "pageNumber": 215,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_215_table_1.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f3",
+        "pageNumber": 215,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_215_table_2.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f4",
+        "pageNumber": 215,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_215_table_2.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f5",
+        "pageNumber": 216,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_216_table_1.png",
+        "numRows": 7,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f6",
+        "pageNumber": 216,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_216_table_3.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f7",
+        "pageNumber": 217,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f8",
+        "pageNumber": 217,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278f9",
+        "pageNumber": 217,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278fa",
+        "pageNumber": 217,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278fb",
+        "pageNumber": 217,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278fc",
+        "pageNumber": 217,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278fd",
+        "pageNumber": 217,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278fe",
+        "pageNumber": 217,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_3.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d97278ff",
+        "pageNumber": 217,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_4.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727900",
+        "pageNumber": 217,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_4.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727901",
+        "pageNumber": 217,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_4.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727902",
+        "pageNumber": 217,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_4.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727903",
+        "pageNumber": 217,
+        "tableNumber": 5,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_5.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727904",
+        "pageNumber": 217,
+        "tableNumber": 5,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_5.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727905",
+        "pageNumber": 217,
+        "tableNumber": 5,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_5.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727906",
+        "pageNumber": 217,
+        "tableNumber": 5,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_217_table_5.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727907",
+        "pageNumber": 218,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_218_table_1.png",
+        "numRows": 2,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727908",
+        "pageNumber": 218,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_218_table_2.png",
+        "numRows": 3,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727909",
+        "pageNumber": 218,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_218_table_3.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790a",
+        "pageNumber": 218,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_218_table_4.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790b",
+        "pageNumber": 219,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_219_table_1.png",
+        "numRows": 2,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790c",
+        "pageNumber": 222,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_222_table_1.png",
+        "numRows": 4,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790d",
+        "pageNumber": 226,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_226_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790e",
+        "pageNumber": 300,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_300_table_1.png",
+        "numRows": 6,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972790f",
+        "pageNumber": 303,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_303_table_1.png",
+        "numRows": 7,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727910",
+        "pageNumber": 303,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_303_table_2.png",
+        "numRows": 2,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727911",
+        "pageNumber": 304,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_304_table_1.png",
+        "numRows": 3,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727912",
+        "pageNumber": 306,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_306_table_1.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727913",
+        "pageNumber": 310,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_310_table_3.png",
+        "numRows": 2,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727914",
+        "pageNumber": 311,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_311_table_1.png",
+        "numRows": 7,
+        "numCols": 3,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727915",
+        "pageNumber": 315,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_315_table_1.png",
+        "numRows": 5,
+        "numCols": 6,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727916",
+        "pageNumber": 324,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_324_table_2.png",
+        "numRows": 10,
+        "numCols": 10,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727917",
+        "pageNumber": 344,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727918",
+        "pageNumber": 344,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_2.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727919",
+        "pageNumber": 344,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_3.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791a",
+        "pageNumber": 344,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_3.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791b",
+        "pageNumber": 344,
+        "tableNumber": 3,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_3.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791c",
+        "pageNumber": 344,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_4.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791d",
+        "pageNumber": 344,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_4.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791e",
+        "pageNumber": 344,
+        "tableNumber": 4,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_4.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972791f",
+        "pageNumber": 344,
+        "tableNumber": 5,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_5.png",
+        "numRows": 2,
+        "numCols": 4,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727920",
+        "pageNumber": 344,
+        "tableNumber": 6,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_6.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727921",
+        "pageNumber": 344,
+        "tableNumber": 6,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_6.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727922",
+        "pageNumber": 344,
+        "tableNumber": 6,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_6.png",
+        "numRows": 2,
+        "numCols": 5,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727923",
+        "pageNumber": 344,
+        "tableNumber": 7,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_7.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727924",
+        "pageNumber": 344,
+        "tableNumber": 7,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_7.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727925",
+        "pageNumber": 344,
+        "tableNumber": 8,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_8.png",
+        "numRows": 2,
+        "numCols": 9,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727926",
+        "pageNumber": 344,
+        "tableNumber": 9,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_344_table_9.png",
+        "numRows": 9,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727927",
+        "pageNumber": 345,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_345_table_1.png",
+        "numRows": 2,
+        "numCols": 7,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727928",
+        "pageNumber": 350,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_350_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d9727929",
+        "pageNumber": 351,
+        "tableNumber": 2,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_351_table_2.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972792a",
+        "pageNumber": 354,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_354_table_1.png",
+        "numRows": 5,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    },
+    {
+        "id": "67581c346146c059d972792b",
+        "pageNumber": 355,
+        "tableNumber": 1,
+        "imagePath": "https://textbookpdf.s3.ap-south-1.amazonaws.com/textbook_tables/674d5e6dc07e4e5872e3263a/page_355_table_1.png",
+        "numRows": 2,
+        "numCols": 2,
+        "bookID": "674d5e6dc07e4e5872e3263a",
+        "coordinates": []
+    }
+]
