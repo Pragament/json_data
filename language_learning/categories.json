@@ -1,41 +1,163 @@
 [
   {
-    "category": "Chat",
-    "category-id": "1",
+    "category": "Greetings",
+    "category-id": "11",
     "sub-category-items": [
       {
-        "sub-category": "Greetings",
-        "sub-category-id": "11"
-      },
-      {
-        "sub-category": "Common Questions",
-        "sub-category-id": "12"
-      },
-      {
-        "sub-category": "Responses",
-        "sub-category-id": "13"
-      },
-      {
-        "sub-category": "General Expressions",
-        "sub-category-id": "14"
-      },
-      {
-        "sub-category": "Farewells",
-        "sub-category-id": "15"
+        "sub-category": "Hello!",
+        "sub-category-id": "11-1"
       }
     ]
   },
   {
-    "category": "2",
-    "category-id": "2",
+    "category": "Common Questions",
+    "category-id": "12",
     "sub-category-items": [
       {
-        "sub-category": "21",
-        "sub-category-id": "21"
+        "sub-category": "How are you?",
+        "sub-category-id": "12-1"
       },
       {
-        "sub-category": "22",
-        "sub-category-id": "22"
+        "sub-category": "Really?",
+        "sub-category-id": "12-2"
+      },
+      {
+        "sub-category": "Why?",
+        "sub-category-id": "12-3"
+      },
+      {
+        "sub-category": "How?",
+        "sub-category-id": "12-4"
+      },
+      {
+        "sub-category": "Where?",
+        "sub-category-id": "12-5"
+      },
+      {
+        "sub-category": "What?",
+        "sub-category-id": "12-6"
+      },
+      {
+        "sub-category": "When?",
+        "sub-category-id": "12-7"
+      }
+    ]
+  },
+  {
+    "category": "Responses",
+    "category-id": "13",
+    "sub-category-items": [
+      {
+        "sub-category": "Yes",
+        "sub-category-id": "13-1"
+      },
+      {
+        "sub-category": "No",
+        "sub-category-id": "13-2"
+      },
+      {
+        "sub-category": "Okay",
+        "sub-category-id": "13-3"
+      },
+      {
+        "sub-category": "Oh, I see!",
+        "sub-category-id": "13-4"
+      },
+      {
+        "sub-category": "Fine / Alright",
+        "sub-category-id": "13-5"
+      }
+    ]
+  },
+  {
+    "category": "General Expressions",
+    "category-id": "14",
+    "sub-category-items": [
+      {
+        "sub-category": "Generally",
+        "sub-category-id": "14-1"
+      },
+      {
+        "sub-category": "Coming soon",
+        "sub-category-id": "14-2"
+      },
+      {
+        "sub-category": "Little bit",
+        "sub-category-id": "14-3"
+      },
+      {
+        "sub-category": "Ask me",
+        "sub-category-id": "14-4"
+      },
+      {
+        "sub-category": "Now",
+        "sub-category-id": "14-5"
+      },
+      {
+        "sub-category": "Full",
+        "sub-category-id": "14-6"
+      },
+      {
+        "sub-category": "Available",
+        "sub-category-id": "14-7"
+      },
+      {
+        "sub-category": "In millions",
+        "sub-category-id": "14-8"
+      },
+      {
+        "sub-category": "Heard the news",
+        "sub-category-id": "14-9"
+      }
+    ]
+  },
+  {
+    "category": "Farewells",
+    "category-id": "15",
+    "sub-category-items": [
+      {
+        "sub-category": "Goodbye!",
+        "sub-category-id": "15-1"
+      },
+      {
+        "sub-category": "I am going",
+        "sub-category-id": "15-2"
+      }
+    ]
+  },
+  {
+    "category": "21",
+    "category-id": "21",
+    "sub-category-items": [
+      {
+        "sub-category": "Travel tips!",
+        "sub-category-id": "21-1"
+      },
+      {
+        "sub-category": "Visit where?",
+        "sub-category-id": "21-2"
+      },
+      {
+        "sub-category": "Explore more!",
+        "sub-category-id": "21-3"
+      }
+    ]
+  },
+  {
+    "category": "22",
+    "category-id": "22",
+    "sub-category-items": [
+      {
+        "sub-category": "Save money!",
+        "sub-category-id": "22-1"
+      },
+      {
+        "sub-category": "Invest wisely!",
+        "sub-category-id": "22-2"
+      },
+      {
+        "sub-category": "Manage budget!",
+        "sub-category-id": "22-3"
       }
     ]
   }
