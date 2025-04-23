@@ -1,0 +1,136 @@
+{
+  "NewsCategories": {
+    "Politics": [
+      "Local Politics",
+      "National Politics",
+      "International Relations",
+      "Elections",
+      "Political Analysis",
+      "Government Policies",
+      "Political Scandals"
+    ],
+    "Business & Economy": [
+      "Stock Market",
+      "Corporate News",
+      "Startups & Entrepreneurs",
+      "Economy & GDP",
+      "Trade & Commerce",
+      "Budget & Taxation",
+      "Personal Finance"
+    ],
+    "Technology": [
+      "Gadgets & Reviews",
+      "Mobile & Apps",
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Internet Trends",
+      "Software & Hardware",
+      "Tech Startups"
+    ],
+    "Science & Environment": [
+      "Space & Astronomy",
+      "Biology & Medicine",
+      "Physics & Chemistry",
+      "Climate Change",
+      "Environmental Issues",
+      "Conservation & Wildlife"
+    ],
+    "Health": [
+      "Medical News",
+      "Fitness & Wellness",
+      "Mental Health",
+      "Nutrition & Diet",
+      "Diseases & Vaccines",
+      "Public Health"
+    ],
+    "Education": [
+      "Schools & Colleges",
+      "Competitive Exams",
+      "Online Learning",
+      "Academic Research",
+      "Scholarships & Admissions",
+      "Education Policy"
+    ],
+    "Sports": [
+      "Cricket",
+      "Football/Soccer",
+      "Olympics",
+      "Tennis",
+      "Badminton",
+      "Sports Personalities",
+      "Match Results",
+      "Fantasy Sports"
+    ],
+    "Entertainment": [
+      "Movies & TV Shows",
+      "Celebrity News",
+      "OTT Platforms",
+      "Music",
+      "Awards & Events",
+      "Trailers & Reviews"
+    ],
+    "Lifestyle": [
+      "Fashion & Style",
+      "Food & Recipes",
+      "Relationships & Dating",
+      "Travel & Leisure",
+      "Home Decor",
+      "Parenting"
+    ],
+    "Culture & Arts": [
+      "Literature & Books",
+      "Art & Photography",
+      "Theater & Dance",
+      "History & Heritage",
+      "Languages & Traditions"
+    ]
+  },
+  "SpecialInterests": {
+    "Crime & Law": [
+      "Local Crimes",
+      "Court Cases",
+      "Police News",
+      "Legal Reforms"
+    ],
+    "Real Estate": [
+      "Property Prices",
+      "Construction Projects",
+      "Housing Market",
+      "Rent Trends"
+    ],
+    "Automobiles": [
+      "Car & Bike Reviews",
+      "Electric Vehicles",
+      "Auto Industry News",
+      "Road Safety"
+    ],
+    "Religion & Spirituality": [
+      "Festivals",
+      "Religious Teachings",
+      "Pilgrimages",
+      "Astrology & Horoscopes"
+    ],
+    "Agriculture & Rural": [
+      "Farming Techniques",
+      "Crop Prices",
+      "Rural Development",
+      "Farmer Protests"
+    ],
+    "Military & Defense": [
+      "Armed Forces",
+      "Border Security",
+      "Defense Deals",
+      "War & Conflicts"
+    ]
+  },
+  "OtherSections": [
+    "Opinion & Editorials",
+    "Letters to the Editor",
+    "Obituaries",
+    "Horoscopes",
+    "Weather",
+    "Comics & Puzzles",
+    "Job Listings",
+    "Tenders & Announcements"
+  ]
+}
