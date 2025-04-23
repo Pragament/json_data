@@ -11,51 +11,79 @@
                         {
                             "product_name": "Tomato Local",
                             "product_id": "1000",
-                            "price": "₹36 / 500g",
+                            "price": 36,
                             "description": "Locally sourced Tomato Local from farms near your city. Fresher taste with lower carbon footprint.",
-                            "image_url": "products/images/Tomato Local.jpg"
+                            "image_url": "products/images/Tomato Local.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Tomato Hybrid",
                             "product_id": "1010",
-                            "price": "₹38 / 500g",
+                            "price": 38,
                             "description": "Premium quality Tomato Hybrid with better shelf life and consistent flavor profile. Farm fresh and hand-picked.",
-                            "image_url": "products/images/Tomato Hybrid.jpg"
+                            "image_url": "products/images/Tomato Hybrid.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Hybrid Tomato",
                             "product_id": "1017",
-                            "price": "₹38 / 500g",
+                            "price": 38,
                             "description": "Premium quality Hybrid Tomato with better shelf life and consistent flavor profile. Farm fresh and hand-picked.",
-                            "image_url": "products/images/Hybrid Tomato.jpg"
+                            "image_url": "products/images/Hybrid Tomato.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Deep Rooted Residue Free Tomato Local",
                             "product_id": "1022",
-                            "price": "₹76 / 500g",
+                            "price": 76,
                             "description": "Carefully grown Deep Rooted Residue Free Tomato Local without harmful pesticides. Laboratory tested to ensure no chemical residues.",
-                            "image_url": "products/images/Deep Rooted Residue Free Tomato Local.jpg"
+                            "image_url": "products/images/Deep Rooted Residue Free Tomato Local.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Tomato",
                             "product_id": "1031",
-                            "price": "₹65 / 450g",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tomato sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Tomato.jpg"
+                            "image_url": "products/images/Organic Tomato.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Organic Tomato Hybrid",
                             "product_id": "1046",
-                            "price": "₹71 / 500g",
+                            "price": 71,
                             "description": "Fresh, organically grown Organic Tomato Hybrid sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Tomato Hybrid.jpg"
+                            "image_url": "products/images/Organic Tomato Hybrid.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Tomato Farm",
                             "product_id": "1073",
-                            "price": "₹38 / 500g",
+                            "price": 38,
                             "description": "Fresh, organically grown Organic Tomato Farm sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Tomato Farm.jpg"
+                            "image_url": "products/images/Organic Tomato Farm.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -66,100 +94,156 @@
                         {
                             "product_name": "Onion",
                             "product_id": "1001",
-                            "price": "₹88 / 1kg",
+                            "price": 88,
                             "description": "Fresh Onion carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Onion.jpg"
+                            "image_url": "products/images/Onion.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "kg"
+                            }
                         },
                         {
                             "product_name": "Potato",
                             "product_id": "1002",
-                            "price": "₹54 / 1kg",
+                            "price": 54,
                             "description": "Fresh Potato carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Potato.jpg"
+                            "image_url": "products/images/Potato.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "kg"
+                            }
                         },
                         {
                             "product_name": "Carrot",
                             "product_id": "1003",
-                            "price": "₹59 / 500g",
+                            "price": 59,
                             "description": "Fresh Carrot carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Carrot.jpg"
+                            "image_url": "products/images/Carrot.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Beetroot",
                             "product_id": "1013",
-                            "price": "₹31 / 250g",
+                            "price": 31,
                             "description": "Fresh Beetroot carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Beetroot.jpg"
+                            "image_url": "products/images/Beetroot.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Colocasia (Kachalu)/Chamagadda",
                             "product_id": "1027",
-                            "price": "₹28 / 250g",
+                            "price": 28,
                             "description": "Fresh Colocasia (Kachalu)/Chamagadda carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Colocasia (Kachalu)Chamagadda.jpg"
+                            "image_url": "products/images/Colocasia (Kachalu)Chamagadda.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Sweet Potato",
                             "product_id": "1028",
-                            "price": "₹66 / 500g",
+                            "price": 66,
                             "description": "Fresh Sweet Potato carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Sweet Potato.jpg"
+                            "image_url": "products/images/Sweet Potato.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Baby Potato",
                             "product_id": "1032",
-                            "price": "₹59 / 500g",
+                            "price": 59,
                             "description": "Fresh Baby Potato carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Baby Potato.jpg"
+                            "image_url": "products/images/Baby Potato.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Potato",
                             "product_id": "1035",
-                            "price": "₹53 / 475",
+                            "price": 53,
                             "description": "Fresh, organically grown Organic Potato sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Potato.jpg"
+                            "image_url": "products/images/Organic Potato.jpg",
+                            "measurement": {
+                                "value": "47",
+                                "unit": "5"
+                            }
                         },
                         {
                             "product_name": "Radish White",
                             "product_id": "1036",
-                            "price": "₹36 / 250g",
+                            "price": 36,
                             "description": "Fresh Radish White carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Radish White.jpg"
+                            "image_url": "products/images/Radish White.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Onion",
                             "product_id": "1038",
-                            "price": "₹66 / 475",
+                            "price": 66,
                             "description": "Fresh, organically grown Organic Onion sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Onion.jpg"
+                            "image_url": "products/images/Organic Onion.jpg",
+                            "measurement": {
+                                "value": "47",
+                                "unit": "5"
+                            }
                         },
                         {
                             "product_name": "Sambar Onion /Sambar Ulligadda/Chinna Ullipaya",
                             "product_id": "1045",
-                            "price": "₹94 / 250g",
+                            "price": 94,
                             "description": "Fresh Sambar Onion /Sambar Ulligadda/Chinna Ullipaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg"
+                            "image_url": "products/images/Sambar Onion Sambar UlligaddaChinna Ullipaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Beetroot",
                             "product_id": "1049",
-                            "price": "₹86 / 475",
+                            "price": 86,
                             "description": "Fresh, organically grown Organic Beetroot sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Beetroot.jpg"
+                            "image_url": "products/images/Organic Beetroot.jpg",
+                            "measurement": {
+                                "value": "47",
+                                "unit": "5"
+                            }
                         },
                         {
                             "product_name": "Onion White / Tella Ulligada",
                             "product_id": "1060",
-                            "price": "₹78 / 500g",
+                            "price": 78,
                             "description": "Fresh Onion White / Tella Ulligada carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Onion White  Tella Ulligada.jpg"
+                            "image_url": "products/images/Onion White  Tella Ulligada.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Gourmet Garden Organic Carrot",
                             "product_id": "1067",
-                            "price": "₹113 / N/AN/A",
+                            "price": 113,
                             "description": "Fresh, organically grown Gourmet Garden Organic Carrot sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Gourmet Garden Organic Carrot.jpg"
+                            "image_url": "products/images/Gourmet Garden Organic Carrot.jpg",
+                            "measurement": {
+                                "value": "N/A",
+                                "unit": "N/A"
+                            }
                         }
                     ]
                 },
@@ -170,23 +254,35 @@
                         {
                             "product_name": "Lady Finger",
                             "product_id": "1004",
-                            "price": "₹43 / 500g",
+                            "price": 43,
                             "description": "Fresh Lady Finger carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Lady Finger.jpg"
+                            "image_url": "products/images/Lady Finger.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Lady Finger (Okra)",
                             "product_id": "1052",
-                            "price": "₹60 / 475",
+                            "price": 60,
                             "description": "Fresh, organically grown Organic Lady Finger (Okra) sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Lady Finger (Okra).jpg"
+                            "image_url": "products/images/Organic Lady Finger (Okra).jpg",
+                            "measurement": {
+                                "value": "47",
+                                "unit": "5"
+                            }
                         },
                         {
                             "product_name": "Deep Rooted Residue Free Lady Finger",
                             "product_id": "1053",
-                            "price": "₹60 / 500g",
+                            "price": 60,
                             "description": "Carefully grown Deep Rooted Residue Free Lady Finger without harmful pesticides. Laboratory tested to ensure no chemical residues.",
-                            "image_url": "products/images/Deep Rooted Residue Free Lady Finger.jpg"
+                            "image_url": "products/images/Deep Rooted Residue Free Lady Finger.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -197,16 +293,24 @@
                         {
                             "product_name": "Mushroom Button / Puttagodugulu",
                             "product_id": "1005",
-                            "price": "₹60 / 200g",
+                            "price": 60,
                             "description": "Fresh Mushroom Button / Puttagodugulu carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Mushroom Button  Puttagodugulu.jpg"
+                            "image_url": "products/images/Mushroom Button  Puttagodugulu.jpg",
+                            "measurement": {
+                                "value": "200",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Mushroom Milky",
                             "product_id": "1057",
-                            "price": "₹130 / 200g",
+                            "price": 130,
                             "description": "Fresh Mushroom Milky carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Mushroom Milky.jpg"
+                            "image_url": "products/images/Mushroom Milky.jpg",
+                            "measurement": {
+                                "value": "200",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -217,37 +321,57 @@
                         {
                             "product_name": "Brinjal Long Purple/ Gulabi Vankaya",
                             "product_id": "1006",
-                            "price": "₹28 / 250g",
+                            "price": 28,
                             "description": "Fresh Brinjal Long Purple/ Gulabi Vankaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg"
+                            "image_url": "products/images/Brinjal Long Purple Gulabi Vankaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Brinjal Round Green",
                             "product_id": "1021",
-                            "price": "₹53 / 500g",
+                            "price": 53,
                             "description": "Fresh Brinjal Round Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Brinjal Round Green.jpg"
+                            "image_url": "products/images/Brinjal Round Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Nagpur Brinjal (Baingan)/Nagpur Vankaya",
                             "product_id": "1024",
-                            "price": "₹24 / 250g",
+                            "price": 24,
                             "description": "Fresh Nagpur Brinjal (Baingan)/Nagpur Vankaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg"
+                            "image_url": "products/images/Nagpur Brinjal (Baingan)Nagpur Vankaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Brinjal Bharta",
                             "product_id": "1039",
-                            "price": "₹60 / 500g",
+                            "price": 60,
                             "description": "Fresh Brinjal Bharta carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Brinjal Bharta.jpg"
+                            "image_url": "products/images/Brinjal Bharta.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Brinjal Kateri (Baingan) / Mulla vankaya",
                             "product_id": "1042",
-                            "price": "₹44 / 250g",
+                            "price": 44,
                             "description": "Fresh Brinjal Kateri (Baingan) / Mulla vankaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg"
+                            "image_url": "products/images/Brinjal Kateri (Baingan)  Mulla vankaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -258,23 +382,35 @@
                         {
                             "product_name": "Sweet Corn (cob)/Mokkajonna",
                             "product_id": "1007",
-                            "price": "₹50 / 2pcs",
+                            "price": 50,
                             "description": "Fresh Sweet Corn (cob)/Mokkajonna carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Sweet Corn (cob)Mokkajonna.jpg"
+                            "image_url": "products/images/Sweet Corn (cob)Mokkajonna.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Baby Corn",
                             "product_id": "1037",
-                            "price": "₹80 / 250g",
+                            "price": 80,
                             "description": "Fresh Baby Corn carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Baby Corn.jpg"
+                            "image_url": "products/images/Baby Corn.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Sweet Corn",
                             "product_id": "1055",
-                            "price": "₹50 / 1piece",
+                            "price": 50,
                             "description": "Fresh, organically grown Organic Sweet Corn sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Sweet Corn.jpg"
+                            "image_url": "products/images/Organic Sweet Corn.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "piece"
+                            }
                         }
                     ]
                 },
@@ -285,93 +421,145 @@
                         {
                             "product_name": "Bottle Gourd",
                             "product_id": "1009",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Bottle Gourd carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Bottle Gourd.jpg"
+                            "image_url": "products/images/Bottle Gourd.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Ridge Gourd (Torai)/Beerakaya",
                             "product_id": "1011",
-                            "price": "₹69 / 500g",
+                            "price": 69,
                             "description": "Fresh Ridge Gourd (Torai)/Beerakaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Ridge Gourd (Torai)Beerakaya.jpg"
+                            "image_url": "products/images/Ridge Gourd (Torai)Beerakaya.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Cucumber Green/Kheera Dosakaya",
                             "product_id": "1012",
-                            "price": "₹38 / 500g",
+                            "price": 38,
                             "description": "Fresh Cucumber Green/Kheera Dosakaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Cucumber GreenKheera Dosakaya.jpg"
+                            "image_url": "products/images/Cucumber GreenKheera Dosakaya.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Cucumber English",
                             "product_id": "1025",
-                            "price": "₹63 / 500g",
+                            "price": 63,
                             "description": "Fresh Cucumber English carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Cucumber English.jpg"
+                            "image_url": "products/images/Cucumber English.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Bitter Gourd",
                             "product_id": "1026",
-                            "price": "₹48 / 500g",
+                            "price": 48,
                             "description": "Fresh Bitter Gourd carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Bitter Gourd.jpg"
+                            "image_url": "products/images/Bitter Gourd.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Snake Gourd",
                             "product_id": "1043",
-                            "price": "₹40 / 500g",
+                            "price": 40,
                             "description": "Fresh Snake Gourd carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Snake Gourd.jpg"
+                            "image_url": "products/images/Snake Gourd.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Deep Rooted Residue Free English Cucumber",
                             "product_id": "1047",
-                            "price": "₹66 / 500g",
+                            "price": 66,
                             "description": "Carefully grown Deep Rooted Residue Free English Cucumber without harmful pesticides. Laboratory tested to ensure no chemical residues.",
-                            "image_url": "products/images/Deep Rooted Residue Free English Cucumber.jpg"
+                            "image_url": "products/images/Deep Rooted Residue Free English Cucumber.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Organic Bottle Gourd",
                             "product_id": "1048",
-                            "price": "₹69 / 600",
+                            "price": 69,
                             "description": "Fresh, organically grown Organic Bottle Gourd sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Bottle Gourd.jpg"
+                            "image_url": "products/images/Organic Bottle Gourd.jpg",
+                            "measurement": {
+                                "value": "60",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Zucchini Green",
                             "product_id": "1050",
-                            "price": "₹72 / 250g",
+                            "price": 72,
                             "description": "Fresh Zucchini Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Zucchini Green.jpg"
+                            "image_url": "products/images/Zucchini Green.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Sponge Gourd",
                             "product_id": "1058",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Sponge Gourd carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Sponge Gourd.jpg"
+                            "image_url": "products/images/Sponge Gourd.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Hydroponic English Cucumber",
                             "product_id": "1059",
-                            "price": "₹92 / 450",
+                            "price": 92,
                             "description": "Fresh Hydroponic English Cucumber carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Hydroponic English Cucumber.jpg"
+                            "image_url": "products/images/Hydroponic English Cucumber.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Snacky Cucumbers 250 Gms",
                             "product_id": "1062",
-                            "price": "₹30 / 1piece",
+                            "price": 30,
                             "description": "Fresh Snacky Cucumbers 250 Gms carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Snacky Cucumbers 250 Gms.jpg"
+                            "image_url": "products/images/Snacky Cucumbers 250 Gms.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "piece"
+                            }
                         },
                         {
                             "product_name": "Organic Cucumber Green",
                             "product_id": "1066",
-                            "price": "₹37 / 500g",
+                            "price": 37,
                             "description": "Fresh, organically grown Organic Cucumber Green sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Cucumber Green.jpg"
+                            "image_url": "products/images/Organic Cucumber Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -382,9 +570,13 @@
                         {
                             "product_name": "Cabbage",
                             "product_id": "1016",
-                            "price": "₹51 / 1pc",
+                            "price": 51,
                             "description": "Fresh Cabbage carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Cabbage.jpg"
+                            "image_url": "products/images/Cabbage.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Coriander/Kothimeera",
@@ -417,9 +609,13 @@
                         {
                             "product_name": "Organic Cabbage",
                             "product_id": "1068",
-                            "price": "₹92 / 1pc",
+                            "price": 92,
                             "description": "Fresh, organically grown Organic Cabbage sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Cabbage.jpg"
+                            "image_url": "products/images/Organic Cabbage.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         }
                     ]
                 },
@@ -430,37 +626,57 @@
                         {
                             "product_name": "Capsicum Green",
                             "product_id": "1020",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Capsicum Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Capsicum Green.jpg"
+                            "image_url": "products/images/Capsicum Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Chilli Green",
                             "product_id": "1023",
-                            "price": "₹37 / 500g",
+                            "price": 37,
                             "description": "Fresh Chilli Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Chilli Green.jpg"
+                            "image_url": "products/images/Chilli Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Capsicum Red & Yellow",
                             "product_id": "1033",
-                            "price": "₹146 / 2pcs",
+                            "price": 146,
                             "description": "Fresh Capsicum Red & Yellow carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Capsicum Red & Yellow.jpg"
+                            "image_url": "products/images/Capsicum Red & Yellow.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Beans Cowpea (Lobia Phaliyaan)",
                             "product_id": "1034",
-                            "price": "₹28 / 250g",
+                            "price": 28,
                             "description": "Fresh Beans Cowpea (Lobia Phaliyaan) carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg"
+                            "image_url": "products/images/Beans Cowpea (Lobia Phaliyaan).jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Capsicum Yellow",
                             "product_id": "1054",
-                            "price": "₹142 / 300g",
+                            "price": 142,
                             "description": "Fresh Capsicum Yellow carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Capsicum Yellow.jpg"
+                            "image_url": "products/images/Capsicum Yellow.jpg",
+                            "measurement": {
+                                "value": "300",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Capsicum Red",
@@ -498,37 +714,57 @@
                         {
                             "product_name": "Coccinia (Kundru)/Dondakaya",
                             "product_id": "1008",
-                            "price": "₹26 / 250g",
+                            "price": 26,
                             "description": "Fresh Coccinia (Kundru)/Dondakaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Coccinia (Kundru)Dondakaya.jpg"
+                            "image_url": "products/images/Coccinia (Kundru)Dondakaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Drumsticks",
                             "product_id": "1014",
-                            "price": "₹135 / 3pcs",
+                            "price": 135,
                             "description": "Fresh Drumsticks carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Drumsticks.jpg"
+                            "image_url": "products/images/Drumsticks.jpg",
+                            "measurement": {
+                                "value": "3",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Beans Haricot / Beeniskaya",
                             "product_id": "1015",
-                            "price": "₹53 / 250g",
+                            "price": 53,
                             "description": "Fresh Beans Haricot / Beeniskaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Beans Haricot  Beeniskaya.jpg"
+                            "image_url": "products/images/Beans Haricot  Beeniskaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Beans Cluster (Gawar Phali)",
                             "product_id": "1029",
-                            "price": "₹37 / 250g",
+                            "price": 37,
                             "description": "Fresh Beans Cluster (Gawar Phali) carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Beans Cluster (Gawar Phali).jpg"
+                            "image_url": "products/images/Beans Cluster (Gawar Phali).jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Beans Broad (Chikkudu)",
                             "product_id": "1030",
-                            "price": "₹85 / 500g",
+                            "price": 85,
                             "description": "Fresh Beans Broad (Chikkudu) carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Beans Broad (Chikkudu).jpg"
+                            "image_url": "products/images/Beans Broad (Chikkudu).jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Super Sweetcorn Kernels Chat Masala",
@@ -540,23 +776,35 @@
                         {
                             "product_name": "Cauliflower",
                             "product_id": "1063",
-                            "price": "₹47 / 1pc",
+                            "price": 47,
                             "description": "Fresh Cauliflower carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Cauliflower.jpg"
+                            "image_url": "products/images/Cauliflower.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Broccoli",
                             "product_id": "1064",
-                            "price": "₹134 / 300g",
+                            "price": 134,
                             "description": "Fresh Broccoli carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Broccoli.jpg"
+                            "image_url": "products/images/Broccoli.jpg",
+                            "measurement": {
+                                "value": "300",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Deep Rooted Residue Free Beans Haricot",
                             "product_id": "1072",
-                            "price": "₹117 / 250g",
+                            "price": 117,
                             "description": "Carefully grown Deep Rooted Residue Free Beans Haricot without harmful pesticides. Laboratory tested to ensure no chemical residues.",
-                            "image_url": "products/images/Deep Rooted Residue Free Beans Haricot.jpg"
+                            "image_url": "products/images/Deep Rooted Residue Free Beans Haricot.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Tender Coconut (Nariyal)/Kobbari Bondam",
@@ -624,9 +872,13 @@
                         {
                             "product_name": "Zespri Kiwi Green",
                             "product_id": "1110",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Zespri Kiwi Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Zespri Kiwi Green.jpg"
+                            "image_url": "products/images/Zespri Kiwi Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Muskmelon Semi Ripe",
@@ -939,9 +1191,13 @@
                         {
                             "product_name": "24 Mantra Organic Sonamasuri Raw Rice Polished",
                             "product_id": "1204",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Sonamasuri Raw Rice Polished sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Sonamasuri_Raw_Rice_Polished.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Sonamasuri_Raw_Rice_Polished.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Saffola Active | Rich in Omega 3 & Oryzanol | Edible Oil Pouch",
@@ -974,9 +1230,13 @@
                         {
                             "product_name": "Popular Essentials Green Moong Whole",
                             "product_id": "1211",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Popular Essentials Green Moong Whole carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Popular_Essentials_Green_Moong_Whole.jpg"
+                            "image_url": "products/images/Popular_Essentials_Green_Moong_Whole.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Sri Bhagyalakshmi Gatti Aval Akki",
@@ -1009,9 +1269,13 @@
                         {
                             "product_name": "Double Horse Puttupodi White",
                             "product_id": "1218",
-                            "price": "₹36 / 250g",
+                            "price": 36,
                             "description": "Fresh Double Horse Puttupodi White carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Double_Horse_Puttupodi_White.jpg"
+                            "image_url": "products/images/Double_Horse_Puttupodi_White.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Popular Essentials Moong Dal (Un-Polished)",
@@ -1044,9 +1308,13 @@
                         {
                             "product_name": "Popular Essentials Maize Flour / Corn Flour (Makai Atta)",
                             "product_id": "1226",
-                            "price": "₹80 / 250g",
+                            "price": 80,
                             "description": "Fresh Popular Essentials Maize Flour / Corn Flour (Makai Atta) carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Popular_Essentials_Maize_Flour__Corn_Flour_(Makai_Atta).jpg"
+                            "image_url": "products/images/Popular_Essentials_Maize_Flour__Corn_Flour_(Makai_Atta).jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Sri Bhagyalakshmi Kabuli Channa",
@@ -1128,16 +1396,24 @@
                         {
                             "product_name": "Aashirvaad Organic Arhar- Tur Dal | Makes Tadka | Rich In Protein",
                             "product_id": "1243",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Organic Arhar- Tur Dal | Makes Tadka | Rich In Protein sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Organic_Arhar-_Tur_Dal__Makes_Tadka__Rich_In_Protein.jpg"
+                            "image_url": "products/images/Aashirvaad_Organic_Arhar-_Tur_Dal__Makes_Tadka__Rich_In_Protein.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "24 Mantra Organic Peanuts",
                             "product_id": "1245",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Peanuts sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Peanuts.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Peanuts.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Safe Harvest Pesticide Free Goodness Unpolished Tur Dal/ Arhar Dal | Natural | Chemical Free | Vegan | Gluten Free",
@@ -1247,9 +1523,13 @@
                         {
                             "product_name": "24 Mantra Organic 7 Grain Atta",
                             "product_id": "1279",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic 7 Grain Atta sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_7_Grain_Atta.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_7_Grain_Atta.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Sunpure Filtered Groundnut Oil (Pouch)",
@@ -1317,9 +1597,13 @@
                         {
                             "product_name": "24 Mantra Organic Urad White Whole",
                             "product_id": "1298",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Urad White Whole sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Urad_White_Whole.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Urad_White_Whole.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Manna Foods Multi Millet Atta",
@@ -1359,9 +1643,13 @@
                         {
                             "product_name": "Aashirvaad Organic Moong Dal - Makes Tadka, Halwa & Ladoo",
                             "product_id": "1310",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Organic Moong Dal - Makes Tadka, Halwa & Ladoo sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Organic_Moong_Dal_-_Makes_Tadka,_Halwa_&_Ladoo.jpg"
+                            "image_url": "products/images/Aashirvaad_Organic_Moong_Dal_-_Makes_Tadka,_Halwa_&_Ladoo.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Master Cook Idli Rice",
@@ -1422,9 +1710,13 @@
                         {
                             "product_name": "24 Mantra Organic Sona Masoori Raw Rice Brown",
                             "product_id": "1326",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Sona Masoori Raw Rice Brown sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Sona_Masoori_Raw_Rice_Brown.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Sona_Masoori_Raw_Rice_Brown.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Manna Kodo Millet | Varagu / Varagarisi",
@@ -1485,16 +1777,24 @@
                         {
                             "product_name": "Conscious Food Organic Groundnut Oil",
                             "product_id": "1342",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Conscious Food Organic Groundnut Oil sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Conscious_Food_Organic_Groundnut_Oil.jpg"
+                            "image_url": "products/images/Conscious_Food_Organic_Groundnut_Oil.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Aashirvaad Nature's Super Foods Organic Moong Dal",
                             "product_id": "1346",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Nature's Super Foods Organic Moong Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Nature's_Super_Foods_Organic_Moong_Dal.jpg"
+                            "image_url": "products/images/Aashirvaad_Nature's_Super_Foods_Organic_Moong_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Double Horse Rice Palada",
@@ -1674,9 +1974,13 @@
                         {
                             "product_name": "Organic Tattva Multigrain Flour",
                             "product_id": "1396",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Multigrain Flour sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Multigrain_Flour.jpg"
+                            "image_url": "products/images/Organic_Tattva_Multigrain_Flour.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Tmi Colman Pink Salt Powder",
@@ -1688,16 +1992,24 @@
                         {
                             "product_name": "Pansari Moong Dal Atta - Green",
                             "product_id": "1401",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Pansari Moong Dal Atta - Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Pansari_Moong_Dal_Atta_-_Green.jpg"
+                            "image_url": "products/images/Pansari_Moong_Dal_Atta_-_Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Hudson Canola Oil - Pet Bottle",
                             "product_id": "1402",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Hudson Canola Oil - Pet Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Hudson_Canola_Oil_-_Pet_Bottle.jpg"
+                            "image_url": "products/images/Hudson_Canola_Oil_-_Pet_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Daily Good Puffed Rice / Murmura / Muri / Kurmura",
@@ -1758,9 +2070,13 @@
                         {
                             "product_name": "Tata Sampann Unpolished Green Moong Dal",
                             "product_id": "1417",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Tata Sampann Unpolished Green Moong Dal carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Tata_Sampann_Unpolished_Green_Moong_Dal.jpg"
+                            "image_url": "products/images/Tata_Sampann_Unpolished_Green_Moong_Dal.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Rajdhani Sabudana",
@@ -1793,9 +2109,13 @@
                         {
                             "product_name": "24 Mantra Organic Jowar Flour",
                             "product_id": "1425",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Jowar Flour sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Jowar_Flour.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Jowar_Flour.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Fortune Soyabean Oil",
@@ -1814,9 +2134,13 @@
                         {
                             "product_name": "Organic Tattva Organic Moong Dal Yellow Split",
                             "product_id": "1428",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Organic Moong Dal Yellow Split sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Organic_Moong_Dal_Yellow_Split.jpg"
+                            "image_url": "products/images/Organic_Tattva_Organic_Moong_Dal_Yellow_Split.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Daawat Sona Masuri Rice | Medium Grain",
@@ -1828,9 +2152,13 @@
                         {
                             "product_name": "24 Mantra Organic Moong Dal",
                             "product_id": "1433",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Moong Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Moong_Dal.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Moong_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Daawat Biryani Rice | Long Grain",
@@ -1842,16 +2170,24 @@
                         {
                             "product_name": "24 Mantra Organic Roasted Bengal Gram Dal",
                             "product_id": "1437",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Roasted Bengal Gram Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Roasted_Bengal_Gram_Dal.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Roasted_Bengal_Gram_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Organic Tattva Sonamasuri Rice Brown",
                             "product_id": "1439",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Sonamasuri Rice Brown sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Sonamasuri_Rice_Brown.jpg"
+                            "image_url": "products/images/Organic_Tattva_Sonamasuri_Rice_Brown.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Dhara Groundnut Oil (Pouch)",
@@ -1898,9 +2234,13 @@
                         {
                             "product_name": "24 Mantra Organic Rice Flour",
                             "product_id": "1452",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Rice Flour sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Rice_Flour.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Rice_Flour.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Tata Sampann Unpolished Kabuli Chana (Medium Size)",
@@ -1933,9 +2273,13 @@
                         {
                             "product_name": "Conscious Food Organic Yellow Mung Dal",
                             "product_id": "1457",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Conscious Food Organic Yellow Mung Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Conscious_Food_Organic_Yellow_Mung_Dal.jpg"
+                            "image_url": "products/images/Conscious_Food_Organic_Yellow_Mung_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Popular Essentials Salted Puffed Rice",
@@ -1954,16 +2298,24 @@
                         {
                             "product_name": "Organic Tattva Kabuli Chana",
                             "product_id": "1464",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Kabuli Chana sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Kabuli_Chana.jpg"
+                            "image_url": "products/images/Organic_Tattva_Kabuli_Chana.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "24 Mantra Organic Wheat Daliya",
                             "product_id": "1471",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Wheat Daliya sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Wheat_Daliya.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Wheat_Daliya.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Sundrop Oil - Heart (Pouch)",
@@ -2015,16 +2367,24 @@
                         {
                             "product_name": "Banana Raw / Kura Aratikaya",
                             "product_id": "1018",
-                            "price": "₹47 / 2pcs",
+                            "price": 47,
                             "description": "Fresh Banana Raw / Kura Aratikaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Banana Raw  Kura Aratikaya.jpg"
+                            "image_url": "products/images/Banana Raw  Kura Aratikaya.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Banana Robusta",
                             "product_id": "1074",
-                            "price": "₹47 / 2pcs",
+                            "price": 47,
                             "description": "Fresh Banana Robusta carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Banana Robusta.jpg"
+                            "image_url": "products/images/Banana Robusta.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Guava Thai",
@@ -2036,23 +2396,35 @@
                         {
                             "product_name": "Papaya Lady Red/Poppadi Pandu/Boppas Pandu",
                             "product_id": "1082",
-                            "price": "₹43 / 500g",
+                            "price": 43,
                             "description": "Fresh Papaya Lady Red/Poppadi Pandu/Boppas Pandu carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg"
+                            "image_url": "products/images/Papaya Lady RedPoppadi PanduBoppas Pandu.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Banana Karpoora",
                             "product_id": "1085",
-                            "price": "₹47 / 2pcs",
+                            "price": 47,
                             "description": "Fresh Banana Karpoora carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Banana Karpoora.jpg"
+                            "image_url": "products/images/Banana Karpoora.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Mango Raw",
                             "product_id": "1094",
-                            "price": "₹47 / 2pcs",
+                            "price": 47,
                             "description": "Fresh Mango Raw carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Mango Raw.jpg"
+                            "image_url": "products/images/Mango Raw.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Pineapple (Ananas) Semi Ripe",
@@ -2078,9 +2450,13 @@
                         {
                             "product_name": "White Guava (Amrood)/Jamakaya",
                             "product_id": "1108",
-                            "price": "₹36 / 250g",
+                            "price": 36,
                             "description": "Fresh White Guava (Amrood)/Jamakaya carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/White Guava (Amrood)Jamakaya.jpg"
+                            "image_url": "products/images/White Guava (Amrood)Jamakaya.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Mango Totapuri",
@@ -2106,9 +2482,13 @@
                         {
                             "product_name": "Organic Pineapple",
                             "product_id": "1121",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Pineapple sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic Pineapple.jpg"
+                            "image_url": "products/images/Organic Pineapple.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         }
                     ]
                 },
@@ -2119,16 +2499,24 @@
                         {
                             "product_name": "Cherry Tomato",
                             "product_id": "1041",
-                            "price": "₹54 / 200g",
+                            "price": 54,
                             "description": "Fresh Cherry Tomato carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Cherry Tomato.jpg"
+                            "image_url": "products/images/Cherry Tomato.jpg",
+                            "measurement": {
+                                "value": "200",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Gourmet Garden Organic Cherry Tomato",
                             "product_id": "1051",
-                            "price": "₹101 / 200g",
+                            "price": 101,
                             "description": "Fresh, organically grown Gourmet Garden Organic Cherry Tomato sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Gourmet Garden Organic Cherry Tomato.jpg"
+                            "image_url": "products/images/Gourmet Garden Organic Cherry Tomato.jpg",
+                            "measurement": {
+                                "value": "200",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Plum Imported",
@@ -2174,23 +2562,35 @@
                         {
                             "product_name": "Tadaa Sweet Corn Kernels Lemon & Pepper",
                             "product_id": "1069",
-                            "price": "₹50 / 2pcs",
+                            "price": 50,
                             "description": "Fresh Tadaa Sweet Corn Kernels Lemon & Pepper carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Tadaa Sweet Corn Kernels Lemon & Pepper.jpg"
+                            "image_url": "products/images/Tadaa Sweet Corn Kernels Lemon & Pepper.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Orange Nagpur",
                             "product_id": "1075",
-                            "price": "₹24 / 250g",
+                            "price": 24,
                             "description": "Fresh Orange Nagpur carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Orange Nagpur.jpg"
+                            "image_url": "products/images/Orange Nagpur.jpg",
+                            "measurement": {
+                                "value": "250",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Baby Orange",
                             "product_id": "1086",
-                            "price": "₹59 / 500g",
+                            "price": 59,
                             "description": "Fresh Baby Orange carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Baby Orange.jpg"
+                            "image_url": "products/images/Baby Orange.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Mosambi",
@@ -2209,9 +2609,13 @@
                         {
                             "product_name": "Sweet Lime",
                             "product_id": "1103",
-                            "price": "₹50 / 2pcs",
+                            "price": 50,
                             "description": "Fresh Sweet Lime carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Sweet Lime.jpg"
+                            "image_url": "products/images/Sweet Lime.jpg",
+                            "measurement": {
+                                "value": "2",
+                                "unit": "pcs"
+                            }
                         },
                         {
                             "product_name": "Grapefruit",
@@ -2236,9 +2640,13 @@
                         {
                             "product_name": "Baby Apple Shimla",
                             "product_id": "1079",
-                            "price": "₹59 / 500g",
+                            "price": 59,
                             "description": "Fresh Baby Apple Shimla carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Baby Apple Shimla.jpg"
+                            "image_url": "products/images/Baby Apple Shimla.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Custard Apple (Sitaphal)",
@@ -2264,9 +2672,13 @@
                         {
                             "product_name": "Apple Green",
                             "product_id": "1098",
-                            "price": "₹37 / 500g",
+                            "price": 37,
                             "description": "Fresh Apple Green carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Apple Green.jpg"
+                            "image_url": "products/images/Apple Green.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         },
                         {
                             "product_name": "Apple Shimla",
@@ -2299,9 +2711,13 @@
                         {
                             "product_name": "Pear Green Imported",
                             "product_id": "1117",
-                            "price": "₹56 / 500g",
+                            "price": 56,
                             "description": "Fresh Pear Green Imported carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Pear Green Imported.jpg"
+                            "image_url": "products/images/Pear Green Imported.jpg",
+                            "measurement": {
+                                "value": "500",
+                                "unit": "g"
+                            }
                         }
                     ]
                 },
@@ -2694,9 +3110,13 @@
                         {
                             "product_name": "Leonardo Extra Light Olive Oil Bottle",
                             "product_id": "1128",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Leonardo Extra Light Olive Oil Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Leonardo_Extra_Light_Olive_Oil_Bottle.jpg"
+                            "image_url": "products/images/Leonardo_Extra_Light_Olive_Oil_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Heritage Ghee | Pouch",
@@ -2743,9 +3163,13 @@
                         {
                             "product_name": "Grb Ghee - Bottle",
                             "product_id": "1138",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Grb Ghee - Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Grb_Ghee_-_Bottle.jpg"
+                            "image_url": "products/images/Grb_Ghee_-_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Gold Winner Refined Sunflower Oil - Jar",
@@ -2764,9 +3188,13 @@
                         {
                             "product_name": "Fortune Kachi Ghani Mustard Oil | Bottle",
                             "product_id": "1154",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Fortune Kachi Ghani Mustard Oil | Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Fortune_Kachi_Ghani_Mustard_Oil__Bottle.jpg"
+                            "image_url": "products/images/Fortune_Kachi_Ghani_Mustard_Oil__Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Gold Winner Refined Sunflower Oil - Pouch",
@@ -2799,9 +3227,13 @@
                         {
                             "product_name": "Akshayakalpa Organic Cow Ghee",
                             "product_id": "1205",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Akshayakalpa Organic Cow Ghee sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Akshayakalpa_Organic_Cow_Ghee.jpg"
+                            "image_url": "products/images/Akshayakalpa_Organic_Cow_Ghee.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Amul Pure Ghee | Carton",
@@ -2862,9 +3294,13 @@
                         {
                             "product_name": "Borges Extra Virgin Olive Oil - Bottle",
                             "product_id": "1265",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Borges Extra Virgin Olive Oil - Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Borges_Extra_Virgin_Olive_Oil_-_Bottle.jpg"
+                            "image_url": "products/images/Borges_Extra_Virgin_Olive_Oil_-_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Amul Cow Ghee (Carton)/Refill",
@@ -2890,9 +3326,13 @@
                         {
                             "product_name": "Borges Classic Olive Oil - Bottle",
                             "product_id": "1286",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Borges Classic Olive Oil - Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Borges_Classic_Olive_Oil_-_Bottle.jpg"
+                            "image_url": "products/images/Borges_Classic_Olive_Oil_-_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Del Monte Extra Virgin Olive Oil",
@@ -2904,9 +3344,13 @@
                         {
                             "product_name": "Leonardo Ex Virgin Olive Oil Bottle",
                             "product_id": "1306",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Leonardo Ex Virgin Olive Oil Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Leonardo_Ex_Virgin_Olive_Oil_Bottle.jpg"
+                            "image_url": "products/images/Leonardo_Ex_Virgin_Olive_Oil_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Anveshan Wood Cold Pressed Coconut Oil",
@@ -2925,9 +3369,13 @@
                         {
                             "product_name": "Ved A2 Desi Gir Cow Cultured Ghee Glass Bottle",
                             "product_id": "1313",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Ved A2 Desi Gir Cow Cultured Ghee Glass Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Ved_A2_Desi_Gir_Cow_Cultured_Ghee_Glass_Bottle.jpg"
+                            "image_url": "products/images/Ved_A2_Desi_Gir_Cow_Cultured_Ghee_Glass_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Del Monte Light Olive Oil",
@@ -2946,9 +3394,13 @@
                         {
                             "product_name": "Conscious Food Organic Mustard Oil",
                             "product_id": "1325",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Conscious Food Organic Mustard Oil sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Conscious_Food_Organic_Mustard_Oil.jpg"
+                            "image_url": "products/images/Conscious_Food_Organic_Mustard_Oil.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Sahasthra Cold Pressed Coconut Oil (Bottle)",
@@ -2967,9 +3419,13 @@
                         {
                             "product_name": "Leonardo Pomace Olive Oil Bottle",
                             "product_id": "1337",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Leonardo Pomace Olive Oil Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Leonardo_Pomace_Olive_Oil_Bottle.jpg"
+                            "image_url": "products/images/Leonardo_Pomace_Olive_Oil_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Barosi Cultured Cow Ghee",
@@ -2981,9 +3437,13 @@
                         {
                             "product_name": "Fortune Sunlite Refined Sunflower Oil Pet Bottle",
                             "product_id": "1344",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Fortune Sunlite Refined Sunflower Oil Pet Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Fortune_Sunlite_Refined_Sunflower_Oil_Pet_Bottle.jpg"
+                            "image_url": "products/images/Fortune_Sunlite_Refined_Sunflower_Oil_Pet_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Del Monte Extra Light Olive Oil",
@@ -3002,9 +3462,13 @@
                         {
                             "product_name": "Klf Tilnad Sesame Oil - Bottle",
                             "product_id": "1350",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Klf Tilnad Sesame Oil - Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Klf_Tilnad_Sesame_Oil_-_Bottle.jpg"
+                            "image_url": "products/images/Klf_Tilnad_Sesame_Oil_-_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Sundrop Super Lite Advanced - Sunflower Oil (Pouch)",
@@ -3058,9 +3522,13 @@
                         {
                             "product_name": "Conscious Food Organic Coconut Oil Cold Pressed (Bottle)",
                             "product_id": "1369",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Conscious Food Organic Coconut Oil Cold Pressed (Bottle) sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Conscious_Food_Organic_Coconut_Oil_Cold_Pressed_(Bottle).jpg"
+                            "image_url": "products/images/Conscious_Food_Organic_Coconut_Oil_Cold_Pressed_(Bottle).jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Godrej Jersey Ghee Jar",
@@ -3086,16 +3554,24 @@
                         {
                             "product_name": "Organic Tattva Organic Cow Ghee",
                             "product_id": "1403",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Organic Cow Ghee sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Organic_Cow_Ghee.jpg"
+                            "image_url": "products/images/Organic_Tattva_Organic_Cow_Ghee.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Pansari Kachi Ghani Mustard Oil - Bottle",
                             "product_id": "1404",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Pansari Kachi Ghani Mustard Oil - Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Pansari_Kachi_Ghani_Mustard_Oil_-_Bottle.jpg"
+                            "image_url": "products/images/Pansari_Kachi_Ghani_Mustard_Oil_-_Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "Bertolli Extra Light Olive Oil (Bottle)",
@@ -3163,16 +3639,24 @@
                         {
                             "product_name": "Anveshan Wood Pressed Sesame Oil | Bottle",
                             "product_id": "1459",
-                            "price": "₹46 / 1pc",
+                            "price": 46,
                             "description": "Fresh Anveshan Wood Pressed Sesame Oil | Bottle carefully selected for quality and flavor. Farm to table within 24 hours.",
-                            "image_url": "products/images/Anveshan_Wood_Pressed_Sesame_Oil__Bottle.jpg"
+                            "image_url": "products/images/Anveshan_Wood_Pressed_Sesame_Oil__Bottle.jpg",
+                            "measurement": {
+                                "value": "1",
+                                "unit": "pc"
+                            }
                         },
                         {
                             "product_name": "24 Mantra Organic Sunflower Oil (Bottle)",
                             "product_id": "1463",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Sunflower Oil (Bottle) sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Sunflower_Oil_(Bottle).jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Sunflower_Oil_(Bottle).jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Amul High Aroma Cow Ghee | Jar",
@@ -3184,9 +3668,13 @@
                         {
                             "product_name": "Organic Tattva Sesame Oil",
                             "product_id": "1468",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Sesame Oil sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Sesame_Oil.jpg"
+                            "image_url": "products/images/Organic_Tattva_Sesame_Oil.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Gowardhan Pure Cow Ghee - Pouch",
@@ -3225,9 +3713,13 @@
                         {
                             "product_name": "Aashirvaad Organic 100% Organic Whole Wheat Atta, 0% Maida",
                             "product_id": "1144",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Organic 100% Organic Whole Wheat Atta, 0% Maida sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Organic_100%_Organic_Whole_Wheat_Atta,_0%_Maida.jpg"
+                            "image_url": "products/images/Aashirvaad_Organic_100%_Organic_Whole_Wheat_Atta,_0%_Maida.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Tata Sampann Fine Besan",
@@ -3253,9 +3745,13 @@
                         {
                             "product_name": "24 Mantra Organic Whole Wheat Atta",
                             "product_id": "1190",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Whole Wheat Atta sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Whole_Wheat_Atta.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Whole_Wheat_Atta.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Vijay Besan Flour",
@@ -3316,9 +3812,13 @@
                         {
                             "product_name": "Organic Tattva Wheat Flour (Chakki Atta)",
                             "product_id": "1416",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Wheat Flour (Chakki Atta) sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Wheat_Flour_(Chakki_Atta).jpg"
+                            "image_url": "products/images/Organic_Tattva_Wheat_Flour_(Chakki_Atta).jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         }
                     ]
                 },
@@ -3336,9 +3836,13 @@
                         {
                             "product_name": "Aashirvaad Organic Chana Dal - Rich In Protein & Dietary Fibre",
                             "product_id": "1150",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Organic Chana Dal - Rich In Protein & Dietary Fibre sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Organic_Chana_Dal_-_Rich_In_Protein_&_Dietary_Fibre.jpg"
+                            "image_url": "products/images/Aashirvaad_Organic_Chana_Dal_-_Rich_In_Protein_&_Dietary_Fibre.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Popular Essentials Chana Dal | Un-Polished",
@@ -3420,16 +3924,24 @@
                         {
                             "product_name": "24 Mantra Organic Chana Dal",
                             "product_id": "1247",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown 24 Mantra Organic Chana Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/24_Mantra_Organic_Chana_Dal.jpg"
+                            "image_url": "products/images/24_Mantra_Organic_Chana_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Pro Nature 100% Organic Cold Pressed Ground Nut Oil",
                             "product_id": "1277",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Pro Nature 100% Organic Cold Pressed Ground Nut Oil sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Pro_Nature_100%_Organic_Cold_Pressed_Ground_Nut_Oil.jpg"
+                            "image_url": "products/images/Pro_Nature_100%_Organic_Cold_Pressed_Ground_Nut_Oil.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Dehaat Honest Farms Unpolished Urad Dal Chilka",
@@ -3455,9 +3967,13 @@
                         {
                             "product_name": "Organic Tattva Roasted Chana Dal",
                             "product_id": "1333",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Organic Tattva Roasted Chana Dal sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Organic_Tattva_Roasted_Chana_Dal.jpg"
+                            "image_url": "products/images/Organic_Tattva_Roasted_Chana_Dal.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Safe Harvest Pesticide-Free Unpolished Chana Dal | Natural | No Artificial Flavours",
@@ -3469,9 +3985,13 @@
                         {
                             "product_name": "Aashirvaad Organic Urad Dal - Makes Idli And Dosa",
                             "product_id": "1354",
-                            "price": "₹65 / 450",
+                            "price": 65,
                             "description": "Fresh, organically grown Aashirvaad Organic Urad Dal - Makes Idli And Dosa sourced directly from certified organic farms. No pesticides or chemical fertilizers used.",
-                            "image_url": "products/images/Aashirvaad_Organic_Urad_Dal_-_Makes_Idli_And_Dosa.jpg"
+                            "image_url": "products/images/Aashirvaad_Organic_Urad_Dal_-_Makes_Idli_And_Dosa.jpg",
+                            "measurement": {
+                                "value": "45",
+                                "unit": "0"
+                            }
                         },
                         {
                             "product_name": "Pansari Urad Dal Atta - Black",
