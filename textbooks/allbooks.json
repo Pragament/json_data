@@ -9,7 +9,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thmaths"
       },
       {
         "id": "6690c2d1ee63da82a8e9cdaf",
@@ -19,7 +20,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thenglsih"
       },
       {
         "id": "6690c5beee63da82a8e9cdb0",
@@ -29,7 +31,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thscience"
       },
       {
         "id": "6690d48c2dce372c499477fb",
@@ -39,7 +42,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thhindi"
       },
       {
         "id": "6690d5422dce372c499477fc",
@@ -49,27 +53,30 @@
         "languageCode": "en",
         "subject": "Sanskrit",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thsanskrit"
       },
       {
         "id": "6690f3e0c80fdc05a881d484",
-        "name": "class 10 social science India and the Contemporary World–2 Textbook History",
+        "name": "class 10 social science India and the Contemporary World\u00e2\u20ac\u201c2 Textbook History",
         "description": null,
         "class": "10",
         "languageCode": "en",
-        "subject": "Social Science -India and the Contemporary World–2 Textbook History",
+        "subject": "Social Science -India and the Contemporary World\u00e2\u20ac\u201c2 Textbook History",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thsocial_science_india_and_the_contemporary_world\u2013ii_textbook_in_history"
       },
       {
         "id": "6694b017d744eec5ff05ab5e",
-        "name": "class 10 Social Science -India and the Contemporary World–2 Textbook in Geopgraphy",
+        "name": "class 10 Social Science -India and the Contemporary World\u00e2\u20ac\u201c2 Textbook in Geopgraphy",
         "description": null,
         "class": "10",
         "languageCode": "en",
-        "subject": "Social Science -India and the Contemporary World–2 Textbook in Geopgraphy",
+        "subject": "Social Science -India and the Contemporary World\u00e2\u20ac\u201c2 Textbook in Geopgraphy",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/10thsocial_science_india_and_the_contemporary_world\u2013ii_textbook_in_geopgraphy"
       },
       {
         "id": "669a8349a4869f2442d74ffa",
@@ -79,7 +86,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8english"
       },
       {
         "id": "669a83da40162c818c13dd48",
@@ -89,7 +97,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8hindi"
       },
       {
         "id": "669a8439a4869f2442d74ffb",
@@ -99,7 +108,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8mathematics"
       },
       {
         "id": "669a8519a4869f2442d74ffc",
@@ -109,7 +119,8 @@
         "languageCode": "en",
         "subject": "Physical",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8physical"
       },
       {
         "id": "669a857d40162c818c13dd49",
@@ -119,7 +130,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8telugu"
       },
       {
         "id": "669a85f0a4869f2442d74ffd",
@@ -129,7 +141,8 @@
         "languageCode": "en",
         "subject": "Biology",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8biology"
       },
       {
         "id": "669a8707a4869f2442d74ffe",
@@ -139,7 +152,8 @@
         "languageCode": "en",
         "subject": "Social",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/8social"
       },
       {
         "id": "669a9e65569c13f134109ca0",
@@ -149,7 +163,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7telugu"
       },
       {
         "id": "669a9ec5569c13f134109ca1",
@@ -159,7 +174,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7hindi"
       },
       {
         "id": "669a9f4d569c13f134109ca2",
@@ -169,7 +185,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7english"
       },
       {
         "id": "669aa041569c13f134109ca3",
@@ -179,7 +196,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7mathematics"
       },
       {
         "id": "669aa116569c13f134109ca4",
@@ -189,7 +207,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7science"
       },
       {
         "id": "669ab52142624eabbf84472e",
@@ -199,7 +218,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/6telugu"
       },
       {
         "id": "669ab5e542624eabbf844730",
@@ -209,7 +229,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/6english"
       },
       {
         "id": "669ab67c42624eabbf844731",
@@ -219,7 +240,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/6mathematics"
       },
       {
         "id": "669ab71f42624eabbf844732",
@@ -229,7 +251,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/6gen"
       },
       {
         "id": "669b64b521f37722012d663e",
@@ -239,7 +262,8 @@
         "languageCode": "en",
         "subject": "Social",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/7social"
       },
       {
         "id": "669b6b551622730884f6fd40",
@@ -249,7 +273,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/5english"
       },
       {
         "id": "669b6c151622730884f6fd41",
@@ -259,7 +284,8 @@
         "languageCode": "en",
         "subject": "EVS",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/5evs"
       },
       {
         "id": "669b6cc51622730884f6fd42",
@@ -269,7 +295,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/4thmaths"
       },
       {
         "id": "669b6d581622730884f6fd43",
@@ -279,7 +306,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/3rdtelugu"
       },
       {
         "id": "669b6e241622730884f6fd44",
@@ -289,7 +317,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/3english"
       },
       {
         "id": "669b6eb61622730884f6fd45",
@@ -299,7 +328,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/2ndclass"
       },
       {
         "id": "669b6fca1622730884f6fd47",
@@ -309,7 +339,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/1stclass"
       },
       {
         "id": "669b7b4c3237690e0d60c884",
@@ -319,7 +350,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/1telugu"
       },
       {
         "id": "669b7d1e3237690e0d60c885",
@@ -329,7 +361,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/2telugu"
       },
       {
         "id": "669b7efd3237690e0d60c886",
@@ -339,7 +372,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/2%mathsem2024-25"
       },
       {
         "id": "669b81703237690e0d60c887",
@@ -349,7 +383,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/3maths"
       },
       {
         "id": "669b82e43237690e0d60c888",
@@ -359,7 +394,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/4english"
       },
       {
         "id": "669b848a3237690e0d60c889",
@@ -369,7 +405,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/4telugu"
       },
       {
         "id": "669b86cd3237690e0d60c88a",
@@ -379,7 +416,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/5mathematics"
       },
       {
         "id": "669b88453237690e0d60c88b",
@@ -389,7 +427,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/5telugu"
       },
       {
         "id": "669b8a953237690e0d60c88c",
@@ -399,7 +438,8 @@
         "languageCode": "en",
         "subject": "Social",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/6social"
       },
       {
         "id": "66a0be926bc9c7a4a2eea480",
@@ -409,7 +449,8 @@
         "languageCode": "en",
         "subject": "Social",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9contemporary_india_1"
       },
       {
         "id": "66a0bfb16bc9c7a4a2eea481",
@@ -419,7 +460,8 @@
         "languageCode": "en",
         "subject": "Economics",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9economics"
       },
       {
         "id": "66a0c0e36bc9c7a4a2eea482",
@@ -429,7 +471,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9english"
       },
       {
         "id": "66a0c1ce6bc9c7a4a2eea483",
@@ -439,7 +482,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9hindi"
       },
       {
         "id": "66a0c4ca6bc9c7a4a2eea484",
@@ -449,7 +493,8 @@
         "languageCode": "en",
         "subject": "Social -India and the Contemporary World-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9india_and_the_contemporary_world_1"
       },
       {
         "id": "66a0c68c6bc9c7a4a2eea485",
@@ -459,7 +504,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9mathematics"
       },
       {
         "id": "66a0c7906bc9c7a4a2eea486",
@@ -469,7 +515,8 @@
         "languageCode": "en",
         "subject": "Sanskrit",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9sanskrit"
       },
       {
         "id": "66a0c99e6bc9c7a4a2eea487",
@@ -479,7 +526,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9science"
       },
       {
         "id": "66a0cb606bc9c7a4a2eea488",
@@ -489,7 +537,8 @@
         "languageCode": "en",
         "subject": "Social Science Democratic Politics-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/9social_science_democratic_politics_1"
       },
       {
         "id": "66a3495389ffd74756e1e9a1",
@@ -499,7 +548,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8english"
       },
       {
         "id": "66a34aa789ffd74756e1e9a2",
@@ -509,7 +559,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8hindi"
       },
       {
         "id": "66a34c9989ffd74756e1e9a3",
@@ -519,7 +570,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8maths"
       },
       {
         "id": "66a34e5c89ffd74756e1e9a4",
@@ -529,7 +581,8 @@
         "languageCode": "en",
         "subject": "Resources and Development Geography",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8resources_and_development_geography"
       },
       {
         "id": "66a3504c89ffd74756e1e9a5",
@@ -539,7 +592,8 @@
         "languageCode": "en",
         "subject": "Sanskrit",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8sanskrit"
       },
       {
         "id": "66a3530089ffd74756e1e9a6",
@@ -549,7 +603,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8science"
       },
       {
         "id": "66a3560d89ffd74756e1e9a7",
@@ -559,7 +614,8 @@
         "languageCode": "en",
         "subject": "Social and Political Life-3",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8social_and_political_life_3"
       },
       {
         "id": "66a358da89ffd74756e1e9a8",
@@ -569,7 +625,8 @@
         "languageCode": "en",
         "subject": "Social science Our Past-3",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8social_science_our_past_3"
       },
       {
         "id": "66a35ae089ffd74756e1e9a9",
@@ -579,7 +636,8 @@
         "languageCode": "en",
         "subject": "Urdu",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/8urdu"
       },
       {
         "id": "66a49ec3114887dba197ed56",
@@ -589,7 +647,8 @@
         "languageCode": "en",
         "subject": "Hindi Durva Bhag-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7hindi_durva_bhag-2"
       },
       {
         "id": "66a49fed114887dba197ed57",
@@ -599,7 +658,8 @@
         "languageCode": "en",
         "subject": "Hindi Vasant",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7hindi_vasant"
       },
       {
         "id": "66a4a1e1114887dba197ed58",
@@ -609,7 +669,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7maths"
       },
       {
         "id": "66a4a38a114887dba197ed59",
@@ -619,7 +680,8 @@
         "languageCode": "en",
         "subject": "Sanskrit",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7sanskrit"
       },
       {
         "id": "66a4a642114887dba197ed5a",
@@ -629,7 +691,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7science"
       },
       {
         "id": "66a4a907114887dba197ed5b",
@@ -639,7 +702,8 @@
         "languageCode": "en",
         "subject": "Social and Political Life-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7social_and_political_life-2"
       },
       {
         "id": "66a4aa8d114887dba197ed5c",
@@ -649,7 +713,8 @@
         "languageCode": "en",
         "subject": "Social Geography Environment",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7social_geography_environment"
       },
       {
         "id": "66a4ad05114887dba197ed5d",
@@ -659,7 +724,8 @@
         "languageCode": "en",
         "subject": "Social Our Pasts-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7social_our_pasts-2"
       },
       {
         "id": "66a4af4b114887dba197ed5e",
@@ -669,7 +735,8 @@
         "languageCode": "en",
         "subject": "Urdu Apni Zaban",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7urdu_apni_zaban"
       },
       {
         "id": "66a7513e853f0633ba01ec6f",
@@ -679,7 +746,8 @@
         "languageCode": "en",
         "subject": "Arts Kiriti-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6arts_kiriti-1"
       },
       {
         "id": "66a75365853f0633ba01ec70",
@@ -689,7 +757,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6english"
       },
       {
         "id": "66a755aa853f0633ba01ec71",
@@ -699,7 +768,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6hindi"
       },
       {
         "id": "66a7588c853f0633ba01ec72",
@@ -709,7 +779,8 @@
         "languageCode": "en",
         "subject": "Sanskrit",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6sanskrit"
       },
       {
         "id": "66a75c91853f0633ba01ec73",
@@ -719,7 +790,8 @@
         "languageCode": "en",
         "subject": "Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6science"
       },
       {
         "id": "66a7621e853f0633ba01ec74",
@@ -729,7 +801,8 @@
         "languageCode": "en",
         "subject": "Social Science",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6social_science"
       },
       {
         "id": "66a7642c853f0633ba01ec75",
@@ -739,7 +812,8 @@
         "languageCode": "en",
         "subject": "Vocal Education",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6vocal_education"
       },
       {
         "id": "66b085372eddb71cf2f80ac2",
@@ -749,7 +823,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11mathematics"
       },
       {
         "id": "66b088252eddb71cf2f80ac3",
@@ -759,7 +834,8 @@
         "languageCode": "en",
         "subject": "Physics Part-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11physics_part_1"
       },
       {
         "id": "66b0b4c930a4eaa83af60725",
@@ -769,7 +845,8 @@
         "languageCode": "en",
         "subject": "Biology",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11biology"
       },
       {
         "id": "66b0b86030a4eaa83af60726",
@@ -779,7 +856,8 @@
         "languageCode": "en",
         "subject": "Chemistry Part-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11chemistry_part_1"
       },
       {
         "id": "66b0bbc930a4eaa83af60727",
@@ -789,7 +867,8 @@
         "languageCode": "en",
         "subject": "Chemistry Part-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11chemistry_part_2"
       },
       {
         "id": "66b0bd1530a4eaa83af60728",
@@ -799,7 +878,8 @@
         "languageCode": "en",
         "subject": "physics_part_2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/11physics_part_2"
       },
       {
         "id": "66b0bf1230a4eaa83af60729",
@@ -809,7 +889,8 @@
         "languageCode": "en",
         "subject": "Biology",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12biology"
       },
       {
         "id": "66b0c2a630a4eaa83af6072a",
@@ -819,7 +900,8 @@
         "languageCode": "en",
         "subject": "Chemistry Part-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12chemistry_part_1"
       },
       {
         "id": "66b0c49430a4eaa83af6072b",
@@ -829,7 +911,8 @@
         "languageCode": "en",
         "subject": "Chemistry Part-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12chemistry_part_2"
       },
       {
         "id": "66b0c64930a4eaa83af6072c",
@@ -839,7 +922,8 @@
         "languageCode": "en",
         "subject": "Mathematics Part-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12mathematics_part_1"
       },
       {
         "id": "66b0c7f530a4eaa83af6072d",
@@ -849,7 +933,8 @@
         "languageCode": "en",
         "subject": "Mathematics Part-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12mathematics_part_2"
       },
       {
         "id": "66b0c9cd30a4eaa83af6072e",
@@ -859,7 +944,8 @@
         "languageCode": "en",
         "subject": "Physics Part-1",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12physics_part_1"
       },
       {
         "id": "66b0cc6930a4eaa83af6072f",
@@ -869,7 +955,8 @@
         "languageCode": "en",
         "subject": "Physics Part-2",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/12physics_part_2"
       },
       {
         "id": "66c9a8082d154823ee9ff39a",
@@ -879,7 +966,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/6mathematics"
       },
       {
         "id": "674051d5a93086691863f1de",
@@ -889,7 +977,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "NCERT",
-        "year": null
+        "year": null,
+        "s3_folder": "ncert/7english"
       },
       {
         "id": "6749aadac39563553ec424a6",
@@ -899,7 +988,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10telugu"
       },
       {
         "id": "6749ab4cc39563553ec424a7",
@@ -909,7 +999,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10hindi"
       },
       {
         "id": "6749ac23c39563553ec424a8",
@@ -919,7 +1010,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10english"
       },
       {
         "id": "6749af7c3c5221f4f730b2db",
@@ -929,7 +1021,8 @@
         "languageCode": "en",
         "subject": "Mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10mathematics"
       },
       {
         "id": "6749b00a3c5221f4f730b2dc",
@@ -939,7 +1032,8 @@
         "languageCode": "en",
         "subject": "Environmental Education",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10env"
       },
       {
         "id": "674d5460bbc7012c14e8ce65",
@@ -949,7 +1043,8 @@
         "languageCode": "en",
         "subject": "Physical Science",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10physicalscience"
       },
       {
         "id": "674d51b3bbc7012c14e8ce64",
@@ -959,7 +1054,8 @@
         "languageCode": "en",
         "subject": "Biology",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10biology"
       },
       {
         "id": "674d5710bbc7012c14e8ce66",
@@ -969,7 +1065,8 @@
         "languageCode": "en",
         "subject": "Social Studies",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10socialstudies"
       },
       {
         "id": "674d5c97c07e4e5872e32638",
@@ -979,7 +1076,8 @@
         "languageCode": "en",
         "subject": "Telugu",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9telugu"
       },
       {
         "id": "674d5d44c07e4e5872e32639",
@@ -989,7 +1087,8 @@
         "languageCode": "en",
         "subject": "English",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9english-2024-25"
       },
       {
         "id": "674d5e6dc07e4e5872e3263a",
@@ -999,7 +1098,8 @@
         "languageCode": "en",
         "subject": "Maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9maths"
       },
       {
         "id": "674d5f5ec07e4e5872e3263b",
@@ -1009,7 +1109,8 @@
         "languageCode": "en",
         "subject": "Physical Science",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9physical"
       },
       {
         "id": "674d6052c07e4e5872e3263c",
@@ -1019,7 +1120,8 @@
         "languageCode": "en",
         "subject": "Biology",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9biology"
       },
       {
         "id": "674d618cc07e4e5872e3263d",
@@ -1029,7 +1131,8 @@
         "languageCode": "en",
         "subject": "Social",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9social"
       },
       {
         "id": "674d62fd6172e09fd5bf9539",
@@ -1039,7 +1142,8 @@
         "languageCode": "en",
         "subject": "Hindi",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9hindi"
       },
       {
         "id": "674d635789906ca049bcbe4e",
@@ -1049,7 +1153,8 @@
         "languageCode": "en",
         "subject": "Environmental Education",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/9env"
       },
       {
         "id": "675820375026f30f33baad1d",
@@ -1059,7 +1164,8 @@
         "languageCode": "te",
         "subject": "mathematics",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg/10mathematics"
       },
       {
         "id": "67591f180267e8562809d8c8",
@@ -1069,7 +1175,8 @@
         "languageCode": "te",
         "subject": "physicalscience",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10physicalsciencetm"
       },
       {
         "id": "675931bb9cfe3c62c6b3645e",
@@ -1079,7 +1186,8 @@
         "languageCode": "te",
         "subject": "biology",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg_scert/10biologytm"
       },
       {
         "id": "67738797616eb7eb5c54e084",
@@ -1089,7 +1197,8 @@
         "languageCode": "te",
         "subject": "maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg/10thmaths"
       },
       {
         "id": "6773caf592580695cba69115",
@@ -1099,7 +1208,8 @@
         "languageCode": "te",
         "subject": "maths",
         "board": "TG",
-        "year": null
+        "year": null,
+        "s3_folder": "tg/9maths"
       }
     ]
   }
