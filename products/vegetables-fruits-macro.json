@@ -1,0 +1,2267 @@
+{
+    "vegetables": [
+        {
+            "Name": "Alfalfa seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "42%",
+            "Fat": "25%",
+            "Carbohydrates": "33%"
+        },
+        {
+            "Name": "Amaranth leaves \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "26%",
+            "Fat": "12%",
+            "Carbohydrates": "62%"
+        },
+        {
+            "Name": "Arrowhead \u00b7 raw",
+            "Kcal": "99",
+            "Protein": "16%",
+            "Fat": "3%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Arrowroot \u00b7 raw",
+            "Kcal": "65",
+            "Protein": "18%",
+            "Fat": "3%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Artichokes \u00b7 (globe or french) \u00b7 raw",
+            "Kcal": "47",
+            "Protein": "17%",
+            "Fat": "3%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Arugula \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "25%",
+            "Fat": "22%",
+            "Carbohydrates": "52%"
+        },
+        {
+            "Name": "Asparagus \u00b7 raw",
+            "Kcal": "20",
+            "Protein": "27%",
+            "Fat": "5%",
+            "Carbohydrates": "68%"
+        },
+        {
+            "Name": "Balsam-pear (bitter gourd) \u00b7 pods \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "14%",
+            "Fat": "8%",
+            "Carbohydrates": "77%"
+        },
+        {
+            "Name": "Balsam-pear (bitter gourd) \u00b7 leafy tips \u00b7 raw",
+            "Kcal": "30",
+            "Protein": "42%",
+            "Fat": "19%",
+            "Carbohydrates": "39%"
+        },
+        {
+            "Name": "Bamboo shoots \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "23%",
+            "Fat": "9%",
+            "Carbohydrates": "68%"
+        },
+        {
+            "Name": "Beans \u00b7 fava \u00b7 in pod \u00b7 raw",
+            "Kcal": "88",
+            "Protein": "22%",
+            "Fat": "7%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Beans \u00b7 kidney \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "29",
+            "Protein": "35%",
+            "Fat": "14%",
+            "Carbohydrates": "50%"
+        },
+        {
+            "Name": "Beans \u00b7 navy \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "67",
+            "Protein": "22%",
+            "Fat": "9%",
+            "Carbohydrates": "69%"
+        },
+        {
+            "Name": "Beans \u00b7 pinto \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "62",
+            "Protein": "21%",
+            "Fat": "12%",
+            "Carbohydrates": "67%"
+        },
+        {
+            "Name": "Beans \u00b7 snap \u00b7 green \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "14%",
+            "Fat": "6%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Beans \u00b7 snap \u00b7 yellow \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "14%",
+            "Fat": "3%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Beet greens \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "24%",
+            "Fat": "5%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Beets \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "11%",
+            "Fat": "3%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Borage \u00b7 raw",
+            "Kcal": "21",
+            "Protein": "21%",
+            "Fat": "28%",
+            "Carbohydrates": "52%"
+        },
+        {
+            "Name": "Broadbeans \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "72",
+            "Protein": "27%",
+            "Fat": "7%",
+            "Carbohydrates": "66%"
+        },
+        {
+            "Name": "Broccoli \u00b7 flower clusters \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "25%",
+            "Fat": "10%",
+            "Carbohydrates": "65%"
+        },
+        {
+            "Name": "Broccoli \u00b7 leaves \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "25%",
+            "Fat": "10%",
+            "Carbohydrates": "65%"
+        },
+        {
+            "Name": "Broccoli \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "20%",
+            "Fat": "9%",
+            "Carbohydrates": "70%"
+        },
+        {
+            "Name": "Broccoli \u00b7 stalks \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "25%",
+            "Fat": "10%",
+            "Carbohydrates": "65%"
+        },
+        {
+            "Name": "Broccoli raab \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "35%",
+            "Fat": "19%",
+            "Carbohydrates": "46%"
+        },
+        {
+            "Name": "Brussels sprouts \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "19%",
+            "Fat": "6%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Burdock root \u00b7 raw",
+            "Kcal": "72",
+            "Protein": "6%",
+            "Fat": "2%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Butterbur \u00b7 (fuki) \u00b7 raw",
+            "Kcal": "14",
+            "Protein": "7%",
+            "Fat": "2%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Cabbage \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "13%",
+            "Fat": "3%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Cabbage \u00b7 chinese (pak-choi) \u00b7 raw",
+            "Kcal": "13",
+            "Protein": "28%",
+            "Fat": "13%",
+            "Carbohydrates": "59%"
+        },
+        {
+            "Name": "Cabbage \u00b7 chinese (pe-tsai) \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "18%",
+            "Fat": "10%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Cabbage \u00b7 common (danish, domestic, and pointed types) \u00b7 freshly harvest \u00b7 raw",
+            "Kcal": "24",
+            "Protein": "12%",
+            "Fat": "6%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Cabbage \u00b7 common (danish, domestic, and pointed types) \u00b7 stored \u00b7 raw",
+            "Kcal": "24",
+            "Protein": "12%",
+            "Fat": "6%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Cabbage \u00b7 red \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "11%",
+            "Fat": "4%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Cabbage \u00b7 savoy \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "18%",
+            "Fat": "3%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Cardoon \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "10%",
+            "Fat": "5%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Carrots \u00b7 raw",
+            "Kcal": "41",
+            "Protein": "6%",
+            "Fat": "5%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Carrots \u00b7 baby \u00b7 raw",
+            "Kcal": "35",
+            "Protein": "5%",
+            "Fat": "3%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Carrots \u00b7 raw \u00b7 salad",
+            "Kcal": "208",
+            "Protein": "2%",
+            "Fat": "68%",
+            "Carbohydrates": "30%"
+        },
+        {
+            "Name": "Carrots \u00b7 raw \u00b7 salad \u00b7 with apples",
+            "Kcal": "176",
+            "Protein": "1%",
+            "Fat": "81%",
+            "Carbohydrates": "17%"
+        },
+        {
+            "Name": "Cassava \u00b7 raw",
+            "Kcal": "160",
+            "Protein": "2%",
+            "Fat": "1%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Cauliflower \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "19%",
+            "Fat": "9%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Cauliflower \u00b7 green \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "23%",
+            "Fat": "8%",
+            "Carbohydrates": "69%"
+        },
+        {
+            "Name": "Celeriac \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "10%",
+            "Fat": "6%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Celery \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "17%",
+            "Fat": "9%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Celtuce \u00b7 raw",
+            "Kcal": "18",
+            "Protein": "12%",
+            "Fat": "14%",
+            "Carbohydrates": "74%"
+        },
+        {
+            "Name": "Chard \u00b7 swiss \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "23%",
+            "Fat": "9%",
+            "Carbohydrates": "69%"
+        },
+        {
+            "Name": "Chayote \u00b7 fruit \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "10%",
+            "Fat": "6%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Chicory greens \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "18%",
+            "Fat": "11%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Chicory roots \u00b7 raw",
+            "Kcal": "72",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Chicory \u00b7 witloof \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "13%",
+            "Fat": "5%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Chives \u00b7 raw",
+            "Kcal": "30",
+            "Protein": "27%",
+            "Fat": "21%",
+            "Carbohydrates": "52%"
+        },
+        {
+            "Name": "Chrysanthemum \u00b7 garland \u00b7 raw",
+            "Kcal": "24",
+            "Protein": "35%",
+            "Fat": "20%",
+            "Carbohydrates": "46%"
+        },
+        {
+            "Name": "Chrysanthemum leaves \u00b7 raw",
+            "Kcal": "24",
+            "Protein": "35%",
+            "Fat": "20%",
+            "Carbohydrates": "45%"
+        },
+        {
+            "Name": "Collards \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "23%",
+            "Fat": "16%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Coriander (cilantro) leaves \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "23%",
+            "Fat": "19%",
+            "Carbohydrates": "58%"
+        },
+        {
+            "Name": "Corn \u00b7 sweet \u00b7 white \u00b7 raw",
+            "Kcal": "86",
+            "Protein": "9%",
+            "Fat": "12%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Corn \u00b7 sweet \u00b7 yellow \u00b7 raw",
+            "Kcal": "86",
+            "Protein": "9%",
+            "Fat": "13%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Cornsalad \u00b7 raw",
+            "Kcal": "21",
+            "Protein": "23%",
+            "Fat": "16%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Cowpeas (blackeyes) \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "90",
+            "Protein": "11%",
+            "Fat": "3%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Cowpeas \u00b7 young pods \u00b7 with seeds \u00b7 raw",
+            "Kcal": "44",
+            "Protein": "18%",
+            "Fat": "6%",
+            "Carbohydrates": "76%"
+        },
+        {
+            "Name": "Cowpeas \u00b7 leafy tips \u00b7 raw",
+            "Kcal": "29",
+            "Protein": "34%",
+            "Fat": "7%",
+            "Carbohydrates": "59%"
+        },
+        {
+            "Name": "Cress \u00b7 garden \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "20%",
+            "Fat": "18%",
+            "Carbohydrates": "62%"
+        },
+        {
+            "Name": "Cucumber \u00b7 with peel \u00b7 raw",
+            "Kcal": "15",
+            "Protein": "10%",
+            "Fat": "6%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Cucumber \u00b7 peeled \u00b7 raw",
+            "Kcal": "12",
+            "Protein": "19%",
+            "Fat": "12%",
+            "Carbohydrates": "69%"
+        },
+        {
+            "Name": "Dandelion greens \u00b7 raw",
+            "Kcal": "45",
+            "Protein": "15%",
+            "Fat": "13%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Dock \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "22%",
+            "Fat": "26%",
+            "Carbohydrates": "52%"
+        },
+        {
+            "Name": "Drumstick leaves \u00b7 raw",
+            "Kcal": "64",
+            "Protein": "36%",
+            "Fat": "18%",
+            "Carbohydrates": "46%"
+        },
+        {
+            "Name": "Drumstick pods \u00b7 raw",
+            "Kcal": "37",
+            "Protein": "14%",
+            "Fat": "4%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Eggplant \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "10%",
+            "Fat": "6%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Endive \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "18%",
+            "Fat": "10%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Endive \u00b7 chicory \u00b7 escarole \u00b7 or romaine lettuce \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "18%",
+            "Fat": "12%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Epazote \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "3%",
+            "Fat": "14%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Eppaw \u00b7 raw",
+            "Kcal": "150",
+            "Protein": "9%",
+            "Fat": "10%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Fennel \u00b7 bulb \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "10%",
+            "Fat": "5%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Fiddlehead ferns \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "32%",
+            "Fat": "10%",
+            "Carbohydrates": "58%"
+        },
+        {
+            "Name": "Fireweed \u00b7 leaves \u00b7 raw",
+            "Kcal": "103",
+            "Protein": "11%",
+            "Fat": "22%",
+            "Carbohydrates": "67%"
+        },
+        {
+            "Name": "Garlic \u00b7 raw",
+            "Kcal": "149",
+            "Protein": "12%",
+            "Fat": "3%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Ginger root \u00b7 raw",
+            "Kcal": "80",
+            "Protein": "6%",
+            "Fat": "8%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Gourd \u00b7 white-flowered (calabash) \u00b7 raw",
+            "Kcal": "14",
+            "Protein": "11%",
+            "Fat": "1%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Gourd \u00b7 dishcloth (towelgourd) \u00b7 raw",
+            "Kcal": "20",
+            "Protein": "15%",
+            "Fat": "8%",
+            "Carbohydrates": "77%"
+        },
+        {
+            "Name": "Grape leaves \u00b7 raw",
+            "Kcal": "93",
+            "Protein": "15%",
+            "Fat": "19%",
+            "Carbohydrates": "66%"
+        },
+        {
+            "Name": "Hearts of palm \u00b7 raw",
+            "Kcal": "115",
+            "Protein": "9%",
+            "Fat": "2%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Hyacinth-beans \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "46",
+            "Protein": "16%",
+            "Fat": "4%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Jerusalem-artichokes \u00b7 raw",
+            "Kcal": "73",
+            "Protein": "8%",
+            "Fat": "0%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Jew's ear \u00b7 (pepeao) \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "5%",
+            "Fat": "1%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Jute \u00b7 potherb \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "33%",
+            "Fat": "6%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Kale \u00b7 raw",
+            "Kcal": "49",
+            "Protein": "21%",
+            "Fat": "16%",
+            "Carbohydrates": "63%"
+        },
+        {
+            "Name": "Kale \u00b7 scotch \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "16%",
+            "Fat": "12%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Kohlrabi \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "15%",
+            "Fat": "3%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Lambsquarters \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "24%",
+            "Fat": "16%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Leeks \u00b7 (bulb and lower leaf-portion) \u00b7 raw",
+            "Kcal": "61",
+            "Protein": "7%",
+            "Fat": "4%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Lemon grass (citronella) \u00b7 raw",
+            "Kcal": "99",
+            "Protein": "4%",
+            "Fat": "4%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Lentils \u00b7 sprouted \u00b7 raw",
+            "Kcal": "106",
+            "Protein": "21%",
+            "Fat": "4%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Lettuce \u00b7 cos or romaine \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "17%",
+            "Fat": "15%",
+            "Carbohydrates": "68%"
+        },
+        {
+            "Name": "Lettuce \u00b7 butterhead (includes boston and bibb types) \u00b7 raw",
+            "Kcal": "13",
+            "Protein": "25%",
+            "Fat": "14%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Lettuce \u00b7 green leaf \u00b7 raw",
+            "Kcal": "15",
+            "Protein": "22%",
+            "Fat": "8%",
+            "Carbohydrates": "69%"
+        },
+        {
+            "Name": "Lettuce \u00b7 iceberg (includes crisphead types) \u00b7 raw",
+            "Kcal": "14",
+            "Protein": "16%",
+            "Fat": "8%",
+            "Carbohydrates": "76%"
+        },
+        {
+            "Name": "Lettuce \u00b7 red leaf \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "33%",
+            "Fat": "12%",
+            "Carbohydrates": "55%"
+        },
+        {
+            "Name": "Lima beans \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "113",
+            "Protein": "21%",
+            "Fat": "6%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Lotus root \u00b7 raw",
+            "Kcal": "74",
+            "Protein": "10%",
+            "Fat": "1%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Mixed salad greens \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "22%",
+            "Fat": "11%",
+            "Carbohydrates": "67%"
+        },
+        {
+            "Name": "Mountain yam \u00b7 hawaii \u00b7 raw",
+            "Kcal": "67",
+            "Protein": "6%",
+            "Fat": "1%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Mung beans \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "30",
+            "Protein": "25%",
+            "Fat": "5%",
+            "Carbohydrates": "70%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 brown \u00b7 italian \u00b7 or crimini \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "29%",
+            "Fat": "4%",
+            "Carbohydrates": "67%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 Chanterelle \u00b7 raw",
+            "Kcal": "38",
+            "Protein": "16%",
+            "Fat": "12%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 enoki \u00b7 raw",
+            "Kcal": "37",
+            "Protein": "19%",
+            "Fat": "7%",
+            "Carbohydrates": "74%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 maitake \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "16%",
+            "Fat": "5%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 morel \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "27%",
+            "Fat": "16%",
+            "Carbohydrates": "58%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 oyster \u00b7 raw",
+            "Kcal": "33",
+            "Protein": "26%",
+            "Fat": "10%",
+            "Carbohydrates": "64%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 portabella \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "25%",
+            "Fat": "13%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 portabella \u00b7 exposed to ultraviolet light \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "25%",
+            "Fat": "13%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 shiitake \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "17%",
+            "Fat": "12%",
+            "Carbohydrates": "70%"
+        },
+        {
+            "Name": "Mushrooms \u00b7 white \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "36%",
+            "Fat": "13%",
+            "Carbohydrates": "51%"
+        },
+        {
+            "Name": "Mustard greens \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "26%",
+            "Fat": "13%",
+            "Carbohydrates": "61%"
+        },
+        {
+            "Name": "Mustard spinach \u00b7 (tendergreen) \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "25%",
+            "Fat": "12%",
+            "Carbohydrates": "64%"
+        },
+        {
+            "Name": "New Zealand spinach \u00b7 raw",
+            "Kcal": "14",
+            "Protein": "26%",
+            "Fat": "12%",
+            "Carbohydrates": "63%"
+        },
+        {
+            "Name": "Nopales \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "20%",
+            "Fat": "5%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Okra \u00b7 raw",
+            "Kcal": "33",
+            "Protein": "14%",
+            "Fat": "5%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Onions \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "8%",
+            "Fat": "2%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Onions \u00b7 spring or scallions (includes tops and bulb) \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "14%",
+            "Fat": "5%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Onions \u00b7 sweet \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "7%",
+            "Fat": "2%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Onions \u00b7 welsh \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "16%",
+            "Fat": "10%",
+            "Carbohydrates": "74%"
+        },
+        {
+            "Name": "Parsnips \u00b7 raw",
+            "Kcal": "75",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Peas \u00b7 green \u00b7 raw",
+            "Kcal": "81",
+            "Protein": "23%",
+            "Fat": "4%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Peas \u00b7 edible-podded \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "23%",
+            "Fat": "4%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Peas \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "124",
+            "Protein": "17%",
+            "Fat": "5%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Pepper \u00b7 hot chili \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "12%",
+            "Fat": "7%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Pepper \u00b7 banana \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "15%",
+            "Fat": "14%",
+            "Carbohydrates": "71%"
+        },
+        {
+            "Name": "Pepper \u00b7 raw \u00b7 NFS",
+            "Kcal": "24",
+            "Protein": "12%",
+            "Fat": "8%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Peppers \u00b7 hot chili \u00b7 green \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "12%",
+            "Fat": "4%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Peppers \u00b7 hot chili \u00b7 red \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "11%",
+            "Fat": "9%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Peppers \u00b7 hungarian \u00b7 raw",
+            "Kcal": "29",
+            "Protein": "7%",
+            "Fat": "12%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Peppers \u00b7 jalapeno \u00b7 raw",
+            "Kcal": "29",
+            "Protein": "8%",
+            "Fat": "11%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Peppers \u00b7 serrano \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "13%",
+            "Fat": "12%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Peppers \u00b7 sweet \u00b7 green \u00b7 raw",
+            "Kcal": "20",
+            "Protein": "10%",
+            "Fat": "7%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Peppers \u00b7 sweet \u00b7 red \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "13%",
+            "Fat": "9%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Peppers \u00b7 sweet \u00b7 yellow \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "9%",
+            "Fat": "7%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Pigeon peas \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "136",
+            "Protein": "18%",
+            "Fat": "10%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Pokeberry shoots \u00b7 (poke) \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "28%",
+            "Fat": "15%",
+            "Carbohydrates": "58%"
+        },
+        {
+            "Name": "Potatoes \u00b7 flesh and skin \u00b7 raw",
+            "Kcal": "77",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Potatoes \u00b7 raw \u00b7 skin",
+            "Kcal": "58",
+            "Protein": "12%",
+            "Fat": "1%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Potatoes \u00b7 red \u00b7 flesh and skin \u00b7 raw",
+            "Kcal": "70",
+            "Protein": "7%",
+            "Fat": "2%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Potatoes \u00b7 russet \u00b7 flesh and skin \u00b7 raw",
+            "Kcal": "79",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Potatoes \u00b7 white \u00b7 flesh and skin \u00b7 raw",
+            "Kcal": "69",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Pumpkin flowers \u00b7 raw",
+            "Kcal": "15",
+            "Protein": "17%",
+            "Fat": "4%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Pumpkin leaves \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "40%",
+            "Fat": "17%",
+            "Carbohydrates": "43%"
+        },
+        {
+            "Name": "Pumpkin \u00b7 raw",
+            "Kcal": "26",
+            "Protein": "9%",
+            "Fat": "3%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Purslane \u00b7 raw",
+            "Kcal": "20",
+            "Protein": "25%",
+            "Fat": "15%",
+            "Carbohydrates": "60%"
+        },
+        {
+            "Name": "Radicchio \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "15%",
+            "Fat": "9%",
+            "Carbohydrates": "76%"
+        },
+        {
+            "Name": "Radish seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "21%",
+            "Fat": "48%",
+            "Carbohydrates": "31%"
+        },
+        {
+            "Name": "Radishes \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "12%",
+            "Fat": "5%",
+            "Carbohydrates": "83%"
+        },
+        {
+            "Name": "Radishes \u00b7 oriental \u00b7 raw",
+            "Kcal": "18",
+            "Protein": "9%",
+            "Fat": "5%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Radishes \u00b7 white icicle \u00b7 raw",
+            "Kcal": "14",
+            "Protein": "22%",
+            "Fat": "6%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Rutabagas \u00b7 raw",
+            "Kcal": "37",
+            "Protein": "8%",
+            "Fat": "4%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Salsify \u00b7 (vegetable oyster) \u00b7 raw",
+            "Kcal": "82",
+            "Protein": "11%",
+            "Fat": "2%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Seaweed \u00b7 agar \u00b7 raw",
+            "Kcal": "26",
+            "Protein": "5%",
+            "Fat": "1%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Seaweed \u00b7 irishmoss \u00b7 raw",
+            "Kcal": "49",
+            "Protein": "8%",
+            "Fat": "3%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Seaweed \u00b7 kelp \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "10%",
+            "Fat": "11%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Seaweed \u00b7 laver \u00b7 raw",
+            "Kcal": "35",
+            "Protein": "41%",
+            "Fat": "7%",
+            "Carbohydrates": "52%"
+        },
+        {
+            "Name": "Seaweed \u00b7 raw",
+            "Kcal": "38",
+            "Protein": "15%",
+            "Fat": "6%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Seaweed \u00b7 spirulina \u00b7 raw",
+            "Kcal": "26",
+            "Protein": "55%",
+            "Fat": "12%",
+            "Carbohydrates": "33%"
+        },
+        {
+            "Name": "Seaweed \u00b7 wakame \u00b7 raw",
+            "Kcal": "45",
+            "Protein": "16%",
+            "Fat": "12%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Sesbania flower \u00b7 raw",
+            "Kcal": "27",
+            "Protein": "11%",
+            "Fat": "1%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Shallots \u00b7 raw",
+            "Kcal": "72",
+            "Protein": "10%",
+            "Fat": "1%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Soybeans \u00b7 green \u00b7 raw",
+            "Kcal": "147",
+            "Protein": "31%",
+            "Fat": "39%",
+            "Carbohydrates": "31%"
+        },
+        {
+            "Name": "Soybeans \u00b7 mature seeds \u00b7 sprouted \u00b7 raw",
+            "Kcal": "122",
+            "Protein": "26%",
+            "Fat": "46%",
+            "Carbohydrates": "28%"
+        },
+        {
+            "Name": "Spinach \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "30%",
+            "Fat": "14%",
+            "Carbohydrates": "56%"
+        },
+        {
+            "Name": "Squash \u00b7 summer \u00b7 zucchini \u00b7 includes skin \u00b7 raw",
+            "Kcal": "17",
+            "Protein": "18%",
+            "Fat": "16%",
+            "Carbohydrates": "66%"
+        },
+        {
+            "Name": "Squash \u00b7 summer \u00b7 all varieties \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "18%",
+            "Fat": "9%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Squash \u00b7 summer \u00b7 crookneck and straightneck \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "13%",
+            "Fat": "12%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Squash \u00b7 summer \u00b7 scallop \u00b7 raw",
+            "Kcal": "18",
+            "Protein": "16%",
+            "Fat": "9%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Squash \u00b7 winter \u00b7 butternut \u00b7 raw",
+            "Kcal": "45",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Squash \u00b7 winter \u00b7 acorn \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Squash \u00b7 winter \u00b7 all varieties \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "7%",
+            "Fat": "3%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Squash \u00b7 winter \u00b7 hubbard \u00b7 raw",
+            "Kcal": "40",
+            "Protein": "12%",
+            "Fat": "10%",
+            "Carbohydrates": "77%"
+        },
+        {
+            "Name": "Squash \u00b7 winter \u00b7 spaghetti \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "5%",
+            "Fat": "15%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Squash \u00b7 zucchini \u00b7 baby \u00b7 raw",
+            "Kcal": "21",
+            "Protein": "31%",
+            "Fat": "16%",
+            "Carbohydrates": "53%"
+        },
+        {
+            "Name": "Succotash \u00b7 (corn and limas) \u00b7 raw",
+            "Kcal": "99",
+            "Protein": "14%",
+            "Fat": "9%",
+            "Carbohydrates": "77%"
+        },
+        {
+            "Name": "Swamp cabbage \u00b7 (skunk cabbage) \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "33%",
+            "Fat": "9%",
+            "Carbohydrates": "58%"
+        },
+        {
+            "Name": "Sweet potato leaves \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "15%",
+            "Fat": "10%",
+            "Carbohydrates": "75%"
+        },
+        {
+            "Name": "Sweet potato \u00b7 raw \u00b7 unprepared",
+            "Kcal": "86",
+            "Protein": "5%",
+            "Fat": "0%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Taro \u00b7 raw",
+            "Kcal": "112",
+            "Protein": "4%",
+            "Fat": "1%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Taro \u00b7 leaves \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "29%",
+            "Fat": "15%",
+            "Carbohydrates": "57%"
+        },
+        {
+            "Name": "Taro \u00b7 tahitian \u00b7 raw",
+            "Kcal": "44",
+            "Protein": "18%",
+            "Fat": "19%",
+            "Carbohydrates": "64%"
+        },
+        {
+            "Name": "Taro shoots \u00b7 raw",
+            "Kcal": "11",
+            "Protein": "20%",
+            "Fat": "7%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Tomatillos \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "7%",
+            "Fat": "27%",
+            "Carbohydrates": "66%"
+        },
+        {
+            "Name": "Tomatoes \u00b7 green \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "13%",
+            "Fat": "7%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Tomatoes \u00b7 orange \u00b7 raw",
+            "Kcal": "16",
+            "Protein": "18%",
+            "Fat": "10%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Tomatoes \u00b7 red \u00b7 ripe \u00b7 raw \u00b7 year round average",
+            "Kcal": "18",
+            "Protein": "12%",
+            "Fat": "9%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Tomatoes \u00b7 yellow \u00b7 raw",
+            "Kcal": "15",
+            "Protein": "16%",
+            "Fat": "14%",
+            "Carbohydrates": "70%"
+        },
+        {
+            "Name": "Turnip greens \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "12%",
+            "Fat": "8%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Turnips \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "9%",
+            "Fat": "3%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Vinespinach \u00b7 (basella) \u00b7 raw",
+            "Kcal": "19",
+            "Protein": "23%",
+            "Fat": "13%",
+            "Carbohydrates": "64%"
+        },
+        {
+            "Name": "Wasabi \u00b7 root \u00b7 raw",
+            "Kcal": "109",
+            "Protein": "12%",
+            "Fat": "5%",
+            "Carbohydrates": "83%"
+        },
+        {
+            "Name": "Waterchestnuts \u00b7 chinese \u00b7 (matai) \u00b7 raw",
+            "Kcal": "97",
+            "Protein": "4%",
+            "Fat": "1%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Watercress \u00b7 raw",
+            "Kcal": "11",
+            "Protein": "51%",
+            "Fat": "8%",
+            "Carbohydrates": "42%"
+        },
+        {
+            "Name": "Waxgourd \u00b7 (chinese preserving melon) \u00b7 raw",
+            "Kcal": "13",
+            "Protein": "7%",
+            "Fat": "13%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Winged bean leaves \u00b7 raw",
+            "Kcal": "74",
+            "Protein": "19%",
+            "Fat": "12%",
+            "Carbohydrates": "68%"
+        },
+        {
+            "Name": "Winged bean tuber \u00b7 raw",
+            "Kcal": "148",
+            "Protein": "22%",
+            "Fat": "5%",
+            "Carbohydrates": "73%"
+        },
+        {
+            "Name": "Winged beans \u00b7 immature seeds \u00b7 raw",
+            "Kcal": "49",
+            "Protein": "49%",
+            "Fat": "15%",
+            "Carbohydrates": "36%"
+        },
+        {
+            "Name": "Yam \u00b7 raw",
+            "Kcal": "118",
+            "Protein": "4%",
+            "Fat": "1%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Yambean (jicama) \u00b7 raw",
+            "Kcal": "38",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Yardlong bean \u00b7 raw",
+            "Kcal": "47",
+            "Protein": "21%",
+            "Fat": "7%",
+            "Carbohydrates": "72%"
+        },
+        {
+            "Name": "Yautia (tannier) \u00b7 raw",
+            "Kcal": "98",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "92%"
+        }
+    ],
+    "fruits": [
+        {
+            "Name": "Abiyuch \u00b7 raw",
+            "Kcal": "69",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Acerola \u00b7 (west indian cherry) \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "4%",
+            "Fat": "8%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Acerola juice \u00b7 raw",
+            "Kcal": "23",
+            "Protein": "6%",
+            "Fat": "11%",
+            "Carbohydrates": "83%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 with skin",
+            "Kcal": "52",
+            "Protein": "2%",
+            "Fat": "3%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 fuji \u00b7 with skin",
+            "Kcal": "63",
+            "Protein": "1%",
+            "Fat": "3%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 gala \u00b7 with skin",
+            "Kcal": "57",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 golden delicious \u00b7 with skin",
+            "Kcal": "57",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 granny smith \u00b7 with skin",
+            "Kcal": "58",
+            "Protein": "3%",
+            "Fat": "3%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 red delicious \u00b7 with skin",
+            "Kcal": "59",
+            "Protein": "2%",
+            "Fat": "3%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 without skin",
+            "Kcal": "48",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 without skin \u00b7 cooked \u00b7 boiled",
+            "Kcal": "53",
+            "Protein": "2%",
+            "Fat": "6%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Apples \u00b7 raw \u00b7 without skin \u00b7 cooked \u00b7 microwave",
+            "Kcal": "56",
+            "Protein": "2%",
+            "Fat": "6%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Apricots \u00b7 raw",
+            "Kcal": "48",
+            "Protein": "10%",
+            "Fat": "7%",
+            "Carbohydrates": "83%"
+        },
+        {
+            "Name": "Avocados \u00b7 raw \u00b7 all commercial varieties",
+            "Kcal": "160",
+            "Protein": "4%",
+            "Fat": "77%",
+            "Carbohydrates": "19%"
+        },
+        {
+            "Name": "Avocados \u00b7 raw \u00b7 California",
+            "Kcal": "167",
+            "Protein": "4%",
+            "Fat": "77%",
+            "Carbohydrates": "19%"
+        },
+        {
+            "Name": "Avocados \u00b7 raw \u00b7 Florida",
+            "Kcal": "120",
+            "Protein": "6%",
+            "Fat": "70%",
+            "Carbohydrates": "23%"
+        },
+        {
+            "Name": "Bananas \u00b7 raw",
+            "Kcal": "89",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Blackberries \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "11%",
+            "Fat": "9%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Blueberries \u00b7 raw",
+            "Kcal": "57",
+            "Protein": "4%",
+            "Fat": "5%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Breadfruit \u00b7 raw",
+            "Kcal": "103",
+            "Protein": "3%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Carambola \u00b7 (starfruit) \u00b7 raw",
+            "Kcal": "31",
+            "Protein": "11%",
+            "Fat": "9%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Carissa \u00b7 (natal-plum) \u00b7 raw",
+            "Kcal": "62",
+            "Protein": "3%",
+            "Fat": "18%",
+            "Carbohydrates": "80%"
+        },
+        {
+            "Name": "Cherimoya \u00b7 raw",
+            "Kcal": "75",
+            "Protein": "7%",
+            "Fat": "8%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Cherries \u00b7 sweet \u00b7 raw",
+            "Kcal": "63",
+            "Protein": "6%",
+            "Fat": "3%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Cherries \u00b7 sour \u00b7 red \u00b7 raw",
+            "Kcal": "50",
+            "Protein": "7%",
+            "Fat": "5%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Clementines \u00b7 raw",
+            "Kcal": "47",
+            "Protein": "6%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Crabapples \u00b7 raw",
+            "Kcal": "76",
+            "Protein": "2%",
+            "Fat": "3%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Cranberries \u00b7 raw",
+            "Kcal": "46",
+            "Protein": "3%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Currants \u00b7 red and white \u00b7 raw",
+            "Kcal": "56",
+            "Protein": "8%",
+            "Fat": "3%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Currants \u00b7 european black \u00b7 raw",
+            "Kcal": "63",
+            "Protein": "7%",
+            "Fat": "5%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Custard-apple \u00b7 (bullock's-heart) \u00b7 raw",
+            "Kcal": "101",
+            "Protein": "6%",
+            "Fat": "5%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Elderberries \u00b7 raw",
+            "Kcal": "73",
+            "Protein": "3%",
+            "Fat": "6%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Feijoa \u00b7 raw",
+            "Kcal": "61",
+            "Protein": "4%",
+            "Fat": "6%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Figs \u00b7 raw",
+            "Kcal": "74",
+            "Protein": "3%",
+            "Fat": "3%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Gooseberries \u00b7 raw",
+            "Kcal": "44",
+            "Protein": "7%",
+            "Fat": "11%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Grapefruit and orange sections \u00b7 raw",
+            "Kcal": "39",
+            "Protein": "7%",
+            "Fat": "2%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapefruit juice \u00b7 white \u00b7 raw",
+            "Kcal": "39",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Grapefruit juice \u00b7 pink \u00b7 raw",
+            "Kcal": "39",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 pink and red \u00b7 all areas",
+            "Kcal": "42",
+            "Protein": "6%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 pink and red and white \u00b7 all areas",
+            "Kcal": "32",
+            "Protein": "7%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 pink and red \u00b7 California and Arizona",
+            "Kcal": "37",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 pink and red \u00b7 Florida",
+            "Kcal": "30",
+            "Protein": "6%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 white \u00b7 all areas",
+            "Kcal": "33",
+            "Protein": "7%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 white \u00b7 California",
+            "Kcal": "37",
+            "Protein": "8%",
+            "Fat": "2%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Grapefruit \u00b7 raw \u00b7 white \u00b7 Florida",
+            "Kcal": "32",
+            "Protein": "7%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Grapes \u00b7 red or green (European type, such as Thompson seedless) \u00b7 raw",
+            "Kcal": "69",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Grapes \u00b7 american type (slip skin) \u00b7 raw",
+            "Kcal": "67",
+            "Protein": "3%",
+            "Fat": "4%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Grapes \u00b7 muscadine \u00b7 raw",
+            "Kcal": "57",
+            "Protein": "5%",
+            "Fat": "7%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Groundcherries \u00b7 (cape-gooseberries or poha) \u00b7 raw",
+            "Kcal": "53",
+            "Protein": "12%",
+            "Fat": "11%",
+            "Carbohydrates": "77%"
+        },
+        {
+            "Name": "Guavas \u00b7 common \u00b7 raw",
+            "Kcal": "68",
+            "Protein": "13%",
+            "Fat": "12%",
+            "Carbohydrates": "76%"
+        },
+        {
+            "Name": "Guavas \u00b7 strawberry \u00b7 raw",
+            "Kcal": "69",
+            "Protein": "3%",
+            "Fat": "7%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Jackfruit \u00b7 raw",
+            "Kcal": "95",
+            "Protein": "6%",
+            "Fat": "6%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Java-plum \u00b7 (jambolan) \u00b7 raw",
+            "Kcal": "60",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Jujube \u00b7 raw",
+            "Kcal": "79",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Kiwifruit \u00b7 gold \u00b7 raw",
+            "Kcal": "60",
+            "Protein": "7%",
+            "Fat": "8%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Kiwifruit \u00b7 green \u00b7 raw",
+            "Kcal": "61",
+            "Protein": "6%",
+            "Fat": "7%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Kumquats \u00b7 raw",
+            "Kcal": "71",
+            "Protein": "9%",
+            "Fat": "10%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Lemon juice \u00b7 raw",
+            "Kcal": "22",
+            "Protein": "5%",
+            "Fat": "9%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Lemon peel \u00b7 raw",
+            "Kcal": "47",
+            "Protein": "8%",
+            "Fat": "4%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Lemons \u00b7 raw \u00b7 without peel",
+            "Kcal": "29",
+            "Protein": "13%",
+            "Fat": "9%",
+            "Carbohydrates": "79%"
+        },
+        {
+            "Name": "Lime juice \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "6%",
+            "Fat": "2%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Limes \u00b7 raw",
+            "Kcal": "30",
+            "Protein": "8%",
+            "Fat": "6%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Litchis \u00b7 raw",
+            "Kcal": "66",
+            "Protein": "4%",
+            "Fat": "6%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Longans \u00b7 raw",
+            "Kcal": "60",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Loquats \u00b7 raw",
+            "Kcal": "47",
+            "Protein": "3%",
+            "Fat": "4%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Mammy-apple \u00b7 (mamey) \u00b7 raw",
+            "Kcal": "51",
+            "Protein": "3%",
+            "Fat": "8%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Mangos \u00b7 raw",
+            "Kcal": "60",
+            "Protein": "5%",
+            "Fat": "5%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Melons \u00b7 cantaloupe \u00b7 raw",
+            "Kcal": "34",
+            "Protein": "8%",
+            "Fat": "5%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Melons \u00b7 casaba \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "13%",
+            "Fat": "3%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Melons \u00b7 honeydew \u00b7 raw",
+            "Kcal": "36",
+            "Protein": "5%",
+            "Fat": "3%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Mulberries \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "11%",
+            "Fat": "8%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Nectarines \u00b7 raw",
+            "Kcal": "44",
+            "Protein": "8%",
+            "Fat": "6%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Oheloberries \u00b7 raw",
+            "Kcal": "28",
+            "Protein": "5%",
+            "Fat": "7%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Orange juice \u00b7 raw",
+            "Kcal": "45",
+            "Protein": "5%",
+            "Fat": "4%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Orange peel \u00b7 raw",
+            "Kcal": "97",
+            "Protein": "5%",
+            "Fat": "2%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Oranges \u00b7 raw \u00b7 navels",
+            "Kcal": "49",
+            "Protein": "6%",
+            "Fat": "3%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Oranges \u00b7 raw \u00b7 all commercial varieties",
+            "Kcal": "47",
+            "Protein": "7%",
+            "Fat": "2%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Oranges \u00b7 raw \u00b7 California \u00b7 valencias",
+            "Kcal": "49",
+            "Protein": "7%",
+            "Fat": "5%",
+            "Carbohydrates": "88%"
+        },
+        {
+            "Name": "Oranges \u00b7 raw \u00b7 Florida",
+            "Kcal": "46",
+            "Protein": "5%",
+            "Fat": "4%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Oranges \u00b7 raw \u00b7 with peel",
+            "Kcal": "63",
+            "Protein": "7%",
+            "Fat": "4%",
+            "Carbohydrates": "89%"
+        },
+        {
+            "Name": "Papayas \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "4%",
+            "Fat": "5%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Passion-fruit \u00b7 (granadilla) \u00b7 purple \u00b7 raw",
+            "Kcal": "97",
+            "Protein": "8%",
+            "Fat": "6%",
+            "Carbohydrates": "86%"
+        },
+        {
+            "Name": "Passion-fruit juice \u00b7 yellow \u00b7 raw",
+            "Kcal": "60",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Passion-fruit juice \u00b7 purple \u00b7 raw",
+            "Kcal": "51",
+            "Protein": "3%",
+            "Fat": "1%",
+            "Carbohydrates": "97%"
+        },
+        {
+            "Name": "Peaches \u00b7 raw",
+            "Kcal": "39",
+            "Protein": "8%",
+            "Fat": "5%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Pears \u00b7 raw",
+            "Kcal": "57",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Pears \u00b7 asian \u00b7 raw",
+            "Kcal": "42",
+            "Protein": "4%",
+            "Fat": "5%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Pears \u00b7 raw \u00b7 bartlett",
+            "Kcal": "63",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Pears \u00b7 raw \u00b7 bosc",
+            "Kcal": "67",
+            "Protein": "2%",
+            "Fat": "1%",
+            "Carbohydrates": "97%"
+        },
+        {
+            "Name": "Pears \u00b7 raw \u00b7 green anjou",
+            "Kcal": "66",
+            "Protein": "3%",
+            "Fat": "1%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Pears \u00b7 raw \u00b7 red anjou",
+            "Kcal": "62",
+            "Protein": "2%",
+            "Fat": "2%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Persimmons \u00b7 japanese \u00b7 raw",
+            "Kcal": "70",
+            "Protein": "3%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Persimmons \u00b7 native \u00b7 raw",
+            "Kcal": "127",
+            "Protein": "2%",
+            "Fat": "3%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Pineapple \u00b7 raw \u00b7 all varieties",
+            "Kcal": "50",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Pineapple \u00b7 raw \u00b7 extra sweet variety",
+            "Kcal": "51",
+            "Protein": "3%",
+            "Fat": "2%",
+            "Carbohydrates": "95%"
+        },
+        {
+            "Name": "Pineapple \u00b7 raw \u00b7 traditional varieties",
+            "Kcal": "45",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Pitanga \u00b7 (surinam-cherry) \u00b7 raw",
+            "Kcal": "33",
+            "Protein": "8%",
+            "Fat": "10%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Plantains \u00b7 raw",
+            "Kcal": "122",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Plums \u00b7 raw",
+            "Kcal": "46",
+            "Protein": "5%",
+            "Fat": "5%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Pomegranates \u00b7 raw",
+            "Kcal": "83",
+            "Protein": "7%",
+            "Fat": "12%",
+            "Carbohydrates": "81%"
+        },
+        {
+            "Name": "Prickly pears \u00b7 raw",
+            "Kcal": "41",
+            "Protein": "6%",
+            "Fat": "10%",
+            "Carbohydrates": "84%"
+        },
+        {
+            "Name": "Pummelo \u00b7 raw",
+            "Kcal": "38",
+            "Protein": "7%",
+            "Fat": "1%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Quinces \u00b7 raw",
+            "Kcal": "57",
+            "Protein": "2%",
+            "Fat": "1%",
+            "Carbohydrates": "96%"
+        },
+        {
+            "Name": "Raspberries \u00b7 raw",
+            "Kcal": "52",
+            "Protein": "8%",
+            "Fat": "10%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Rhubarb \u00b7 raw",
+            "Kcal": "21",
+            "Protein": "14%",
+            "Fat": "8%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Rose-apples \u00b7 raw",
+            "Kcal": "25",
+            "Protein": "8%",
+            "Fat": "10%",
+            "Carbohydrates": "82%"
+        },
+        {
+            "Name": "Roselle \u00b7 raw",
+            "Kcal": "49",
+            "Protein": "7%",
+            "Fat": "11%",
+            "Carbohydrates": "83%"
+        },
+        {
+            "Name": "Rowal \u00b7 raw",
+            "Kcal": "111",
+            "Protein": "7%",
+            "Fat": "15%",
+            "Carbohydrates": "78%"
+        },
+        {
+            "Name": "Sapodilla \u00b7 raw",
+            "Kcal": "83",
+            "Protein": "2%",
+            "Fat": "11%",
+            "Carbohydrates": "87%"
+        },
+        {
+            "Name": "Sapote \u00b7 mamey \u00b7 raw",
+            "Kcal": "124",
+            "Protein": "4%",
+            "Fat": "3%",
+            "Carbohydrates": "93%"
+        },
+        {
+            "Name": "Soursop \u00b7 raw",
+            "Kcal": "66",
+            "Protein": "5%",
+            "Fat": "4%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Strawberries \u00b7 raw",
+            "Kcal": "32",
+            "Protein": "7%",
+            "Fat": "8%",
+            "Carbohydrates": "85%"
+        },
+        {
+            "Name": "Strawberries \u00b7 raw \u00b7 with sugar",
+            "Kcal": "50",
+            "Protein": "4%",
+            "Fat": "5%",
+            "Carbohydrates": "91%"
+        },
+        {
+            "Name": "Sugar-apples \u00b7 (sweetsop) \u00b7 raw",
+            "Kcal": "94",
+            "Protein": "7%",
+            "Fat": "3%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Tamarinds \u00b7 raw",
+            "Kcal": "239",
+            "Protein": "4%",
+            "Fat": "2%",
+            "Carbohydrates": "94%"
+        },
+        {
+            "Name": "Tangerine juice \u00b7 raw",
+            "Kcal": "43",
+            "Protein": "4%",
+            "Fat": "4%",
+            "Carbohydrates": "92%"
+        },
+        {
+            "Name": "Tangerines \u00b7 (mandarin oranges) \u00b7 raw",
+            "Kcal": "53",
+            "Protein": "5%",
+            "Fat": "5%",
+            "Carbohydrates": "90%"
+        },
+        {
+            "Name": "Watermelon \u00b7 raw",
+            "Kcal": "30",
+            "Protein": "7%",
+            "Fat": "4%",
+            "Carbohydrates": "89%"
+        }
+    ]
+}
