@@ -1,0 +1,14 @@
+[
+    {
+        "formula_id": 16255682,
+        "formula_text": "Mean = Sum of observations / Number of observations",
+        "topic_id": 3338,
+        "chapter": "Statistics"
+    },
+    {
+        "formula_id": 16255683,
+        "formula_text": "P(E) = Number of favorable outcomes / Total outcomes",
+        "topic_id": 474844,
+        "chapter": "Probability"
+    }
+]
