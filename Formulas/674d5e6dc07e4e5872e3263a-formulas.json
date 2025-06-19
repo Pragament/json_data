@@ -1,0 +1,26 @@
+[
+    {
+        "formula_id": 14886458,
+        "formula_text": "Mean = Sum of observations / Number of observations",
+        "topic_id": 3338,
+        "chapter": "Statistics"
+    },
+    {
+        "formula_id": 14886459,
+        "formula_text": "P(E) = Number of favorable outcomes / Total outcomes",
+        "topic_id": 474844,
+        "chapter": "Probability"
+    },
+    {
+        "formula_id": 14886460,
+        "formula_text": "a^m * a^n = a^(m+n)",
+        "topic_id": 814706,
+        "chapter": "Real Numbers"
+    },
+    {
+        "formula_id": 14886461,
+        "formula_text": "Area = (1/2) * base * height",
+        "topic_id": 975382,
+        "chapter": "Triangles"
+    }
+]

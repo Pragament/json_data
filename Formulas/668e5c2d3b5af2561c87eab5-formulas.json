@@ -1,0 +1,32 @@
+[
+    {
+        "formula_id": 8907445,
+        "formula_text": "a^m * a^n = a^(m+n)",
+        "topic_id": 814706,
+        "chapter": "Real Numbers"
+    },
+    {
+        "formula_id": 8907446,
+        "formula_text": "Area = (1/2) * base * height",
+        "topic_id": 975382,
+        "chapter": "Triangles"
+    },
+    {
+        "formula_id": 8907447,
+        "formula_text": "Volume of cube = a^3",
+        "topic_id": 588455,
+        "chapter": "Surface Areas and Volumes"
+    },
+    {
+        "formula_id": 8907448,
+        "formula_text": "Mean = Sum of observations / Number of observations",
+        "topic_id": 3338,
+        "chapter": "Statistics"
+    },
+    {
+        "formula_id": 8907449,
+        "formula_text": "P(E) = Number of favorable outcomes / Total outcomes",
+        "topic_id": 474844,
+        "chapter": "Probability"
+    }
+]
