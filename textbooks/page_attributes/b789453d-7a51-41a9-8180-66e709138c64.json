@@ -1,0 +1,129 @@
+[
+  {
+    "id": "03ea1f9a-ed07-4997-bcd2-346080a33f56",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 1,
+    "text": "Python Introduction",
+    "type": "chapter",
+    "order": 2,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_introduction.png"
+    ],
+    "content": "# Python Introduction\n\n---\n\n## What is Python?\n\nPython is a versatile and popular programming language that has been around since 1991. Its creator, Guido van Rossum, released it to the world.\n\nYou can use Python for:\n\n* Building web applications on the server-side\n* Developing software\n* Conducting mathematical operations\n* Scripting systems\n\n### What Can You Do with Python?\n\nWith Python, you can:\n* Create web applications that run on servers\n* Integrate software to create workflows\n* Connect to databases and read/write files\n* Handle large datasets and perform complex calculations\n* Use it for rapid prototyping or production-ready software development\n\nstop\n\n---\n\n## Why Python?\n\nPython is a great choice because:\n* It runs on various platforms, including Windows, Mac, Linux, Raspberry Pi, and more\n* Its syntax is easy to read and write, similar to the English language\n* You can write programs with fewer lines of code compared to other languages\n* It uses an interpreter system, allowing you to execute code as soon as it's written\n* Python can be used procedurally, object-orientedly, or functionally\n\n### Good to Know\n\n* The latest major version of Python is version 3, which we'll be using in this tutorial. Version 2 is still popular, although it only receives security updates.\n* In this tutorial, you'll write Python code in a text editor. You can also use Integrated Development Environments like Thonny, Pycharm, Netbeans, or Eclipse for larger projects.\n\n### Comparing Python Syntax to Other Programming Languages\n\nPython was designed for readability and has some similarities to the English language with influences from mathematics.\n* It uses new lines to complete commands, unlike other languages that often use semicolons or parentheses.\n* Python relies on indentation using whitespace to define scope, such as loops, functions, and classes. Other languages typically use curly-brackets for this purpose.\n\nstop\n\n---\n\n## Video: Python Introduction\n\n[![Tutorial on YouTube](https://www.example.com/images/yt_logo_rgb_dark.png)](https://youtu.be/xkZMUX_oQX4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)\n[![Tutorial Image](https://www.example.com/python/images/img_python_introduction.png)](https://youtu.be/xkZMUX_oQX4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "27d3bf0f-77e9-4973-a971-3eca2d0aba69",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 2,
+    "text": "Python Getting Started",
+    "type": "topic",
+    "order": 3,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_getstarted.png"
+    ],
+    "content": "Here is the rephrased content in plain Markdown text:\n\n# Python Getting Started\n\n---\n\n## Installing Python\n\nMany computers come with Python pre-installed. To check if you have it installed on a Windows PC, search for \"Python\" in the Start menu or run the following command in the Command Line (cmd.exe):\n\nOn Linux or Mac, open the Terminal and type:\n\nIf you don't have Python installed, you can download it for free from the official website: <https://www.python.org/>\n\n---\n\n## Quickstart with Python\n\nPython is an interpreted programming language. As a developer, you write Python (.py) files in a text editor and then execute them using the Python interpreter.\n\nLet's create our first Python file, called `hello.py`, in any text editor:\n\nSave your file. Open your command line, navigate to the directory where you saved it, and run:\n\nThe output should be:\n\nCongratulations, you have written and executed your first Python program!\n\n---\n\n## Online Python Editor\n\nWe have an online Python editor where you can execute your own code and see the results:\n\nThis editor will be used throughout this tutorial to demonstrate different aspects of Python.\n\n---\n\n## Checking Python Version\n\nTo check the Python version in our online editor, you can import the `sys` module:\n\nYou'll learn more about importing modules in our [Python Modules](#) chapter.\n\n---\n\n## Using the Python Command Line\n\nSometimes it's quicker and easier to test a short piece of code without writing it to a file. This is possible because Python can be run as a command line itself.\n\nOn the Windows, Mac, or Linux command line, type:\n\nOr, if \"python\" doesn't work, try \"py\":\n\nFrom there, you can write any Python code, including our hello world example from earlier:\n\nWhich will print \"Hello, World!\" in the command line:\n\nWhen you're done, simply type `exit()` to quit the Python command line interface.\n\n---\n\n## Video: Getting Started with Python\n\n[![Tutorial on YouTube](https://www.example.com/python/images/yt_logo_rgb_dark.png)](https://youtu.be/z116jFWdfQc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "e1d4b8a1-67be-4bc3-9d88-236158639366",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 3,
+    "text": "Python Syntax",
+    "type": "topic",
+    "order": 4,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_syntax.png"
+    ],
+    "content": "# Python Syntax Basics\n\n---\n\n## Executing Python Code\n\nTo run your Python code, you can simply type it directly into the Command Line. Alternatively, you can create a new file with a `.py` extension and run it from the Command Line.\n\n---\n\n## Indentation in Python\n\nIndentation refers to the spaces at the beginning of each line of code. Unlike other programming languages, indentation is crucial in Python as it defines a block of code. If you forget to indent or use inconsistent spacing, Python will raise an error.\n\nYou're free to choose any number of spaces for indentation, but four is the most common choice. Just remember that all lines within the same block should have the same number of spaces.\n\n---\n\n## Variables in Python\n\nIn Python, variables are created when you assign a value to them. There's no need to declare a variable beforehand. You'll learn more about variables and how to work with them in future chapters.\n\n---\n\n## Adding Comments\n\nComments are an excellent way to document your code. In Python, comments start with the `#` symbol, and everything after it will be ignored by the interpreter.\n\n---\n\n## Video Tutorial: Python Syntax Essentials\n\n[![Watch on YouTube](https://www.youtube.com/images/youtube_logo_rgb_dark.png)](https://www.youtube.be/your_video_link)"
+  },
+  {
+    "id": "88f8bb1e-18a6-4227-93c5-b0cd9d56b836",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 4,
+    "text": "Python Comments",
+    "type": "topic",
+    "order": 5,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_comments.png"
+    ],
+    "content": "# Python Comments: Explained and Demonstrated\n\n---\n\n### Introduction to Comments in Python\n\nComments are a crucial part of writing readable, maintainable, and testable code. They provide context for the code they accompany, making it easier for others (and yourself) to understand what each line does.\n\nIn addition, comments can be used to prevent code from executing when testing or debugging.\n\n---\n\n### Creating Comments in Python\n\nTo create a comment, start with `#`, which is ignored by the Python interpreter. You can place a comment at the end of a line, and Python will ignore everything else on that line:\n\nAlternatively, you can use comments to prevent specific lines of code from being executed during testing or debugging.\n\n### Multiline Comments in Python\n\nPython does not have a built-in syntax for multiline comments. However, there are two ways to achieve this effect:\n\n* Use the `#` symbol at the beginning of each line to create a block comment.\n* Utilize string literals with triple quotes to wrap your comment and prevent it from being executed.\n\nAs long as these strings are not assigned to a variable, Python will read them but ignore their contents, effectively creating a multiline comment.\n\n---\n\n### Visual Learning: Python Comments\n\n[![Watch the tutorial on YouTube](https://www.youtube.com/images/default-youtube-icon.png)](https://youtu.be/9wouY9nWe0k&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)\n[![Visual guide for Python comments](https://www.example.com/python/images/python-comments.png)](https://example.com)"
+  },
+  {
+    "id": "e4f9f6bb-38db-4a79-ae92-da525c798702",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 5,
+    "text": "Python Variables",
+    "type": "topic",
+    "order": 6,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_variables.png"
+    ],
+    "content": "# Python Variables\n\n---\n\nstart\n\n## Defining Data Storage\n\nIn Python, variables serve as containers for holding data values. They allow you to store and retrieve information throughout your code.\n\n---\n\n## Declaring Variables\n\nOne of the unique aspects of Python is that you don't need a specific command to declare a variable. Instead, a variable is created the moment you assign a value to it.\n\nVariables in Python are dynamic, meaning they can change data type after being initialized. This flexibility is one of the key features that makes Python a popular choice for many programmers.\n\nstop\n\n---\n\nstart\n\n## Converting Data Types (Casting)\n\nIf you want to explicitly define the data type of a variable, casting is an option. However, keep in mind that this is not always necessary, as Python's dynamic typing allows variables to adapt to different types automatically.\n\nstop\n\n---\n\nMidContent\n Advertisement\n\n---\n\nstart\n\n## Determining Variable Data Type\n\nTo retrieve the data type of a variable, you can use the built-in `type()` function.\n\nAs we'll explore later in this tutorial, understanding data types and casting are essential concepts for any Python programmer. We'll delve deeper into these topics to help you become proficient in using variables effectively.\n\n---\n\nstart\n\n## Quoting Strings\n\nWhen declaring string variables, you have the option to use either single quotes or double quotes.\n\nstop\n\n---\n\nstart\n\n## Case Sensitivity\n\nIn Python, variable names are case-sensitive. This means that `myVariable` and `myvariable` would be considered two distinct variables.\n\nstop\n\n---\n\n## Video: Working with Variables in Python\n\n[![Python Tutorial on YouTube](https://www.example.com/images/yt_logo_rgb_dark.png)\n\n![Python Tutorial on YouTube](https://www.example.com/images/img_python_variables.png)](https://youtu.be/Gf9wLsCJDqc&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "108b6053-016c-4fd8-8624-d7ebb6de77c2",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 6,
+    "text": "Python - Variable Names",
+    "type": "topic",
+    "order": 7,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_variable_names.png"
+    ],
+    "content": "# Python Variable Names\n\n---\n\nstart\n\n## Defining Variable Names\n\nIn Python, a variable can be assigned a short or descriptive name. Here are some guidelines for naming your variables:\n\n* A variable must start with a letter or an underscore character.\n* It cannot begin with a number.\n* The name can only contain letters (A-z), numbers (0-9), and underscores (_).\n* Variable names are case-sensitive, meaning \"age\" and \"Age\" would be considered different variables.\n\nAdditionally, Python has reserved keywords that cannot be used as variable names. Remember to keep your variable names readable by following best practices.\n\nstop\n\n---\n\nMidContent\nAdvertisement\n\n\nstart\n\n## Multi-Word Variable Names\n\nWhen working with multiple-word variable names, it's essential to make them easy to read and understand. Here are some techniques to achieve this:\n\n### Camel Case\n\nIn this convention, the first word is written in lowercase, while each subsequent word starts with a capital letter.\n\nExample: `myVariableName = \"John\"`\n\n### Pascal Case\n\nThis approach involves capitalizing the first letter of every word, except for the first one.\n\nExample: `MyVariableName = \"John\"`\n\n### Snake Case\n\nAlternatively, you can use underscores to separate words in your variable name.\n\nExample: `my_variable_name = \"John\"`\n\nstop\n\n---\n\n## Video: Python Variable Naming Conventions\n\nWatch this video to learn more about effective variable naming practices in Python:\n\n[![Python Tutorial on YouTube](https://www.youtube.com/images/yt_logo_rgb_dark.png)](https://youtu.be/Hsbo6V2BJ3U&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "31dcd3b7-0c01-4c27-9e7b-c2cc93478934",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 7,
+    "text": "Python Variables - Assign Multiple Values",
+    "type": "topic",
+    "order": 8,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_variables_multiple_values.png"
+    ],
+    "content": "# Assigning Multiple Values to Variables in Python\n\n---\n\n## Assigning Many Values to Multiple Variables\n\nIn Python, you can assign multiple values to multiple variables in a single statement. This is achieved by separating the variable names with commas.\n\n**Important Note:** Ensure that the number of variables matches the number of values being assigned, or you will encounter an error.\n\nstop\n\n---\n\n## Assigning One Value to Multiple Variables\n\nYou can also assign the same value to multiple variables in one line. This is useful when you need to set multiple variables to the same initial state.\n\nstop\n\n---\n\n## Unpacking a Collection into Variables\n\nWhen working with collections like lists, tuples, or dictionaries, you can extract their values and assign them to separate variables. This process is known as unpacking.\n\nLearn more about unpacking in our [Working with Tuples](python_tuples_unpack.md) chapter.\n\n---\n\n### Video: Assigning Multiple Values to Variables in Python\n\n[![Python Tutorial on YouTube](https://www.youtube.com/images/default_profile_banner.png)](https://www.youtube.com/watch?v=4oug4GEDSeM&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "c06fcc79-057c-4e9e-ba50-f784f4a0023c",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 8,
+    "text": "Python - Output Variables",
+    "type": "topic",
+    "order": 9,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_variables_output.png"
+    ],
+    "content": "# Python Output Variables\n\n---\n\nstart\n\n## Printing Variables\n\nIn Python, you can use the `print()` function to output variables. This is often done by separating multiple variables with commas.\n\nFor example:\n\nYou can also combine variables using the `+` operator:\n\nNote that when using spaces between strings, they are preserved in the output. Without these spaces, the result would be a single string without gaps.\n\nstop\nstart\n\n## Combining Variables\n\nWhen working with numbers, the `+` operator has its usual mathematical meaning:\n\nHowever, if you try to combine a string and a number using the `+` operator in the `print()` function, Python will raise an error. Instead, use commas to separate variables of different data types:\n\nThis approach allows you to output multiple variables with different data types.\n\nstop\n\n---\n\n---\n\n## Video: Python Output Variables\n\n[![Python Tutorial on YouTube](https://www.youtube.com/images/default_profile_background.png)](https://youtu.be/cVUwwZ9IVGI&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "261aee43-1c37-4d2e-bced-be00345a64fa",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 9,
+    "text": "Python - Global Variables",
+    "type": "topic",
+    "order": 10,
+    "images": [
+      "https://www.w3schools.com/python/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/python/images/img_python_variables_global.png"
+    ],
+    "content": "# Python Global Variables\n\n---\n\n## What are Global Variables?\n\nIn Python, global variables are those that are defined outside of a function. They can be accessed and modified by any part of the program.\n\nGlobal variables are shared by all parts of your code, including functions. This means you can use them inside or outside of functions without having to pass them as arguments.\n\n## Local Variables vs Global Variables\n\nWhen you define a variable inside a function, it's considered local to that function. This means it can only be accessed within that function and not from outside the function.\n\nIf you have both a global variable and a local variable with the same name, Python will use the local one in favor of the global one.\n\n## Using the Global Keyword\n\nIn some cases, you might want to modify a global variable inside a function. To do this, you can use the `global` keyword before the variable name.\n\nFor example:\n\n```\nx = \"Global x\"\n\ndef my_function():\n    global x\n    x = \"New global x\"\n    print(x)\n\nmy_function()\nprint(x)\n```\n\nIn this example, we first define a global variable `x`. Then, inside the `my_function`, we use the `global` keyword to modify the value of `x`. Finally, we print the new value of `x`.\n\n## Video: Python Global Variables\n\nCheck out our video tutorial on YouTube for more information on using global variables in Python!\n\n[![Python Tutorial on YouTube](https://www.youtube.com/images/default_youtube_icon.png)](https://youtu.be/VZW9CGZymqU&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9)"
+  },
+  {
+    "id": "0e72c8db-3999-4d55-a329-2228ca56d7b5",
+    "bookID": "b789453d-7a51-41a9-8180-66e709138c64",
+    "pageNumber": 10,
+    "text": "Python - Variable Exercises",
+    "type": "topic",
+    "order": 11,
+    "images": [],
+    "content": "# Python - Variable Practice\n\n---\n\n## Put Your Knowledge to the Test\n\nYou've learned about variables in Python and how to use them effectively. Now, it's time to put your skills into practice!\n\n## Practice with a Variety of Exercises\n\nChallenge yourself with exercises that cover various aspects of Python variables:\n\n### Variables\nExplore using single variables in Python.\n\n### Naming Conventions\nLearn the rules for naming your variables in Python.\n\n### Multiple Values\nDiscover how to assign multiple values to a variable.\n\n### Printing Variable Output\nSee how to use print statements to display variable values.\n\n### Global Scope\nUnderstand how global variables work and how they differ from local scope.\n\nFor even more practice, try these additional exercises:\n\n[Python Practice](python_practice.asp)"
+  }
+]

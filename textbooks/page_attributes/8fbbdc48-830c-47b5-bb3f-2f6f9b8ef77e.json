@@ -1,0 +1,130 @@
+[
+  {
+    "id": "efc8b563-950b-400d-b912-599eeb0c85a1",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 1,
+    "text": "CSS Introduction",
+    "type": "chapter",
+    "order": 2,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_introduction.png"
+    ],
+    "content": "# CSS Introduction\n\n---\n\nstart\n\nCSS is the language used to enhance and style web pages.\n\n---\n\n## What is CSS?\n\n* CSS stands for Cascading Style Sheets\n* CSS determines how HTML elements are displayed, not just on screens but also in print or other media formats\n* With CSS, you can control the layout of multiple web pages simultaneously, saving a significant amount of work\n* External stylesheets are stored in .css files\n\nstop\n\n---\n\nstart\n\n## CSS Demo - One HTML Page - Multiple Styles!\n\nThis section showcases one HTML page displayed with four different style settings. Click on the links below to see the distinct styles:\n\nstop\n\n---\n\nMidContent\n<p class=\"adtext\">Advertisement</p>\n\n---\n\nstart\n\n## Why Use CSS?\n\nCSS is used to define styles for your web pages, encompassing layout, design, and display variations for different devices and screen sizes.\n\nstop\n\n---\n\nstart\n\n## A Major Problem Solved with CSS\n\nHTML was never intended to contain tags for formatting a web page!\n\nHTML's primary purpose is to describe the content of a web page, like:\n\n<h1>This is a heading</h1>\n\n<p>This is a paragraph.</p>\n\nWhen formatting elements like <font> and color attributes were added to HTML 3.2, it created a nightmare for developers. Updating large websites with font and color information became a lengthy and costly process.\n\nTo resolve this issue, the World Wide Web Consortium (W3C) developed CSS.\n\nCSS removed style formatting from HTML pages!\n\nIf you're new to HTML, we recommend exploring our [HTML Tutorial](/html/default.asp).\n\nstop\n\n---\n\nstart\n\n## CSS Saves Time and Effort!\n\nStyle definitions are usually saved in external .css files.\n\nWith an external stylesheet file, you can modify the appearance of an entire website by updating just one file!\n\nstop\n\n---\n\n## Video: CSS Introduction\n\n[![Tutorial on YouTube](https://www..com/css/images/yt_logo_rgb_dark.png)\n\n![Tutorial on YouTube](https://www..com/css/images/css_introduction.png)](https://youtu.be/AGDDdsiZ0Ko&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "8a9459e3-6e92-4309-b860-50999df45730",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 2,
+    "text": "CSS Syntax",
+    "type": "topic",
+    "order": 3,
+    "images": [
+      "https://www.w3schools.com/css/img_selector.gif",
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_syntax.png"
+    ],
+    "content": "# CSS Syntax\n\n---\n\n## The Basics of a CSS Rule\n\nA CSS rule is comprised of two main parts: the selector and the declaration block.\n\n### The Selector\n\nThe selector points to the specific HTML element that you want to style. It's like a pointer that says, \"Hey, I'm talking about this particular part of the page!\"\n\n### The Declaration Block\n\nThe declaration block contains one or more declarations, separated by semicolons. Each declaration consists of a CSS property name and its value, separated by a colon.\n\n#### Example Explained\n\n* `p` is an example selector that targets HTML paragraphs (`<p>`).\n* `color: red` sets the text color to red.\n* `text-align: center` centers the text horizontally.\n\nYou'll learn more about the intricacies of CSS selectors and properties in future chapters!\n\n### Video Tutorial\n\n[![Watch the tutorial on YouTube](https://example.com/css/images/yt_logo_rgb_dark.png)](https://youtu.be/G8r00ZNopTE&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "43b8529a-d3ff-4b18-a0c7-7da1103b1f3e",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 3,
+    "text": "CSS Selectors",
+    "type": "topic",
+    "order": 4,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_selectors.png"
+    ],
+    "content": "# CSS Selectors\n\n---\n\nstart\n\nA CSS selector identifies the HTML elements you want to style.\n\n---\n\n## CSS Selectors\n\nTo apply styles to specific parts of a web page, you use CSS selectors. These selectors help your browser find the right elements to modify.\n\nWe can divide CSS selectors into several categories:\n\n* Simple selectors (select elements based on name, id, or class)\n* Combinator-based selectors (select elements based on their relationship with others)\n* Pseudo-class selectors (select elements based on a specific state)\n* Pseudo-element selectors (select and style a part of an element)\n* Attribute-based selectors (select elements based on their attributes)\n\nThis page will introduce you to the fundamental CSS selectors.\n\nstop\n\n---\n\nstart\n\n## Basic Element Selector\n\nThe basic element selector selects HTML elements based on their tag name.\n\nstop\n\n---\n\nstart\n\n## ID-Based Selector\n\nAn ID-based selector uses the unique id attribute of an HTML element to pinpoint a specific element.\n\nSince each id is unique within a page, this type of selector helps you target one specific element!\n\nTo select an element with a specific id, start with a hash (#) character followed by the id's name. **Note:** Id names can't begin with numbers!\n\nstop\n\n---\n\n<p class=\"adtext\">Advertisement</p>\n\n---\n\nstart\n\n## Class-Based Selector\n\nA class-based selector targets HTML elements that have a specific class attribute.\n\nTo select elements with a particular class, start with a period (.) character followed by the class name. You can also specify which types of HTML elements should be affected by this class.\n\nMultiple classes can be applied to a single HTML element!\n\n**Note:** Class names cannot begin with numbers!\n\nstop\n\n---\n\nstart\n\n## Universal Selector\n\nThe universal selector (\\*) selects all HTML elements on the page.\n\nstop\n\n---\n\nstart\n\n## Grouping Selector\n\nA grouping selector combines multiple selectors with the same style definitions, making your code more efficient and easier to maintain.\n\nLook at this example:\n```css\nh1, h2, p {\n  /* shared styles */\n}\n```\nIt's better to group these selectors together!\n\nTo combine selectors, separate each one with a comma."
+  },
+  {
+    "id": "5c9af713-6c92-42d4-8917-ed27d428e5a8",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 4,
+    "text": "How To Add CSS",
+    "type": "topic",
+    "order": 5,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_howto.png"
+    ],
+    "content": "# How to Add CSS\n\n---\n\nstart\n\nWhen a browser reads a style sheet, it formats the HTML document according to the information in the style sheet.\n\n---\n\n## Three Ways to Insert CSS\n\nThere are three ways of inserting a style sheet: external, internal, and inline styles.\n\nstop\n\n---\n\nstart\n\n## External Stylesheets\n\nExternal stylesheets allow you to change the look of an entire website by modifying just one file!\n\nEach HTML page must include a reference to the external stylesheet file inside the `<link>` element in the head section. The external stylesheet can be written in any text editor and saved with a `.css` extension.\n\nNote that this file should not contain any HTML tags and remember to avoid spaces between property values and units (e.g., `margin-left: 20px;` instead of `margin-left: 20 px;`).\n\nstop\n\n---\n\n<p class=\"adtext\">Advertisement</p>\n\n---\n\nstart\n\n## Internal Stylesheets\n\nInternal stylesheets can be used if you need a unique style for a single HTML page. The internal style is defined inside the `<style>` element in the head section.\n\nstop\n\n---\n\nstart\n\n## Inline Styles\n\nInline styles are used to apply a unique style to a single element. To use inline styles, add the `style` attribute to the relevant element and include any CSS property you need.\n\nTip: While inline styles can be useful, they should be used sparingly as they mix content with presentation.\n\nstop\n\n---\n\nstart\n\n## Multiple Stylesheets\n\nWhen multiple stylesheets define properties for the same selector (element), the value from the last read style sheet will be used.\n\nstop\n\n---\n\nstart\n\n## Cascading Order\n\nWhat happens when there are multiple styles specified for an HTML element? All the styles in a page \"cascade\" into a new \"virtual\" stylesheet, following these rules: first, inline styles; second, external and internal stylesheets; and third, browser defaults.\n\nSo, an inline style has the highest priority and will override external and internal styles as well as browser defaults.\n\n[Try it Yourself \u00bb](tryit.asp?filename=trycss_howto_cascade)\n\nstop\n\n---\n\nEver heard about Spaces? Here you can create your own website or save code snippets for later use, absolutely free!\n\n[Get started for free \u276f](https://www.w3spaces.com \"Get Started With  Spaces\")\n\n*\\* no credit card required*\n\n---\n\n---\n\n## Video: How to Add CSS to HTML\n\n[![Tutorial on YouTube](https://www..com/css/images/yt_logo_rgb_dark.png)\n\n![Tutorial on YouTube](https://www..com/css/images/css_howto.png)](https://youtu.be/VSwaoQ3TFkQ&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "3768ff70-1be9-43c5-a491-f96c0ff4e845",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 5,
+    "text": "CSS Comments",
+    "type": "topic",
+    "order": 6,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_comments.png"
+    ],
+    "content": "# Adding Comments to Your CSS Code\n\n---\n\nstart\n\nIn the world of CSS, comments are a powerful tool that helps you document your code and make it more readable. While browsers ignore these comments, they can be incredibly helpful when reviewing or updating your source code in the future.\n\n### Understanding CSS Comments\n\nComments serve as a way to explain what each section of code does, making it easier for yourself or others to understand your CSS logic. And the best part? They're completely ignored by web browsers, so you don't have to worry about them affecting how your website looks or functions.\n\nTo add a comment in CSS, start with `/*` and end with `*/`. You can place these comments anywhere within your code, including the middle of a line:\n\n```css\n/* This is a comment that spans multiple lines */\n```\n\nor across multiple lines:\n\n```css\nThis is a \nlong \ncomment \nthat \nspans \nmultiple \nlines /* \n*/\n```\n\nstop\n\n---\n\n### Combining HTML and CSS Comments\n\nIf you're familiar with HTML comments, you know they start with `<!--` and end with `-->`. In this tutorial, we'll explore how to combine HTML and CSS comments for maximum flexibility.\n\nHere's an example of combining both:\n\n```css\n/* This is a CSS comment */\n<!-- This is an HTML comment -->\n```\n\nstop\n\n---\n\n### Exploring Further: CSS Comments Video Tutorial\n\nFor a more in-depth look at CSS comments, check out our video tutorial:\n\n[![Tutorial on YouTube](https://www.example.com/images/yt_logo_rgb_dark.png)]\n\n![CSS Comments Tutorial on YouTube](https://www.example.com/images/css_comments.png)](https://youtu.be/your-video-id?list=your-playlist-id)\n\n---\n\nMidContent\n<p class=\"adtext\">Advertisement</p>\n\n---"
+  },
+  {
+    "id": "0641a906-1e1e-4912-a15d-b1d5d5fc58fc",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 6,
+    "text": "CSS Errors",
+    "type": "topic",
+    "order": 7,
+    "images": [],
+    "content": "# Common CSS Mistakes\n\n---\n\nstart\n\n## Forgetting the Semicolon\n\nA simple mistake, forgetting to add a semicolon at the end of a property declaration can cause styles not to apply as intended. Make sure to include that all-important semicolon!\n\nstop\n\n---\n\nstart\n\n## Non-Existent Property Names\n\nUsing a property name that doesn't exist will simply be ignored by the browser. Double-check those property names to ensure they're accurate and valid.\n\nstop\n\n---\n\nMidContent\n<p class=\"adtext\">Take a break, stay focused!</p>\n\n---\n\nstart\n\n## Incorrect Values\n\nEven if you use correct property names, invalid values can still cause issues. Make sure your values are accurate and within the expected range.\n\nstop\n\n---\n\nstart\n\n## Unclosed Braces\n\nForgetting to close a brace (`}`) can cause the entire rule to be ignored. Keep those closing braces in check!\n\nstop\n\n---\n\nstart\n\n## Typos Galore\n\nThose pesky typos, like extra colons or misplaced braces, can still break your styles. Double-check for errors and test frequently.\n\n---\n\n## Tips to Avoid CSS Errors\n\n* Use a code editor with syntax highlighting to catch those mistakes early.\n* Validate your CSS with a CSS linter or validator to ensure it's error-free.\n* Write CSS in small sections and test frequently to avoid bigger issues down the line."
+  },
+  {
+    "id": "9e2b4908-e37e-4d31-952f-da912cfce916",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 7,
+    "text": "CSS Colors",
+    "type": "topic",
+    "order": 8,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_colors_introduction.png"
+    ],
+    "content": "Here's the rephrased content in your own words, maintaining the structure, key information, and code examples:\n\n# CSS Colors\n\n---\n\nstart\n\nColors are an essential aspect of CSS, allowing you to specify shades using predefined names or various value formats. You can choose from a range of options, including RGB, HEX, HSL, RGBA, and HSLA values.\n\n---\n\n## Predefined Color Names\n\nIn CSS, colors can be identified by their predefined names:\n\nTomato\nOrange\nDodger Blue\nMedium Sea Green\nGray\nSlate Blue\nViolet\nLight Gray\n\nTry experimenting with these color names in your CSS code!\n\n### Supported Color Names\n\nCSS and HTML support 140 standard color names.\n\n---\n\nstart\n\n## Background Colors\n\nYou can set the background color for HTML elements using the `background-color` property:\n\nHello World\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.\nUt wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\n\n---\n\nstart\n\n## Text Colors\n\nYou can set the color of text using the `color` property:\n\n### Hello World\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.\nUt wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\n\n---\n\nstart\n\n## Border Colors\n\nYou can set the color of borders using the `border-color` property:\n\n## Hello World\n## Hello World\n## Hello World\n\n---\n\nstart\n\n## Color Values\n\nIn CSS, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values. Here are some examples:\n\nSame as \"Tomato\" color name:\nrgb(255, 99, 71)\n#ff6347\nhsl(9, 100%, 64%)\n\nSame as \"Tomato\" color name, but with 50% transparency:\nrgba(255, 99, 71, 0.5)\nhsla(9, 100%, 64%, 0.5)\n\n### Learn More\n\nYou'll learn more about RGB, HEX, and HSL in the next chapters.\n\n---\n\nstart\n\n## Video: CSS Colors Introduction\n\n[![Tutorial on YouTube](https://www.example.com/css/images/yt_logo_rgb_dark.png)\n![Tutorial on YouTube](https://www.example.com/css/images/css_colors_introduction.png)](https://youtu.be/q0uWmobMf6I&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "e146df90-2309-492c-b3df-e58b75147b60",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 8,
+    "text": "CSS RGB Colors",
+    "type": "topic",
+    "order": 9,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_colors_rgb.png"
+    ],
+    "content": "# RGB Colors in CSS\n\n---\n\nstart\n\nUnderstanding RGB Colors\n-------------------------\n\nIn the world of digital design, colors are created by combining different intensities of red, green, and blue light. This concept is known as RGB (Red, Green, Blue) color model.\n\n---\n\n## Specifying RGB Colors\n\nTo define a color in CSS using the RGB model, use the following format:\n\nrgb(*red*, *green*, *blue*)\n\nEach parameter represents the intensity of the color, with values ranging from 0 to 255. For example, setting all three parameters to their highest value (255) results in white, while setting them all to 0 produces black.\n\nLet's experiment with some RGB values:\n\nRED | GREEN | BLUE\n-----|-------|-------\n255  | 0     | 0\n...\nstop\n\n---\n\n## RGBA Colors: Adding Opacity\n\nIn addition to the RGB model, CSS also supports RGBA (Red, Green, Blue, Alpha) colors. The alpha channel allows you to specify the transparency of a color.\n\nAn RGBA color value is specified with:\n\nrgba(*red*, *green*, *blue*, *alpha*)\n\nThe alpha parameter ranges from 0.0 (fully transparent) to 1.0 (not transparent at all). Let's explore some examples:\n\nRED | GREEN | BLUE | ALPHA\n-----|-------|-------|--------\n255  | 0     | 0    | 0\n\n...\nstop\n\n---\n\n## Learn More: CSS Colors Tutorial\n\nWant to learn more about RGB and RGBA colors in CSS? Check out our video tutorial! [Tutorial on YouTube](https://www.youtube.com/watch?v=6tbUo6PXc88&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "3d1812ee-6d03-442e-8004-b1c864889baa",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 9,
+    "text": "CSS HEX Colors",
+    "type": "topic",
+    "order": 10,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_colors_hex.png"
+    ],
+    "content": "# CSS HEX Colors\n\n---\n\nstart\n\nA hexadecimal color code is written in the format: #RRGGBB, where RR, GG, and BB represent the red, green, and blue components of the color.\n\n---\n\n## HEX Value\n\nIn CSS, you can specify a color using a hexadecimal value in the following form:\n\n#rrggbb\n\nWhere rr, gg, and bb are hexadecimal values ranging from 00 to ff (equivalent to decimal 0-255).\n\nFor instance, #ff0000 appears as red because red is set to its highest value (ff) and green and blue are at their lowest value (00). To display black, set all values to 00, like this: #000000. Conversely, setting all values to ff displays white, such as with the code #ffffff.\n\nExperiment by mixing the hexadecimal values below:\n\nRED\n\nff\n\nGREEN\n\n0\n\nBLUE\n\n0\n\nGray shades are often defined by equal values for all three color components.\n\n---\n\nstart\n\n## 3-Digit HEX Value\n\nYou may occasionally encounter a 3-digit hex code in CSS source files. This shorthand is used to represent some 6-digit hex codes.\n\nThe 3-digit hex code has the following format:\n\n#rgb\n\nWhere r, g, and b represent the red, green, and blue components with values between 0 and f.\n\nThis type of code can only be used when all three component values are the same. For example, if you have #ff00cc, it can be written as #f0c because all three component values are the same.\n\nHere is an example:\n\nstop\n\n---\n\n---\n\n## Video: CSS Colors Hex\n\n[![Watch on YouTube](https://www.youtube.com/css/images/yt_logo_rgb_dark.png)](https://youtu.be/LLmCr_201GU&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  },
+  {
+    "id": "95ecd7ed-03b6-4238-9d63-0727c448b466",
+    "bookID": "8fbbdc48-830c-47b5-bb3f-2f6f9b8ef77e",
+    "pageNumber": 10,
+    "text": "CSS HSL Colors",
+    "type": "topic",
+    "order": 11,
+    "images": [
+      "https://www.w3schools.com/css/images/yt_logo_rgb_dark.png",
+      "https://www.w3schools.com/css/images/css_colors_hsl.png"
+    ],
+    "content": "# CSS HSL Colors\n\n---\n\nstart\n\nHue, Saturation, and Lightness (HSL) is a color model used in CSS to specify colors.\n\n---\n\n## HSL Value\n\nIn CSS, you can define a color using the HSL model by specifying hue, saturation, and lightness:\n\nhsl(hue, saturation, lightness)\n\n* Hue refers to the position on the color wheel, ranging from 0 to 360. For example, 0 represents red, 120 represents green, and 240 represents blue.\n* Saturation is a percentage value that determines the intensity of the color. A value of 0% results in a shade of gray, while 100% produces the full color.\n* Lightness is also a percentage value that controls how light or dark the color appears. A value of 0% produces black, 50% results in a mid-tone color, and 100% produces white.\n\nExperiment with these HSL values:\n\nHUE: 0\n\nSATURATION: 100%\n\nLIGHTNESS: 50%\n\nstop\n\n---\n\nstart\n\n### Saturation\n\nSaturation can be thought of as the intensity or vibrancy of a color. A value of 100% results in a pure, unmodified color, while lower values introduce shades of gray.\n\n* 100% saturation: full color with no gray\n* 50% saturation: 50% gray, but still visible color\n* 0% saturation: completely gray\n\nstop\n\n---\n\n### Lightness\n\nLightness refers to the amount of light or darkness in a color. A value of:\n\n* 0% lightness: black (no light)\n* 50% lightness: mid-tone color (neither dark nor light)\n* 100% lightness: white (full light)\n\nstop\n\n---\n\nstart\n\n### Shades of Gray\n\nShades of gray can be achieved by setting the hue and saturation to 0, and adjusting the lightness value from 0% to 100%. This produces a range of grays with varying levels of brightness.\n\nstop\n\n---\n\nstart\n\n## HSLA Value\n\nHSLA (Hue, Saturation, Lightness, Alpha) color values extend the HSL model by adding an alpha channel that controls opacity. An HSLA value is specified using:\n\nhsla(hue, saturation, lightness, alpha)\n\n* The alpha parameter ranges from 0.0 (fully transparent) to 1.0 (fully opaque).\n\nExperiment with this HSLA value:\n\nHUE: 0\n\nSATURATION: 100%\n\nLIGHTNESS: 50%\n\nALPHA: 0.5\n\nstop\n\n---\n\n## [Video: CSS Colors HSL](https://www.youtube.com/watch?v=Vilk0BFQZ4Y&list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM)"
+  }
+]
