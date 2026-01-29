@@ -1,0 +1,2087 @@
+{
+  "ai": {
+    "text": {
+      "original": "Who is Mandela?Mandela won the Nobel Peace Prize for his work during the civil rights revolution in South Africa.Mandela was sworn in as the first black president of South Africa in 1994.Mandela's Early LifeNelson Mandela born on July 18, 1918 into a royal family.Mandela's father served as chief of the tribe.After the death of his father, Mandela's mother took him to palace at Mqhekezweni where he was entrusted to the guardianship of the Thembu Chief.Mandela attended a Methodist mission school located next to the palace where he studied English, Xhosa, history and geography.Mandela listened to the tales told by elderly visitors to the palace, and was influenced by them.In 1937 Mandela moved to Healdtown, the Methodist college attended by most Thembu royalty.In 1939 Mandela entered the elite University of Fort Hare, the only Western-style higher learning institute for South African blacks at the time.It was a time when not many South African blacks had opportunities to go to high school, college and Universities.In 2009 UN declared July 18 “Nelson Mandela International Day” for Mandela's contributions to democracy, freedom, peace and human rights.",
+      "current": "Who is Mandela?Mandela won the Nobel Peace Prize for his work during the civil rights revolution in South Africa.Mandela was sworn in as the first black president of South Africa in 1994.Mandela's Early LifeNelson Mandela born on July 18, 1918 into a royal family.Mandela's father served as chief of the tribe.After the death of his father, Mandela's mother took him to palace at Mqhekezweni where he was entrusted to the guardianship of the Thembu Chief.Mandela attended a Methodist mission school located next to the palace where he studied English, Xhosa, history and geography.Mandela listened to the tales told by elderly visitors to the palace, and was influenced by them.In 1937 Mandela moved to Healdtown, the Methodist college attended by most Thembu royalty.In 1939 Mandela entered the elite University of Fort Hare, the only Western-style higher learning institute for South African blacks at the time.It was a time when not many South African blacks had opportunities to go to high school, college and Universities.In 2009 UN declared July 18 “Nelson Mandela International Day” for Mandela's contributions to democracy, freedom, peace and human rights."
+    }
+  },
+  "slides": [
+    {
+      "text_allignment": "center",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela.jpg?itok=QLNg5I4_",
+          "urls": [
+            "https://upload.wikimedia.org/wikipedia/commons/c/c8/Frederik_de_Klerk_with_Nelson_Mandela_-_World_Economic_Forum_Annual_Meeting_Davos_1992.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/73/Mandela_voting_in_1994.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nelson_Mandela-2008.jpg"
+          ],
+          "credits": "",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Who",
+          "uuid": "e8c11604-50c8-42f1-b71e-a4488f919445",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "44"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 270
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_123_1_1579981993.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "is",
+          "uuid": "c65fb97a-426f-4f64-a465-42b679705190",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#0000ff",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "34"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 180
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_968_1_1579982046.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Mandela?",
+          "uuid": "f9b98521-f96c-4a0e-bd18-a770d779e9b6",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "40"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 720
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_691_1_1580007010.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela.jpg?itok=QLNg5I4_",
+          "credits": "",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela won the",
+          "uuid": "47d6de5d-8a1c-4857-9b8e-cd0ac35e3dec",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1350
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_705_1_1580007011.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Nobel Peace Prize",
+          "uuid": "d1c1b437-270a-4440-927d-34dcd07bc98e",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1530
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_337_1_1580007011.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "Nobel Prize",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/Nobel_Prize.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "for his work during the",
+          "uuid": "8733efe8-65a3-44ce-9c99-59c8fe192e66",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2070
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_401_1_1580007012.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "civil rights revolution",
+          "uuid": "336caafc-cd30-4b5b-829b-d3af73100309",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2070
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_356_1_1580007012.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "in South Africa.",
+          "uuid": "c9b62e22-6e7d-4f51-aad7-1f58558b0395",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1440
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_47_1_1580007013.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "South Africa on Globe",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/South_Africa_on_the_globe.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela.jpg?itok=QLNg5I4_",
+          "credits": "",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela was sworn in",
+          "uuid": "23b25800-7b8e-464c-b1b2-4de4ffd6d29e",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1800
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_682_1_1580007013.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "as the first black",
+          "uuid": "edf488b6-1907-4e28-b429-1e1f3a9f8112",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1620
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_480_1_1580007014.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "president of South Africa",
+          "uuid": "13ec9397-26c1-45dc-9695-324cc8f23fa9",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2250
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_938_1_1580007014.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "in 1994.",
+          "uuid": "4b892fa0-825c-426b-a28a-214bacf205b8",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 720
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_132_1_1580007014.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "center",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela's",
+          "uuid": "f95481ad-d6c7-4294-9c25-67ba513384b7",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "44"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 810
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_506_1_1580007015.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Early",
+          "uuid": "e52321d4-598c-47ef-8b27-e57060a9b74c",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "40"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 450
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_639_1_1579982460.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Life",
+          "uuid": "ea500b55-5652-4753-93c6-710fa0039c9d",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": "44"
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 360
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_767_1_1579982463.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Nelson Mandela",
+          "uuid": "5bf1ad7c-5f2b-451c-b577-0a9b81990ebf",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1260
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_655_1_1580007020.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "born on July 18, 1918",
+          "uuid": "17656485-598b-4551-8586-cada625e0ffd",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1890
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_803_1_1580007021.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "into a royal family.",
+          "uuid": "abb477fe-062c-4745-9d62-9d30e294f6eb",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1800
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_470_1_1580007021.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela's father",
+          "uuid": "b1932c28-88be-4279-98a4-1faee073a594",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1440
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_685_1_1580007022.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "father",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/African-Father-And-Son-Stroller.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "served as",
+          "uuid": "eced5f58-6916-420a-bc4e-527a46b6efd5",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 810
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_736_1_1580007022.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "chief of the tribe.",
+          "uuid": "a05226c1-25ee-4bd9-b911-9e7d2e19a2ef",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1710
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_459_1_1580007022.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "After the death of his father,",
+          "uuid": "80784fb9-4d35-4217-a817-bb4f0216f570",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2700
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_782_1_1580007023.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Mandela's mother took him to",
+          "uuid": "19cf2cbd-9a06-4f90-81f9-55f81e246a8d",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#0000ff",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2520
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_534_1_1580007023.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "Mother & Boy",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/mother-boy.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "palace at Mqhekezweni",
+          "uuid": "8c0eeb11-705c-40d2-ab22-c611abff1253",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1890
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_409_1_1580007024.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "where he was entrusted to the",
+          "uuid": "7f1be7ef-0193-4569-8e03-2ef422553df7",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2610
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_706_1_1580007024.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "guardianship of the Thembu Chief.",
+          "uuid": "7a1f691e-fcc5-4ca4-88fd-2dbb01b2cf97",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2970
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_549_1_1580007025.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "Guardian",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/Family-Shelter-Minus-Ground-Silhouette.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela attended a",
+          "uuid": "fe969ad1-5d6f-44c9-b77d-5b22c7871b1d",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1620
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_275_1_1580007025.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Methodist mission school",
+          "uuid": "ab8dd527-ec20-47d5-bc62-52658d44a479",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2160
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_382_1_1580007026.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "located next to the palace",
+          "uuid": "7ce87861-e7fa-4e60-a0dc-49f5cc4f08b4",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2340
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_372_1_1580007026.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "where he studied English,",
+          "uuid": "cca15be0-9efe-44a7-b443-519de48359f0",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2250
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_965_1_1580007027.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Xhosa, history and geography.",
+          "uuid": "d938e59f-3e41-42a4-8432-814fb63174b8",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2610
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_39_1_1580007027.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "Mandela listened to the tales",
+          "uuid": "c020e164-8ca9-4c4f-bb97-364190780eb8",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2610
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_764_1_1580007027.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "told by elderly visitors",
+          "uuid": "e4ec5782-2e29-44fd-8a95-8c55ed6a8cdd",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2160
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_670_1_1580007028.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "to the palace,",
+          "uuid": "f7667bad-4b63-4e98-ad24-cb735f93c8c4",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1260
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_688_1_1580007028.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "and was influenced by them.",
+          "uuid": "404ac9fc-925c-4f30-aeda-be8f806f4c79",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#0000ff",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2430
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_280_1_1580007029.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "In 1937 Mandela moved to",
+          "uuid": "a7a9518b-5ce1-47ea-9879-c29939f99a0d",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2160
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_473_1_1580007029.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "Healdtown, the Methodist college",
+          "uuid": "7813d865-46ce-4970-a521-9330060dc4ca",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2880
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_118_1_1580007030.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "attended by most Thembu royalty.",
+          "uuid": "89fe20f2-5659-420a-83ac-04903996b145",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2880
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_39_1_1580007030.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/NelsonMandela%20Childhood.jpg?itok=F1r2CxoG",
+          "credits": "© Wits University Archives, © Herbert Shore, courtesy of the Ahmed Kathrada Foundation",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "In 1939 Mandela entered the",
+          "uuid": "2e5372c3-a433-409d-ba18-971344fc30a6",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2430
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_700_1_1580007031.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "elite University of Fort Hare,",
+          "uuid": "099d0bc1-5511-4095-8026-1c9c73d5aed8",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2700
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_702_1_1580007031.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "University of Fort Hare",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/University_of_Fort_Hare_logo.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "the only Western-style",
+          "uuid": "ae0be7c3-60cd-4837-93e5-b30695e22476",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1980
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_209_1_1580007032.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "higher learning institute for",
+          "uuid": "db9228dc-3569-4b05-8da5-a85cef10be81",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2610
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_721_1_1580007032.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "South African blacks at the time.",
+          "uuid": "ae8418db-16c6-4335-a371-8163593ea9d6",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2970
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_432_1_1580007033.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/2014-11-20_Johannesburg_Nelson_Mandela_Square_03_anagoria.JPG?itok=9ragQHK6",
+          "credits": "",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "It was a time when",
+          "uuid": "d63a8c8e-d508-4d04-8ab9-3ffca69dd445",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1620
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_673_1_1579982517.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "not many South African blacks",
+          "uuid": "abedbd7b-f5b9-4be5-b449-fd1e09da8ddc",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2610
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_538_1_1580007033.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "had opportunities to",
+          "uuid": "8ac7bb1c-80e3-494b-b55e-4532d074bb21",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#0000ff",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1800
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_546_1_1579982522.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "Privilege",
+              "credits": "Image Source: Facebook user Emanu — Satir & Illustration",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/privilege.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "go to high school, college",
+          "uuid": "47ed9678-fa0c-475d-91fe-60927fd62abf",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2340
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_147_1_1579982525.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "and Universities.",
+          "uuid": "0297488e-ea89-4712-bc48-f6842af67c1e",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#ff0000",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1530
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_17_1_1580007034.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    },
+    {
+      "text_allignment": "left",
+      "music_mood": "playful",
+      "backgrounds": [
+        {
+          "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/styles/continuous_scroll/public/2020-01/2014-11-20_Johannesburg_Nelson_Mandela_Square_03_anagoria.JPG?itok=9ragQHK6",
+          "credits": "",
+          "duration": -1,
+          "opacity": 80,
+          "transition": "FadeIn",
+          "type": "stretch"
+        }
+      ],
+      "lines": [
+        {
+          "text": "In 2009",
+          "uuid": "1bbf2335-58f0-4d07-8309-5278ab661d27",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#00ff00",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 630
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_827_1_1580007034.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "UN declared July 18",
+          "uuid": "1f82410c-0513-4aab-afab-c1be7c21b812",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#0000ff",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1710
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_249_1_1580007034.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "United Nations",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/united-nations-logo-9CBFC2E65F-seeklogo.com_.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "“Nelson Mandela International Day”",
+          "uuid": "52f0240d-d286-48a7-aef2-e4bca112cf47",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 3060
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_953_1_1580007035.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "for Mandela's contributions to",
+          "uuid": "cf4f7b3e-2aea-423d-9726-358be9921aa8",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#ff0000",
+              "#00ff00",
+              "#0000ff"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2700
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_823_1_1580007036.mp3",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "text": "democracy, freedom,",
+          "uuid": "d9c6445d-32bf-4891-83b6-57f0d1a88a64",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#0000ff",
+              "#ff0000",
+              "#00ff00"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 1710
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_640_1_1580007036.mp3",
+            "type": "audio/mpeg"
+          },
+          "media": [
+            {
+              "caption": "rights & freedom",
+              "credits": "",
+              "colors": [
+                "#fff8dc",
+                "#fffff0"
+              ],
+              "file": {
+                "image": {
+                  "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/2020-01/birds-2012427_1280.png",
+                  "type": "image/png"
+                }
+              },
+              "attr": {
+                "alignment": "top_right",
+                "width": "",
+                "height": "",
+                "effects": {
+                  "enter": "FadeIn",
+                  "exit": "SlideOutLeft",
+                  "animate": "KenBurnsEffect1",
+                  "duration": 2500
+                },
+                "audio": {
+                  "url": "",
+                  "duration": 2500
+                }
+              }
+            }
+          ]
+        },
+        {
+          "text": "peace and human rights.",
+          "uuid": "08d23a34-1fe8-4241-a97e-393ebf6f9c6f",
+          "style": {
+            "color": "#ff0000",
+            "colors": [
+              "#00ff00",
+              "#0000ff",
+              "#ff0000"
+            ],
+            "bgcolor": "#FFFFFF",
+            "bgcolors": [
+              "#fffff0",
+              "#fff8dc"
+            ],
+            "opacity": 50,
+            "size": 24
+          },
+          "effects": {
+            "enter": "FadeIn",
+            "exit": "NONE",
+            "duration": 2070
+          },
+          "tts": {
+            "url": "https://app.eschool2go.org/sites/app.eschool2go.org/files/gtts/2020-01/GTTS_799_1_1580007036.mp3",
+            "type": "audio/mpeg"
+          }
+        }
+      ]
+    }
+  ],
+  "lang": "en",
+  "summary": {
+    "questions": [
+      {
+        "question": "1Choose the correct statement.",
+        "options": [
+          {
+            "answer": true,
+            "message": "Redcurrants are native to western Europe."
+          },
+          {
+            "answer": false,
+            "message": "Redcurrants are native to northern Africa."
+          },
+          {
+            "answer": false,
+            "message": "Redcurrants are native to southern Asia."
+          }
+        ]
+      },
+      {
+        "question": "2Choose the correct statement.",
+        "options": [
+          {
+            "answer": true,
+            "message": "Other currants include Blackcurrants and Whitecurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Bluecurrants and Yellowcurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Greencurrants and Orangecurrants."
+          }
+        ]
+      },
+      {
+        "question": "3Choose the correct statement.",
+        "options": [
+          {
+            "answer": true,
+            "message": "Other currants include Blackcurrants and Whitecurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Bluecurrants and Yellowcurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Greencurrants and Orangecurrants."
+          }
+        ]
+      },
+      {
+        "question": "4Choose the correct statement.",
+        "options": [
+          {
+            "answer": true,
+            "message": "Other currants include Blackcurrants and Whitecurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Bluecurrants and Yellowcurrants."
+          },
+          {
+            "answer": false,
+            "message": "Other currants include Greencurrants and Orangecurrants."
+          }
+        ]
+      }
+    ]
+  }
+}
