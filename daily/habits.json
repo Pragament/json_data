@@ -1,0 +1,375 @@
+{
+    "name": "Health & Anti-Inflammation Habits",
+    "description": "Complete set of habits for intermittent fasting, mitochondrial health, and anti-inflammatory lifestyle.",
+    "categories": ["Nutrition", "Fitness", "Mindfulness", "Lifestyle", "Productivity", "Finance", "Health"],
+    "tags": ["health", "anti-inflammatory", "longevity", "routine", "fasting", "no-sugar"],
+    "habits": [
+      {
+        "title": "Intermittent Fasting (8pm–10am)",
+        "description": "12–16 hr fasting window. No cancer sugar.",
+        "category": "Nutrition",
+        "tags": ["fasting", "blood-sugar", "window"],
+        "schedule": {
+          "type": "daily",
+          "time_window": {
+            "start": "20:00",
+            "end": "10:00"
+          }
+        }
+      },
+      {
+        "title": "No Phone Before/After Limits",
+        "description": "Absolutely no phone before 8am, after 8pm",
+        "category": "Lifestyle",
+        "tags": ["digital-detox", "focus", "sleep-hygiene"],
+        "schedule": {
+          "type": "daily",
+          "blocked_windows": [
+            {
+              "start": "00:00",
+              "end": "08:00"
+            },
+            {
+              "start": "20:00",
+              "end": "23:59"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Morning Meditation",
+        "description": "Morning starts with meditation",
+        "category": "Mindfulness",
+        "tags": ["meditation", "morning", "ritual"],
+        "schedule": {
+          "type": "daily",
+          "preferred_time": "06:00",
+          "duration_minutes": 10
+        }
+      },
+      {
+        "title": "Cut Added Sugar",
+        "description": "Eliminate refined sugar from diet",
+        "category": "Nutrition",
+        "tags": ["sugar-free", "clean-eating"],
+        "checklist": [
+          "No sugary drinks",
+          "Avoid packaged sweets",
+          "Choose whole fruits",
+          "Prefer whole grains over refined"
+        ],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Breathe & Oxygenate",
+        "category": "Fitness",
+        "tags": ["breathing", "walking", "strength"],
+        "checklist": [
+          "5–10 min deep breathing",
+          "30–45 min brisk walk",
+          "2–3 days strength training weekly"
+        ],
+        "schedule": {
+          "type": "daily",
+          "sub_items": [
+            {
+              "title": "Deep Breathing",
+              "duration_minutes": 10
+            },
+            {
+              "title": "Brisk Walk",
+              "duration_minutes": 45
+            }
+          ]
+        }
+      },
+      {
+        "title": "Strength Training",
+        "description": "2–3 days weekly strength training",
+        "category": "Fitness",
+        "tags": ["strength", "muscle"],
+        "schedule": {
+          "type": "weekly",
+          "days_per_week": 3
+        }
+      },
+      {
+        "title": "Eat Mostly Plants",
+        "category": "Nutrition",
+        "tags": ["plant-based", "vegetables", "anti-inflammatory"],
+        "checklist": [
+          "50% vegetables on plate",
+          "Include leafy greens",
+          "Add turmeric, ginger, garlic",
+          "Stay hydrated"
+        ],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Plate Formula",
+        "description": "🥗 50% Vegetables | 🍳 25% Protein | 🌾 25% Whole grains",
+        "category": "Nutrition",
+        "tags": ["meal-balance", "visual-guide"],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Protect Mitochondria",
+        "category": "Health",
+        "tags": ["sleep", "meditation", "sunlight", "detox"],
+        "checklist": [
+          "7–8 hrs quality sleep",
+          "10 min meditation",
+          "Reduce plastics & processed food",
+          "Sunlight exposure daily"
+        ],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Move Daily",
+        "category": "Fitness",
+        "tags": ["steps", "posture", "activity"],
+        "checklist": [
+          "8,000–10,000 steps",
+          "Stand every 45 minutes",
+          "Take stairs when possible"
+        ],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Stand Up Reminder",
+        "category": "Lifestyle",
+        "tags": ["posture", "mobility"],
+        "schedule": {
+          "type": "interval",
+          "every_minutes": 45,
+          "duration_minutes": 2
+        }
+      },
+      {
+        "title": "Reduce Inflammation",
+        "category": "Nutrition",
+        "tags": ["omega-3", "healthy-oils", "tea"],
+        "checklist": [
+          "Omega-3 foods (flax, walnuts, fish)",
+          "Olive oil or cold-pressed oils",
+          "Avoid deep-fried & reheated oils",
+          "Drink green tea"
+        ],
+        "schedule": {
+          "type": "daily"
+        }
+      },
+      {
+        "title": "Weekly Meal Prep",
+        "category": "Nutrition",
+        "tags": ["planning", "prep"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Sunday"],
+          "preferred_time": "10:00",
+          "duration_minutes": 90
+        }
+      },
+      {
+        "title": "Grocery Shopping (Whole Foods)",
+        "category": "Nutrition",
+        "tags": ["planning", "shopping"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Saturday"],
+          "preferred_time": "09:00"
+        }
+      },
+      {
+        "title": "Digital Detox Half-Day",
+        "category": "Lifestyle",
+        "tags": ["digital-detox", "unplug"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Sunday"],
+          "blocked_windows": [
+            {
+              "start": "08:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Full Body Stretching",
+        "category": "Fitness",
+        "tags": ["mobility", "flexibility"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Monday", "Wednesday", "Friday"],
+          "duration_minutes": 15,
+          "preferred_time": "18:00"
+        }
+      },
+      {
+        "title": "HIIT Workout",
+        "category": "Fitness",
+        "tags": ["cardio", "intense"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Tuesday", "Saturday"],
+          "duration_minutes": 20
+        }
+      },
+      {
+        "title": "Track Body Weight",
+        "category": "Health",
+        "tags": ["tracking", "metrics"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Monday"],
+          "preferred_time": "07:00"
+        }
+      },
+      {
+        "title": "Journaling Reflection",
+        "category": "Mindfulness",
+        "tags": ["journaling", "reflection"],
+        "schedule": {
+          "type": "daily",
+          "preferred_time": "21:00",
+          "duration_minutes": 10
+        }
+      },
+      {
+        "title": "Cold Shower",
+        "category": "Lifestyle",
+        "tags": ["recovery", "circulation"],
+        "schedule": {
+          "type": "daily",
+          "preferred_time": "07:30"
+        }
+      },
+      {
+        "title": "Read a Book",
+        "category": "Productivity",
+        "tags": ["learning", "reading"],
+        "schedule": {
+          "type": "daily",
+          "duration_minutes": 20,
+          "preferred_time": "22:00"
+        }
+      },
+      {
+        "title": "Declutter Space",
+        "category": "Lifestyle",
+        "tags": ["cleaning", "organization"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Saturday"],
+          "duration_minutes": 30
+        }
+      },
+      {
+        "title": "Social Connection",
+        "category": "Lifestyle",
+        "tags": ["relationships", "wellbeing"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Friday"],
+          "preferred_time": "19:00"
+        }
+      },
+      {
+        "title": "Monthly Health Check",
+        "category": "Health",
+        "tags": ["tracking", "review"],
+        "schedule": {
+          "type": "monthly",
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "Replace Toothbrush",
+        "category": "Health",
+        "tags": ["hygiene", "maintenance"],
+        "schedule": {
+          "type": "monthly",
+          "interval_months": 3,
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "Quarterly Goal Review",
+        "category": "Productivity",
+        "tags": ["planning", "review"],
+        "schedule": {
+          "type": "yearly",
+          "months": ["January", "April", "July", "October"],
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "Annual Full Body Checkup",
+        "category": "Health",
+        "tags": ["medical", "preventive"],
+        "schedule": {
+          "type": "yearly",
+          "month": "January",
+          "day_of_month": 10
+        }
+      },
+      {
+        "title": "Eye Break (20-20-20 Rule)",
+        "category": "Health",
+        "tags": ["eyes", "break"],
+        "schedule": {
+          "type": "interval",
+          "every_minutes": 20,
+          "duration_seconds": 20
+        }
+      },
+      {
+        "title": "Drink Water Reminder",
+        "category": "Nutrition",
+        "tags": ["hydration", "reminder"],
+        "schedule": {
+          "type": "interval",
+          "every_minutes": 60
+        }
+      },
+      {
+        "title": "Posture Check",
+        "category": "Health",
+        "tags": ["posture", "ergonomics"],
+        "schedule": {
+          "type": "interval",
+          "every_minutes": 30
+        }
+      },
+      {
+        "title": "Gratitude Practice",
+        "category": "Mindfulness",
+        "tags": ["gratitude", "mental-health"],
+        "schedule": {
+          "type": "daily",
+          "preferred_time": "22:00",
+          "duration_minutes": 5
+        }
+      },
+      {
+        "title": "No Spend Day",
+        "category": "Finance",
+        "tags": ["discipline", "savings"],
+        "schedule": {
+          "type": "weekly",
+          "days": ["Wednesday"]
+        }
+      }
+    ]
+}
