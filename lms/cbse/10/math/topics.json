@@ -1,0 +1,402 @@
+[
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "Euclid's Division Lemma",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "The Fundamental Theorem of Arithmetic",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "Revisiting Irrational Numbers",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "Revisiting Rational Numbers and Their Decimal Expansions",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 1,
+    "chapterName": "Real Numbers"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 2,
+    "chapterName": "Polynomials"
+  },
+  {
+    "subtopic": "Geometrical Meaning of the Zeroes of a Polynomial",
+    "chapterNumber": 2,
+    "chapterName": "Polynomials"
+  },
+  {
+    "subtopic": "Relationship between Zeroes and Coefficients of a Polynomial",
+    "chapterNumber": 2,
+    "chapterName": "Polynomials"
+  },
+  {
+    "subtopic": "Division Algorithm for Polynomials",
+    "chapterNumber": 2,
+    "chapterName": "Polynomials"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 2,
+    "chapterName": "Polynomials"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Pair of Linear Equations in Two Variables",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Graphical Method of Solution",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Algebraic Methods of Solving a Pair of Linear Equations",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Substitution Method",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Elimination Method",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Cross-Multiplication Method",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Equations Reducible to a Pair of Linear Equations",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 3,
+    "chapterName": "Pair of Linear Equations in Two Variables"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Quadratic Equations",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Solution of a Quadratic Equation by Factorisation",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Solution of a Quadratic Equation by Completing the Square",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Nature of Roots",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 4,
+    "chapterName": "Quadratic Equations"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 5,
+    "chapterName": "Arithmetic Progressions"
+  },
+  {
+    "subtopic": "Arithmetic Progressions",
+    "chapterNumber": 5,
+    "chapterName": "Arithmetic Progressions"
+  },
+  {
+    "subtopic": "nth Term of an AP",
+    "chapterNumber": 5,
+    "chapterName": "Arithmetic Progressions"
+  },
+  {
+    "subtopic": "Sum of First n Terms of an AP",
+    "chapterNumber": 5,
+    "chapterName": "Arithmetic Progressions"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 5,
+    "chapterName": "Arithmetic Progressions"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Similar Figures",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Similarity of Triangles",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Criteria for Similarity of Triangles",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Areas of Similar Triangles",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Pythagoras Theorem",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 6,
+    "chapterName": "Triangles"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 7,
+    "chapterName": "Coordinate Geometry"
+  },
+  {
+    "subtopic": "Distance Formula",
+    "chapterNumber": 7,
+    "chapterName": "Coordinate Geometry"
+  },
+  {
+    "subtopic": "Section Formula",
+    "chapterNumber": 7,
+    "chapterName": "Coordinate Geometry"
+  },
+  {
+    "subtopic": "Area of a Triangle",
+    "chapterNumber": 7,
+    "chapterName": "Coordinate Geometry"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 7,
+    "chapterName": "Coordinate Geometry"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Trigonometric Ratios",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Trigonometric Ratios of Some Specific Angles",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Trigonometric Ratios of Complementary Angles",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Trigonometric Identities",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 8,
+    "chapterName": "Introduction to Trigonometry"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 9,
+    "chapterName": "Some Applications of Trigonometry"
+  },
+  {
+    "subtopic": "Heights and Distances",
+    "chapterNumber": 9,
+    "chapterName": "Some Applications of Trigonometry"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 9,
+    "chapterName": "Some Applications of Trigonometry"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 10,
+    "chapterName": "Circles"
+  },
+  {
+    "subtopic": "Tangent to a Circle",
+    "chapterNumber": 10,
+    "chapterName": "Circles"
+  },
+  {
+    "subtopic": "Number of Tangents from a Point on a Circle",
+    "chapterNumber": 10,
+    "chapterName": "Circles"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 10,
+    "chapterName": "Circles"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 11,
+    "chapterName": "Constructions"
+  },
+  {
+    "subtopic": "Division of a Line Segment",
+    "chapterNumber": 11,
+    "chapterName": "Constructions"
+  },
+  {
+    "subtopic": "Construction of Tangents to a Circle",
+    "chapterNumber": 11,
+    "chapterName": "Constructions"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 11,
+    "chapterName": "Constructions"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 12,
+    "chapterName": "Areas Related to Circles"
+  },
+  {
+    "subtopic": "Perimeter and Area of a Circle — A Review",
+    "chapterNumber": 12,
+    "chapterName": "Areas Related to Circles"
+  },
+  {
+    "subtopic": "Areas of Sector and Segment of a Circle",
+    "chapterNumber": 12,
+    "chapterName": "Areas Related to Circles"
+  },
+  {
+    "subtopic": "Areas of Combinations of Plane Figures",
+    "chapterNumber": 12,
+    "chapterName": "Areas Related to Circles"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 12,
+    "chapterName": "Areas Related to Circles"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Surface Area of a Combination of Solids",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Volume of a Combination of Solids",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Conversion of Solid from One Shape to Another",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Frustum of a Cone",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 13,
+    "chapterName": "Surface Areas and Volumes"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Mean of Grouped Data",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Mode of Grouped Data",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Median of Grouped Data",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Graphical Representation of Cumulative Frequency Distribution",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 14,
+    "chapterName": "Statistics"
+  },
+  {
+    "subtopic": "Introduction",
+    "chapterNumber": 15,
+    "chapterName": "Probability"
+  },
+  {
+    "subtopic": "Probability — A Theoretical Approach",
+    "chapterNumber": 15,
+    "chapterName": "Probability"
+  },
+  {
+    "subtopic": "Summary",
+    "chapterNumber": 15,
+    "chapterName": "Probability"
+  }
+]
