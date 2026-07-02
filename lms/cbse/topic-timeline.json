@@ -22,7 +22,7 @@
         "subtopic_name": "Distinguishing between decades, centuries, and millennia",
         "year_period": "300,000 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Historians needed standardized time blocks to categorize long spans of human history. Effect: Allowed for easier chronological mapping and comparison of historical eras.",
         "corridor_classroom_position": "Panel 1 – Position 2",
         "display_location": "Classroom 6A (Details)"
       },
@@ -44,7 +44,7 @@
         "subtopic_name": "Tools and their evolution over time",
         "year_period": "300,000 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Early humans needed more efficient ways to hunt, process food, and survive. Effect: Development of sharper tools led to better survival rates and settled agriculture.",
         "corridor_classroom_position": "Panel 1 – Position 4",
         "display_location": "Classroom 6A"
       },
@@ -55,7 +55,7 @@
         "subtopic_name": "Coins and inscriptions as sources",
         "year_period": "600 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rulers issued coins and carved edicts to facilitate trade and project authority. Effect: Provided historians with exact dates, names, and territorial extents of ancient kingdoms.",
         "corridor_classroom_position": "Panel 1 – Position 5",
         "display_location": "Classroom 6A"
       },
@@ -66,7 +66,7 @@
         "subtopic_name": "Manuscripts and their preservation",
         "year_period": "1500 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Need to preserve sacred texts, royal decrees, and literature before the printing press. Effect: Saved ancient knowledge on palm leaves and birch bark for future historians.",
         "corridor_classroom_position": "Panel 1 – Position 6",
         "display_location": "Classroom 6A"
       },
@@ -77,7 +77,7 @@
         "subtopic_name": "Religious and secular texts",
         "year_period": "1500 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Need to record religious laws, epics, and scientific discoveries for society. Effect: Formed the literary and cultural foundation of ancient and medieval India.",
         "corridor_classroom_position": "Panel 1 – Position 7",
         "display_location": "Classroom 6A"
       },
@@ -88,7 +88,7 @@
         "subtopic_name": "Folk tales and songs as history",
         "year_period": "300,000 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Ordinary people lacked formal writing systems to record their lived experiences. Effect: Preserved the culture, struggles, and beliefs of commoners passed down orally.",
         "corridor_classroom_position": "Panel 1 – Position 8",
         "display_location": "Classroom 6A"
       },
@@ -99,7 +99,7 @@
         "subtopic_name": "Oral genealogies and their importance",
         "year_period": "300,000 BCE – present",
         "location": "",
-        "cause_effect": "",
+        "cause_effect": "Cause: Societies without widespread literacy needed to remember their ancestors and lineages. Effect: Maintained tribal histories, social hierarchies, and land rights across generations.",
         "corridor_classroom_position": "Panel 1 – Position 9",
         "display_location": "Classroom 6A"
       },
@@ -143,7 +143,7 @@
         "subtopic_name": "Bhimbetka and other rock shelters",
         "year_period": "c. 30,000 BCE – 10,000 BCE",
         "location": "Bhimbetka, Madhya Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Early humans needed natural refuge from harsh weather and predators. Effect: Preserved prehistoric rock art providing evidence of hunter-gatherer life.",
         "corridor_classroom_position": "Panel 2 – Position 4",
         "display_location": "Classroom 6B (Details)"
       },
@@ -154,7 +154,7 @@
         "subtopic_name": "Invention of the wheel",
         "year_period": "c. 3500 BCE",
         "location": "Mesopotamia (modern Iraq)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Humans needed a more efficient way to transport heavy loads over land. Effect: Revolutionized transport, pottery making, and laid the mechanical foundation for future machinery.",
         "corridor_classroom_position": "Panel 2 – Position 5",
         "display_location": "Classroom 6B"
       },
@@ -176,7 +176,7 @@
         "subtopic_name": "Advanced drainage and water management systems",
         "year_period": "c. 2600 BCE – 1900 BCE",
         "location": "Indus Valley region",
-        "cause_effect": "",
+        "cause_effect": "Cause: Dense urban populations in the Indus Valley required sanitation to prevent disease. Effect: Kept cities highly sanitary and demonstrated the civilization's advanced civic planning.",
         "corridor_classroom_position": "Panel 3 – Position 2",
         "display_location": "Classroom 6C (Details)"
       },
@@ -187,7 +187,7 @@
         "subtopic_name": "Granaries and warehouse structures",
         "year_period": "c. 2600 BCE – 1900 BCE",
         "location": "Harappa and Mohenjo-Daro",
-        "cause_effect": "",
+        "cause_effect": "Cause: Civilizations needed to store surplus agricultural yields for trade and famine. Effect: Ensured food security and enabled centralized taxation in ancient cities.",
         "corridor_classroom_position": "Panel 3 – Position 3",
         "display_location": "Classroom 6C"
       },
@@ -209,7 +209,7 @@
         "subtopic_name": "The Great Bath at Mohenjo-Daro: possible ritual use",
         "year_period": "c. 2500 BCE",
         "location": "Mohenjo-Daro, Sindh, Pakistan",
-        "cause_effect": "",
+        "cause_effect": "Cause: The Harappan culture placed a strong emphasis on water for ritual purity and public gathering. Effect: Suggests a highly organized society where religious or civic rituals were centralized.",
         "corridor_classroom_position": "Panel 3 – Position 5",
         "display_location": "Classroom 6C"
       },
@@ -242,7 +242,7 @@
         "subtopic_name": "Hand-printing (China, Korea, Japan)",
         "year_period": "2nd–15th century CE",
         "location": "China, Korea, Japan",
-        "cause_effect": "",
+        "cause_effect": "Cause: Buddhist monasteries and imperial bureaucrats required massive numbers of texts. Effect: Created a vibrant print culture in East Asia centuries before Europe.",
         "corridor_classroom_position": "Panel 4 – Position 2",
         "display_location": "Classroom 10A (Details)"
       },
@@ -275,7 +275,7 @@
         "subtopic_name": "Early medieval (8th–12th century)",
         "year_period": "8th–12th century",
         "location": "Indian subcontinent",
-        "cause_effect": "",
+        "cause_effect": "Cause: Collapse of large ancient empires like the Guptas into fragmented territories. Effect: Led to the rise of regional kingdoms and distinct regional cultures across India.",
         "corridor_classroom_position": "Panel 5 – Position 3",
         "display_location": "Classroom 7A (Details)"
       },
@@ -297,7 +297,7 @@
         "subtopic_name": "Chera kings and introduction of Malayalam",
         "year_period": "9th–12th century",
         "location": "Kerala, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rulers wanted a distinct regional identity separate from Sanskrit dominance. Effect: Made Malayalam one of the earliest regional languages used in official records.",
         "corridor_classroom_position": "Panel 5 – Position 5",
         "display_location": "Classroom 7B (Details)"
       },
@@ -308,7 +308,7 @@
         "subtopic_name": "Chahamanas (Chauhans) and their expansion",
         "year_period": "11th–12th century",
         "location": "Rajasthan and North India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rajput clans sought to control the strategic trade routes and territories around Delhi and Ajmer. Effect: Created a powerful kingdom that fiercely resisted early Turkish invasions before falling at Tarain.",
         "corridor_classroom_position": "Panel 5 – Position 6",
         "display_location": "Classroom 7A"
       },
@@ -319,7 +319,7 @@
         "subtopic_name": "Achievements in bronze sculpture and agriculture",
         "year_period": "10th–13th century",
         "location": "Tamil Nadu, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Chola kings invested heavily in temple economies and irrigation. Effect: Led to world-class bronze art (Nataraja) and massive agricultural surplus in South India.",
         "corridor_classroom_position": "Panel 5 – Position 7",
         "display_location": "Classroom 7A"
       },
@@ -330,7 +330,7 @@
         "subtopic_name": "Temples at Khajuraho and Konark",
         "year_period": "10th–13th century",
         "location": "Khajuraho (Madhya Pradesh) and Konark (Odisha)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Regional kings built massive temples to demonstrate their wealth, devotion, and power. Effect: Created architectural masterpieces that served as economic centers and royal symbols.",
         "corridor_classroom_position": "Panel 5 – Position 8",
         "display_location": "Classroom 7B"
       },
@@ -363,7 +363,7 @@
         "subtopic_name": "Chronicles and court histories (e.g., Rajatarangini)",
         "year_period": "12th century",
         "location": "Kashmir",
-        "cause_effect": "",
+        "cause_effect": "Cause: Kings commissioned scholars to document their lineages and justify their rule. Effect: Provided historians with chronological accounts of medieval regional politics.",
         "corridor_classroom_position": "Panel 5 – Position 11",
         "display_location": "Classroom 7A"
       },
@@ -374,7 +374,7 @@
         "subtopic_name": "Travelogues of Al-Biruni, Ibn Battuta, and Marco Polo",
         "year_period": "11th–14th century",
         "location": "India, Middle East, Central Asia, Europe",
-        "cause_effect": "",
+        "cause_effect": "Cause: Expanding trade networks and conquests encouraged scholars to explore India. Effect: Left behind vital outsider perspectives on Indian society, trade, and geography.",
         "corridor_classroom_position": "Panel 5 – Position 12",
         "display_location": "Classroom 7A"
       },
@@ -385,7 +385,7 @@
         "subtopic_name": "Nayanars (Shiva devotees)",
         "year_period": "7th–8th century",
         "location": "Tamil Nadu, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rejected rigid caste systems and complex Vedic rituals for personal devotion to Shiva. Effect: Sparked the Bhakti movement in South India, spreading religion through local songs.",
         "corridor_classroom_position": "Panel 6 – Position 1",
         "display_location": "Classroom 7C (Details)"
       },
@@ -396,7 +396,7 @@
         "subtopic_name": "Alvars (Vishnu devotees)",
         "year_period": "7th–8th century",
         "location": "Tamil Nadu, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rejection of rigid caste system and complex rituals. Effect: Popularized the Bhakti movement in the south through Tamil devotional songs.",
         "corridor_classroom_position": "Panel 6 – Position 2",
         "display_location": "Classroom 7C"
       },
@@ -407,7 +407,7 @@
         "subtopic_name": "Shankara's Advaita Vedanta",
         "year_period": "8th century",
         "location": "Kerala/Karnataka, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Shankara sought to unify Hindu philosophy by teaching that the soul (Atman) and ultimate reality (Brahman) are one. Effect: Deeply influenced Hindu theology and led to the establishment of major monastic centers across India.",
         "corridor_classroom_position": "Panel 6 – Position 3",
         "display_location": "Classroom 7C"
       },
@@ -418,7 +418,7 @@
         "subtopic_name": "Composition of devotional hymns (Tevaram, Divya Prabandham)",
         "year_period": "8th–9th century",
         "location": "Tamil Nadu, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Bhakti saints wanted to express devotion in common languages rather than elite Sanskrit. Effect: Democratized religion and preserved local South Indian languages.",
         "corridor_classroom_position": "Panel 6 – Position 4",
         "display_location": "Classroom 7C"
       },
@@ -429,7 +429,7 @@
         "subtopic_name": "Ramanuja's Vishishtadvaita",
         "year_period": "11th–12th century",
         "location": "Tamil Nadu, South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Ramanuja sought to balance Shankara's abstract philosophy with the emotional devotion of the Alvars. Effect: Shaped the North Indian Bhakti movement by arguing that the soul remains distinct even when united with God.",
         "corridor_classroom_position": "Panel 6 – Position 5",
         "display_location": "Classroom 7C"
       },
@@ -440,7 +440,7 @@
         "subtopic_name": "Basavanna and Lingayats",
         "year_period": "12th century",
         "location": "Karnataka, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rebellion against Brahmanical supremacy, temple worship, and caste discrimination. Effect: Created a powerful, egalitarian socio-religious community in Karnataka.",
         "corridor_classroom_position": "Panel 6 – Position 6",
         "display_location": "Classroom 7C"
       },
@@ -451,7 +451,7 @@
         "subtopic_name": "Jnaneshwar and Tukaram",
         "year_period": "13th–17th century",
         "location": "Maharashtra, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Saints sought to bring the teachings of the Bhagavad Gita to ordinary Marathi speakers. Effect: Fostered a strong regional Marathi identity and popular devotional tradition.",
         "corridor_classroom_position": "Panel 6 – Position 7",
         "display_location": "Classroom 7C"
       },
@@ -462,7 +462,7 @@
         "subtopic_name": "Minhaj-i-Siraj's Tabaqat-i-Nasiri",
         "year_period": "13th century",
         "location": "Delhi Sultanate, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Court chroniclers were employed to glorify the achievements of the early Delhi Sultans. Effect: Provided the primary historical source for the early Islamic conquests and the establishment of the Sultanate.",
         "corridor_classroom_position": "Panel 6 – Position 8",
         "display_location": "Classroom 7D (Details)"
       },
@@ -473,7 +473,7 @@
         "subtopic_name": "Delhi as Sultanate and Mughal capital",
         "year_period": "13th–17th century",
         "location": "Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rulers needed a centrally located stronghold to control the northern plains. Effect: Transformed Delhi into a massive cosmopolitan hub of Indo-Islamic culture.",
         "corridor_classroom_position": "Panel 6 – Position 9",
         "display_location": "Classroom 7D"
       },
@@ -484,7 +484,7 @@
         "subtopic_name": "Ahom state in Brahmaputra valley",
         "year_period": "13th–18th century",
         "location": "Assam, Northeast India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Migrants from Myanmar moved into the Brahmaputra valley and absorbed older political systems. Effect: Established a resilient kingdom that successfully repelled Mughal expansion in the northeast for centuries.",
         "corridor_classroom_position": "Panel 6 – Position 10",
         "display_location": "Classroom 7D"
       },
@@ -495,7 +495,7 @@
         "subtopic_name": "Late medieval (13th–18th century)",
         "year_period": "13th–18th century",
         "location": "Indian subcontinent",
-        "cause_effect": "",
+        "cause_effect": "Cause: Arrival of Turkish, Afghan, and Mughal rulers introduced new administrative systems. Effect: Resulted in a synthesis of Indo-Islamic architecture, language, and culture.",
         "corridor_classroom_position": "Panel 6 – Position 11",
         "display_location": "Classroom 7A"
       },
@@ -506,7 +506,7 @@
         "subtopic_name": "Hampi: Vijayanagara ruins",
         "year_period": "14th–16th century",
         "location": "Hampi, Karnataka, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The Vijayanagara empire needed a wealthy, heavily fortified capital to defend against the Deccan Sultanates. Effect: Became one of the richest cities in the world before its destruction, leaving behind massive architectural ruins.",
         "corridor_classroom_position": "Panel 7 – Position 1",
         "display_location": "Classroom 7E (Details)"
       },
@@ -517,7 +517,7 @@
         "subtopic_name": "Gond kingdom of Garha Katanga",
         "year_period": "15th–16th century",
         "location": "Central India (Madhya Pradesh)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Indigenous tribal groups centralized their power by absorbing smaller chiefdoms into a large state. Effect: Created a wealthy kingdom that was eventually targeted and defeated by Mughal forces for its resources.",
         "corridor_classroom_position": "Panel 7 – Position 2",
         "display_location": "Classroom 7D"
       },
@@ -528,7 +528,7 @@
         "subtopic_name": "Kabir's dohas and nirguna bhakti",
         "year_period": "15th century",
         "location": "North India (Varanasi, Punjab)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Kabir rejected the hypocrisy of both orthodox Hinduism and Islam, focusing on a formless, universal God. Effect: Promoted religious harmony and left a legacy of accessible poetry that resonates across multiple faiths today.",
         "corridor_classroom_position": "Panel 7 – Position 3",
         "display_location": "Classroom 7C"
       },
@@ -539,7 +539,7 @@
         "subtopic_name": "Memoirs of Babur (Baburnama)",
         "year_period": "16th century",
         "location": "Central Asia and India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Babur wanted to document his conquests, observations of India, and personal struggles for his descendants. Effect: Gave historians a highly detailed, candid primary source regarding the foundation of the Mughal Empire.",
         "corridor_classroom_position": "Panel 7 – Position 4",
         "display_location": "Classroom 7E"
       },
@@ -550,7 +550,7 @@
         "subtopic_name": "Persian influence on Mughal miniatures",
         "year_period": "16th century",
         "location": "Mughal courts (Delhi, Agra, Lahore)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Mughal emperors brought Persian artists to India to illustrate royal manuscripts. Effect: Created a unique fusion of Persian elegance and Indian realism that defined Mughal art.",
         "corridor_classroom_position": "Panel 7 – Position 5",
         "display_location": "Classroom 7B"
       },
@@ -561,7 +561,7 @@
         "subtopic_name": "Conquest of Americas and silver trade",
         "year_period": "1492–1600 CE",
         "location": "Americas, Spain, Europe, China",
-        "cause_effect": "",
+        "cause_effect": "Cause: European explorers seeking new trade routes to Asia discovered lands rich in unexploited resources and vulnerable populations. Effect: Resulted in the decimation of indigenous populations via disease and the creation of a global trade network funded by looted silver.",
         "corridor_classroom_position": "Panel 7 – Position 6",
         "display_location": "Classroom 10A"
       },
@@ -572,7 +572,7 @@
         "subtopic_name": "Guru Nanak's teachings and Sikhism foundation",
         "year_period": "1469–1539 CE",
         "location": "Punjab region (India and Pakistan)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rejection of caste, idol worship, and empty rituals in favor of equality. Effect: Founded Sikhism and established the langar (community kitchen) system.",
         "corridor_classroom_position": "Panel 7 – Position 7",
         "display_location": "Corridor"
       },
@@ -594,7 +594,7 @@
         "subtopic_name": "Battles of Panipat, Khanwa, and Ghaghra",
         "year_period": "1526–1529 CE",
         "location": "Panipat (Haryana), Khanwa (Rajasthan), Ghaghra (Uttar Pradesh)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Babur used superior artillery and cavalry tactics against traditional Indian armies. Effect: Destroyed the Lodi dynasty and firmly established the Mughal Empire in India.",
         "corridor_classroom_position": "Panel 7 – Position 9",
         "display_location": "Classroom 7E"
       },
@@ -616,7 +616,7 @@
         "subtopic_name": "First printing press in Goa (1556)",
         "year_period": "1556 CE",
         "location": "Goa, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Portuguese Jesuit missionaries wanted a faster way to print religious tracts to convert the local Indian population. Effect: Introduced mechanical printing to the subcontinent, eventually leading to the spread of vernacular literature.",
         "corridor_classroom_position": "Panel 7 – Position 11",
         "display_location": "Classroom 10B (Details)"
       },
@@ -627,7 +627,7 @@
         "subtopic_name": "Expansion under Akbar, Jahangir, and Shah Jahan",
         "year_period": "1556–1658 CE",
         "location": "Indian subcontinent",
-        "cause_effect": "",
+        "cause_effect": "Cause: Emperors used military conquest and marriage alliances to absorb rivals. Effect: Unified most of the Indian subcontinent under a single centralized administration.",
         "corridor_classroom_position": "Panel 7 – Position 12",
         "display_location": "Classroom 7E"
       },
@@ -649,7 +649,7 @@
         "subtopic_name": "Surat: Gateway to Mecca and port of Mughals",
         "year_period": "16th–17th century",
         "location": "Surat, Gujarat, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Surat's geographic position made it the ideal port for Arabian Sea trade and Hajj pilgrimages. Effect: Became the wealthiest port city in Mughal India and the primary target for early European trading companies.",
         "corridor_classroom_position": "Panel 7 – Position 14",
         "display_location": "Classroom 7E"
       },
@@ -660,7 +660,7 @@
         "subtopic_name": "Mughal influence on Kathak",
         "year_period": "16th–17th century",
         "location": "North India (Mughal courts)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Kathak storytellers transitioned from village temples to royal Mughal courts for patronage. Effect: Transformed Kathak into a highly technical, refined classical dance form featuring intricate footwork and Persian costumes.",
         "corridor_classroom_position": "Panel 7 – Position 15",
         "display_location": "Classroom 7B"
       },
@@ -671,7 +671,7 @@
         "subtopic_name": "Temple architecture (terracotta)",
         "year_period": "16th–18th century",
         "location": "Bengal (West Bengal and Bangladesh)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Regional rulers in Bengal lacked stone but wanted to build temples to demonstrate their devotion and power. Effect: Led to the creation of distinctive brick temples covered in intricate terracotta tiles depicting local life and epics.",
         "corridor_classroom_position": "Panel 7 – Position 16",
         "display_location": "Classroom 7B"
       },
@@ -682,7 +682,7 @@
         "subtopic_name": "Before factories: merchant-controlled home production",
         "year_period": "16th–18th century",
         "location": "Europe (especially England)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Urban guilds strictly controlled city manufacturing, forcing merchants to look to rural peasants to produce goods for international markets. Effect: Created a decentralized \"proto-industrial\" network where poor farmers supplemented their income by spinning and weaving at home.",
         "corridor_classroom_position": "Panel 8 – Position 1",
         "display_location": "Classroom 10B"
       },
@@ -693,7 +693,7 @@
         "subtopic_name": "East India Company's charter (1600)",
         "year_period": "1600 CE",
         "location": "London, England",
-        "cause_effect": "",
+        "cause_effect": "Cause: English merchants sought a royal monopoly on the lucrative Eastern spice trade. Effect: Allowed the Company to establish trade posts that eventually conquered India.",
         "corridor_classroom_position": "Panel 8 – Position 2",
         "display_location": "Corridor"
       },
@@ -704,7 +704,7 @@
         "subtopic_name": "Surat, Madras, Bombay, Calcutta settlements",
         "year_period": "1612–1690 CE",
         "location": "Surat, Madras, Bombay, Calcutta",
-        "cause_effect": "",
+        "cause_effect": "Cause: The EIC needed fortified coastal bases to export textiles and protect themselves from European rivals. Effect: These small trading posts grew into massive colonial cities that became the centers of British power.",
         "corridor_classroom_position": "Panel 8 – Position 3",
         "display_location": "Classroom 8A (Details)"
       },
@@ -715,7 +715,7 @@
         "subtopic_name": "Masulipatnam: Dutch and English factories",
         "year_period": "17th century",
         "location": "Masulipatnam, Andhra Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: European companies needed a stronghold to trade Indian textiles for Southeast Asian spices. Effect: Became a heavily contested trading hub fueling fierce European economic rivalry.",
         "corridor_classroom_position": "Panel 8 – Position 4",
         "display_location": "Classroom 7E"
       },
@@ -726,7 +726,7 @@
         "subtopic_name": "Red Fort and Agra Fort",
         "year_period": "17th century",
         "location": "Delhi and Agra, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Mughal emperors built massive stone fortresses to project their imperial power. Effect: Left behind enduring symbols of grandeur used for modern Indian state ceremonies.",
         "corridor_classroom_position": "Panel 8 – Position 5",
         "display_location": "Classroom 7E"
       },
@@ -737,7 +737,7 @@
         "subtopic_name": "Rajasthan and Pahari schools",
         "year_period": "17th–18th century",
         "location": "Rajasthan and Himachal Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Decline of the central Mughal court forced artists to migrate to regional kingdoms. Effect: Developed vibrant new styles of miniature painting focused on Hindu mythology.",
         "corridor_classroom_position": "Panel 8 – Position 6",
         "display_location": "Classroom 7B"
       },
@@ -748,7 +748,7 @@
         "subtopic_name": "Rise of Marathas, Sikhs, and Jats",
         "year_period": "17th–18th century",
         "location": "Western India, Punjab, North India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rebellion against heavy Mughal taxation and Aurangzeb's orthodox religious policies. Effect: Severely weakened the Mughal Empire and carved out powerful independent states.",
         "corridor_classroom_position": "Panel 8 – Position 7",
         "display_location": "Classroom 7A"
       },
@@ -759,7 +759,7 @@
         "subtopic_name": "Aurangzeb's long wars and empty treasury",
         "year_period": "1680–1707 CE",
         "location": "Deccan and South India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Aurangzeb spent decades in the Deccan trying to crush the Marathas and rebel Sultanates. Effect: Bankrupted the Mughal treasury, exhausted the army, and ultimately led to the empire's collapse.",
         "corridor_classroom_position": "Panel 8 – Position 8",
         "display_location": "Classroom 7E"
       },
@@ -770,7 +770,7 @@
         "subtopic_name": "Khalsa and Dal Khalsa under Guru Gobind Singh",
         "year_period": "1699 CE",
         "location": "Punjab region",
-        "cause_effect": "",
+        "cause_effect": "Cause: The Sikh community faced severe persecution and execution of their leaders by the Mughal state. Effect: Transformed the Sikhs into a heavily armed, disciplined political and military brotherhood.",
         "corridor_classroom_position": "Panel 8 – Position 9",
         "display_location": "Classroom 7F (Details)"
       },
@@ -781,7 +781,7 @@
         "subtopic_name": "Raja Sawai Jai Singh of Jaipur",
         "year_period": "1699–1743 CE",
         "location": "Jaipur, Rajasthan, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: As central Mughal authority faded, skilled Rajput governors consolidated their own regional power. Effect: Built the city of Jaipur and constructed advanced astronomical observatories (Jantar Mantar).",
         "corridor_classroom_position": "Panel 8 – Position 10",
         "display_location": "Classroom 7F"
       },
@@ -792,7 +792,7 @@
         "subtopic_name": "Bengal under Murshid Quli Khan",
         "year_period": "1717 CE",
         "location": "Bengal (Murshidabad)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Weakening of the central Mughal emperor allowed the provincial governor to break away. Effect: Created a highly prosperous, practically independent state in Bengal.",
         "corridor_classroom_position": "Panel 8 – Position 11",
         "display_location": "Classroom 7F"
       },
@@ -803,7 +803,7 @@
         "subtopic_name": "Awadh under Burhan-ul-Mulk",
         "year_period": "1722 CE",
         "location": "Awadh (Lucknow, Uttar Pradesh)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Decline of central Mughal authority allowed provincial governors to assert independence. Effect: Established a wealthy, independent regional kingdom in Awadh.",
         "corridor_classroom_position": "Panel 8 – Position 12",
         "display_location": "Classroom 7F"
       },
@@ -814,7 +814,7 @@
         "subtopic_name": "Hyderabad under Nizam-ul-Mulk",
         "year_period": "1724 CE",
         "location": "Hyderabad, Telangana, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: A powerful Mughal noble broke away from the weakening central empire. Effect: Established the wealthy and powerful independent state of Hyderabad in the Deccan.",
         "corridor_classroom_position": "Panel 8 – Position 13",
         "display_location": "Classroom 7F"
       },
@@ -836,7 +836,7 @@
         "subtopic_name": "Orientalists: William Jones (support for Indian learning)",
         "year_period": "1746–1794 CE",
         "location": "Calcutta (Kolkata), India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Believed understanding ancient Indian texts was essential to ruling India effectively. Effect: Led to translations of Sanskrit classics and the founding of the Asiatic Society.",
         "corridor_classroom_position": "Panel 8 – Position 15",
         "display_location": "Classroom 8B (Details)"
       },
@@ -869,7 +869,7 @@
         "subtopic_name": "Anglicists: James Mill and Macaulay (promotion of English)",
         "year_period": "1773–1859 CE",
         "location": "British India and England",
-        "cause_effect": "",
+        "cause_effect": "Cause: Belief that Indian learning was unscientific and English would create loyal clerks. Effect: Passed the 1835 Education Act, making English the medium of higher education.",
         "corridor_classroom_position": "Panel 8 – Position 18",
         "display_location": "Classroom 8B"
       },
@@ -891,7 +891,7 @@
         "subtopic_name": "Lord Wellesley's policy and terms",
         "year_period": "1798–1805 CE",
         "location": "Indian princely states",
-        "cause_effect": "",
+        "cause_effect": "Cause: British wanted to neutralize Indian rivals and expand their military presence. Effect: Forced Subsidiary Alliances that stripped Indian princes of their independence.",
         "corridor_classroom_position": "Panel 8 – Position 20",
         "display_location": "Classroom 8A"
       },
@@ -913,7 +913,7 @@
         "subtopic_name": "Baptist missionaries in Serampore",
         "year_period": "1800 CE",
         "location": "Serampore, West Bengal, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Desire to translate the Bible into Indian languages to spread Christianity. Effect: Established the first vernacular printing presses, sparking a print revolution in Bengal.",
         "corridor_classroom_position": "Panel 9 – Position 2",
         "display_location": "Classroom 10B"
       },
@@ -935,7 +935,7 @@
         "subtopic_name": "Three periods: Hindu, Muslim, British",
         "year_period": "1817 CE",
         "location": "England",
-        "cause_effect": "",
+        "cause_effect": "Cause: James Mill sought to justify British rule by portraying pre-British India as a dark age. Effect: Created a flawed, communally divided view of Indian history that influenced policy.",
         "corridor_classroom_position": "Panel 9 – Position 4",
         "display_location": "Classroom 8B"
       },
@@ -957,7 +957,7 @@
         "subtopic_name": "Thomas Munro's system in Madras and Bombay",
         "year_period": "1820s CE",
         "location": "Madras and Bombay Presidencies",
-        "cause_effect": "",
+        "cause_effect": "Cause: British found no traditional zamindars in the south and taxed peasants directly. Effect: Placed massive tax burdens directly on farmers, often leading to severe debt.",
         "corridor_classroom_position": "Panel 9 – Position 6",
         "display_location": "Classroom 8C (Details)"
       },
@@ -968,7 +968,7 @@
         "subtopic_name": "Holt Mackenzie's system in North-West Provinces",
         "year_period": "1822 CE",
         "location": "North-Western Provinces (Uttar Pradesh, parts of Punjab)",
-        "cause_effect": "",
+        "cause_effect": "Cause: British recognized the village (mahal) as the core social unit in North India. Effect: Made village headmen responsible for tax collection, altering traditional dynamics.",
         "corridor_classroom_position": "Panel 9 – Position 7",
         "display_location": "Classroom 8C"
       },
@@ -979,7 +979,7 @@
         "subtopic_name": "English as medium of instruction",
         "year_period": "1835 CE",
         "location": "British India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Thomas Macaulay argued that teaching English would create a class of Indians who were \"British in taste and intellect.\" Effect: Created an English-speaking elite who dominated government jobs but also used the language to unite a national movement.",
         "corridor_classroom_position": "Panel 9 – Position 8",
         "display_location": "Classroom 8B"
       },
@@ -990,7 +990,7 @@
         "subtopic_name": "Anglo-Sikh wars and annexation of Punjab",
         "year_period": "1845–1849 CE",
         "location": "Punjab region",
-        "cause_effect": "",
+        "cause_effect": "Cause: The death of Maharaja Ranjit Singh left Punjab unstable, prompting the British to attack the last major independent state. Effect: Resulted in the complete annexation of Punjab and the absorption of the Sikh army into the British military.",
         "corridor_classroom_position": "Panel 9 – Position 9",
         "display_location": "Classroom 8A"
       },
@@ -1001,7 +1001,7 @@
         "subtopic_name": "Annexation of Satara, Jhansi, Nagpur",
         "year_period": "1848–1854 CE",
         "location": "Satara, Jhansi, Nagpur",
-        "cause_effect": "",
+        "cause_effect": "Cause: Lord Dalhousie ruthlessly applied the Doctrine of Lapse to absorb wealthy states without recognized male heirs. Effect: Stripped royal families of their titles and pensions, breeding deep resentment that fueled the 1857 rebellion.",
         "corridor_classroom_position": "Panel 9 – Position 10",
         "display_location": "Classroom 8A"
       },
@@ -1012,7 +1012,7 @@
         "subtopic_name": "Doctrine of Lapse annexations",
         "year_period": "1848–1856 CE",
         "location": "Indian princely states",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British wanted a pseudo-legal excuse to annex Indian kingdoms and maximize their territorial revenue. Effect: Erased the traditional Hindu right of adoption for rulers, terrifying the Indian aristocracy.",
         "corridor_classroom_position": "Panel 9 – Position 11",
         "display_location": "Corridor"
       },
@@ -1023,7 +1023,7 @@
         "subtopic_name": "Bethune School (Calcutta)",
         "year_period": "1849 CE",
         "location": "Calcutta (Kolkata), India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Reformers realized that educating women was the only way to eradicate social evils like child marriage. Effect: Became the first secular school for girls in India, paving the way for female participation in public life.",
         "corridor_classroom_position": "Panel 9 – Position 12",
         "display_location": "Classroom 8D (Details)"
       },
@@ -1034,7 +1034,7 @@
         "subtopic_name": "Wood's Despatch (1854) and university establishment",
         "year_period": "1854 CE",
         "location": "British India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British wanted to standardize a complete educational hierarchy from primary schools to universities to produce clerks. Effect: Laid the foundation for the modern Indian education system but heavily prioritized European learning over indigenous knowledge.",
         "corridor_classroom_position": "Panel 9 – Position 13",
         "display_location": "Classroom 8B"
       },
@@ -1045,7 +1045,7 @@
         "subtopic_name": "Santhal rebellion (1855) under Sidhu and Kanhu",
         "year_period": "1855 CE",
         "location": "Santhal Pargana (Jharkhand, Bihar)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Tribal farmers were pushed off their lands by corrupt zamindars, moneylenders, and heavy British taxes. Effect: Forced the British to create a special administrative zone (Santhal Pargana) to pacify the region.",
         "corridor_classroom_position": "Panel 9 – Position 14",
         "display_location": "Classroom 8E (Details)"
       },
@@ -1067,7 +1067,7 @@
         "subtopic_name": "Calcutta, Bombay, Madras universities",
         "year_period": "1857 CE",
         "location": "Calcutta, Bombay, Madras",
-        "cause_effect": "",
+        "cause_effect": "Cause: Wood's Despatch recommended establishing higher education institutions modeled on London University. Effect: Produced the first generation of modern Indian lawyers, doctors, and political leaders who eventually challenged British rule.",
         "corridor_classroom_position": "Panel 9 – Position 16",
         "display_location": "Classroom 8B"
       },
@@ -1078,7 +1078,7 @@
         "subtopic_name": "Disobedience and revolt of sepoys in Meerut",
         "year_period": "10 May 1857 CE",
         "location": "Meerut, Uttar Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Anger over new rifle cartridges rumored to be greased with animal fat. Effect: Ignited a massive, widespread uprising across North India against British rule.",
         "corridor_classroom_position": "Panel 9 – Position 17",
         "display_location": "Classroom 8F (Details)"
       },
@@ -1100,7 +1100,7 @@
         "subtopic_name": "Reorganization of army and policies toward princes",
         "year_period": "1858 CE",
         "location": "British India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The 1857 rebellion made the British realize they could not trust high-caste Hindu sepoys. Effect: Shifted recruitment to 'martial races' and guaranteed the titles of loyal princes.",
         "corridor_classroom_position": "Panel 9 – Position 19",
         "display_location": "Classroom 8F"
       },
@@ -1111,7 +1111,7 @@
         "subtopic_name": "British Crown's direct rule (Queen's Proclamation)",
         "year_period": "1 November 1858 CE",
         "location": "Allahabad, Uttar Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British government blamed the East India Company's mismanagement for the catastrophic 1857 rebellion. Effect: Abolished the EIC completely and transferred direct control of India to Queen Victoria and the British Parliament.",
         "corridor_classroom_position": "Panel 9 – Position 20",
         "display_location": "Corridor"
       },
@@ -1177,7 +1177,7 @@
         "subtopic_name": "Indian National Congress (1885) foundation",
         "year_period": "1885 CE",
         "location": "Bombay (Mumbai), India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Educated Indians wanted a unified political platform to request a share in government. Effect: Birthed the organization that eventually led the successful mass independence movement.",
         "corridor_classroom_position": "Panel 10 – Position 1",
         "display_location": "Corridor"
       },
@@ -1188,7 +1188,7 @@
         "subtopic_name": "Saminist movement (Surontiko Samin)",
         "year_period": "1890–1907 CE",
         "location": "Java, Dutch East Indies (Indonesia)",
-        "cause_effect": "",
+        "cause_effect": "Cause: Dutch colonialists in Java claimed state ownership of forests and forced villagers to provide free labor for logging. Effect: Led by Surontiko Samin, villagers protested by lying down on their land and refusing to pay taxes or provide labor.",
         "corridor_classroom_position": "Panel 10 – Position 2",
         "display_location": "Classroom 9A (Details)"
       },
@@ -1199,7 +1199,7 @@
         "subtopic_name": "Establishment of National Archives of India",
         "year_period": "1891 CE",
         "location": "New Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British administration had an obsessive need to record, classify, and store every official document and survey. Effect: Created a massive centralized repository that serves as the primary source for modern historians studying colonial India.",
         "corridor_classroom_position": "Panel 10 – Position 3",
         "display_location": "Classroom 8B"
       },
@@ -1210,7 +1210,7 @@
         "subtopic_name": "Swami Vivekananda and Ramakrishna Mission",
         "year_period": "1897 CE",
         "location": "Belur Math, West Bengal, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Desire to combine the spiritual ideals of Vedanta with modern social service. Effect: Revitalized Hindu pride globally and established a vast network of relief organizations.",
         "corridor_classroom_position": "Panel 10 – Position 4",
         "display_location": "Classroom 8D"
       },
@@ -1232,7 +1232,7 @@
         "subtopic_name": "Bloody Sunday (9 Jan 1905)",
         "year_period": "9 January 1905 CE",
         "location": "St. Petersburg, Russia",
-        "cause_effect": "",
+        "cause_effect": "Cause: Peaceful workers marched to the Tsar's palace petitioning for better wages. Effect: Tsar's guards fired on the crowd, sparking widespread strikes across Russia.",
         "corridor_classroom_position": "Panel 10 – Position 6",
         "display_location": "Classroom 9B (Details)"
       },
@@ -1254,7 +1254,7 @@
         "subtopic_name": "Swadeshi and Boycott movements",
         "year_period": "1905–1908 CE",
         "location": "Bengal, later all India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Nationalists used economic boycotts as a political weapon to punish British trade and foster self-reliance. Effect: Devastated British textile imports and massively boosted the profits and expansion of indigenous Indian industries.",
         "corridor_classroom_position": "Panel 10 – Position 8",
         "display_location": "Classroom 8G (Details)"
       },
@@ -1265,7 +1265,7 @@
         "subtopic_name": "Formation of Duma (parliament)",
         "year_period": "1906 CE",
         "location": "St. Petersburg, Russia",
-        "cause_effect": "",
+        "cause_effect": "Cause: The overwhelming public backlash and general strikes following Bloody Sunday terrified Tsar Nicholas II. Effect: The Tsar briefly allowed a consultative parliament but continually dismissed it to maintain his autocratic power.",
         "corridor_classroom_position": "Panel 10 – Position 9",
         "display_location": "Classroom 9B"
       },
@@ -1276,7 +1276,7 @@
         "subtopic_name": "Bastar rebellion (1910)",
         "year_period": "1910 CE",
         "location": "Bastar, Chhattisgarh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British banned shifting cultivation, hunting, and foraging, effectively locking tribals out of their ancestral forests. Effect: Forced the British to temporarily suspend their forest reservation policies, though the rebellion was brutally crushed.",
         "corridor_classroom_position": "Panel 10 – Position 10",
         "display_location": "Classroom 8E"
       },
@@ -1287,7 +1287,7 @@
         "subtopic_name": "Suppression and aftermath",
         "year_period": "1910 CE",
         "location": "Bastar, Chhattisgarh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: British used overwhelming military force to crush tribal uprisings in Bastar. Effect: Thousands of tribals were killed or displaced, silencing resistance for decades.",
         "corridor_classroom_position": "Panel 10 – Position 11",
         "display_location": "Classroom 9A"
       },
@@ -1298,7 +1298,7 @@
         "subtopic_name": "Champaran (1917): indigo peasants",
         "year_period": "1917 CE",
         "location": "Champaran, Bihar, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: European planters forced peasants to grow indigo under oppressive conditions without fair payment. Effect: Marked Gandhi's first successful use of Satyagraha in India, forcing the British to abolish the exploitative system.",
         "corridor_classroom_position": "Panel 10 – Position 12",
         "display_location": "Classroom 8G"
       },
@@ -1309,7 +1309,7 @@
         "subtopic_name": "Ahmedabad (1918): mill workers",
         "year_period": "1918 CE",
         "location": "Ahmedabad, Gujarat, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Mill owners refused to pay a promised plague bonus to workers struggling with severe wartime inflation. Effect: Gandhi organized a successful hunger strike, securing a 35% wage increase and proving the power of non-violent labor protests.",
         "corridor_classroom_position": "Panel 10 – Position 13",
         "display_location": "Classroom 8G"
       },
@@ -1320,7 +1320,7 @@
         "subtopic_name": "Kheda (1918): tax relief for peasants",
         "year_period": "1918 CE",
         "location": "Kheda, Gujarat, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Crop failures and a plague epidemic left peasants entirely unable to pay the mandatory British land taxes. Effect: Gandhi and Patel led a successful tax boycott, forcing the government to suspend revenue collection for the year.",
         "corridor_classroom_position": "Panel 10 – Position 14",
         "display_location": "Classroom 8G"
       },
@@ -1342,7 +1342,7 @@
         "subtopic_name": "Rowlatt Act (1919) and Satyagraha",
         "year_period": "18 March 1919 CE",
         "location": "British India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British government wanted to maintain wartime emergency powers to crush growing nationalist dissent without a trial. Effect: Sparked nationwide outrage, leading to Gandhi's first all-India Satyagraha and the tragic Jallianwala Bagh massacre.",
         "corridor_classroom_position": "Panel 10 – Position 16",
         "display_location": "Classroom 10D (Details)"
       },
@@ -1364,7 +1364,7 @@
         "subtopic_name": "Hunter Commission and public outrage",
         "year_period": "1919–1920 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Global and domestic fury over General Dyer's slaughter of unarmed civilians at Jallianwala Bagh forced the British to investigate. Effect: The commission softly censured Dyer but failed to punish him, further alienating Indians from British justice.",
         "corridor_classroom_position": "Panel 10 – Position 19",
         "display_location": "Classroom 10D"
       },
@@ -1375,7 +1375,7 @@
         "subtopic_name": "Khilafat issue (Turkey's Caliph)",
         "year_period": "1919–1924 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Defeat of the Ottoman Empire in WWI threatened the spiritual authority of the Caliph. Effect: Prompted Indian Muslims to launch the Khilafat movement, allied with Gandhi.",
         "corridor_classroom_position": "Panel 10 – Position 20",
         "display_location": "Classroom 10D"
       },
@@ -1386,7 +1386,7 @@
         "subtopic_name": "Khilafat issue and Gandhi's leadership",
         "year_period": "1920–1922 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Gandhi saw an opportunity to unite Hindus and Muslims against the British. Effect: Created an unprecedented unified mass movement during Non-Cooperation.",
         "corridor_classroom_position": "Panel 10 – Position 21",
         "display_location": "Classroom 8G"
       },
@@ -1408,7 +1408,7 @@
         "subtopic_name": "Chauri Chaura incident and withdrawal",
         "year_period": "5 February 1922 CE",
         "location": "Chauri Chaura, Uttar Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: A peaceful protest turned violent when police fired on the crowd, prompting the mob to burn a police station, killing 22 officers. Effect: Caused Gandhi, who was strictly committed to non-violence, to abruptly call off the entire Non-Cooperation Movement.",
         "corridor_classroom_position": "Panel 10 – Position 23",
         "display_location": "Classroom 8G"
       },
@@ -1419,7 +1419,7 @@
         "subtopic_name": "Withdrawal after Chauri Chaura (1922)",
         "year_period": "5 February 1922 CE",
         "location": "Chauri Chaura, Uttar Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: A violent mob burned a police station and killed 22 policemen, violating Gandhi's strict rule of non-violence. Effect: Halted the massive Non-Cooperation Movement in its tracks, frustrating many young leaders who later turned to revolutionary nationalism.",
         "corridor_classroom_position": "Panel 10 – Position 24",
         "display_location": "Classroom 10D"
       },
@@ -1430,7 +1430,7 @@
         "subtopic_name": "Tribals: Alluri Sitarama Raju and Rampa rebellion",
         "year_period": "1922–1924 CE",
         "location": "Andhra Pradesh, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: British forest policies threatened the survival of tribal communities in the Godavari hills. Effect: Sparked a fierce guerrilla war that required massive British military force to suppress.",
         "corridor_classroom_position": "Panel 10 – Position 25",
         "display_location": "Classroom 10D"
       },
@@ -1441,7 +1441,7 @@
         "subtopic_name": "Weimar Republic's economic crisis (hyperinflation)",
         "year_period": "1923 CE",
         "location": "Germany",
-        "cause_effect": "",
+        "cause_effect": "Cause: Germany printed massive amounts of unbacked currency to pay war reparations. Effect: Caused catastrophic hyperinflation that wiped out the savings of the middle class.",
         "corridor_classroom_position": "Panel 10 – Position 26",
         "display_location": "Classroom 9D (Details)"
       },
@@ -1452,7 +1452,7 @@
         "subtopic_name": "Beer Hall Putsch (1923) and Mein Kampf",
         "year_period": "8–9 November 1923 CE",
         "location": "Munich, Germany",
-        "cause_effect": "",
+        "cause_effect": "Cause: Hitler attempted to violently overthrow the Weimar government in Munich. Effect: Failed coup led to his imprisonment, where he wrote his manifesto 'Mein Kampf'.",
         "corridor_classroom_position": "Panel 10 – Position 27",
         "display_location": "Classroom 9D"
       },
@@ -1463,7 +1463,7 @@
         "subtopic_name": "Mahad Satyagraha (1927) for temple entry and water rights",
         "year_period": "1927 CE",
         "location": "Mahad, Maharashtra, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Dr. B.R. Ambedkar wanted to physically challenge the untouchability laws that barred Dalits from using public water tanks. Effect: Galvanized the Dalit rights movement and publicly asserted that public spaces belonged equally to all castes.",
         "corridor_classroom_position": "Panel 10 – Position 28",
         "display_location": "Classroom 8D"
       },
@@ -1474,7 +1474,7 @@
         "subtopic_name": "Lahore Congress (1929): Purna Swaraj",
         "year_period": "31 December 1929 CE",
         "location": "Lahore (now Pakistan)",
-        "cause_effect": "",
+        "cause_effect": "Cause: British refusal to grant Dominion Status convinced young leaders to demand full freedom. Effect: Congress officially declared Complete Independence and authorized Civil Disobedience.",
         "corridor_classroom_position": "Panel 10 – Position 29",
         "display_location": "Classroom 10D"
       },
@@ -1496,7 +1496,7 @@
         "subtopic_name": "Dandi March and Salt Satyagraha (1930)",
         "year_period": "12 March – 6 April 1930 CE",
         "location": "Sabarmati Ashram to Dandi, Gujarat, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: British imposed a strict monopoly and heavy tax on essential salt. Effect: Sparked the massive Civil Disobedience Movement, drawing global attention to British injustice.",
         "corridor_classroom_position": "Panel 10 – Position 31",
         "display_location": "Classroom 8G"
       },
@@ -1507,7 +1507,7 @@
         "subtopic_name": "Gandhi-Irwin Pact and Round Table Conferences",
         "year_period": "1931 CE",
         "location": "London, England",
-        "cause_effect": "",
+        "cause_effect": "Cause: The economic damage of the Salt Satyagraha and global pressure forced the British Viceroy to seek a compromise with Gandhi. Effect: Congress suspended the movement, and the British agreed to release political prisoners and allow coastal villagers to make salt.",
         "corridor_classroom_position": "Panel 10 – Position 32",
         "display_location": "Classroom 8G"
       },
@@ -1518,7 +1518,7 @@
         "subtopic_name": "Gandhi-Irwin Pact (1931) and movement end",
         "year_period": "5 March 1931 CE",
         "location": "Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The economic damage of the Salt Satyagraha and global pressure forced the British Viceroy to seek a compromise with Gandhi. Effect: Congress suspended the movement, and the British agreed to release political prisoners and allow coastal villagers to make salt.",
         "corridor_classroom_position": "Panel 10 – Position 33",
         "display_location": "Classroom 10D"
       },
@@ -1529,7 +1529,7 @@
         "subtopic_name": "Poona Pact (1932) and reserved seats",
         "year_period": "1932 CE",
         "location": "Poona (Pune), Maharashtra, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British offered separate electorates for Dalits, which Gandhi fasted against, fearing it would divide Hindu society permanently. Effect: Ambedkar compromised, dropping the demand for separate electorates in exchange for reserved seats for Dalits in the general legislature.",
         "corridor_classroom_position": "Panel 10 – Position 34",
         "display_location": "Classroom 8D"
       },
@@ -1551,7 +1551,7 @@
         "subtopic_name": "Anti-Semitism and Nuremberg Laws (1935)",
         "year_period": "15 September 1935 CE",
         "location": "Nuremberg, Germany",
-        "cause_effect": "",
+        "cause_effect": "Cause: Nazi ideology aimed to create a 'pure Aryan' state by targeting Jews. Effect: Stripped German Jews of citizenship and legalized widespread discrimination.",
         "corridor_classroom_position": "Panel 10 – Position 36",
         "display_location": "Classroom 9D"
       },
@@ -1562,7 +1562,7 @@
         "subtopic_name": "Kristallnacht (1938)",
         "year_period": "9–10 November 1938 CE",
         "location": "Nazi Germany",
-        "cause_effect": "",
+        "cause_effect": "Cause: A minor assassination by a Jewish teenager in Paris was used by Nazi propaganda as an excuse to launch state-sponsored terror. Effect: Resulted in the organized destruction of thousands of Jewish homes, businesses, and synagogues across Germany.",
         "corridor_classroom_position": "Panel 10 – Position 37",
         "display_location": "Classroom 9D"
       },
@@ -1573,7 +1573,7 @@
         "subtopic_name": "World War II (1939-45)",
         "year_period": "1 September 1939 – 2 September 1945 CE",
         "location": "Europe, Asia, Africa, Pacific",
-        "cause_effect": "",
+        "cause_effect": "Cause: Hitler's aggressive expansionism and sudden invasion of Poland forced Britain and France to finally declare war. Effect: Resulted in the deaths of over 70 million people, the Holocaust, and the dawn of the nuclear age.",
         "corridor_classroom_position": "Panel 10 – Position 38",
         "display_location": "Classroom 9D"
       },
@@ -1584,7 +1584,7 @@
         "subtopic_name": "Failure of Cripps Mission (1942)",
         "year_period": "March 1942 CE",
         "location": "New Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British offered India vague promises of future autonomy in desperate exchange for Indian support in WWII. Effect: Congress flatly rejected the offer as a \"post-dated cheque,\" leading directly to the massive Quit India movement.",
         "corridor_classroom_position": "Panel 10 – Position 39",
         "display_location": "Classroom 10D"
       },
@@ -1595,7 +1595,7 @@
         "subtopic_name": "'Do or Die' speech and mass protests",
         "year_period": "8 August 1942 CE",
         "location": "Mumbai (Bombay), India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Failure of British promises during WWII and threat of invasion. Effect: Launched the Quit India Movement, causing massive uprisings across India.",
         "corridor_classroom_position": "Panel 10 – Position 40",
         "display_location": "Classroom 8G"
       },
@@ -1617,7 +1617,7 @@
         "subtopic_name": "Underground activities and parallel governments",
         "year_period": "1942–1944 CE",
         "location": "Various parts of India (Ballia, Tamluk, Satara)",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British immediately arrested all top Congress leaders on the first night of the Quit India movement. Effect: Forced younger leaders (like Aruna Asaf Ali) to run secret radio stations and establish independent parallel governments in rural areas.",
         "corridor_classroom_position": "Panel 10 – Position 42",
         "display_location": "Classroom 8G"
       },
@@ -1628,7 +1628,7 @@
         "subtopic_name": "Massive repression and underground activities",
         "year_period": "1942–1944 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: The British immediately arrested all top Congress leaders on the first night of the Quit India movement. Effect: Forced younger leaders (like Aruna Asaf Ali) to run secret radio stations and establish independent parallel governments in rural areas.",
         "corridor_classroom_position": "Panel 10 – Position 43",
         "display_location": "Classroom 10D"
       },
@@ -1639,7 +1639,7 @@
         "subtopic_name": "Formation of Azad Hind Fauj (1943)",
         "year_period": "1943 CE",
         "location": "Singapore",
-        "cause_effect": "",
+        "cause_effect": "Cause: Subhas Chandra Bose believed that only an armed military invasion, backed by foreign powers, could expel the British. Effect: Created a massive psychological threat to the British and inspired a wave of patriotism when the soldiers were later put on trial.",
         "corridor_classroom_position": "Panel 10 – Position 44",
         "display_location": "Classroom 8G"
       },
@@ -1650,7 +1650,7 @@
         "subtopic_name": "Bretton Woods system (IMF, World Bank)",
         "year_period": "1944 CE",
         "location": "Bretton Woods, New Hampshire, USA",
-        "cause_effect": "",
+        "cause_effect": "Cause: Allied nations wanted to rebuild the shattered post-WWII global economy and prevent another Great Depression. Effect: Established the IMF and World Bank, creating a stable, dollar-backed financial system that dominated the late 20th century.",
         "corridor_classroom_position": "Panel 10 – Position 45",
         "display_location": "Classroom 10A"
       },
@@ -1672,7 +1672,7 @@
         "subtopic_name": "INA trials and naval mutiny (1946)",
         "year_period": "1946 CE",
         "location": "Red Fort, Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: British attempt to try INA soldiers for treason sparked immense public fury. Effect: Convinced the British they could no longer rely on the loyalty of the Indian armed forces.",
         "corridor_classroom_position": "Panel 10 – Position 47",
         "display_location": "Classroom 8G"
       },
@@ -1683,7 +1683,7 @@
         "subtopic_name": "Mountbatten Plan (June 1947)",
         "year_period": "3 June 1947 CE",
         "location": "New Delhi, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Communal violence was spiraling out of control, and the Muslim League absolutely refused to accept a united India. Effect: Finalized the immediate partition of the subcontinent into the independent nations of India and Pakistan.",
         "corridor_classroom_position": "Panel 10 – Position 48",
         "display_location": "Classroom 8G"
       },
@@ -1705,7 +1705,7 @@
         "subtopic_name": "India's independence (15 August 1947)",
         "year_period": "15 August 1947 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Decades of mass protests and post-war British weakness made colonial rule impossible. Effect: Ended 200 years of British rule but was accompanied by the tragic partition.",
         "corridor_classroom_position": "Panel 10 – Position 50",
         "display_location": "Corridor"
       },
@@ -1727,7 +1727,7 @@
         "subtopic_name": "Great Fear in the countryside",
         "year_period": "July–August 1789 CE",
         "location": "Rural France",
-        "cause_effect": "",
+        "cause_effect": "Cause: Rumors spread that French nobles had hired brigands to destroy peasant crops. Effect: Peasants preemptively attacked chateaux and destroyed the rural feudal system.",
         "corridor_classroom_position": "Panel 10 – Position 52",
         "display_location": "Classroom 9C (Details)"
       },
@@ -1749,7 +1749,7 @@
         "subtopic_name": "Women's march to Versailles",
         "year_period": "5 October 1789 CE",
         "location": "Paris to Versailles, France",
-        "cause_effect": "",
+        "cause_effect": "Cause: Severe bread shortages and skyrocketing prices left the working women of Paris unable to feed their families. Effect: A massive armed crowd of women forced the King and his family to move from Versailles back to Paris under their watch.",
         "corridor_classroom_position": "Panel 10 – Position 54",
         "display_location": "Classroom 9C"
       },
@@ -1760,7 +1760,7 @@
         "subtopic_name": "Olympe de Gouges and Declaration of Rights of Women",
         "year_period": "1791 CE",
         "location": "France",
-        "cause_effect": "",
+        "cause_effect": "Cause: She was outraged that the new French Constitution and Declaration of Rights completely excluded women from citizenship. Effect: She wrote a feminist declaration of rights, but was eventually executed by the radical Jacobins for her outspoken views.",
         "corridor_classroom_position": "Panel 10 – Position 55",
         "display_location": "Classroom 9C"
       },
@@ -1782,7 +1782,7 @@
         "subtopic_name": "Reign of Terror under Robespierre",
         "year_period": "1793–1794 CE",
         "location": "France",
-        "cause_effect": "",
+        "cause_effect": "Cause: Robespierre and the Jacobins became paranoid about foreign spies, royalist traitors, and internal political rivals. Effect: Led to the execution of over 16,000 people by guillotine, ultimately causing the public to turn against Robespierre himself.",
         "corridor_classroom_position": "Panel 10 – Position 57",
         "display_location": "Classroom 9C"
       },
@@ -1793,7 +1793,7 @@
         "subtopic_name": "Directory and political instability",
         "year_period": "1795–1799 CE",
         "location": "France",
-        "cause_effect": "",
+        "cause_effect": "Cause: Fall of the Jacobins led wealthier classes to create a weak executive council. Effect: Political chaos paved the way for Napoleon Bonaparte to seize power.",
         "corridor_classroom_position": "Panel 10 – Position 58",
         "display_location": "Classroom 9C"
       },
@@ -1815,7 +1815,7 @@
         "subtopic_name": "Napoleonic Code and administrative reforms",
         "year_period": "1804 CE",
         "location": "France",
-        "cause_effect": "",
+        "cause_effect": "Cause: Napoleon wanted a unified, efficient, and standardized set of laws to replace France's chaotic regional legal systems. Effect: Swept away feudal privileges, secured property rights, and heavily influenced modern civil law across Europe.",
         "corridor_classroom_position": "Panel 10 – Position 60",
         "display_location": "Classroom 9C"
       },
@@ -1826,7 +1826,7 @@
         "subtopic_name": "Decolonization and new nations",
         "year_period": "1945–1975 CE",
         "location": "Asia, Africa, Middle East",
-        "cause_effect": "",
+        "cause_effect": "Cause: WWII financially ruined European empires and nationalist movements grew too strong. Effect: Dozens of Asian and African nations gained independence, shifting global politics.",
         "corridor_classroom_position": "Panel 10 – Position 61",
         "display_location": "Classroom 10A"
       },
@@ -1837,7 +1837,7 @@
         "subtopic_name": "Globalization and WTO formation",
         "year_period": "1 January 1995 CE",
         "location": "Geneva, Switzerland",
-        "cause_effect": "",
+        "cause_effect": "Cause: Advances in digital technology and the end of the Cold War drove a push for free trade. Effect: Interconnected the global economy but also increased economic inequality.",
         "corridor_classroom_position": "Panel 10 – Position 62",
         "display_location": "Classroom 10A"
       },
@@ -1848,7 +1848,7 @@
         "subtopic_name": "Mahatma Gandhi (satyagraha, non-violence)",
         "year_period": "1869–1948 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Belief that violent rebellion was impossible, but moral non-cooperation could paralyze the British. Effect: Provided the mass-mobilization strategy that successfully won India's independence.",
         "corridor_classroom_position": "Panel 10 – Position 63",
         "display_location": "Classroom 10D"
       },
@@ -1859,7 +1859,7 @@
         "subtopic_name": "Jawaharlal Nehru (socialism, secularism)",
         "year_period": "1889–1964 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Nehru was deeply influenced by European socialism and believed that only heavy state-planned industrialization could pull India out of poverty. Effect: Shaped the foundation of modern, independent India as a secular, democratic republic with a mixed economy.",
         "corridor_classroom_position": "Panel 10 – Position 64",
         "display_location": "Classroom 10D"
       },
@@ -1870,7 +1870,7 @@
         "subtopic_name": "Subhas Chandra Bose (INA, armed struggle)",
         "year_period": "1897–1945 CE",
         "location": "India, Southeast Asia",
-        "cause_effect": "",
+        "cause_effect": "Cause: Bose vehemently disagreed with Gandhi's non-violent methods, believing that freedom must be seized by force during Britain's vulnerability in WWII. Effect: Reorganized the Indian National Army (INA), dealing a massive psychological blow to British military confidence in India.",
         "corridor_classroom_position": "Panel 10 – Position 65",
         "display_location": "Classroom 10D"
       },
@@ -1881,7 +1881,7 @@
         "subtopic_name": "Rediscovery of India's past (Bharat Mata, Vande Mataram)",
         "year_period": "1870s–1900s CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Nationalists needed to counter the British narrative that Indians were historically backward and incapable of self-rule. Effect: Fostered deep cultural pride through symbols like Bharat Mata and Vande Mataram, uniting diverse groups under a single nationalist identity.",
         "corridor_classroom_position": "Panel 10 – Position 66",
         "display_location": "Classroom 10D"
       },
@@ -1892,7 +1892,7 @@
         "subtopic_name": "Industrial Revolution and factory production",
         "year_period": "1760–1840 CE",
         "location": "England (later Europe, North America)",
-        "cause_effect": "",
+        "cause_effect": "Cause: The invention of the steam engine and mechanized spinning fundamentally changed how humans manufactured goods. Effect: Shifted global economic power to Europe, destroyed traditional Indian handloom industries, and drove the scramble for colonial resources.",
         "corridor_classroom_position": "Panel 10 – Position 67",
         "display_location": "Classroom 10A"
       },
@@ -1914,7 +1914,7 @@
         "subtopic_name": "Post-World War I economic collapse",
         "year_period": "1918–1922 CE",
         "location": "Europe, North America",
-        "cause_effect": "",
+        "cause_effect": "Cause: The war drained European treasuries and destroyed a generation of workers. Effect: Led to massive global unemployment and paved the way for the Great Depression.",
         "corridor_classroom_position": "Panel 10 – Position 69",
         "display_location": "Classroom 10A"
       },
@@ -1947,7 +1947,7 @@
         "subtopic_name": "Indian mills (Bombay, Ahmedabad) and competition",
         "year_period": "1854–1900 CE",
         "location": "Bombay (Mumbai) and Ahmedabad, India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Indian industrialists established modern textile mills to challenge British monopoly. Effect: Sparked fierce economic rivalry, supported by the nationalist Swadeshi movement.",
         "corridor_classroom_position": "Panel 10 – Position 72",
         "display_location": "Classroom 10E (Details)"
       },
@@ -1958,7 +1958,7 @@
         "subtopic_name": "Swadeshi and boycott of foreign cloth",
         "year_period": "1905–1911 CE",
         "location": "India",
-        "cause_effect": "",
+        "cause_effect": "Cause: Nationalists used economic boycotts as a political weapon to punish British trade and foster self-reliance. Effect: Devastated British textile imports and massively boosted the profits and expansion of indigenous Indian industries.",
         "corridor_classroom_position": "Panel 10 – Position 73",
         "display_location": "Classroom 10E"
       },
@@ -1969,7 +1969,7 @@
         "subtopic_name": "Vernacular newspapers and magazines",
         "year_period": "19th century",
         "location": "Various cities in India (Calcutta, Bombay, Madras, etc.)",
-        "cause_effect": "",
+        "cause_effect": "Cause: As printing presses became cheaper, Indian social reformers and nationalists realized they could reach the masses in their own languages. Effect: Created a highly politically aware public, forcing the British to pass oppressive censorship laws like the Vernacular Press Act to silence dissent.",
         "corridor_classroom_position": "Panel 10 – Position 74",
         "display_location": "Classroom 10B"
       },
@@ -1980,7 +1980,7 @@
         "subtopic_name": "Red Army vs White Army (1918-1921)",
         "year_period": "1918–1921 CE",
         "location": "Russian Empire",
-        "cause_effect": "",
+        "cause_effect": "Cause: Bolshevik seizure of power angered royalists, liberals, and foreign powers who allied to overthrow the new communist government. Effect: Sparked a brutal civil war that devastated Russia but ended in a total Bolshevik victory and the entrenchment of communist power.",
         "corridor_classroom_position": "Panel 10 – Position 75",
         "display_location": "Classroom 9B"
       },
@@ -1991,7 +1991,7 @@
         "subtopic_name": "Formation of Union of Soviet Socialist Republics (1922)",
         "year_period": "30 December 1922 CE",
         "location": "Moscow, Russia",
-        "cause_effect": "",
+        "cause_effect": "Cause: Bolsheviks needed to consolidate control over diverse territories of the former Russian Empire. Effect: Created a highly centralized global superpower that dominated for 70 years.",
         "corridor_classroom_position": "Panel 10 – Position 76",
         "display_location": "Classroom 9B"
       },
@@ -2002,7 +2002,7 @@
         "subtopic_name": "Five-Year Plans for rapid industrialization",
         "year_period": "1928–1941 CE",
         "location": "Soviet Union",
-        "cause_effect": "",
+        "cause_effect": "Cause: Stalin realized the USSR was industrially decades behind the West and aggressively pushed to modernize the economy. Effect: Transformed Russia into an industrial powerhouse but caused horrific human suffering through forced collectivization.",
         "corridor_classroom_position": "Panel 10 – Position 77",
         "display_location": "Classroom 9B"
       },
@@ -2024,7 +2024,7 @@
         "subtopic_name": "Food shortages and strikes in Petrograd",
         "year_period": "23–27 February 1917 CE",
         "location": "Petrograd (St. Petersburg), Russia",
-        "cause_effect": "",
+        "cause_effect": "Cause: Harsh winter and the economic drain of WWI broke the Russian supply chain. Effect: Triggered spontaneous strikes that escalated into the February Revolution of 1917.",
         "corridor_classroom_position": "Panel 10 – Position 79",
         "display_location": "Classroom 9B"
       },
@@ -2046,7 +2046,7 @@
         "subtopic_name": "Lenin's April Theses ('Peace, Land, Bread')",
         "year_period": "April 1917 CE",
         "location": "Petrograd, Russia",
-        "cause_effect": "",
+        "cause_effect": "Cause: Lenin returned from exile and realized the provisional government was weak and deeply unpopular for keeping Russia in WWI. Effect: Galvanized the Bolshevik party with three clear demands: end the war, transfer land to peasants, and nationalize banks.",
         "corridor_classroom_position": "Panel 10 – Position 81",
         "display_location": "Classroom 9B"
       },
